@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2046052693391917240",
+    "created_at": "2026-04-20T02:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T03:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046052693391917240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yhbkqs/status/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/yhbkqs/status/2045852036374376787",
+          "start": 16,
+          "url": "https://t.co/eHpJHV6frJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046052693391917240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045852036374376787",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爱的是蒋介石的国，这下三国志了 https://t.co/eHpJHV6frJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2045851762339590144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRTVqVbsAA3icM.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2046052693391917240",
+        "created_at": "2026-04-20T02:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046052693391917240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yhbkqs/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/yhbkqs/status/2045852036374376787",
+              "start": 16,
+              "url": "https://t.co/eHpJHV6frJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046052693391917240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045852036374376787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱的是蒋介石的国，这下三国志了 https://t.co/eHpJHV6frJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045851762339590144"
+          ]
+        },
+        "author_id": "1603306318139248640",
+        "conversation_id": "2045852036374376787",
+        "created_at": "2026-04-19T13:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:07:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045851802302841316",
+          "2045852036374376787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9vz75Oiwzi",
+              "end": 41,
+              "expanded_url": "https://x.com/yhbkqs/status/2045852036374376787/photo/1",
+              "media_key": "3_2045851762339590144",
+              "start": 18,
+              "url": "https://t.co/9vz75Oiwzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045852036374376787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 50205,
+          "like_count": 373,
+          "quote_count": 5,
+          "reply_count": 34,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "当逻辑自洽起来，就和主席想到一块了 https://t.co/9vz75Oiwzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045887826638807131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 318,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T08:30:27.000Z",
+        "description": "以知识交流分享为主，既有深度内容也有轻松内容，高信息密度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nav.wangluobaozang.com",
+                "end": 23,
+                "expanded_url": "http://nav.wangluobaozang.com",
+                "start": 0,
+                "url": "https://t.co/lCCvjCqaKm"
+              }
+            ]
+          }
+        },
+        "id": "1603306318139248640",
+        "location": "California City, CA",
+        "name": "银河百科全书",
+        "pinned_tweet_id": "2022559329149403494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604029153988481025/4LhC3HBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15378,
+          "following_count": 801,
+          "like_count": 46,
+          "listed_count": 68,
+          "media_count": 974,
+          "tweet_count": 5560
+        },
+        "url": "https://t.co/lCCvjCqaKm",
+        "username": "yhbkqs",
+        "verified": true
+      }
+    ]
+  }
+}

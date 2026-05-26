@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2049769339008770557",
+    "created_at": "2026-04-30T09:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049782332794528250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1603306318139248640",
+          "start": 0,
+          "username": "yhbkqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049782332794528250",
+    "in_reply_to_user_id": "1603306318139248640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049769339008770557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yhbkqs 哪年不是这样\n没看过每年星巴克员工都在xhs吐槽粽子难卖吗？\n支那人看什么都能自恨也是真支性拉满"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 384,
+        "media_key": "3_2049769323787583488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHI-Vv_aAAADzRL.jpg",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2049769339008770557",
+        "created_at": "2026-04-30T09:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049782332794528250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1603306318139248640",
+              "start": 0,
+              "username": "yhbkqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049782332794528250",
+        "in_reply_to_user_id": "1603306318139248640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049769339008770557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yhbkqs 哪年不是这样\n没看过每年星巴克员工都在xhs吐槽粽子难卖吗？\n支那人看什么都能自恨也是真支性拉满"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049769323787583488"
+          ]
+        },
+        "author_id": "1603306318139248640",
+        "conversation_id": "2049769339008770557",
+        "created_at": "2026-04-30T08:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:04:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049761806768619555",
+          "2049769339008770557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hpe2MCxSS8",
+              "end": 51,
+              "expanded_url": "https://x.com/yhbkqs/status/2049769339008770557/photo/1",
+              "media_key": "3_2049769323787583488",
+              "start": 28,
+              "url": "https://t.co/Hpe2MCxSS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049769339008770557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 802,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "星巴克自从被中国收购之后，也迅速地转换到中国管理风格。 https://t.co/Hpe2MCxSS8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 397,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T08:30:27.000Z",
+        "description": "以知识交流分享为主，既有深度内容也有轻松内容，高信息密度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nav.wangluobaozang.com",
+                "end": 23,
+                "expanded_url": "http://nav.wangluobaozang.com",
+                "start": 0,
+                "url": "https://t.co/lCCvjCqaKm"
+              }
+            ]
+          }
+        },
+        "id": "1603306318139248640",
+        "location": "California City, CA",
+        "name": "银河百科全书",
+        "pinned_tweet_id": "2022559329149403494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604029153988481025/4LhC3HBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15788,
+          "following_count": 807,
+          "like_count": 46,
+          "listed_count": 75,
+          "media_count": 1068,
+          "tweet_count": 5670
+        },
+        "url": "https://t.co/lCCvjCqaKm",
+        "username": "yhbkqs",
+        "verified": true
+      }
+    ]
+  }
+}

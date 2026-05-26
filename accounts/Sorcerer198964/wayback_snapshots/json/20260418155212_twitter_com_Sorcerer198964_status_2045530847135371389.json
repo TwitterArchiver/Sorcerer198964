@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Food Hashtags",
+          "id": "826815276989624321",
+          "name": "Food Hashtags"
+        }
+      }
+    ],
+    "conversation_id": "2045530847135371389",
+    "created_at": "2026-04-18T15:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045530847135371389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/colelee1899/st…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/colelee1899/status/2045500256977338783",
+          "start": 43,
+          "url": "https://t.co/t9eTblBKwv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045530847135371389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045500256977338783",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然很支但是确实很香啊\n为什么全广州都没一家做炒肝儿的店？\n泔水出了白京就没人吃了？ https://t.co/t9eTblBKwv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31033,
+        "height": 1920,
+        "media_key": "13_2045500096507518976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045500096507518976/img/c-joMpxH6P-erD3l.jpg",
+        "public_metrics": {
+          "view_count": 48
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045500096507518976/vid/avc1/320x568/MTczKvDhyPDDbarm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045500096507518976/vid/avc1/720x1280/uITRrhD56NHEDPXp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045500096507518976/vid/avc1/480x852/kxhtUBS-iy7qIg1o.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045500096507518976/vid/avc1/1080x1920/PxX6lcItcOsPJT52.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045500096507518976/pl/EhFAOAFXyp7utHLE.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Food Hashtags",
+              "id": "826815276989624321",
+              "name": "Food Hashtags"
+            }
+          }
+        ],
+        "conversation_id": "2045530847135371389",
+        "created_at": "2026-04-18T15:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045530847135371389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/colelee1899/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/colelee1899/status/2045500256977338783",
+              "start": 43,
+              "url": "https://t.co/t9eTblBKwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045530847135371389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045500256977338783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然很支但是确实很香啊\n为什么全广州都没一家做炒肝儿的店？\n泔水出了白京就没人吃了？ https://t.co/t9eTblBKwv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045500096507518976"
+          ]
+        },
+        "author_id": "1658307583109636098",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Food Hashtags",
+              "id": "826815276989624321",
+              "name": "Food Hashtags"
+            }
+          }
+        ],
+        "conversation_id": "2045500256977338783",
+        "created_at": "2026-04-18T13:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045500256977338783"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 83,
+              "tag": "China"
+            },
+            {
+              "end": 97,
+              "start": 90,
+              "tag": "foodie"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "food"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OisPBVIJSO",
+              "end": 127,
+              "expanded_url": "https://x.com/ColeLee1899/status/2045500256977338783/video/1",
+              "media_key": "13_2045500096507518976",
+              "start": 104,
+              "url": "https://t.co/OisPBVIJSO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045500256977338783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2664,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "山西润城街头的猪脏粉将普通的猪下水做成了极致的美味！10元一碗，满满都是猪肠、猪肝、猪血，配上香辣爽滑的红薯粉，肥肠软烂Q弹，一口入魂，这地道的山西美味谁吃了不喊香！#China #foodie #food https://t.co/OisPBVIJSO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 299,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T03:05:32.000Z",
+        "description": "35+中年吃货 |  做梦都想开启全国觅食日记   没流量没目标，但有真诚胃口   今天又被哪里的小吃治愈了？来一起解馋！🍜",
+        "id": "1658307583109636098",
+        "location": "中国江西南昌",
+        "name": "Cole Lee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659489104378183680/LygkrOtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19642,
+          "following_count": 11504,
+          "like_count": 259885,
+          "listed_count": 42,
+          "media_count": 2560,
+          "tweet_count": 17834
+        },
+        "username": "ColeLee1899",
+        "verified": true
+      }
+    ]
+  }
+}

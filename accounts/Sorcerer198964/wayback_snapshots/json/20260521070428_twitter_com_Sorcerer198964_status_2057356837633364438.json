@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2057356837633364438",
+    "created_at": "2026-05-21T07:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057356837633364438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1714100357582770176",
+          "start": 3,
+          "username": "YesterdayBigcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057356837633364438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057304290478428429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YesterdayBigcat: 5月1日至20日，强制扭转机构广西钦州德谦素质教育学校的两个抖音账号“钦州德谦素质教育陆院“、“德谦陆教官”发布多段视频显示，该校“教官”通过砸门撬锁等方式，在广西钦州、玉林、南宁等地绑架了多名“叛逆”少年和少女。 https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54233,
+        "height": 2560,
+        "media_key": "13_2057304077919543296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057304077919543296/img/eyJl1UKuY2Yk0IHm.jpg",
+        "public_metrics": {
+          "view_count": 23082
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057304077919543296/pl/vZtChIPlU4EOPGBt.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057304077919543296/vid/avc1/320x568/H-ri4kx0ZJdemEqK.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057304077919543296/vid/avc1/1440x2560/S03_BZyMh659k1wR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057304077919543296/vid/avc1/720x1280/T3MHDfZGVIXjkJUr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057304077919543296/vid/avc1/480x852/nDrWfbOfxIUOejNu.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2057356837633364438",
+        "created_at": "2026-05-21T07:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057356837633364438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1714100357582770176",
+              "start": 3,
+              "username": "YesterdayBigcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057356837633364438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057304290478428429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YesterdayBigcat: 5月1日至20日，强制扭转机构广西钦州德谦素质教育学校的两个抖音账号“钦州德谦素质教育陆院“、“德谦陆教官”发布多段视频显示，该校“教官”通过砸门撬锁等方式，在广西钦州、玉林、南宁等地绑架了多名“叛逆”少年和少女。 https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057304077919543296"
+          ]
+        },
+        "author_id": "1714100357582770176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2057304290478428429",
+        "created_at": "2026-05-21T03:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057304290478428429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDWHIXHc9e",
+              "end": 131,
+              "expanded_url": "https://x.com/YesterdayBigcat/status/2057304290478428429/video/1",
+              "media_key": "13_2057304077919543296",
+              "start": 108,
+              "url": "https://t.co/HDWHIXHc9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057304290478428429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 39439,
+          "like_count": 300,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "5月1日至20日，强制扭转机构广西钦州德谦素质教育学校的两个抖音账号“钦州德谦素质教育陆院“、“德谦陆教官”发布多段视频显示，该校“教官”通过砸门撬锁等方式，在广西钦州、玉林、南宁等地绑架了多名“叛逆”少年和少女。 https://t.co/HDWHIXHc9e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 598,
+          "like_count": 603,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 1611
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T02:06:12.000Z",
+        "description": "中国集体抗争事件记录网：https://t.co/sjVzTO6fYM\n投稿邮箱：bigorangecat2023@gmail.com\nYoutube：YesterdayBigcat\nIns：yesterdaybigorangecat\nTikTok：yesterdaybigcat",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 35,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 12,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 23,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 0,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          }
+        },
+        "id": "1714100357582770176",
+        "location": "火星",
+        "name": "昨天",
+        "pinned_tweet_id": "2008435957826207815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714101429500268544/Ga5TlrzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141195,
+          "following_count": 525,
+          "like_count": 1461,
+          "listed_count": 640,
+          "media_count": 3401,
+          "tweet_count": 4965
+        },
+        "url": "https://t.co/sjVzTO6fYM",
+        "username": "YesterdayBigcat",
+        "verified": true
+      }
+    ]
+  }
+}

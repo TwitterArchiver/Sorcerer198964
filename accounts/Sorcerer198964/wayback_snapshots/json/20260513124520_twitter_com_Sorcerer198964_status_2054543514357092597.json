@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2054537703505666076",
+    "created_at": "2026-05-13T12:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054543514357092597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "33853845",
+          "start": 0,
+          "username": "luoyonghao"
+        },
+        {
+          "end": 23,
+          "id": "1253165636210978817",
+          "start": 12,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054543514357092597",
+    "in_reply_to_user_id": "33853845",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054537703505666076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoyonghao @Exusiai159 傻逼玩意炒作你妈呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2054537703505666076",
+        "created_at": "2026-05-13T12:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054543514357092597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "33853845",
+              "start": 0,
+              "username": "luoyonghao"
+            },
+            {
+              "end": 23,
+              "id": "1253165636210978817",
+              "start": 12,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054543514357092597",
+        "in_reply_to_user_id": "33853845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054537703505666076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoyonghao @Exusiai159 傻逼玩意炒作你妈呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "33853845",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2054537703505666076",
+        "created_at": "2026-05-13T12:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054537703505666076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cherylnatsu/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/cherylnatsu/status/2054507450032922946",
+              "start": 31,
+              "url": "https://t.co/iStN6mMwLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054537703505666076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 26604,
+          "like_count": 249,
+          "quote_count": 14,
+          "reply_count": 211,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054507450032922946",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都说了“很不喜欢”还那么多屁话和要求？我对你就一个要求：滚。 https://t.co/iStN6mMwLO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 513,
+          "like_count": 402,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 1331
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-21T08:46:14.000Z",
+        "description": "",
+        "id": "33853845",
+        "name": "罗永浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054323238222893056/07lhgw6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167997,
+          "following_count": 16,
+          "like_count": 6,
+          "listed_count": 1170,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "luoyonghao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "二正控，中推鹿野灸粉丝头子\n｜喜欢看点furry｜性取向不知道｜已有恋爱对象｜转发NSFW🔞，如有介意请不要关注｜推特记录碎碎念｜数码产品爱好者｜汽车模型｜大胃袋，只要有好吃的就会原谅这个世界｜政治犬儒主义｜禁极端歧视仇恨言论｜避难所@Exusiai159_2｜扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1t5k0"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049010397055963136/aC0f7EFc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5306,
+          "following_count": 7000,
+          "like_count": 188764,
+          "listed_count": 11,
+          "media_count": 5434,
+          "tweet_count": 56745
+        },
+        "url": "https://t.co/z598x1t5k0",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

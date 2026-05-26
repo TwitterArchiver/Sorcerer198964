@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2056399866662703301",
+    "created_at": "2026-05-18T15:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056399866662703301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2893886738",
+          "start": 3,
+          "username": "bbjk666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056399866662703301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016876915966300309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbjk666: 2026年1月28日，四川大学华西医院研究人员在《Nature》期刊上发表研究论文。\n研究显示，5-羟色胺2A受体介导的非经典Gi信号是致幻剂致幻效应的关键，同时，研究团队成功开发出新型化合物DOI-NBOMe，其在动物模型中显示出快速、持久的抗抑郁、…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 459,
+        "media_key": "3_2016876908169035776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1i3LMagAA4Q4q.jpg",
+        "width": 786
+      },
+      {
+        "height": 638,
+        "media_key": "3_2016876913227419652",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1i3eCbUAQUi64.jpg",
+        "width": 807
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2056399866662703301",
+        "created_at": "2026-05-18T15:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056399866662703301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2893886738",
+              "start": 3,
+              "username": "bbjk666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056399866662703301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016876915966300309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbjk666: 2026年1月28日，四川大学华西医院研究人员在《Nature》期刊上发表研究论文。\n研究显示，5-羟色胺2A受体介导的非经典Gi信号是致幻剂致幻效应的关键，同时，研究团队成功开发出新型化合物DOI-NBOMe，其在动物模型中显示出快速、持久的抗抑郁、…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016876908169035776",
+            "3_2016876913227419652"
+          ]
+        },
+        "author_id": "2893886738",
+        "conversation_id": "2016876915966300309",
+        "created_at": "2026-01-29T14:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T15:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016876915966300309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uz05XN0zcq",
+              "end": 178,
+              "expanded_url": "https://x.com/bbjk666/status/2016876915966300309/photo/1",
+              "media_key": "3_2016876908169035776",
+              "start": 155,
+              "url": "https://t.co/uz05XN0zcq"
+            },
+            {
+              "display_url": "pic.x.com/uz05XN0zcq",
+              "end": 178,
+              "expanded_url": "https://x.com/bbjk666/status/2016876915966300309/photo/1",
+              "media_key": "3_2016876913227419652",
+              "start": 155,
+              "url": "https://t.co/uz05XN0zcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016876915966300309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2546,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "2026年1月28日，四川大学华西医院研究人员在《Nature》期刊上发表研究论文。\n研究显示，5-羟色胺2A受体介导的非经典Gi信号是致幻剂致幻效应的关键，同时，研究团队成功开发出新型化合物DOI-NBOMe，其在动物模型中显示出快速、持久的抗抑郁、抗焦虑效应，且没有致幻副作用，为精神疾病的治疗带来突破。 https://t.co/uz05XN0zcq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 577,
+          "like_count": 548,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 1546
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T15:19:57.000Z",
+        "description": "医药健康科普内容",
+        "id": "2893886738",
+        "location": "X平台",
+        "name": "背包健客",
+        "pinned_tweet_id": "2056036022853788070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053457063863373827/9Y8cQU5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179685,
+          "following_count": 2401,
+          "like_count": 18134,
+          "listed_count": 669,
+          "media_count": 15747,
+          "tweet_count": 22790
+        },
+        "username": "bbjk666",
+        "verified": true
+      }
+    ]
+  }
+}

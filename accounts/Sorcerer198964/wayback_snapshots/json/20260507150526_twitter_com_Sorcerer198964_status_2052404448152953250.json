@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2052404448152953250",
+    "created_at": "2026-05-07T15:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052404448152953250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/torontobigface…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/torontobigface/status/2052388668350857331",
+          "start": 9,
+          "url": "https://t.co/rtgP3rmkWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052404448152953250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052388668350857331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都是终身监禁罢了 https://t.co/rtgP3rmkWC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2052388665368756233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuMnfxXwAkiU3k.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2052404448152953250",
+        "created_at": "2026-05-07T15:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052404448152953250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/torontobigface…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/torontobigface/status/2052388668350857331",
+              "start": 9,
+              "url": "https://t.co/rtgP3rmkWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052404448152953250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052388668350857331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都是终身监禁罢了 https://t.co/rtgP3rmkWC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052388665368756233"
+          ]
+        },
+        "author_id": "1477342523555135490",
+        "conversation_id": "2052388668350857331",
+        "created_at": "2026-05-07T14:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052388668350857331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bv6aDVqVwv",
+              "end": 90,
+              "expanded_url": "https://x.com/torontobigface/status/2052388668350857331/photo/1",
+              "media_key": "3_2052388665368756233",
+              "start": 67,
+              "url": "https://t.co/Bv6aDVqVwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052388668350857331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 27921,
+          "like_count": 150,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "魏凤和，李尚福犯了什么天条\n能被判死缓？\n\n薄熙来和周永康造反了，才判两无期\n\n这是给美国泄漏机密了？还是破坏习主席打台湾的大计了？ https://t.co/Bv6aDVqVwv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 480,
+          "like_count": 357,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 1206
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2Xsn7l9 李币社区群：https://t.co/Uao93nfZ79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNc63o"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2Xsn7l9"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 122,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 99,
+                "url": "https://t.co/Uao93nfZ79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrmZImQ"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，多伦多",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "2052327583283585070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004728054199799808/7q5HpT1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788971,
+          "following_count": 242,
+          "like_count": 4594,
+          "listed_count": 2437,
+          "media_count": 6557,
+          "tweet_count": 19029
+        },
+        "url": "https://t.co/t3lSrmZImQ",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

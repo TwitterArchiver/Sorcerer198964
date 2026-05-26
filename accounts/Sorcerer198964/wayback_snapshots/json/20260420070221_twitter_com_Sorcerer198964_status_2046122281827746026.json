@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2046122281827746026",
+    "created_at": "2026-04-20T07:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T08:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046122281827746026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0427smtieshou/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/0427smtieshou/status/2046099038831865877",
+          "start": 27,
+          "url": "https://t.co/MfaJmlOIhD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046122281827746026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046099038831865877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种养猪场太吓人了，猪完全动不了\n彼得辛格说的是对的 https://t.co/MfaJmlOIhD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10600,
+        "height": 1116,
+        "media_key": "13_2046070008497971200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046070008497971200/img/UVcRayHxuX1t47yr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046070008497971200/vid/avc1/320x620/sheo-9D-4nP_h1fT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046070008497971200/vid/avc1/480x930/T8moeHqDCnF5p-zM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046070008497971200/vid/avc1/576x1116/AeYeAVk6yK957kqS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046070008497971200/pl/nKqOfQoHROeLkeWw.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2046122281827746026",
+        "created_at": "2026-04-20T07:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046122281827746026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0427smtieshou/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/0427smtieshou/status/2046099038831865877",
+              "start": 27,
+              "url": "https://t.co/MfaJmlOIhD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046122281827746026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046099038831865877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种养猪场太吓人了，猪完全动不了\n彼得辛格说的是对的 https://t.co/MfaJmlOIhD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046070008497971200"
+          ]
+        },
+        "author_id": "1239436070292320257",
+        "conversation_id": "2046099038831865877",
+        "created_at": "2026-04-20T05:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046099038831865877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RqFjzYC2Kn",
+              "end": 49,
+              "expanded_url": "https://x.com/0427SMtieshou/status/2046099038831865877/video/1",
+              "media_key": "13_2046070008497971200",
+              "start": 26,
+              "url": "https://t.co/RqFjzYC2Kn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046099038831865877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1168,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猪肉零售价两块钱一斤，还有养猪企业能挣钱。你信吗？ https://t.co/RqFjzYC2Kn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 320,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T06:19:34.000Z",
+        "description": "蓝V日报：经济｜两性｜娱乐｜认知｜互关",
+        "id": "1239436070292320257",
+        "name": "蓝V日报",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029312451326676992/z8ZHG4rB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75045,
+          "following_count": 3868,
+          "like_count": 21490,
+          "listed_count": 407,
+          "media_count": 1624,
+          "tweet_count": 8811
+        },
+        "username": "0427SMtieshou",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2057849945588404419",
+    "created_at": "2026-05-22T15:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057849945588404419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1320203031820972033",
+          "start": 3,
+          "username": "ElvaMusclecat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057849945588404419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057626250936730032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElvaMusclecat: 😂这算是普习会上的重大失误了吧？\n\n🦢在北京国宴上，中国人民解放军军乐团为普京演奏了柴可夫斯基《天鹅湖》中最著名的片段——四小天鹅舞曲。\n\n👂听起来很正常？\n对不了解苏联历史的人来说，确实很正常。\n\n🇷🇺但在俄罗斯、乌克兰和所有后苏联国家，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59818,
+        "height": 360,
+        "media_key": "13_2057625286204907520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057625286204907520/img/t9RKaIM_uI5mUmWh.jpg",
+        "public_metrics": {
+          "view_count": 57592
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057625286204907520/vid/avc1/480x270/nFN5Cm1OaJOzhv0r.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057625286204907520/vid/avc1/640x360/q0HqIO1uQvAD7PvT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057625286204907520/pl/Ij3t5kzrD6MMHR16.m3u8?v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2057849945588404419",
+        "created_at": "2026-05-22T15:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057849945588404419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1320203031820972033",
+              "start": 3,
+              "username": "ElvaMusclecat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057849945588404419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057626250936730032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ElvaMusclecat: 😂这算是普习会上的重大失误了吧？\n\n🦢在北京国宴上，中国人民解放军军乐团为普京演奏了柴可夫斯基《天鹅湖》中最著名的片段——四小天鹅舞曲。\n\n👂听起来很正常？\n对不了解苏联历史的人来说，确实很正常。\n\n🇷🇺但在俄罗斯、乌克兰和所有后苏联国家，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057625286204907520"
+          ]
+        },
+        "author_id": "1320203031820972033",
+        "conversation_id": "2057626250936730032",
+        "created_at": "2026-05-22T00:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057626250936730032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/59SxFicRPd",
+              "end": 161,
+              "expanded_url": "https://x.com/ElvaMusclecat/status/2057626250936730032/video/1",
+              "media_key": "13_2057625286204907520",
+              "start": 138,
+              "url": "https://t.co/59SxFicRPd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057626250936730032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "😂这算是普习会上的重大失误了吧？\n\n🦢在北京国宴上，中国人民解放军军乐团为普京演奏了柴可夫斯基《天鹅湖》中最著名的片段——四小天鹅舞曲。\n\n👂听起来很正常？\n对不了解苏联历史的人来说，确实很正常。\n\n🇷🇺但在俄罗斯、乌克兰和所有后苏联国家，每个人都知道这首曲子意味着什么👇：\n🔹1991年苏联政变期间，苏联国家电视台反复播放《天鹅湖》，\n🔹因为当领导层出现危机或领导人去世，他们不知道该播什么，就播这个。\n🔹从此，《天鹅湖》成了后苏联世界\"政权崩溃\"的黑色幽默象征。\n\n我看许多博主说肯定是习故以安排气普京的，我倒不这么认为。有没有可能，就纯粹是活动安排的负责人不了解背后的故事？ 😂🦢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 120302,
+          "like_count": 424,
+          "quote_count": 8,
+          "reply_count": 57,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "😂这算是普习会上的重大失误了吧？\n\n🦢在北京国宴上，中国人民解放军军乐团为普京演奏了柴可夫斯基《天鹅湖》中最著名的片段——四小天鹅舞曲。\n\n👂听起来很正常？\n对不了解苏联历史的人来说，确实很正常。\n\n🇷🇺但在俄罗斯、乌克兰和所有后苏联国家，每个人都知道这首曲子意味着什么👇： https://t.co/59SxFicRPd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 600,
+          "like_count": 642,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 1677
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-25T03:18:38.000Z",
+        "description": "✝️🙏 Jesus Christ is the King of kings and the only truth.  CCP≠Chinese people.",
+        "id": "1320203031820972033",
+        "name": "肌肉猫Elva🐱musclecat",
+        "pinned_tweet_id": "2057687362151596443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873197703267794945/BB41303l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13991,
+          "following_count": 783,
+          "like_count": 27432,
+          "listed_count": 70,
+          "media_count": 11084,
+          "tweet_count": 17313
+        },
+        "username": "ElvaMusclecat",
+        "verified": true
+      }
+    ]
+  }
+}

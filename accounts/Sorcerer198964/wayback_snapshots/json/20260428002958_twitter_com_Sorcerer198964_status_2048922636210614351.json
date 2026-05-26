@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2048922636210614351",
+    "created_at": "2026-04-28T00:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T01:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048922636210614351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rococo90933671…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/rococo90933671/status/2048612816568078586",
+          "start": 50,
+          "url": "https://t.co/iASIdbWjIb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048922636210614351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048612816568078586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "英国菜像是毫无意义的把几样毫不相关的食物拼凑在一起\n比如经典英式早餐，惠灵顿牛排\n而且缺乏烹调技法 https://t.co/iASIdbWjIb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1306,
+        "media_key": "3_2048612810834530304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4if1gbUAAz0Wm.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048612812206080000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4if6nbgAAbu1p.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2048922636210614351",
+        "created_at": "2026-04-28T00:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048922636210614351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rococo90933671…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/rococo90933671/status/2048612816568078586",
+              "start": 50,
+              "url": "https://t.co/iASIdbWjIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048922636210614351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048612816568078586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "英国菜像是毫无意义的把几样毫不相关的食物拼凑在一起\n比如经典英式早餐，惠灵顿牛排\n而且缺乏烹调技法 https://t.co/iASIdbWjIb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048612810834530304",
+            "3_2048612812206080000"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048612816568078586",
+        "created_at": "2026-04-27T03:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048612816568078586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XCBm84j48z",
+              "end": 134,
+              "expanded_url": "https://x.com/Rococo90933671/status/2048612816568078586/photo/1",
+              "media_key": "3_2048612810834530304",
+              "start": 111,
+              "url": "https://t.co/XCBm84j48z"
+            },
+            {
+              "display_url": "pic.x.com/XCBm84j48z",
+              "end": 134,
+              "expanded_url": "https://x.com/Rococo90933671/status/2048612816568078586/photo/1",
+              "media_key": "3_2048612812206080000",
+              "start": 111,
+              "url": "https://t.co/XCBm84j48z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048612816568078586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🇬🇧食物：\n\n其最可怕的地方不是难吃，是它吃起来像这个国家曾经殖民半个世界，最后却决定什么香料都不要带回家。\n\n 炸鱼薯条本来是能赢的，鱼炸得酥、薯条热呼呼，其实不差。 结果他们一个操作猛如虎，最后端出来一盘 beige 色系的人生低潮：鱼是黄的，薯条是黄的，盘子是白的，豆子是泥状的，整个画面像雾都伦敦把味觉也顺便雾化了。\n\n 英式早餐更妙，叫 full English breakfast，听起来像皇室御膳，实际上是「冰箱里所有东西都被煎了一遍」。 香肠、培根、蛋、番茄、蘑菇、吐司、豆子，全部各自为政，像联合国开会，没有人在听别人讲话。 尤其那个茄汁豆，硬要出现在早餐盘上，像一个没有被邀请但坚持坐主桌的亲戚。\n\n 英国的派也很有哲学。 外面一层皮，里面一坨谜。 你问是牛肉派、鸡肉派、肾脏派，吃起来都像同一间寄宿学校的午餐回忆。 咬下去第一秒是面皮，第二秒是烫，第三秒开始怀疑自己是不是欠大英帝国什么。\n\n 最狠的是他们对蔬菜的处理。 别的国家是烤、炒、炖、拌，英国是「煮到它放弃抵抗」。 花椰菜原本是植物，煮完像一份道歉声明。 红萝卜失去灵魂，马铃薯失去尊严，豌豆变成泥之后看起来像有人把草地打成了副食品。\n\n 但你说英国食物完全没救吗？ 也不是。 它有一种奇特的诚实。 它不骗你，不假装自己很精致，不搞什么层次、火候、镬气。 它就是一盘饭菜放在你面前，冷静地告诉你：人生很苦，天气很烂，吃完去上班。\n\n 所以英国菜的核心不是美食，是生存。 法国菜追求浪漫，义大利菜追求热情，中华料理追求镬气，日本料理追求季节，英国菜追求的是：今天有热量，感谢主。\n\n 最后一句话总结：英国食物不是难吃，它是把「没有期待就不会受伤」做成了一套饮食文化。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 134940,
+          "like_count": 1147,
+          "quote_count": 45,
+          "reply_count": 82,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "🇬🇧食物：\n\n其最可怕的地方不是难吃，是它吃起来像这个国家曾经殖民半个世界，最后却决定什么香料都不要带回家。\n\n 炸鱼薯条本来是能赢的，鱼炸得酥、薯条热呼呼，其实不差。 结果他们一个操作猛如虎，最后端出来一盘 beige https://t.co/XCBm84j48z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 387,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10764,
+          "following_count": 2978,
+          "like_count": 36690,
+          "listed_count": 34,
+          "media_count": 3800,
+          "tweet_count": 21040
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

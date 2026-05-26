@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2055129970943332552",
+    "created_at": "2026-05-15T03:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T04:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055129970943332552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1886796352283402250",
+          "start": 3,
+          "username": "TheCyclist400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055129970943332552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054981594231029799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheCyclist400: 偶尔掉落的邪修经验包…\n\n利多卡因大部分以凝胶或者软膏在药房出售…凝胶或许对扩张有作用，麻醉并润滑，但外用很不舒服，软膏更是…\n\n所以ENT用的利多卡因Spray其实是非常合适再用，止痛的…5%有一定的效果，10%的应该挺麻的…而且，这玩意…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2054981586131816448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITC3WVbEAAq_g6.jpg",
+        "width": 554
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054981586119168001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITC3WSaEAEWXbp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2055129970943332552",
+        "created_at": "2026-05-15T03:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055129970943332552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1886796352283402250",
+              "start": 3,
+              "username": "TheCyclist400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055129970943332552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054981594231029799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheCyclist400: 偶尔掉落的邪修经验包…\n\n利多卡因大部分以凝胶或者软膏在药房出售…凝胶或许对扩张有作用，麻醉并润滑，但外用很不舒服，软膏更是…\n\n所以ENT用的利多卡因Spray其实是非常合适再用，止痛的…5%有一定的效果，10%的应该挺麻的…而且，这玩意…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054981586131816448",
+            "3_2054981586119168001"
+          ]
+        },
+        "author_id": "1886796352283402250",
+        "conversation_id": "2054981594231029799",
+        "created_at": "2026-05-14T17:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054981594231029799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZT5mainrYv",
+              "end": 162,
+              "expanded_url": "https://x.com/TheCyclist400/status/2054981594231029799/photo/1",
+              "media_key": "3_2054981586131816448",
+              "start": 139,
+              "url": "https://t.co/ZT5mainrYv"
+            },
+            {
+              "display_url": "pic.x.com/ZT5mainrYv",
+              "end": 162,
+              "expanded_url": "https://x.com/TheCyclist400/status/2054981594231029799/photo/1",
+              "media_key": "3_2054981586119168001",
+              "start": 139,
+              "url": "https://t.co/ZT5mainrYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054981594231029799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "偶尔掉落的邪修经验包…\n\n利多卡因大部分以凝胶或者软膏在药房出售…凝胶或许对扩张有作用，麻醉并润滑，但外用很不舒服，软膏更是…\n\n所以ENT用的利多卡因Spray其实是非常合适再用，止痛的…5%有一定的效果，10%的应该挺麻的…而且，这玩意的是水基…但是这玩意不是很容易得到…\n\n澳洲医生推荐过可以试试Soov bite…2%利多卡因加上抗菌成分，可是也是凝胶状…\n\n直到我看见了Soov burn spray…\n\nSoov 或许没有那么强力，但是不黏糊呀…还附带antiseptic…\n\nPS，如果没记错，XYN自切用的注射液带肾上腺素的，不要用…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 586,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "偶尔掉落的邪修经验包…\n\n利多卡因大部分以凝胶或者软膏在药房出售…凝胶或许对扩张有作用，麻醉并润滑，但外用很不舒服，软膏更是…\n\n所以ENT用的利多卡因Spray其实是非常合适再用，止痛的…5%有一定的效果，10%的应该挺麻的…而且，这玩意的是水基…但是这玩意不是很容易得到… https://t.co/ZT5mainrYv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 527,
+          "like_count": 430,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 1385
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T15:18:12.000Z",
+        "description": "邪修术娘/TransParent/Gardener/2nd hand carpenter/Ex-handyman/Retired photographer/Former 021er/MMA/4WD/ISFJ我有ADHD也许有ASD/SRS 26.9.2025/我们一定都能战胜depression",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lulu.c12177",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lulu.c12177",
+                "start": 0,
+                "url": "https://t.co/aKXta2M7vf"
+              }
+            ]
+          }
+        },
+        "id": "1886796352283402250",
+        "location": "匿名向我提问吧→",
+        "name": "Lulu.C",
+        "pinned_tweet_id": "1961013729388351563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005450007944785920/hpy_JqVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 445,
+          "like_count": 8867,
+          "listed_count": 3,
+          "media_count": 533,
+          "tweet_count": 4081
+        },
+        "url": "https://t.co/aKXta2M7vf",
+        "username": "TheCyclist400",
+        "verified": true
+      }
+    ]
+  }
+}

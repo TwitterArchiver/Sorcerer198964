@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2041492578504413323",
+    "created_at": "2026-04-10T12:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042578164589957616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042578164589957616",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041492578504413323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 爽啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4806,
+        "height": 1280,
+        "media_key": "7_2041487616537944064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2041487616537944064/pu/img/anUKDMn-Qm2nbO00.jpg",
+        "public_metrics": {
+          "view_count": 185
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041487616537944064/pu/vid/avc1/320x568/ebejQTSmSxFjbh3p.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041487616537944064/pu/vid/avc1/480x852/l8o8vRnWQ_cH96Vw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041487616537944064/pu/vid/avc1/720x1280/y-ASmW3NlCLhPXsO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2041487616537944064/pu/pl/-E2p11rF2O_CWsc8.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2041492578504413323",
+        "created_at": "2026-04-10T12:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042578164589957616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042578164589957616",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041492578504413323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 爽啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2041487616537944064"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "2041492578504413323",
+        "created_at": "2026-04-07T12:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041492578504413323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g8HS3f2SXn",
+              "end": 23,
+              "expanded_url": "https://x.com/yu_huacs/status/2041492578504413323/video/1",
+              "media_key": "7_2041487616537944064",
+              "start": 0,
+              "url": "https://t.co/g8HS3f2SXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041492578504413323",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 849,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/g8HS3f2SXn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 138,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 83
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "短暂的时间，总是在流动。人群挤挤攘攘，流动着工作着。思考在流动，彷徨的人，还是在回首过去，未来永远不如自以为的甜美过去美好。千丝万缕的线连接着我们的思维，线总是模糊的，停止才能逐渐清晰，可时间不会停止，我们需要休息，也将继续活着 @lizzy_522 我哥@yu_huacs5570 我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "lizzy_522"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "yu_huacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "寻心而去",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2029682364067238377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036470524784910336/m6ce5LZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 1244,
+          "like_count": 108066,
+          "listed_count": 8,
+          "media_count": 1980,
+          "tweet_count": 18420
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

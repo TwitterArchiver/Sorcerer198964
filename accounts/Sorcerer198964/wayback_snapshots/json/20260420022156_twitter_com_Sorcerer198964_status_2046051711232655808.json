@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2046051711232655808",
+    "created_at": "2026-04-20T02:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T03:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046051711232655808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anblk984/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/anblk984/status/2046017429445529768",
+          "start": 16,
+          "url": "https://t.co/RjodzMu0jw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046051711232655808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046017429445529768",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给我干哪来了，我还以为是推特呢 https://t.co/RjodzMu0jw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2046017427092447232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGTqAnoaoAAq-Ok.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2046051711232655808",
+        "created_at": "2026-04-20T02:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046051711232655808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anblk984/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/anblk984/status/2046017429445529768",
+              "start": 16,
+              "url": "https://t.co/RjodzMu0jw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046051711232655808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046017429445529768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我干哪来了，我还以为是推特呢 https://t.co/RjodzMu0jw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046017427092447232"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2046017429445529768",
+        "created_at": "2026-04-20T00:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T01:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046017429445529768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZIVvCmp2A",
+              "end": 31,
+              "expanded_url": "https://x.com/anblk984/status/2046017429445529768/photo/1",
+              "media_key": "3_2046017427092447232",
+              "start": 8,
+              "url": "https://t.co/jZIVvCmp2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046017429445529768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 25406,
+          "like_count": 320,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 14
+        },
+        "reply_settings": "other",
+        "text": "抖友这么狂的哦 https://t.co/jZIVvCmp2A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045887826638807131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 318,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 483
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2042904752271593620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11791,
+          "following_count": 985,
+          "like_count": 113315,
+          "listed_count": 63,
+          "media_count": 2530,
+          "tweet_count": 27762
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

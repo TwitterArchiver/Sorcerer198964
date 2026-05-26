@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048610240023949312",
+        "3_2048610240019750912",
+        "3_2048610240019746816"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2048610250304237733",
+    "created_at": "2026-04-27T03:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T04:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048610250304237733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wYWXq2Ka0Z",
+          "end": 43,
+          "expanded_url": "https://x.com/Sorcerer198964/status/2048610250304237733/photo/1",
+          "media_key": "3_2048610240023949312",
+          "start": 20,
+          "url": "https://t.co/wYWXq2Ka0Z"
+        },
+        {
+          "display_url": "pic.x.com/wYWXq2Ka0Z",
+          "end": 43,
+          "expanded_url": "https://x.com/Sorcerer198964/status/2048610250304237733/photo/1",
+          "media_key": "3_2048610240019750912",
+          "start": 20,
+          "url": "https://t.co/wYWXq2Ka0Z"
+        },
+        {
+          "display_url": "pic.x.com/wYWXq2Ka0Z",
+          "end": 43,
+          "expanded_url": "https://x.com/Sorcerer198964/status/2048610250304237733/photo/1",
+          "media_key": "3_2048610240019746816",
+          "start": 20,
+          "url": "https://t.co/wYWXq2Ka0Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048610250304237733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享几个精选的头像\n适合厚米们\n懂的来 https://t.co/wYWXq2Ka0Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2048610240023949312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4gKMfa8AAnGS6.jpg",
+        "width": 300
+      },
+      {
+        "height": 400,
+        "media_key": "3_2048610240019750912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4gKMea4AAD8Va.jpg",
+        "width": 400
+      },
+      {
+        "height": 300,
+        "media_key": "3_2048610240019746816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4gKMea0AAKepJ.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048610240023949312",
+            "3_2048610240019750912",
+            "3_2048610240019746816"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2048610250304237733",
+        "created_at": "2026-04-27T03:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048610250304237733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wYWXq2Ka0Z",
+              "end": 43,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2048610250304237733/photo/1",
+              "media_key": "3_2048610240023949312",
+              "start": 20,
+              "url": "https://t.co/wYWXq2Ka0Z"
+            },
+            {
+              "display_url": "pic.x.com/wYWXq2Ka0Z",
+              "end": 43,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2048610250304237733/photo/1",
+              "media_key": "3_2048610240019750912",
+              "start": 20,
+              "url": "https://t.co/wYWXq2Ka0Z"
+            },
+            {
+              "display_url": "pic.x.com/wYWXq2Ka0Z",
+              "end": 43,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2048610250304237733/photo/1",
+              "media_key": "3_2048610240019746816",
+              "start": 20,
+              "url": "https://t.co/wYWXq2Ka0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048610250304237733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享几个精选的头像\n适合厚米们\n懂的来 https://t.co/wYWXq2Ka0Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 378,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

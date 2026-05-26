@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2055157752603824171",
+    "created_at": "2026-05-15T05:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055157752603824171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/careforme123/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/careforme123/status/2055131122213007866",
+          "start": 13,
+          "url": "https://t.co/Py3G7LGMfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055157752603824171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055131122213007866",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天都听天上太阳红彤彤 https://t.co/Py3G7LGMfu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_2055131115543998464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVK3GzaMAAx3ad.jpg",
+        "width": 652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2055157752603824171",
+        "created_at": "2026-05-15T05:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055157752603824171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/careforme123/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/careforme123/status/2055131122213007866",
+              "start": 13,
+              "url": "https://t.co/Py3G7LGMfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055157752603824171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055131122213007866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天都听天上太阳红彤彤 https://t.co/Py3G7LGMfu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055131115543998464"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2055131122213007866",
+        "created_at": "2026-05-15T03:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055131122213007866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HFXAigY6xM",
+              "end": 37,
+              "expanded_url": "https://x.com/careforme123/status/2055131122213007866/photo/1",
+              "media_key": "3_2055131115543998464",
+              "start": 14,
+              "url": "https://t.co/HFXAigY6xM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055131122213007866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扣1复活毛泽东，骗人是小狗 https://t.co/HFXAigY6xM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 528,
+          "like_count": 432,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2054532859948638258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 553,
+          "like_count": 5558,
+          "listed_count": 6,
+          "media_count": 612,
+          "tweet_count": 2267
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

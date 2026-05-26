@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048974601162506240"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2048733489126924776",
+    "created_at": "2026-04-28T03:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T04:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048974613690916985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1703086500366450688",
+          "start": 0,
+          "username": "AGQNLZS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ohzWomNNEC",
+          "end": 39,
+          "expanded_url": "https://x.com/Sorcerer198964/status/2048974613690916985/photo/1",
+          "media_key": "3_2048974601162506240",
+          "start": 16,
+          "url": "https://t.co/ohzWomNNEC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048974613690916985",
+    "in_reply_to_user_id": "1703086500366450688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048733489126924776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGQNLZS 中国菜的样子 https://t.co/ohzWomNNEC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2048974601162506240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9rizgWwAApHdo.jpg",
+        "width": 720
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2048733472785899520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6QPSTbIAAya9y.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048974601162506240"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2048733489126924776",
+        "created_at": "2026-04-28T03:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048974613690916985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1703086500366450688",
+              "start": 0,
+              "username": "AGQNLZS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohzWomNNEC",
+              "end": 39,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2048974613690916985/photo/1",
+              "media_key": "3_2048974601162506240",
+              "start": 16,
+              "url": "https://t.co/ohzWomNNEC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048974613690916985",
+        "in_reply_to_user_id": "1703086500366450688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048733489126924776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGQNLZS 中国菜的样子 https://t.co/ohzWomNNEC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048733472785899520"
+          ]
+        },
+        "author_id": "1703086500366450688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048733489126924776",
+        "created_at": "2026-04-27T11:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048733489126924776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lpG4lBXjUa",
+              "end": 29,
+              "expanded_url": "https://x.com/AGQNLZS/status/2048733489126924776/photo/1",
+              "media_key": "3_2048733472785899520",
+              "start": 6,
+              "url": "https://t.co/lpG4lBXjUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048733489126924776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 36151,
+          "like_count": 281,
+          "quote_count": 5,
+          "reply_count": 74,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "一针见血！ https://t.co/lpG4lBXjUa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 396,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 754
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T16:40:46.000Z",
+        "description": "清澈的爱，只为中国！🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCqHrn…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCqHrnDPURu18A90AUqJovvQ?si=NGcqmUi6RjNviqNB",
+                "start": 0,
+                "url": "https://t.co/K3JZ4OviFF"
+              }
+            ]
+          }
+        },
+        "id": "1703086500366450688",
+        "location": "China",
+        "name": "爱国青年刘战神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998077784149884936/OTy6-Uac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5976,
+          "following_count": 185,
+          "like_count": 354,
+          "listed_count": 52,
+          "media_count": 991,
+          "tweet_count": 1188
+        },
+        "url": "https://t.co/K3JZ4OviFF",
+        "username": "AGQNLZS",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2057699739794321768",
+    "created_at": "2026-05-22T05:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057699739794321768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haberGBT/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/haberGBT/status/2057434448489074800",
+          "start": 4,
+          "url": "https://t.co/JzwqNtXqpw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057699739794321768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057434448489074800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃真好 https://t.co/JzwqNtXqpw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66566,
+        "height": 960,
+        "media_key": "13_2057434336186564608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057434336186564608/img/_0kmtfxPIPF_IgH6.jpg",
+        "public_metrics": {
+          "view_count": 1105152
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057434336186564608/vid/avc1/320x426/zUG-pCr7X3BbTR8Z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057434336186564608/vid/avc1/480x640/6XcfJReAN2M006lw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057434336186564608/vid/avc1/720x960/w12XWHEfuiOm7Dqo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057434336186564608/pl/1j5sL9jfMj4A15re.m3u8?v=98c"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2057699739794321768",
+        "created_at": "2026-05-22T05:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057699739794321768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haberGBT/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/haberGBT/status/2057434448489074800",
+              "start": 4,
+              "url": "https://t.co/JzwqNtXqpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057699739794321768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057434448489074800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃真好 https://t.co/JzwqNtXqpw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057434336186564608"
+          ]
+        },
+        "author_id": "1241028932264251394",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2057434448489074800",
+        "created_at": "2026-05-21T12:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057434448489074800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jnbA9Hvlmw",
+              "end": 118,
+              "expanded_url": "https://x.com/haberGBT/status/2057434448489074800/video/1",
+              "media_key": "13_2057434336186564608",
+              "start": 95,
+              "url": "https://t.co/jnbA9Hvlmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057434448489074800",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 887,
+          "impression_count": 1938212,
+          "like_count": 4684,
+          "quote_count": 45,
+          "reply_count": 241,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "Amerikan askerlerinin sahra kahvaltısında yediği etler sosyal medyada milyonlarca kez izlendi. https://t.co/jnbA9Hvlmw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 605,
+          "like_count": 623,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 1639
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T15:48:57.000Z",
+        "description": "Dijital medya portalı •canlı gündem • anlık bildirim • viral içerikler.",
+        "id": "1241028932264251394",
+        "name": "GBT haber",
+        "pinned_tweet_id": "1552739591916060673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020466801436483585/3jm78-hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538252,
+          "following_count": 294,
+          "like_count": 14006,
+          "listed_count": 408,
+          "media_count": 3961,
+          "tweet_count": 4029
+        },
+        "username": "haberGBT",
+        "verified": true
+      }
+    ]
+  }
+}

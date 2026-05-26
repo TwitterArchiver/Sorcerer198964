@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2046180347847827484",
+    "created_at": "2026-04-20T10:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046180347847827484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer198964"
+        },
+        {
+          "end": 31,
+          "id": "1452505528106569729",
+          "start": 20,
+          "username": "xiaoshunli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046180347847827484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046180322434560150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer198964: @xiaoshunli 我起床先学马斯克来点氯胺酮\n这就是世界首富保持超强解离感的秘诀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2046180347847827484",
+        "created_at": "2026-04-20T10:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046180347847827484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer198964"
+            },
+            {
+              "end": 31,
+              "id": "1452505528106569729",
+              "start": 20,
+              "username": "xiaoshunli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046180347847827484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046180322434560150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer198964: @xiaoshunli 我起床先学马斯克来点氯胺酮\n这就是世界首富保持超强解离感的秘诀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2046116814539874416",
+        "created_at": "2026-04-20T10:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046180322434560150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1452505528106569729",
+              "start": 0,
+              "username": "xiaoshunli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046180322434560150",
+        "in_reply_to_user_id": "1452505528106569729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046116814539874416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshunli 我起床先学马斯克来点氯胺酮\n这就是世界首富保持超强解离感的秘诀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 320,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-25T05:22:35.000Z",
+        "description": "中文顶级作者，千万畅销书作家。All IN Crypto。擅长空投和Meme。上轮大结果：ARB 1万倍，虫洞 4万倍。Sats百倍 ,ARC20倍,Trump 50倍,4 26倍。",
+        "id": "1452505528106569729",
+        "location": "Palo Alto, CA",
+        "name": "大顺利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034563017992765440/0bmswBC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30754,
+          "following_count": 7080,
+          "like_count": 25431,
+          "listed_count": 508,
+          "media_count": 267,
+          "tweet_count": 11965
+        },
+        "username": "xiaoshunli",
+        "verified": true
+      }
+    ]
+  }
+}

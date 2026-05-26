@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2044443790333641166",
+    "created_at": "2026-04-15T15:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T16:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044443790333641166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1652869746227040256",
+          "start": 3,
+          "username": "immersivetran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044443790333641166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044330483191070776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @immersivetran: 在学术研究的过程中，最常遇到的障碍莫过于“付费墙”（Paywall）。当你通过搜索引擎找到一篇精准匹配研究课题的论文时，往往会发现下载全文需要支付几十美元的费用。积少成多也是不小的负担。\n\n今天推荐的 Unpaywall，就是为了合法、高效…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1658,
+        "media_key": "3_2044330460285939714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7ruOjasAI-jK3.jpg",
+        "width": 2892
+      },
+      {
+        "height": 1666,
+        "media_key": "3_2044330405994868737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7rrETasAEKq6R.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2044443790333641166",
+        "created_at": "2026-04-15T15:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044443790333641166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1652869746227040256",
+              "start": 3,
+              "username": "immersivetran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044443790333641166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044330483191070776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @immersivetran: 在学术研究的过程中，最常遇到的障碍莫过于“付费墙”（Paywall）。当你通过搜索引擎找到一篇精准匹配研究课题的论文时，往往会发现下载全文需要支付几十美元的费用。积少成多也是不小的负担。\n\n今天推荐的 Unpaywall，就是为了合法、高效…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044330460285939714",
+            "3_2044330405994868737"
+          ]
+        },
+        "author_id": "1652869746227040256",
+        "conversation_id": "2044330483191070776",
+        "created_at": "2026-04-15T08:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044330483191070776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/inAaC0uPQX",
+              "end": 177,
+              "expanded_url": "https://x.com/immersivetran/status/2044330483191070776/photo/1",
+              "media_key": "3_2044330460285939714",
+              "start": 154,
+              "url": "https://t.co/inAaC0uPQX"
+            },
+            {
+              "display_url": "pic.x.com/inAaC0uPQX",
+              "end": 177,
+              "expanded_url": "https://x.com/immersivetran/status/2044330483191070776/photo/1",
+              "media_key": "3_2044330405994868737",
+              "start": 154,
+              "url": "https://t.co/inAaC0uPQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044330483191070776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "unpaywall.org",
+                "end": 1062,
+                "expanded_url": "https://unpaywall.org/",
+                "start": 1039,
+                "url": "https://t.co/bqNdz8Oyut"
+              }
+            ]
+          },
+          "text": "在学术研究的过程中，最常遇到的障碍莫过于“付费墙”（Paywall）。当你通过搜索引擎找到一篇精准匹配研究课题的论文时，往往会发现下载全文需要支付几十美元的费用。积少成多也是不小的负担。\n\n今天推荐的 Unpaywall，就是为了合法、高效地解决这一痛点而设计的工具。\n\nUnpaywall 是由非营利组织 OurResearch 开发的一款浏览器扩展程序（支持 Chrome 和 Firefox）。它的核心功能非常单一且明确：当你浏览某个学术出版商的付费论文页面时，它会自动在后台检索该论文是否存在合法的免费版本。\n\n如果系统找到了该论文的免费版本，网页侧边会出现一个带有“白色锁头”的绿色按钮，点击即可直接跳转至 PDF 全文。如果显示为灰色，则说明目前尚未找到合法的公开版本。\n\nUnpaywall 的运作模式是完全合法且符合学术版权规范的。它并不存储这些论文，也不会通过侵权手段获取文档。它的数据来源包括：\n\n1. 开放获取（Open Access）期刊：直接链接到出版商提供的 OA 版本。\n\n2. 机构存储库（Institutional Repositories）：许多大学会将教授的研究成果上传到学校的公开服务器。\n\n3. 作者自存档（Preprints）：研究者在论文正式发表前或发表后，根据协议在合规平台分享的预印本或手稿。\n\n目前，Unpaywall 的索引库涵盖了超过 3,000 万篇免费、合法的学术文献。由于其数据质量极高，它不仅被普通研究者使用，也被集成到了 Web of Science 和 Scopus 等主流引文数据库中。\n\n为什么它是研究者的必备工具？\n\n1️⃣ 极简的交互体验：你不需要复制 DOI 到第三方网站搜索。只要插件开启，它就会静默运行，只有在找到免费资源时才提醒你。\n\n2️⃣ 打破资源壁垒：对于没有购买大型商业数据库权限的独立研究者、中小学教师或企业研发人员来说，这是获取全球前沿科研成果最直接的通道。\n\n3️⃣ 配合“沉浸式翻译”使用：这是目前很多科研人推荐的黄金组合。Unpaywall 帮你找到并下载 PDF 全文，再配合浏览器或 PDF 阅读器的翻译插件，可以极大地提升阅读外文学术文献的效率，实现从“搜得到”到“读得懂”的无缝衔接。\n\n4️⃣ 纯粹的公益性质：作为一个非营利项目，它不收任何费用，也没有广告干扰，其背后的组织 OurResearch 长期致力于推动开放科学（Open Science）的发展。\n\n🔗：https://t.co/bqNdz8Oyut 点击“Add to Chrome”，安装过程仅需几秒钟。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 12562,
+          "like_count": 143,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "在学术研究的过程中，最常遇到的障碍莫过于“付费墙”（Paywall）。当你通过搜索引擎找到一篇精准匹配研究课题的论文时，往往会发现下载全文需要支付几十美元的费用。积少成多也是不小的负担。\n\n今天推荐的 Unpaywall，就是为了合法、高效地解决这一痛点而设计的工具。\n\nUnpaywall 是由非营利组织 https://t.co/inAaC0uPQX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 260,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 275
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T02:57:26.000Z",
+        "description": "AI 驱动的双语翻译扩展，千万用户之选，2024 年 Chrome 最佳扩展 & Edge 官方推荐，全平台主流浏览器支持。安装👉   https://t.co/ZWKdqdwWDL｜升级为 Pro 👉 https://t.co/ZSkee7xEdw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 91,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 68,
+                "url": "https://t.co/ZWKdqdwWDL"
+              },
+              {
+                "display_url": "immersivetranslate.com/pricing/",
+                "end": 125,
+                "expanded_url": "https://immersivetranslate.com/pricing/",
+                "start": 102,
+                "url": "https://t.co/ZSkee7xEdw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 23,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 0,
+                "url": "https://t.co/ZWKdqdwWDL"
+              }
+            ]
+          }
+        },
+        "id": "1652869746227040256",
+        "name": "沉浸式翻译",
+        "pinned_tweet_id": "2044317956444958999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014635262534680578/668bCwx8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40573,
+          "following_count": 106,
+          "like_count": 429,
+          "listed_count": 206,
+          "media_count": 593,
+          "tweet_count": 1146
+        },
+        "url": "https://t.co/ZWKdqdwWDL",
+        "username": "immersivetran",
+        "verified": true
+      }
+    ]
+  }
+}

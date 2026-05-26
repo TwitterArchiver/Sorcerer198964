@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2045191291101970871",
+    "created_at": "2026-04-17T17:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045191291101970871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936489345869127680",
+          "start": 3,
+          "username": "a162087108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045191291101970871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045176231771947447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a162087108: 🤓当跨子是因为1厌顺直，2不想当顺直，3还是厌顺直\n吃糖也就是图一乐，我对我自己的超绝儿童身材挺满意的，对力量倒是很焦虑但我觉得不属于gd\n难道说asd都是先天酷儿圣体？（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2045191291101970871",
+        "created_at": "2026-04-17T17:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045191291101970871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936489345869127680",
+              "start": 3,
+              "username": "a162087108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045191291101970871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045176231771947447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a162087108: 🤓当跨子是因为1厌顺直，2不想当顺直，3还是厌顺直\n吃糖也就是图一乐，我对我自己的超绝儿童身材挺满意的，对力量倒是很焦虑但我觉得不属于gd\n难道说asd都是先天酷儿圣体？（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936489345869127680",
+        "conversation_id": "2045176231771947447",
+        "created_at": "2026-04-17T16:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045176231771947447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045176231771947447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🤓当跨子是因为1厌顺直，2不想当顺直，3还是厌顺直\n吃糖也就是图一乐，我对我自己的超绝儿童身材挺满意的，对力量倒是很焦虑但我觉得不属于gd\n难道说asd都是先天酷儿圣体？（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 284,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T18:20:40.000Z",
+        "description": "🏳️‍⚧️🍥｜infp🦋｜AuDHD🤕｜07｜172cm/48kg｜临床大一退学创业日记｜垃圾佬💻｜努力变pass｜想和你们交朋友！🥺🥺",
+        "id": "1936489345869127680",
+        "name": "点点是只小黑喵🍥🐈‍⬛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952113292354146304/Poay0LH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 265,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 261
+        },
+        "username": "a162087108",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2043585463395782934",
+    "created_at": "2026-04-13T07:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043585463395782934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/igeekbb/status…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/igeekbb/status/2043231169354109271",
+          "start": 26,
+          "url": "https://t.co/H5n7Eo3sa4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043585463395782934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043231169354109271",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这支那猪是怎么做到像牢a那样侃侃而谈讲抽象小故事的 https://t.co/H5n7Eo3sa4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20410,
+        "height": 1920,
+        "media_key": "13_2043228437708783616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043228437708783616/img/Jg8axyiAI3CdywiP.jpg",
+        "public_metrics": {
+          "view_count": 38709
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043228437708783616/vid/avc1/1080x1920/r4JN9pzWJpEM2Uo1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043228437708783616/pl/SL2F4EOYpGR_tPQH.m3u8?v=dbf"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043228437708783616/vid/avc1/320x568/CKPQM4UqQctOYYlf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043228437708783616/vid/avc1/720x1280/D-ad4cSbqALQpV1f.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043228437708783616/vid/avc1/480x852/PB60aop6tBCdxQq3.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2043585463395782934",
+        "created_at": "2026-04-13T07:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043585463395782934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/igeekbb/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/igeekbb/status/2043231169354109271",
+              "start": 26,
+              "url": "https://t.co/H5n7Eo3sa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043585463395782934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043231169354109271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这支那猪是怎么做到像牢a那样侃侃而谈讲抽象小故事的 https://t.co/H5n7Eo3sa4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043228437708783616"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2043231169354109271",
+        "created_at": "2026-04-12T07:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043231169354109271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1C8OorPReg",
+              "end": 87,
+              "expanded_url": "https://x.com/igeekbb/status/2043231169354109271/video/1",
+              "media_key": "13_2043228437708783616",
+              "start": 64,
+              "url": "https://t.co/1C8OorPReg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043231169354109271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不敢相信这是从一位中国商业航天领域的重要专家口中说出来的，蒋鹏飞：美国4名登月的宇航员，他们心里清楚，自己大概率很难活着回来。\n\n蒋鹏飞拥有阿尔伯塔大学硕士学位，现担任中科光启空间信息技术有限公司总工程师、中国军转民产业研究院常务副院长，北京神飞航天应用技术研究院副院长，郑州市劳动模范……\n\n然而打脸总是来得这么快，耳光打的啪啪响。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 80222,
+          "like_count": 308,
+          "quote_count": 11,
+          "reply_count": 175,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "不敢相信这是从一位中国商业航天领域的重要专家口中说出来的，蒋鹏飞：美国4名登月的宇航员，他们心里清楚，自己大概率很难活着回来。 https://t.co/1C8OorPReg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 194,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 175
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70084,
+          "following_count": 1,
+          "like_count": 13854,
+          "listed_count": 303,
+          "media_count": 7207,
+          "tweet_count": 11385
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

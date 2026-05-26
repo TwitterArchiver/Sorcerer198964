@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2049803300497666105",
+    "created_at": "2026-04-30T10:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T11:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049803300497666105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_forab/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/_forab/status/2049756472389808344",
+          "start": 14,
+          "url": "https://t.co/MDRjCGoUvY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049803300497666105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049756472389808344",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看来来推特看黄才是主要目的 https://t.co/MDRjCGoUvY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 898,
+        "media_key": "3_2049756205455994880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIyaKZbcAAMK2x.jpg",
+        "width": 924
+      },
+      {
+        "height": 1447,
+        "media_key": "3_2049756236330196992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIyb9aaYAAnvgx.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2049803300497666105",
+        "created_at": "2026-04-30T10:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049803300497666105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_forab/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/_forab/status/2049756472389808344",
+              "start": 14,
+              "url": "https://t.co/MDRjCGoUvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049803300497666105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049756472389808344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来来推特看黄才是主要目的 https://t.co/MDRjCGoUvY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049756205455994880",
+            "3_2049756236330196992"
+          ]
+        },
+        "author_id": "4848269835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Retirement planning",
+              "id": "847894794080722944",
+              "name": "Retirement planning"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Saving and Finance",
+              "id": "1037075567227494400",
+              "name": "Saving and finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2049756472389808344",
+        "created_at": "2026-04-30T07:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049756472389808344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmZsiZAllO",
+              "end": 118,
+              "expanded_url": "https://x.com/_FORAB/status/2049756472389808344/photo/1",
+              "media_key": "3_2049756205455994880",
+              "start": 95,
+              "url": "https://t.co/FmZsiZAllO"
+            },
+            {
+              "display_url": "pic.x.com/FmZsiZAllO",
+              "end": 118,
+              "expanded_url": "https://x.com/_FORAB/status/2049756472389808344/photo/1",
+              "media_key": "3_2049756236330196992",
+              "start": 95,
+              "url": "https://t.co/FmZsiZAllO"
+            },
+            {
+              "display_url": "x.com/nikitabier/sta…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/nikitabier/status/2049704418669723729",
+              "start": 119,
+              "url": "https://t.co/AHDjgkbi0F"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "451617631d24d98c"
+        },
+        "id": "2049756472389808344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14204,
+          "like_count": 43,
+          "quote_count": 4,
+          "reply_count": 43,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049704418669723729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还记得，之前 X 平台推出的暂停话题推送功能么，就是只要勾选特定话题后，未来 24 小时内，X 平台都不会推送相关推文给你。\n\n截止至今，没想到人们屏蔽最多的话题，居然是加密货币，太惨了。 https://t.co/FmZsiZAllO https://t.co/AHDjgkbi0F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 398,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 823
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119533,
+          "following_count": 602,
+          "like_count": 10097,
+          "listed_count": 1924,
+          "media_count": 3237,
+          "tweet_count": 14251
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

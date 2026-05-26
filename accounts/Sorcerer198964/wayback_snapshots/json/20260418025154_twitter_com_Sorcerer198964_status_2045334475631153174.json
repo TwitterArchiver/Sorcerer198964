@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2045334475631153174",
+    "created_at": "2026-04-18T02:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045334475631153174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1691382703654883328",
+          "start": 3,
+          "username": "Deadsoul790"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045334475631153174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045330827173880015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Deadsoul790: 想要得到更多关注，开奖时能到80fo嘛嘿嘿\n来看到我这只在互联网上游荡的幽灵吧\n一等奖:56.66元   1位\n二等奖:18.88元   2位\n三等奖:6.66元    5位\n安慰奖:1.88元    12位\n点赞转发评论关注四项全做参与\n4月…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2045334475631153174",
+        "created_at": "2026-04-18T02:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045334475631153174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691382703654883328",
+              "start": 3,
+              "username": "Deadsoul790"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045334475631153174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045330827173880015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Deadsoul790: 想要得到更多关注，开奖时能到80fo嘛嘿嘿\n来看到我这只在互联网上游荡的幽灵吧\n一等奖:56.66元   1位\n二等奖:18.88元   2位\n三等奖:6.66元    5位\n安慰奖:1.88元    12位\n点赞转发评论关注四项全做参与\n4月…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691382703654883328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2045330827173880015",
+        "created_at": "2026-04-18T02:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045330827173880015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045330827173880015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "想要得到更多关注，开奖时能到80fo嘛嘿嘿\n来看到我这只在互联网上游荡的幽灵吧\n一等奖:56.66元   1位\n二等奖:18.88元   2位\n三等奖:6.66元    5位\n安慰奖:1.88元    12位\n点赞转发评论关注四项全做参与\n4月21日用grok开奖\n你真可爱\n（小声:获得更多的关注，会不会\n被晶哥盯上）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 286,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:34:12.000Z",
+        "description": "|死去天使的灵魂|无政治立场|无性别|09天秤|bmi21.2|恐蛇人员警告⚠️|有时可能是北欧十岁小女孩|视情况互fo|捉摸不透的出现|",
+        "id": "1691382703654883328",
+        "location": "In your dream",
+        "name": "SouL",
+        "pinned_tweet_id": "2045330827173880015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045101732326436864/AAWpmd-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 203,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 131
+        },
+        "username": "Deadsoul790",
+        "verified": false
+      }
+    ]
+  }
+}

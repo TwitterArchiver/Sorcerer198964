@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2048052797443391629",
+    "created_at": "2026-04-25T14:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048052797443391629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1723047974677479424",
+          "start": 3,
+          "username": "ReedPascal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048052797443391629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047697187078013013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ReedPascal: 首先16岁能认识卡组织已经很厉害了，其次别的我没看到，我只看到一个拿下了第一张master很开心的十六岁孩子和一位没事找事虚空索敌联合国护照、被骂还光速破房控评的07年“大人”\n\n十六岁能办下来卡已经很厉害了，为什么你圈07年大人不能多一点爱、包…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2047697169617158145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrhugKagAE-8TM.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2048052797443391629",
+        "created_at": "2026-04-25T14:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048052797443391629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1723047974677479424",
+              "start": 3,
+              "username": "ReedPascal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048052797443391629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047697187078013013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ReedPascal: 首先16岁能认识卡组织已经很厉害了，其次别的我没看到，我只看到一个拿下了第一张master很开心的十六岁孩子和一位没事找事虚空索敌联合国护照、被骂还光速破房控评的07年“大人”\n\n十六岁能办下来卡已经很厉害了，为什么你圈07年大人不能多一点爱、包…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047697169617158145"
+          ]
+        },
+        "author_id": "1723047974677479424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047697187078013013",
+        "created_at": "2026-04-24T15:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047697187078013013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/drdzcc5g9v",
+              "end": 162,
+              "expanded_url": "https://x.com/ReedPascal/status/2047697187078013013/photo/1",
+              "media_key": "3_2047697169617158145",
+              "start": 139,
+              "url": "https://t.co/drdzcc5g9v"
+            },
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2047410769613197617",
+              "start": 163,
+              "url": "https://t.co/sivis1PAbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047697187078013013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 14643,
+          "like_count": 154,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047410769613197617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先16岁能认识卡组织已经很厉害了，其次别的我没看到，我只看到一个拿下了第一张master很开心的十六岁孩子和一位没事找事虚空索敌联合国护照、被骂还光速破房控评的07年“大人”\n\n十六岁能办下来卡已经很厉害了，为什么你圈07年大人不能多一点爱、包容和引导，少一点背地里嘲讽呢？ https://t.co/drdzcc5g9v https://t.co/sivis1PAbT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 371,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T18:40:48.000Z",
+        "description": "和平，自由，勇气与爱，以及摇曳露营.",
+        "id": "1723047974677479424",
+        "location": "Yamanashi-ken, Japan",
+        "name": "Pascal Reed",
+        "pinned_tweet_id": "2006756660673720629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041927352922591232/b2DqjRze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 100,
+          "like_count": 96165,
+          "listed_count": 4,
+          "media_count": 2805,
+          "tweet_count": 9033
+        },
+        "username": "ReedPascal",
+        "verified": false
+      }
+    ]
+  }
+}

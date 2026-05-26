@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2044774025826804162",
+    "created_at": "2026-04-16T13:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T14:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044774025826804162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/432ifantrygrou…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/432ifantrygroup/status/2044644919038693638",
+          "start": 75,
+          "url": "https://t.co/P6O01CZYGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044774025826804162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044644919038693638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "年龄称呼这么多逼话\n叫个叔叔阿姨怎么你了？更别说你还是服务业\n我被叫男的话都没这么多，不符合我性别认同是不是我也该生气？\n然而顺直这时候就装聋作哑了 https://t.co/P6O01CZYGM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2044774025826804162",
+        "created_at": "2026-04-16T13:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T14:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044774025826804162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432ifantrygrou…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/432ifantrygroup/status/2044644919038693638",
+              "start": 75,
+              "url": "https://t.co/P6O01CZYGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044774025826804162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044644919038693638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "年龄称呼这么多逼话\n叫个叔叔阿姨怎么你了？更别说你还是服务业\n我被叫男的话都没这么多，不符合我性别认同是不是我也该生气？\n然而顺直这时候就装聋作哑了 https://t.co/P6O01CZYGM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2044644919038693638",
+        "created_at": "2026-04-16T05:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044644919038693638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yantanzhang/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/yantanzhang/status/2044586824455409889",
+              "start": 49,
+              "url": "https://t.co/BCYR99VvCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044644919038693638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4584,
+          "like_count": 69,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044586824455409889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拿服务员不当人，好像服务员就不需要被尊重，只有给你说好听话的份，正是中国服务业发展不起来的原因。 https://t.co/BCYR99VvCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 271,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2044732903687696495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 2923,
+          "like_count": 23067,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 6073
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

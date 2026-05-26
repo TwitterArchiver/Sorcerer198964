@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2050194047826800956",
+    "created_at": "2026-05-01T12:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T13:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050194047826800956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "143810986",
+          "start": 3,
+          "username": "dw_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050194047826800956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050175942123790339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dw_chinese: 2022年3月发生的中国东方航空MU5735航班空难，中国民航总局至今未按国际规范发布最终调查报告或者如实披露最新进展。今年初，有人依照美国信息自由法案(FOIA)向美国国家运输安全委员会(NTSB)申请政府信息公开，后者在4月29日予以答复并附…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2050175460181520384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOvt_9XsAA3WK_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1931,
+        "media_key": "3_2050175516917862400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOvxTUXkAAoqMb.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1735,
+        "media_key": "3_2050175569090748416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOv0VrWoAAMm-p.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1748,
+        "media_key": "3_2050175599608545280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOv2HXXQAAbctr.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2050194047826800956",
+        "created_at": "2026-05-01T12:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050194047826800956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "143810986",
+              "start": 3,
+              "username": "dw_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050194047826800956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050175942123790339",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dw_chinese: 2022年3月发生的中国东方航空MU5735航班空难，中国民航总局至今未按国际规范发布最终调查报告或者如实披露最新进展。今年初，有人依照美国信息自由法案(FOIA)向美国国家运输安全委员会(NTSB)申请政府信息公开，后者在4月29日予以答复并附…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050175460181520384",
+            "3_2050175516917862400",
+            "3_2050175569090748416",
+            "3_2050175599608545280"
+          ]
+        },
+        "author_id": "143810986",
+        "conversation_id": "2050175942123790339",
+        "created_at": "2026-05-01T11:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050175942123790339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYt2p9SWco",
+              "end": 161,
+              "expanded_url": "https://x.com/dw_chinese/status/2050175942123790339/photo/1",
+              "media_key": "3_2050175460181520384",
+              "start": 138,
+              "url": "https://t.co/NYt2p9SWco"
+            },
+            {
+              "display_url": "pic.x.com/NYt2p9SWco",
+              "end": 161,
+              "expanded_url": "https://x.com/dw_chinese/status/2050175942123790339/photo/1",
+              "media_key": "3_2050175516917862400",
+              "start": 138,
+              "url": "https://t.co/NYt2p9SWco"
+            },
+            {
+              "display_url": "pic.x.com/NYt2p9SWco",
+              "end": 161,
+              "expanded_url": "https://x.com/dw_chinese/status/2050175942123790339/photo/1",
+              "media_key": "3_2050175569090748416",
+              "start": 138,
+              "url": "https://t.co/NYt2p9SWco"
+            },
+            {
+              "display_url": "pic.x.com/NYt2p9SWco",
+              "end": 161,
+              "expanded_url": "https://x.com/dw_chinese/status/2050175942123790339/photo/1",
+              "media_key": "3_2050175599608545280",
+              "start": 138,
+              "url": "https://t.co/NYt2p9SWco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050175942123790339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2022年3月发生的中国东方航空MU5735航班空难，中国民航总局至今未按国际规范发布最终调查报告或者如实披露最新进展。今年初，有人依照美国信息自由法案(FOIA)向美国国家运输安全委员会(NTSB)申请政府信息公开，后者在4月29日予以答复并附上了飞控数据记录器(FDR, 两个黑匣子之一)数据、NTSB与中国民航总局(CAAC)之间的电邮往来、2022年7月的数据下载报告等原始资料。\n\nFDR原始数据显示，在黑匣子断电前23秒，波音737的左右两台发动机的燃油开关均被设置为切断状态。这一操作旨在停止向发动机供油。旋即，飞机的自动驾驶仪也被断开。断电前20秒，驾驶舱内的一侧操纵杆被猛烈向下推，控制轮(Control Wheel)也出现异常动作。原始数据并未显示两位飞行员中到底是哪一位进行了猛烈推杆动作。\n在失控下坠过程中，操纵杆上存在着剧烈且持续的输入，显示驾驶舱内始终有人在主动操控。\n\n另外，黑匣子数据还显示，飞机俯冲期间，控制横滚姿态的副翼始终在活动状态，但是其输入参数呈现剧烈变化。这似乎暗示另一名飞行员在试图挽救飞机。\n\n这些流出的数据也与空难当天航空追踪网站Flightradar24公布的两次雷达数据相符合：当时，这架波音737客机从原先巡航高度2.9万英尺（约8840米）开始急速俯冲，在72秒内跌到7425英尺（约2263米）。后来，飞机一度重新爬升了约10秒，但是马上再度急速下坠。\n\n在发动机断油后23秒，黑匣子停止记录。这很可能是因为发动机彻底停转导致飞机断电，而黑匣子并没有备用电池。\n\n而NTSB和CAAC的邮件往来记录则显示，以上数据早在2022年夏天就转交给了中国当局。\n\n根据国际民航法规，东航MU5735空难发生后，中国方面请求飞机制造商所在国协助解读黑匣子数据。在事故发生两个月后，《华尔街日报》就援引知情人士消息称，美方的初步调查已经显示“驾驶舱内有人故意坠毁了这架飞机”。但是中国民航总局当时则回应称，有关蓄意坠机的传言“严重误导了公众”、“干扰了事故调查工作”。\n\n这起导致132人罹难的空难，是中国近30年来最惨重的民航事故。中国民航总局最近一次提供相关调查报告还是在2024年3月，但内容并未提供太多细节，仅指班机自昆明起飞前，未在飞机或引擎上发现任何故障或异常，天气及通讯方面也没有出现问题；另外，官方也称机组人员持有有效执照、休息充足，并在飞行当日通过健康检查，飞机上亦没有危险物品。\n\n根据国际规范，主导调查的中国民航总局本应在事故发生后的30天内发布初步报告，并尽可能在一年内公布最终报告，以便业界自事件中汲取教训、改善安全性。若无法在期限内公布最终报告，调查单位仍应该在每周年发布声明。\n\n去年5月，中国社媒平台流传一张标题为《中国民用航空局政府信息公开申请答复书》，内容显示为一名中国网民申请公开“3·21”事故调查进展情况，但中国民航局则回应：“您申请公开的信息公开后可能危及国家安全、社会稳定......决定不予公开。”\n\n这份中国民航总局2025年的答复书，以及NTSB此次回复中所包含的原始数据（被网民上传在GitHub以及维基百科），德国之声暂时均无法独立证实其真实性。在中国社交媒体平台知乎上，该话题于4月30日晚间引发热烈讨论。但是整个讨论在5月1日即遭删除。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 13524,
+          "like_count": 102,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "2022年3月发生的中国东方航空MU5735航班空难，中国民航总局至今未按国际规范发布最终调查报告或者如实披露最新进展。今年初，有人依照美国信息自由法案(FOIA)向美国国家运输安全委员会(NTSB)申请政府信息公开，后者在4月29日予以答复并附上了飞控数据记录器(FDR, https://t.co/NYt2p9SWco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 404,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-14T13:16:33.000Z",
+        "description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!https://t.co/sd6bL3bDrv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/dwlegalnotice",
+                "end": 106,
+                "expanded_url": "http://bit.ly/dwlegalnotice",
+                "start": 83,
+                "url": "https://t.co/sd6bL3bDrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dw.com/chinese",
+                "end": 23,
+                "expanded_url": "http://www.dw.com/chinese",
+                "start": 0,
+                "url": "https://t.co/MJXQ2XoxI2"
+              }
+            ]
+          }
+        },
+        "id": "143810986",
+        "location": "德国 波恩",
+        "name": "DW 中文- 德国之声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799009694549413888/a4GIoJOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381365,
+          "following_count": 11,
+          "like_count": 388,
+          "listed_count": 5513,
+          "media_count": 15864,
+          "tweet_count": 84592
+        },
+        "url": "https://t.co/MJXQ2XoxI2",
+        "username": "dw_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

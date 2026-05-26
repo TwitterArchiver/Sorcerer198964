@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2052370043933999386",
+    "created_at": "2026-05-07T12:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052370043933999386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2052146390021890187",
+          "start": 9,
+          "url": "https://t.co/SIsMPd5rqB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052370043933999386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052146390021890187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种就该强制休息 https://t.co/SIsMPd5rqB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 179072,
+        "height": 1920,
+        "media_key": "13_2051909244816154625",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051909244816154625/img/v6BRjFryfyT8xqUe.jpg",
+        "public_metrics": {
+          "view_count": 222763
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051909244816154625/vid/avc1/1080x1920/cjStwEEImmfz6pPi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051909244816154625/pl/KNGpdcHnAjty3N2f.m3u8?v=2ef"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051909244816154625/vid/avc1/480x852/Yzt-_FJa62KvDq8Q.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051909244816154625/vid/avc1/320x568/daYFJU-U1033P5VK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051909244816154625/vid/avc1/720x1280/Vwbc56jFY-65IDdR.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2051909244782612480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnYli6bkAASob8.jpg",
+        "width": 1202
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2051909245508235264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnYllnbsAAOdEn.jpg",
+        "width": 1149
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2052370043933999386",
+        "created_at": "2026-05-07T12:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052370043933999386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2052146390021890187",
+              "start": 9,
+              "url": "https://t.co/SIsMPd5rqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052370043933999386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052146390021890187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种就该强制休息 https://t.co/SIsMPd5rqB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051909244816154625",
+            "3_2051909244782612480",
+            "3_2051909245508235264"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052146390021890187",
+        "created_at": "2026-05-06T22:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T23:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052146390021890187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qap5spm0Wb",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2052146390021890187/video/1",
+              "media_key": "13_2051909244816154625",
+              "start": 109,
+              "url": "https://t.co/qap5spm0Wb"
+            },
+            {
+              "display_url": "pic.x.com/qap5spm0Wb",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2052146390021890187/video/1",
+              "media_key": "3_2051909244782612480",
+              "start": 109,
+              "url": "https://t.co/qap5spm0Wb"
+            },
+            {
+              "display_url": "pic.x.com/qap5spm0Wb",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2052146390021890187/video/1",
+              "media_key": "3_2051909245508235264",
+              "start": 109,
+              "url": "https://t.co/qap5spm0Wb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052146390021890187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月1日，浙江。一网友打车遇到司机睡着发生车祸，导致他的牙齿被撞坏3颗，司机说他已经连续开了十几个小时的网约车。\n视频发出后，不少网友都在评论区晒出司机开到一半睡着的照片，有人甚至因此导致截肢、粉碎性骨折、牙齿撞断。\n\n打车越来越便宜的代价，就是司机为了增加收入只能疲劳驾驶。比如说在北京跑网约车，只有京牌司机才能干网约车，所以很多人选择租车。租车费用每个几千、充电上千、吃住一个月几千、平台每个月也要抽成几千，最终的代价就是拉着消费者一起承担，收益的是平台以及背后的投资者...."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 412672,
+          "like_count": 978,
+          "quote_count": 9,
+          "reply_count": 293,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "5月1日，浙江。一网友打车遇到司机睡着发生车祸，导致他的牙齿被撞坏3颗，司机说他已经连续开了十几个小时的网约车。\n视频发出后，不少网友都在评论区晒出司机开到一半睡着的照片，有人甚至因此导致截肢、粉碎性骨折、牙齿撞断。 https://t.co/qap5spm0Wb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 477,
+          "like_count": 350,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1181
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2216706,
+          "following_count": 1041,
+          "like_count": 9472,
+          "listed_count": 8716,
+          "media_count": 46362,
+          "tweet_count": 53459
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

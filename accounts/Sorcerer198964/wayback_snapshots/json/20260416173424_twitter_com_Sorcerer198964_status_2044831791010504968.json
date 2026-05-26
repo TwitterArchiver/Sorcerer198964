@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2044831791010504968",
+    "created_at": "2026-04-16T17:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T18:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044831791010504968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer198964"
+        },
+        {
+          "end": 27,
+          "id": "1525653523156721665",
+          "start": 20,
+          "username": "qg7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044831791010504968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044831753769308455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer198964: @qg7777 至少去年就有的东西你怎么才知道一样😓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2044831791010504968",
+        "created_at": "2026-04-16T17:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044831791010504968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer198964"
+            },
+            {
+              "end": 27,
+              "id": "1525653523156721665",
+              "start": 20,
+              "username": "qg7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044831791010504968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044831753769308455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer198964: @qg7777 至少去年就有的东西你怎么才知道一样😓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2044562803101733301",
+        "created_at": "2026-04-16T17:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044831753769308455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1525653523156721665",
+              "start": 0,
+              "username": "qg7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044831753769308455",
+        "in_reply_to_user_id": "1525653523156721665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044562803101733301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qg7777 至少去年就有的东西你怎么才知道一样😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 276,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T01:45:32.000Z",
+        "description": "Father 3children | X Premium+ | X·Space “村头CBD”Founder | @Techub_News 顾问 | 金色财经顾问 | @0G_labs 大使 | 近3亿用户的共同选择,数字资产就选币安 @binance 出入金安全",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Techub_News"
+              },
+              {
+                "end": 92,
+                "start": 84,
+                "username": "0G_labs"
+              },
+              {
+                "end": 126,
+                "start": 118,
+                "username": "binance"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/qqzsss",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/qqzsss",
+                "start": 0,
+                "url": "https://t.co/icnRU9tpHv"
+              }
+            ]
+          }
+        },
+        "id": "1525653523156721665",
+        "location": "社区群与资源→",
+        "name": "茄哥 | Pod",
+        "pinned_tweet_id": "2044759497353416944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035327257754189824/LLqQ3Ez0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74688,
+          "following_count": 1302,
+          "like_count": 64925,
+          "listed_count": 222,
+          "media_count": 5392,
+          "tweet_count": 44628
+        },
+        "url": "https://t.co/icnRU9tpHv",
+        "username": "qg7777",
+        "verified": true
+      }
+    ]
+  }
+}

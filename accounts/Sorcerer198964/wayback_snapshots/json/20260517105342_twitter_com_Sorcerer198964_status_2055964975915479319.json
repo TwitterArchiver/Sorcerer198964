@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2055924127551344811",
+    "created_at": "2026-05-17T10:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055964975915479319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1930348223283290112",
+          "start": 0,
+          "username": "nvn0207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055964975915479319",
+    "in_reply_to_user_id": "1930348223283290112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055924127551344811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nvn0207 玉米种子？这是什么原理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2055924127551344811",
+        "created_at": "2026-05-17T10:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055964975915479319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1930348223283290112",
+              "start": 0,
+              "username": "nvn0207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055964975915479319",
+        "in_reply_to_user_id": "1930348223283290112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055924127551344811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nvn0207 玉米种子？这是什么原理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930348223283290112",
+        "conversation_id": "2055924127551344811",
+        "created_at": "2026-05-17T08:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055924127551344811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sorcerer198964…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/Sorcerer198964/status/2055843173436477789",
+              "start": 69,
+              "url": "https://t.co/JCLVGN9Eta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055924127551344811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055843173436477789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了我五岁的时候吃玉米种子给自己吃中毒进医院了。而且我当时记得包装上有骷髅头，但是当时不知道什么意思只觉得吓人。还好没被灌粪水催吐🌚 https://t.co/JCLVGN9Eta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 550,
+          "like_count": 502,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 1481
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T19:38:22.000Z",
+        "description": "可以叫我小晴^ω^丨女170cm57kg丨istp天秤丨已有对象丨BD+SD丨不爱说话不会聊天丨不od不自残不吸烟不饮酒丨Stilnox重度依赖丨\n\n一般来说看到就会回fo～😙",
+        "id": "1930348223283290112",
+        "name": "雨滴落",
+        "pinned_tweet_id": "1943251086288261565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052373551513284608/SOv4MC5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 91,
+          "like_count": 3292,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 235
+        },
+        "username": "nvn0207",
+        "verified": false
+      }
+    ]
+  }
+}

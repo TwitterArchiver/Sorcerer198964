@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2045857822534230229",
+    "created_at": "2026-04-19T13:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045857822534230229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ggdxfulan/stat…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/ggdxfulan/status/2045749513097527323",
+          "start": 39,
+          "url": "https://t.co/vums2CWzNx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045857822534230229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045749513097527323",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种发型发色不够革命，是资本主义遗毒\n应该下放劳动改造使其符合社会主义革命观 https://t.co/vums2CWzNx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045749510555811840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGP2V0wbwAA_H7R.jpg",
+        "width": 1394
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2045857822534230229",
+        "created_at": "2026-04-19T13:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045857822534230229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ggdxfulan/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/ggdxfulan/status/2045749513097527323",
+              "start": 39,
+              "url": "https://t.co/vums2CWzNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045857822534230229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045749513097527323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种发型发色不够革命，是资本主义遗毒\n应该下放劳动改造使其符合社会主义革命观 https://t.co/vums2CWzNx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045749510555811840"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "conversation_id": "2045749513097527323",
+        "created_at": "2026-04-19T06:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045749513097527323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ShybwA6U4V",
+              "end": 38,
+              "expanded_url": "https://x.com/ggdxfulan/status/2045749513097527323/photo/1",
+              "media_key": "3_2045749510555811840",
+              "start": 15,
+              "url": "https://t.co/ShybwA6U4V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045749513097527323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 9787,
+          "like_count": 229,
+          "quote_count": 1,
+          "reply_count": 48,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "看到了一个让人两眼一黑的东西 https://t.co/ShybwA6U4V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 315,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 457
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰\n药娘1 纯1哦",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2039230799497547970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17071,
+          "following_count": 503,
+          "like_count": 35538,
+          "listed_count": 32,
+          "media_count": 3715,
+          "tweet_count": 11503
+        },
+        "username": "ggdxfulan",
+        "verified": true
+      }
+    ]
+  }
+}

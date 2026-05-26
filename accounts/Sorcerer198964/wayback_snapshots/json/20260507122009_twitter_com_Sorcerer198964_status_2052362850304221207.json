@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2052208852079346119",
+    "created_at": "2026-05-07T12:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052362850304221207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052362850304221207",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052208852079346119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 约你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2052208845339217920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrpEl9b0AAokCl.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2052208845980905472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrpEoWbMAAyIWb.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2052208847226572800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrpEs_akAA3HeY.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2052208846979137537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrpEsEbAAEwDLd.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2052208852079346119",
+        "created_at": "2026-05-07T12:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052362850304221207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052362850304221207",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052208852079346119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 约你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052208845339217920",
+            "3_2052208845980905472",
+            "3_2052208847226572800",
+            "3_2052208846979137537"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "2052208852079346119",
+        "created_at": "2026-05-07T02:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052208852079346119"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZzOlMSCTx",
+              "end": 42,
+              "expanded_url": "https://x.com/yu_huacs/status/2052208852079346119/photo/1",
+              "media_key": "3_2052208845339217920",
+              "start": 19,
+              "url": "https://t.co/uZzOlMSCTx"
+            },
+            {
+              "display_url": "pic.x.com/uZzOlMSCTx",
+              "end": 42,
+              "expanded_url": "https://x.com/yu_huacs/status/2052208852079346119/photo/1",
+              "media_key": "3_2052208845980905472",
+              "start": 19,
+              "url": "https://t.co/uZzOlMSCTx"
+            },
+            {
+              "display_url": "pic.x.com/uZzOlMSCTx",
+              "end": 42,
+              "expanded_url": "https://x.com/yu_huacs/status/2052208852079346119/photo/1",
+              "media_key": "3_2052208847226572800",
+              "start": 19,
+              "url": "https://t.co/uZzOlMSCTx"
+            },
+            {
+              "display_url": "pic.x.com/uZzOlMSCTx",
+              "end": 42,
+              "expanded_url": "https://x.com/yu_huacs/status/2052208852079346119/photo/1",
+              "media_key": "3_2052208846979137537",
+              "start": 19,
+              "url": "https://t.co/uZzOlMSCTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052208852079346119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1947,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "＃男の娘 没工作了有没有人找我约线下 https://t.co/uZzOlMSCTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 475,
+          "like_count": 346,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 1166
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "公路车技师 路边可见的乡下无糖宅家男娘 一型双相重焦患者 公路车手 自伤 od 抽烟 ACG 异父异母的哥哥@silentbleeding1  另一个我 @yuhuacs5570 我超级可爱的姐姐@aczizo82my",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 54,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "aczizo82my"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "寻心而去",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2029682364067238377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036470524784910336/m6ce5LZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 1331,
+          "like_count": 110353,
+          "listed_count": 8,
+          "media_count": 2034,
+          "tweet_count": 18884
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2043554399017189536",
+    "created_at": "2026-04-13T04:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043554399017189536"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043554399017189536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "酒精是饮料之神\n似乎所有的饮料，即使是一杯橙汁，加了点伏特加后味道会变得完全不同\n虽然本人酒量只有50ml纯酒精，也就是说2两白酒就能弄晕我\n上次和老登喝酒直接在酒桌上倒头就睡这一块\n但是抛开成瘾性和欣快/解离不谈\n酒它就是好喝呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2043554399017189536",
+        "created_at": "2026-04-13T04:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043554399017189536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043554399017189536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酒精是饮料之神\n似乎所有的饮料，即使是一杯橙汁，加了点伏特加后味道会变得完全不同\n虽然本人酒量只有50ml纯酒精，也就是说2两白酒就能弄晕我\n上次和老登喝酒直接在酒桌上倒头就睡这一块\n但是抛开成瘾性和欣快/解离不谈\n酒它就是好喝呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 190,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 165
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

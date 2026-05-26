@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2044840127982366886",
+    "created_at": "2026-04-16T18:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T19:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044840127982366886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cheng_gou/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/cheng_gou/status/2044584322213323012",
+          "start": 6,
+          "url": "https://t.co/UYAvVK1S8L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044840127982366886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044584322213323012",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "超高质量的 https://t.co/UYAvVK1S8L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10772,
+        "height": 1920,
+        "media_key": "13_2044584067572920320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044584067572920320/img/I-jgdFChpowBaJEU.jpg",
+        "public_metrics": {
+          "view_count": 5144
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044584067572920320/vid/avc1/320x568/UDePuFRtfyJaBsg0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044584067572920320/vid/avc1/480x852/dUEb3KEjJGq3GMaS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044584067572920320/vid/avc1/720x1280/TFKxIb6U-sHpvgJ3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044584067572920320/pl/Wx7P3VCmB6419cEr.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2044840127982366886",
+        "created_at": "2026-04-16T18:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044840127982366886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cheng_gou/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/cheng_gou/status/2044584322213323012",
+              "start": 6,
+              "url": "https://t.co/UYAvVK1S8L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044840127982366886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044584322213323012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超高质量的 https://t.co/UYAvVK1S8L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044584067572920320"
+          ]
+        },
+        "author_id": "1834781764369391616",
+        "conversation_id": "2044584322213323012",
+        "created_at": "2026-04-16T01:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044584322213323012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wllDMHXsrI",
+              "end": 38,
+              "expanded_url": "https://x.com/cheng_gou/status/2044584322213323012/video/1",
+              "media_key": "13_2044584067572920320",
+              "start": 15,
+              "url": "https://t.co/wllDMHXsrI"
+            },
+            {
+              "display_url": "x.com/cheng_gou/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/cheng_gou/status/2044377624450060574",
+              "start": 39,
+              "url": "https://t.co/oela9BXOaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044584322213323012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 21604,
+          "like_count": 72,
+          "quote_count": 2,
+          "reply_count": 54,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044377624450060574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇，真的好久没有吃煲仔饭了。 https://t.co/wllDMHXsrI https://t.co/oela9BXOaX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 278,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T02:30:42.000Z",
+        "description": "战斗艺3.0版再出发",
+        "id": "1834781764369391616",
+        "name": "顾小艺 3.0🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968337723804270592/HWYKRPuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4769,
+          "following_count": 758,
+          "like_count": 48338,
+          "listed_count": 17,
+          "media_count": 1095,
+          "tweet_count": 14096
+        },
+        "username": "cheng_gou",
+        "verified": false
+      }
+    ]
+  }
+}

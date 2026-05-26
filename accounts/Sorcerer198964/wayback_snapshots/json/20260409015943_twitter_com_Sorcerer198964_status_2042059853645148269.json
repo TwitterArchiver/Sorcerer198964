@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2042059853645148269",
+    "created_at": "2026-04-09T01:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042059853645148269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer198964"
+        },
+        {
+          "end": 30,
+          "id": "1391698645460807690",
+          "start": 20,
+          "username": "Baili1018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042059853645148269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042059836540776542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer198964: @Baili1018 劝鸡从良的自我救赎之感动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2042059853645148269",
+        "created_at": "2026-04-09T01:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042059853645148269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer198964"
+            },
+            {
+              "end": 30,
+              "id": "1391698645460807690",
+              "start": 20,
+              "username": "Baili1018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042059853645148269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042059836540776542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer198964: @Baili1018 劝鸡从良的自我救赎之感动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2041757836481532333",
+        "created_at": "2026-04-09T01:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042059836540776542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1391698645460807690",
+              "start": 0,
+              "username": "Baili1018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042059836540776542",
+        "in_reply_to_user_id": "1391698645460807690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041757836481532333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baili1018 劝鸡从良的自我救赎之感动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 97,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 42
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-10T10:16:43.000Z",
+        "description": "#Thread #KOLS #Meme #Defi\n@MemeCore_M + @injective 华语大使  🦅\n📩商务合作TG：@baili1018\n注册 #Binance 👉\nhttps://t.co/2PxcUu0IHG",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "Thread"
+              },
+              {
+                "end": 13,
+                "start": 8,
+                "tag": "KOLS"
+              },
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "Meme"
+              },
+              {
+                "end": 25,
+                "start": 20,
+                "tag": "Defi"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Binance"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MemeCore_M"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "injective"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "baili1018"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/futures/ref/TW…",
+                "end": 115,
+                "expanded_url": "http://binance.com/futures/ref/TWFH2ZTZ",
+                "start": 92,
+                "url": "https://t.co/2PxcUu0IHG"
+              }
+            ]
+          }
+        },
+        "id": "1391698645460807690",
+        "name": "百里 🦅",
+        "pinned_tweet_id": "2041757836481532333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013802110878470144/sdR8mLo__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74216,
+          "following_count": 4591,
+          "like_count": 80503,
+          "listed_count": 263,
+          "media_count": 4026,
+          "tweet_count": 68307
+        },
+        "username": "Baili1018",
+        "verified": true
+      }
+    ]
+  }
+}

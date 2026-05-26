@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2043722919399018725",
+    "created_at": "2026-04-13T16:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T17:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043722919399018725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/medigiggles/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/medigiggles/status/2043356919834837307",
+          "start": 5,
+          "url": "https://t.co/Opn56EZD3d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043722919399018725",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043356919834837307",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "割手福音 https://t.co/Opn56EZD3d"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18899,
+        "height": 1280,
+        "media_key": "13_2043356843724906496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043356843724906496/img/EtSGtEpaKNtgOB0K.jpg",
+        "public_metrics": {
+          "view_count": 481407
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043356843724906496/vid/avc1/320x568/xCIfSfu1Ejn6iAMf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043356843724906496/vid/avc1/480x852/JINx2mCkdLOJoIVJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043356843724906496/vid/avc1/720x1280/8jJMqKPg2PH9cfh4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043356843724906496/pl/sq3n9PqumDQJB4-a.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2043722919399018725",
+        "created_at": "2026-04-13T16:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043722919399018725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/medigiggles/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/medigiggles/status/2043356919834837307",
+              "start": 5,
+              "url": "https://t.co/Opn56EZD3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043722919399018725",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043356919834837307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "割手福音 https://t.co/Opn56EZD3d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043356843724906496"
+          ]
+        },
+        "author_id": "1648735957640675343",
+        "conversation_id": "2043356919834837307",
+        "created_at": "2026-04-12T15:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043356919834837307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCRTPBRZZh",
+              "end": 74,
+              "expanded_url": "https://x.com/MediGiggles/status/2043356919834837307/video/1",
+              "media_key": "13_2043356843724906496",
+              "start": 51,
+              "url": "https://t.co/aCRTPBRZZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043356919834837307",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 308,
+          "impression_count": 1225429,
+          "like_count": 760,
+          "quote_count": 68,
+          "reply_count": 87,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "No stitches, no scars. This laser works it magic 🪄 https://t.co/aCRTPBRZZh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 213,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 208
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T17:11:13.000Z",
+        "description": "Your go to account for trending videos, laughs and shareable content.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "premium.chat/mediaa",
+                "end": 23,
+                "expanded_url": "https://premium.chat/mediaa",
+                "start": 0,
+                "url": "https://t.co/09zHZQYeXh"
+              }
+            ]
+          }
+        },
+        "id": "1648735957640675343",
+        "location": "Rwanda",
+        "name": "Meda",
+        "pinned_tweet_id": "2043402093851984199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024209243495075842/wVm8aqvX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 1307,
+          "like_count": 6752,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 11039
+        },
+        "url": "https://t.co/09zHZQYeXh",
+        "username": "MediGiggles",
+        "verified": true
+      }
+    ]
+  }
+}

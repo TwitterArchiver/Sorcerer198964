@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2044810306569081193",
+    "created_at": "2026-04-16T16:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044810306569081193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/claudeai/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/claudeai/status/2044785261393977612",
+          "start": 5,
+          "url": "https://t.co/kz2wFFyWEu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044810306569081193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044785261393977612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "亦可赛艇 https://t.co/kz2wFFyWEu"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Claude Opus 4.7 Benchmarks",
+        "height": 1080,
+        "media_key": "3_2044782364430127104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCGugrXUAAKcHp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2044810306569081193",
+        "created_at": "2026-04-16T16:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044810306569081193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/claudeai/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/claudeai/status/2044785261393977612",
+              "start": 5,
+              "url": "https://t.co/kz2wFFyWEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044810306569081193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044785261393977612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亦可赛艇 https://t.co/kz2wFFyWEu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044782364430127104"
+          ]
+        },
+        "author_id": "1943306828697550848",
+        "conversation_id": "2044785261393977612",
+        "created_at": "2026-04-16T14:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044785261393977612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PtlRdpQcG5",
+              "end": 281,
+              "expanded_url": "https://x.com/claudeai/status/2044785261393977612/photo/1",
+              "media_key": "3_2044782364430127104",
+              "start": 258,
+              "url": "https://t.co/PtlRdpQcG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044785261393977612",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5973,
+          "impression_count": 2940806,
+          "like_count": 42021,
+          "quote_count": 4278,
+          "reply_count": 2722,
+          "retweet_count": 5598
+        },
+        "reply_settings": "everyone",
+        "text": "Introducing Claude Opus 4.7, our most capable Opus model yet.\n\nIt handles long-running tasks with more rigor, follows instructions more precisely, and verifies its own outputs before reporting back.\n\nYou can hand off your hardest work with less supervision. https://t.co/PtlRdpQcG5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 271,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T13:50:48.000Z",
+        "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "anthropicai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 123,
+                "expanded_url": "http://claude.ai",
+                "start": 100,
+                "url": "https://t.co/ZhTwG8d1e5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 23,
+                "expanded_url": "http://claude.ai",
+                "start": 0,
+                "url": "https://t.co/ZhTwG8d1e5"
+              }
+            ]
+          }
+        },
+        "id": "1943306828697550848",
+        "name": "Claude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090015,
+          "following_count": 2,
+          "like_count": 313,
+          "listed_count": 5130,
+          "media_count": 176,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/ZhTwG8d1e5",
+        "username": "claudeai",
+        "verified": true
+      }
+    ]
+  }
+}

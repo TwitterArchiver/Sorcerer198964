@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2047658031760961574",
+    "created_at": "2026-04-24T12:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047658031760961574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1324198319535521795",
+          "start": 3,
+          "username": "KKaWSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047658031760961574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047503293379936632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KKaWSB: 巴西里约热内卢，42岁的埃里卡·维埃拉用轮椅推着她已故的叔叔保罗·罗伯托·布拉加（68岁）来到邦古的一家伊塔乌银行分行。她试图让叔叔签署一份1.7万雷亚尔（约合3000美元）的贷款协议。\n\n银行员工发现叔叔身体僵硬，头部下垂，没有生命体征。他们用监控录像…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76532,
+        "height": 848,
+        "media_key": "13_2047497386067628032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047497386067628032/img/XzjeJu6yud07ztre.jpg",
+        "public_metrics": {
+          "view_count": 365339
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047497386067628032/vid/avc1/320x564/0mEHWRnV_XL9hnCd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047497386067628032/vid/avc1/480x848/aeKT7DehbHgiW4Mr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047497386067628032/pl/jpTgoLhdj0Qzs45Y.m3u8?v=b38"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2047658031760961574",
+        "created_at": "2026-04-24T12:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047658031760961574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1324198319535521795",
+              "start": 3,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047658031760961574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047503293379936632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KKaWSB: 巴西里约热内卢，42岁的埃里卡·维埃拉用轮椅推着她已故的叔叔保罗·罗伯托·布拉加（68岁）来到邦古的一家伊塔乌银行分行。她试图让叔叔签署一份1.7万雷亚尔（约合3000美元）的贷款协议。\n\n银行员工发现叔叔身体僵硬，头部下垂，没有生命体征。他们用监控录像…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047497386067628032"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047503293379936632",
+        "created_at": "2026-04-24T02:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047503293379936632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pQHYJ1Uoxx",
+              "end": 163,
+              "expanded_url": "https://x.com/KKaWSB/status/2047503293379936632/video/1",
+              "media_key": "13_2047497386067628032",
+              "start": 140,
+              "url": "https://t.co/pQHYJ1Uoxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047503293379936632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "巴西里约热内卢，42岁的埃里卡·维埃拉用轮椅推着她已故的叔叔保罗·罗伯托·布拉加（68岁）来到邦古的一家伊塔乌银行分行。她试图让叔叔签署一份1.7万雷亚尔（约合3000美元）的贷款协议。\n\n银行员工发现叔叔身体僵硬，头部下垂，没有生命体征。他们用监控录像记录了整个过程，并报警。\n\n医生确认保罗已经死亡数小时。埃里卡当场被捕，被控亵渎尸体和企图诈骗。她声称自己不知道叔叔已经去世，到达银行时还以为他活着。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 778253,
+          "like_count": 700,
+          "quote_count": 6,
+          "reply_count": 238,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "巴西里约热内卢，42岁的埃里卡·维埃拉用轮椅推着她已故的叔叔保罗·罗伯托·布拉加（68岁）来到邦古的一家伊塔乌银行分行。她试图让叔叔签署一份1.7万雷亚尔（约合3000美元）的贷款协议。\n\n银行员工发现叔叔身体僵硬，头部下垂，没有生命体征。他们用监控录像记录了整个过程，并报警。 https://t.co/pQHYJ1Uoxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 360,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 627
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder @ CarbonSilicon AI | AI Quant Trading | Based in Palo Alto | 加密投研 | 美股 | 科技 | 宏观",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SilentFleetKK",
+                "end": 23,
+                "expanded_url": "https://github.com/SilentFleetKK",
+                "start": 0,
+                "url": "https://t.co/TpeTVm0jBT"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79252,
+          "following_count": 2883,
+          "like_count": 9259,
+          "listed_count": 662,
+          "media_count": 6202,
+          "tweet_count": 12587
+        },
+        "url": "https://t.co/TpeTVm0jBT",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

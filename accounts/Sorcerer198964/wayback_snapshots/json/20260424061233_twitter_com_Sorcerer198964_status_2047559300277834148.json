@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2047559300277834148",
+    "created_at": "2026-04-24T06:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047559300277834148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuanrpa/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yuanrpa/status/2042102314392277465",
+          "start": 5,
+          "url": "https://t.co/UMMceBYBtp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047559300277834148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042102314392277465",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了 https://t.co/UMMceBYBtp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2047559300277834148",
+        "created_at": "2026-04-24T06:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047559300277834148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuanrpa/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yuanrpa/status/2042102314392277465",
+              "start": 5,
+              "url": "https://t.co/UMMceBYBtp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047559300277834148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042102314392277465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/UMMceBYBtp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778293240132759552",
+        "conversation_id": "2041475934608380289",
+        "created_at": "2026-04-09T04:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042102314392277465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Coxe_Pica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042102314392277465",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 488,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041475934608380289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coxe_Pica 请发蛋蛋照片证明自己不是唐毓文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 359,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 619
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T05:27:02.000Z",
+        "description": "芋圆圆🥺😭🥵😍😋😡😈 发的东西虽然有点煌，但是墙内也能过审，所以不算😈/讨厌：赌，毒，鉴政，伤害，od/",
+        "id": "1778293240132759552",
+        "location": "福建",
+        "name": "芋圆圆🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004816052107333632/JyJWS9kB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 456,
+          "like_count": 7924,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 3481
+        },
+        "username": "Yuanrpa",
+        "verified": false
+      }
+    ]
+  }
+}

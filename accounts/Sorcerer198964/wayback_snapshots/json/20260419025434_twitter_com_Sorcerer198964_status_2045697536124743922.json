@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2045697536124743922",
+    "created_at": "2026-04-19T02:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T03:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045697536124743922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1608781688775245825",
+          "start": 3,
+          "username": "YekaseSuiso2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045697536124743922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045691500890366173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YekaseSuiso2022: Hi我想分享服用奥斯康定40mg 普瑞700mg 愚昧片48t之后造成呼吸抑制和心律失常的案例，只能说幸好有呼吸机和监护设备。\n愿意尝试的各位，请想想爱你的人：\n[2026/4/19 10:19] 忌子: 失去生命特征\n[2026/4/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2045690291659956224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPAe1LbYAAo_Wm.png",
+        "width": 591
+      },
+      {
+        "height": 620,
+        "media_key": "3_2045690359766990848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPAiy5aQAAMPYf.png",
+        "width": 587
+      },
+      {
+        "height": 627,
+        "media_key": "3_2045690464788160512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPAo6IaIAAAFXN.png",
+        "width": 594
+      },
+      {
+        "height": 198,
+        "media_key": "3_2045690630106710016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPAyh_bAAAuT4A.png",
+        "width": 609
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2045697536124743922",
+        "created_at": "2026-04-19T02:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045697536124743922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1608781688775245825",
+              "start": 3,
+              "username": "YekaseSuiso2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045697536124743922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045691500890366173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YekaseSuiso2022: Hi我想分享服用奥斯康定40mg 普瑞700mg 愚昧片48t之后造成呼吸抑制和心律失常的案例，只能说幸好有呼吸机和监护设备。\n愿意尝试的各位，请想想爱你的人：\n[2026/4/19 10:19] 忌子: 失去生命特征\n[2026/4/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045690291659956224",
+            "3_2045690359766990848",
+            "3_2045690464788160512",
+            "3_2045690630106710016"
+          ]
+        },
+        "author_id": "1608781688775245825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045691500890366173",
+        "created_at": "2026-04-19T02:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045691500890366173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9VdLe4P5pN",
+              "end": 221,
+              "expanded_url": "https://x.com/YekaseSuiso2022/status/2045691500890366173/photo/1",
+              "media_key": "3_2045690291659956224",
+              "start": 198,
+              "url": "https://t.co/9VdLe4P5pN"
+            },
+            {
+              "display_url": "pic.x.com/9VdLe4P5pN",
+              "end": 221,
+              "expanded_url": "https://x.com/YekaseSuiso2022/status/2045691500890366173/photo/1",
+              "media_key": "3_2045690359766990848",
+              "start": 198,
+              "url": "https://t.co/9VdLe4P5pN"
+            },
+            {
+              "display_url": "pic.x.com/9VdLe4P5pN",
+              "end": 221,
+              "expanded_url": "https://x.com/YekaseSuiso2022/status/2045691500890366173/photo/1",
+              "media_key": "3_2045690464788160512",
+              "start": 198,
+              "url": "https://t.co/9VdLe4P5pN"
+            },
+            {
+              "display_url": "pic.x.com/9VdLe4P5pN",
+              "end": 221,
+              "expanded_url": "https://x.com/YekaseSuiso2022/status/2045691500890366173/photo/1",
+              "media_key": "3_2045690630106710016",
+              "start": 198,
+              "url": "https://t.co/9VdLe4P5pN"
+            },
+            {
+              "display_url": "x.com/Sorcerer198964…",
+              "end": 245,
+              "expanded_url": "https://twitter.com/Sorcerer198964/status/2045400037606486078",
+              "start": 222,
+              "url": "https://t.co/jDQsIiNmSt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045691500890366173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Hi我想分享服用奥斯康定40mg 普瑞700mg 愚昧片48t之后造成呼吸抑制和心律失常的案例，只能说幸好有呼吸机和监护设备。\n愿意尝试的各位，请想想爱你的人：\n[2026/4/19 10:19] 忌子: 失去生命特征\n[2026/4/19 10:19] 忌子: 又救活了\n[2026/4/19 10:20] Lin Verse: 嗯呢\n[2026/4/19 10:24] Lin Verse: 现在怎么样了\n[2026/4/19 10:29] Lin Verse: 抱抱你"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045400037606486078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Hi我想分享服用奥斯康定40mg 普瑞700mg 愚昧片48t之后造成呼吸抑制和心律失常的案例，只能说幸好有呼吸机和监护设备。\n愿意尝试的各位，请想想爱你的人：\n[2026/4/19 10:19] 忌子: 失去生命特征\n[2026/4/19 10:19] 忌子: 又救活了\n[2026/4/19 10:20] Lin Verse: 嗯呢\n[2026/4/19 10:24] Lin Verse: https://t.co/9VdLe4P5pN https://t.co/jDQsIiNmSt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 302,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T11:07:57.000Z",
+        "description": "🏳️‍🌈💊//在中中國人//醫療戀物癖//多意識體//​I can eat sodium nitrite, it does not hurt me.//Wife @LolingVerse @nozomixlr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "LolingVerse"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "nozomixlr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tulpa.cn",
+                "end": 23,
+                "expanded_url": "https://tulpa.cn/",
+                "start": 0,
+                "url": "https://t.co/Y2RsCWDFE0"
+              }
+            ]
+          }
+        },
+        "id": "1608781688775245825",
+        "location": "Home ICU",
+        "name": "貓塚千明🍨🍥",
+        "pinned_tweet_id": "2042971228210893257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035449774409961472/2LF4vjk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 543,
+          "like_count": 3159,
+          "listed_count": 6,
+          "media_count": 21,
+          "tweet_count": 165
+        },
+        "url": "https://t.co/Y2RsCWDFE0",
+        "username": "YekaseSuiso2022",
+        "verified": true
+      }
+    ]
+  }
+}

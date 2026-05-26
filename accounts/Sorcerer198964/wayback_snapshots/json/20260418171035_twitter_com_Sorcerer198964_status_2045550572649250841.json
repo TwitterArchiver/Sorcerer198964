@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2045550572649250841",
+    "created_at": "2026-04-18T17:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045550572649250841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianjia9775886…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/jianjia97758868/status/2045333060753957209",
+          "start": 50,
+          "url": "https://t.co/68NCd0IMVP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045550572649250841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045333060753957209",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实很正常\n中东那块地很多酸奶/酸奶酪上面放橄榄油和调味油的，我觉得很好吃\n除了贵外创意其实还不错 https://t.co/68NCd0IMVP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1593,
+        "media_key": "3_2045333006970454016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJ7iH_bAAAAKz7.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2045550572649250841",
+        "created_at": "2026-04-18T17:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045550572649250841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianjia9775886…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/jianjia97758868/status/2045333060753957209",
+              "start": 50,
+              "url": "https://t.co/68NCd0IMVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045550572649250841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045333060753957209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实很正常\n中东那块地很多酸奶/酸奶酪上面放橄榄油和调味油的，我觉得很好吃\n除了贵外创意其实还不错 https://t.co/68NCd0IMVP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045333006970454016"
+          ]
+        },
+        "author_id": "1481853057550159872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045333060753957209",
+        "created_at": "2026-04-18T02:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045333060753957209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dQX09Ibdgl",
+              "end": 38,
+              "expanded_url": "https://x.com/jianjia97758868/status/2045333060753957209/photo/1",
+              "media_key": "3_2045333006970454016",
+              "start": 15,
+              "url": "https://t.co/dQX09Ibdgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045333060753957209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "油泼辣子咸酸奶碗？这靠谱吗👀 https://t.co/dQX09Ibdgl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 301,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T04:58:10.000Z",
+        "description": "世界那么大，我却遇上了你～～\n面向阳光，拔节生长",
+        "id": "1481853057550159872",
+        "name": "蒹葭（互fo🇨🇳必回💞）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584790827515117569/wh4K0wPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33658,
+          "following_count": 21828,
+          "like_count": 62338,
+          "listed_count": 31,
+          "media_count": 30254,
+          "tweet_count": 39152
+        },
+        "username": "jianjia97758868",
+        "verified": false
+      }
+    ]
+  }
+}

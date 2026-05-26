@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2045536323495444813",
+    "created_at": "2026-04-18T16:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T17:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045536323495444813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_vector_fox/st…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/_vector_fox/status/2045168346057130218",
+          "start": 130,
+          "url": "https://t.co/wvkgwbP0Ta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045536323495444813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045168346057130218",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是一条比较好看的三角巾啊！所以这是怎么和福瑞扯上联系的？\n这三角巾确实挺好看的但是720一条和抢没区别，还逼逼赖赖那么多废话找理由，又不是什么高新技术奢侈品\n我自己也有几条丝巾，材质是羊绒和真丝，你拿出来比比质量嘛\n虽然我几乎从来没有用过因为感觉不太适合我 https://t.co/wvkgwbP0Ta"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1388,
+        "media_key": "3_2045168338809274368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHlxLSaQAAusMR.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2045536323495444813",
+        "created_at": "2026-04-18T16:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045536323495444813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_vector_fox/st…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/_vector_fox/status/2045168346057130218",
+              "start": 130,
+              "url": "https://t.co/wvkgwbP0Ta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045536323495444813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045168346057130218",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是一条比较好看的三角巾啊！所以这是怎么和福瑞扯上联系的？\n这三角巾确实挺好看的但是720一条和抢没区别，还逼逼赖赖那么多废话找理由，又不是什么高新技术奢侈品\n我自己也有几条丝巾，材质是羊绒和真丝，你拿出来比比质量嘛\n虽然我几乎从来没有用过因为感觉不太适合我 https://t.co/wvkgwbP0Ta"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045168338809274368"
+          ]
+        },
+        "author_id": "1043812040597549056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045168346057130218",
+        "created_at": "2026-04-17T15:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045168346057130218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1lUrChzRfi",
+              "end": 87,
+              "expanded_url": "https://x.com/_vector_fox/status/2045168346057130218/photo/1",
+              "media_key": "3_2045168338809274368",
+              "start": 64,
+              "url": "https://t.co/1lUrChzRfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045168346057130218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 80083,
+          "like_count": 125,
+          "quote_count": 44,
+          "reply_count": 138,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我们上架了一款720元的三角巾\n淘宝搜索店铺【向量空间】\n这次是一个憋了好久的新品\n\n评论区抽一个送一条\n感谢大家对向量的喜爱 https://t.co/1lUrChzRfi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 301,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 419
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-23T10:39:18.000Z",
+        "description": "黄狐狸的理想主义是每天都开心做自己❤️",
+        "id": "1043812040597549056",
+        "location": "FoxNest-狐狸窝",
+        "name": "向量_Vector",
+        "pinned_tweet_id": "1910690423494107151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679922272717668352/4sOeluV4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14066,
+          "following_count": 557,
+          "like_count": 34203,
+          "listed_count": 28,
+          "media_count": 1499,
+          "tweet_count": 6656
+        },
+        "username": "_vector_fox",
+        "verified": false
+      }
+    ]
+  }
+}

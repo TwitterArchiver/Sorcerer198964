@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2046214569836839384",
+    "created_at": "2026-04-20T13:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046214569836839384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/icy_rainy_day/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/icy_rainy_day/status/2046043787374608597",
+          "start": 23,
+          "url": "https://t.co/2J8RT2s6ih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046214569836839384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046043787374608597",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啥也不知道就知道事情成了\n能不能给点信息来源 https://t.co/2J8RT2s6ih"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2046214569836839384",
+        "created_at": "2026-04-20T13:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046214569836839384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/icy_rainy_day/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/icy_rainy_day/status/2046043787374608597",
+              "start": 23,
+              "url": "https://t.co/2J8RT2s6ih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046214569836839384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046043787374608597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啥也不知道就知道事情成了\n能不能给点信息来源 https://t.co/2J8RT2s6ih"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2921369334",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hybrid and electric vehicles",
+              "id": "847528576551337984",
+              "name": "Hybrid and electric vehicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Luxury",
+              "id": "847528646185070592",
+              "name": "Luxury Cars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "2046043787374608597",
+        "created_at": "2026-04-20T01:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046043787374608597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siliconcarnesf…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/siliconcarnesf/status/2045829765077021136",
+              "start": 140,
+              "url": "https://t.co/OSKargsZdH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046043787374608597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "马斯克刚刚转了这段推文：\n\n特斯拉刚投产了美国第一座大型锂精炼厂，马斯克抛弃了标准方法，完全重新设计了整个工艺。\n\n这座精炼厂无需硫酸，仅六道工序而非传统的八到十二道，年产能可支持一百万辆电动车，最终达到50 GWh。无需处理有毒的硫酸钠，只剩一种叫analcime的惰性矿渣。\n\n这听起来像是在讲故事，但投资十亿美元的工厂确实从一月份起就开始了运转。\n\n这是对十五年来依赖中国精炼的回应。中国控制着全球大部分精炼锂，不是因为它拥有矿藏，而是因为它吸收了西方公司不愿承担的环境外部特性。特斯拉证明了可以解决这个问题而不需要补贴。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 139992,
+          "like_count": 631,
+          "quote_count": 8,
+          "reply_count": 68,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045829765077021136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马斯克刚刚转了这段推文：\n\n特斯拉刚投产了美国第一座大型锂精炼厂，马斯克抛弃了标准方法，完全重新设计了整个工艺。\n\n这座精炼厂无需硫酸，仅六道工序而非传统的八到十二道，年产能可支持一百万辆电动车，最终达到50 GWh。无需处理有毒的硫酸钠，只剩一种叫analcime的惰性矿渣。 https://t.co/OSKargsZdH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 321,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-07T07:53:45.000Z",
+        "description": "有时胡扯几句",
+        "id": "2921369334",
+        "location": "Japan",
+        "name": "冰冷雨天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011073792358170634/96TotdP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8732,
+          "following_count": 58,
+          "like_count": 4203,
+          "listed_count": 54,
+          "media_count": 731,
+          "tweet_count": 7656
+        },
+        "username": "icy_rainy_day",
+        "verified": true
+      }
+    ]
+  }
+}

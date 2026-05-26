@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2049765707101958249",
+    "created_at": "2026-04-30T08:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049765707101958249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satireorcry1/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/satireorcry1/status/2049746166292611079",
+          "start": 16,
+          "url": "https://t.co/mLp06GcmW3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049765707101958249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049746166292611079",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "非洲区一大堆\n娜娜有点没见识了 https://t.co/mLp06GcmW3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049746157329362944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIpRSNWsAA4d1I.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2049765707101958249",
+        "created_at": "2026-04-30T08:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049765707101958249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2049746166292611079",
+              "start": 16,
+              "url": "https://t.co/mLp06GcmW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049765707101958249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049746166292611079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非洲区一大堆\n娜娜有点没见识了 https://t.co/mLp06GcmW3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049746157329362944"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2049746166292611079",
+        "created_at": "2026-04-30T07:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049746166292611079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OvH2NJTZ4G",
+              "end": 43,
+              "expanded_url": "https://x.com/satireorcry1/status/2049746166292611079/photo/1",
+              "media_key": "3_2049746157329362944",
+              "start": 20,
+              "url": "https://t.co/OvH2NJTZ4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049746166292611079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6416,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在广州都有手机店卖自带VPN的流量卡！ https://t.co/OvH2NJTZ4G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 397,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 805
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24257,
+          "following_count": 1562,
+          "like_count": 14541,
+          "listed_count": 59,
+          "media_count": 2914,
+          "tweet_count": 4314
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2050489971690119409",
+    "created_at": "2026-05-02T08:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050489971690119409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer198964"
+        },
+        {
+          "end": 36,
+          "id": "1835139537418567680",
+          "start": 20,
+          "username": "WellingtonPixel"
+        },
+        {
+          "end": 48,
+          "id": "1775878630033502208",
+          "start": 37,
+          "username": "Xx15573208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050489971690119409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050489948126560653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer198964: @WellingtonPixel @Xx15573208 黄金\n毕竟给的太多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2050489971690119409",
+        "created_at": "2026-05-02T08:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050489971690119409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer198964"
+            },
+            {
+              "end": 36,
+              "id": "1835139537418567680",
+              "start": 20,
+              "username": "WellingtonPixel"
+            },
+            {
+              "end": 48,
+              "id": "1775878630033502208",
+              "start": 37,
+              "username": "Xx15573208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050489971690119409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050489948126560653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer198964: @WellingtonPixel @Xx15573208 黄金\n毕竟给的太多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2050140538389598704",
+        "created_at": "2026-05-02T08:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050489948126560653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            },
+            {
+              "end": 28,
+              "id": "1775878630033502208",
+              "start": 17,
+              "username": "Xx15573208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050489948126560653",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050454416008880177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel @Xx15573208 黄金\n毕竟给的太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 409,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "Pretium Laborum Non Vile. | Non Aliud.\n温和自由派。社会自由主义者。\nGlory to be Republic of China.\n家猫： @KUKMonarchy8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "KUKMonarchy8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wellingtonpixel",
+                "end": 23,
+                "expanded_url": "https://t.me/wellingtonpixel",
+                "start": 0,
+                "url": "https://t.co/u4ZrWlpK4l"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Comodoro Rivadavia, Argentina",
+        "name": "🇹🇼Wellington † Pixel",
+        "pinned_tweet_id": "2045134767503335851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050126880762728449/sAR3x3pB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 4494,
+          "like_count": 15137,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 2725
+        },
+        "url": "https://t.co/u4ZrWlpK4l",
+        "username": "WellingtonPixel",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-04T13:30:47.000Z",
+        "description": "🤠从来不向任何人透露真名的杰洛|\n🧱985做题区大学失业率重要贡献者|\n🏋️健身教练下海想当福利鸭转型失败|\n🤖零基础幻想跨考408的AI新手小白|",
+        "id": "1775878630033502208",
+        "name": "Gyro｜AI Spinning",
+        "pinned_tweet_id": "2046268148513636403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044379320693452800/G6i6A9QI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 327,
+          "like_count": 913,
+          "listed_count": 5,
+          "media_count": 259,
+          "tweet_count": 1763
+        },
+        "username": "Xx15573208",
+        "verified": true
+      }
+    ]
+  }
+}

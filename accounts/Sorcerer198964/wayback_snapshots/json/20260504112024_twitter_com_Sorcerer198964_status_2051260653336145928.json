@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051161681343156225"
+      ],
+      "media_source_tweet_id": [
+        "2051162861024719096"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045599570",
+          "name": "Interactive Brokers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "2051260653336145928",
+    "created_at": "2026-05-04T11:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T12:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051260653336145928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1632261908178046977",
+          "start": 3,
+          "username": "artinmemes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7bBsKyhRnN",
+          "end": 84,
+          "expanded_url": "https://x.com/artinmemes/status/2051162861024719096/photo/1",
+          "media_key": "3_2051161681343156225",
+          "start": 61,
+          "url": "https://t.co/7bBsKyhRnN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051260653336145928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051162861024719096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @artinmemes: ibkr这波开韩股对得起所有人了\n\n当时海力士冲进去的都有10%以上收益\n\nfomo狂喜 https://t.co/7bBsKyhRnN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1639,
+        "media_key": "3_2051161681343156225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcwroFaEAEEM29.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051161681343156225"
+          ],
+          "media_source_tweet_id": [
+            "2051162861024719096"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045599570",
+              "name": "Interactive Brokers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2051260653336145928",
+        "created_at": "2026-05-04T11:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051260653336145928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1632261908178046977",
+              "start": 3,
+              "username": "artinmemes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bBsKyhRnN",
+              "end": 84,
+              "expanded_url": "https://x.com/artinmemes/status/2051162861024719096/photo/1",
+              "media_key": "3_2051161681343156225",
+              "start": 61,
+              "url": "https://t.co/7bBsKyhRnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051260653336145928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051162861024719096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @artinmemes: ibkr这波开韩股对得起所有人了\n\n当时海力士冲进去的都有10%以上收益\n\nfomo狂喜 https://t.co/7bBsKyhRnN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051161681343156225"
+          ]
+        },
+        "author_id": "1632261908178046977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045599570",
+              "name": "Interactive Brokers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2051162861024719096",
+        "created_at": "2026-05-04T04:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051162861024719096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bBsKyhRnN",
+              "end": 68,
+              "expanded_url": "https://x.com/artinmemes/status/2051162861024719096/photo/1",
+              "media_key": "3_2051161681343156225",
+              "start": 45,
+              "url": "https://t.co/7bBsKyhRnN"
+            },
+            {
+              "display_url": "x.com/artinmemes/sta…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/artinmemes/status/2048940904749424857",
+              "start": 69,
+              "url": "https://t.co/OpCcnG7UQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051162861024719096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 34616,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048940904749424857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ibkr这波开韩股对得起所有人了\n\n当时海力士冲进去的都有10%以上收益\n\nfomo狂喜 https://t.co/7bBsKyhRnN https://t.co/OpCcnG7UQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 445,
+          "like_count": 294,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1031
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T06:09:19.000Z",
+        "description": "投资丛林里的狩猎者。无CRS炒美股上盈透：https://t.co/cyPjUofsCJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "interactivebrokers.com/mkt/?src=ussto…",
+                "end": 44,
+                "expanded_url": "https://www.interactivebrokers.com/mkt/?src=usstokX&url=%2Fcn%2Fwhyib%2Foverview.php",
+                "start": 21,
+                "url": "https://t.co/cyPjUofsCJ"
+              }
+            ]
+          }
+        },
+        "id": "1632261908178046977",
+        "name": "美股OK哥",
+        "pinned_tweet_id": "2044611884054454294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838932235090907136/g6-1v5Vb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69890,
+          "following_count": 30,
+          "like_count": 553,
+          "listed_count": 819,
+          "media_count": 834,
+          "tweet_count": 1865
+        },
+        "username": "artinmemes",
+        "verified": true
+      }
+    ]
+  }
+}

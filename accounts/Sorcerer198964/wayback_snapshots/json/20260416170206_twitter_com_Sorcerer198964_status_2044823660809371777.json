@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2044823660809371777",
+    "created_at": "2026-04-16T17:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T18:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044823660809371777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2044589090507739509",
+          "start": 31,
+          "url": "https://t.co/zOdvw7lC5i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044823660809371777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044589090507739509",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这玩意根本没人看\n我高中的时候收到的类似读物第一时间扔垃圾桶 https://t.co/zOdvw7lC5i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1778,
+        "media_key": "3_2044517598143172608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-V7FZb0AADi1P.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1778,
+        "media_key": "3_2044517616585232384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-V8KGXUAADkOG.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1778,
+        "media_key": "3_2044517632804577280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-V9GhW4AAUmzb.jpg",
+        "width": 1000
+      },
+      {
+        "height": 2116,
+        "media_key": "3_2044517644284342272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-V9xSWMAAUqMv.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2044823660809371777",
+        "created_at": "2026-04-16T17:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044823660809371777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2044589090507739509",
+              "start": 31,
+              "url": "https://t.co/zOdvw7lC5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044823660809371777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044589090507739509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这玩意根本没人看\n我高中的时候收到的类似读物第一时间扔垃圾桶 https://t.co/zOdvw7lC5i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044517598143172608",
+            "3_2044517616585232384",
+            "3_2044517632804577280",
+            "3_2044517644284342272"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2044589090507739509",
+        "created_at": "2026-04-16T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044589090507739509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGkdElsS92",
+              "end": 159,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2044589090507739509/photo/1",
+              "media_key": "3_2044517598143172608",
+              "start": 136,
+              "url": "https://t.co/iGkdElsS92"
+            },
+            {
+              "display_url": "pic.x.com/iGkdElsS92",
+              "end": 159,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2044589090507739509/photo/1",
+              "media_key": "3_2044517616585232384",
+              "start": 136,
+              "url": "https://t.co/iGkdElsS92"
+            },
+            {
+              "display_url": "pic.x.com/iGkdElsS92",
+              "end": 159,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2044589090507739509/photo/1",
+              "media_key": "3_2044517632804577280",
+              "start": 136,
+              "url": "https://t.co/iGkdElsS92"
+            },
+            {
+              "display_url": "pic.x.com/iGkdElsS92",
+              "end": 159,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2044589090507739509/photo/1",
+              "media_key": "3_2044517644284342272",
+              "start": 136,
+              "url": "https://t.co/iGkdElsS92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044589090507739509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最新国安读本教小学生 \"党的领导\"\n4月14日，教育部宣布，《国家安全教育中小学生读本》正式出版发行。\n\n小学上册引导学生理解 \"国家的安全稳定是在党的领导下各行各业共同努力结果\"。\n\n初中读本引导学生初步树立 \"国家利益至上\" 观念。\n\n高中读本围绕\"十个坚持\"展开。\n\n教育部要求各校将该读本与《习近平新时代中国特色社会主义思想学生读本》及思政课教材配套使用。\n\n《环球时报》引述中国现代国际关系研究院研究员李伟称，维护国安\"必须从小开始\"。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 67197,
+          "like_count": 298,
+          "quote_count": 4,
+          "reply_count": 70,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "最新国安读本教小学生 \"党的领导\"\n4月14日，教育部宣布，《国家安全教育中小学生读本》正式出版发行。\n\n小学上册引导学生理解 \"国家的安全稳定是在党的领导下各行各业共同努力结果\"。\n\n初中读本引导学生初步树立 \"国家利益至上\" 观念。\n\n高中读本围绕\"十个坚持\"展开。 https://t.co/iGkdElsS92"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 273,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194541,
+          "following_count": 1029,
+          "like_count": 9408,
+          "listed_count": 8617,
+          "media_count": 45361,
+          "tweet_count": 52443
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

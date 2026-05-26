@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2043663577849221396",
+    "created_at": "2026-04-13T12:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043663577849221396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/banfbm/status/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/banfbm/status/2041999458368426228",
+          "start": 13,
+          "url": "https://t.co/W1qxPyTwwk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043663577849221396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041999458368426228",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "比那个氢弹的威力还要大！ https://t.co/W1qxPyTwwk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20546,
+        "height": 1076,
+        "media_key": "13_2041999355134001152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041999355134001152/img/eju1oNuVoUCWWuQE.jpg",
+        "public_metrics": {
+          "view_count": 4405
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041999355134001152/vid/avc1/320x478/dkhNjvYJnA7noAwi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041999355134001152/vid/avc1/480x716/EUJZeZ_jLbb2LNau.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041999355134001152/vid/avc1/720x1076/KDbm4jidYvcU1BxB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041999355134001152/pl/niP9eXHWqMV1_6s3.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 7000,
+        "height": 522,
+        "media_key": "13_2041999355125587968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041999355125587968/img/2D4kyQFpkJuwPQVv.jpg",
+        "public_metrics": {
+          "view_count": 1243
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041999355125587968/vid/avc1/372x270/v1berBk6VLyRhedI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041999355125587968/vid/avc1/496x360/18eQBmpEMfTchadE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041999355125587968/vid/avc1/720x522/k_MRIw1ZmlKJSk_G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041999355125587968/pl/z5BCNxTKbyO2L7V-.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 41166,
+        "height": 1280,
+        "media_key": "13_2041999355251466240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041999355251466240/img/q9bukRBG7236snmo.jpg",
+        "public_metrics": {
+          "view_count": 1431
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041999355251466240/vid/avc1/320x568/9HobyIxIkmHcTnuz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041999355251466240/vid/avc1/480x852/cKdhIZZlNz5_MYDe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041999355251466240/vid/avc1/720x1280/FnhbX2LB7v6ChbQg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041999355251466240/pl/fC_uUX8Dfjm7F_SD.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 25634,
+        "height": 1280,
+        "media_key": "13_2041999355138252800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041999355138252800/img/JCf13oxdIbroE4CC.jpg",
+        "public_metrics": {
+          "view_count": 1395
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041999355138252800/vid/avc1/320x640/CClDWl26gyEAQr2O.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041999355138252800/vid/avc1/480x960/xHn1Or-qszBvgsGW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041999355138252800/vid/avc1/640x1280/_QxKnDO0QyoItJbl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041999355138252800/pl/0q-U8f_tEpPggDI8.m3u8?v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2043663577849221396",
+        "created_at": "2026-04-13T12:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043663577849221396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/banfbm/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/banfbm/status/2041999458368426228",
+              "start": 13,
+              "url": "https://t.co/W1qxPyTwwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043663577849221396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041999458368426228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比那个氢弹的威力还要大！ https://t.co/W1qxPyTwwk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041999355134001152",
+            "13_2041999355125587968",
+            "13_2041999355251466240",
+            "13_2041999355138252800"
+          ]
+        },
+        "author_id": "1998324130484203521",
+        "conversation_id": "2041999458368426228",
+        "created_at": "2026-04-08T21:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041999458368426228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6DCBgYDyy",
+              "end": 130,
+              "expanded_url": "https://x.com/BANFBM/status/2041999458368426228/video/1",
+              "media_key": "13_2041999355134001152",
+              "start": 107,
+              "url": "https://t.co/q6DCBgYDyy"
+            },
+            {
+              "display_url": "pic.x.com/q6DCBgYDyy",
+              "end": 130,
+              "expanded_url": "https://x.com/BANFBM/status/2041999458368426228/video/1",
+              "media_key": "13_2041999355125587968",
+              "start": 107,
+              "url": "https://t.co/q6DCBgYDyy"
+            },
+            {
+              "display_url": "pic.x.com/q6DCBgYDyy",
+              "end": 130,
+              "expanded_url": "https://x.com/BANFBM/status/2041999458368426228/video/1",
+              "media_key": "13_2041999355251466240",
+              "start": 107,
+              "url": "https://t.co/q6DCBgYDyy"
+            },
+            {
+              "display_url": "pic.x.com/q6DCBgYDyy",
+              "end": 130,
+              "expanded_url": "https://x.com/BANFBM/status/2041999458368426228/video/1",
+              "media_key": "13_2041999355138252800",
+              "start": 107,
+              "url": "https://t.co/q6DCBgYDyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041999458368426228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 178760,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "2026年4月7日下午3点左右，缅甸 佤邦首府邦康市永定乡附近的永邦炸药厂发生剧烈爆炸，爆炸威力巨大，网传伤亡人数大约200人左右，包含平民与工作人员，有人怀疑事件是因为炸药运输车或仓库引爆的，具体原因正在调查！ https://t.co/q6DCBgYDyy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 208,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 198
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T09:30:06.000Z",
+        "description": "颠倒众生！💥 友情：罗翔猛料频道：https://t.co/U8f0w1l492",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/LUOXIANG_PMTQ",
+                "end": 40,
+                "expanded_url": "https://t.me/LUOXIANG_PMTQ",
+                "start": 17,
+                "url": "https://t.co/U8f0w1l492"
+              }
+            ]
+          }
+        },
+        "id": "1998324130484203521",
+        "location": "罗马尼亚",
+        "name": "半圣半魔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998329718051840000/1QgutR1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 193,
+          "like_count": 647,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 406
+        },
+        "username": "BANFBM",
+        "verified": true
+      }
+    ]
+  }
+}

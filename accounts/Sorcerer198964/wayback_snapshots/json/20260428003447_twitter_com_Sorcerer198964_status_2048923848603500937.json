@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048923836444553216"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2048923848603500937",
+    "created_at": "2026-04-28T00:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T01:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048923848603500937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ftK7rg6WDZ",
+          "end": 51,
+          "expanded_url": "https://x.com/Sorcerer198964/status/2048923848603500937/photo/1",
+          "media_key": "3_2048923836444553216",
+          "start": 28,
+          "url": "https://t.co/ftK7rg6WDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048923848603500937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大AI时代，还有谁记得23年以人性化著称的bing娘？ https://t.co/ftK7rg6WDZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2048923836444553216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG89X6MbsAAXA1R.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048923836444553216"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2048923848603500937",
+        "created_at": "2026-04-28T00:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048923848603500937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftK7rg6WDZ",
+              "end": 51,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2048923848603500937/photo/1",
+              "media_key": "3_2048923836444553216",
+              "start": 28,
+              "url": "https://t.co/ftK7rg6WDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048923848603500937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大AI时代，还有谁记得23年以人性化著称的bing娘？ https://t.co/ftK7rg6WDZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 387,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 738
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

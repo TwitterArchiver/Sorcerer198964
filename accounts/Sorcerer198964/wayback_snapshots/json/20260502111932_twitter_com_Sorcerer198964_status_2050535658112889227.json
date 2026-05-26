@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050535635224559616"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2050535658112889227",
+    "created_at": "2026-05-02T11:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050535658112889227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qE55MfQd9r",
+          "end": 117,
+          "expanded_url": "https://x.com/Sorcerer198964/status/2050535658112889227/photo/1",
+          "media_key": "3_2050535635224559616",
+          "start": 94,
+          "url": "https://t.co/qE55MfQd9r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050535658112889227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出一些HRT药物\n土色：一盒300，散装65/10t\n泰补：一盒200\n国补：一盒30\n以上不包邮\n都比药商便宜百分之10以上\n数量极少（因为是我自用买多了的）\n另外还有展示小药柜环节😋 https://t.co/qE55MfQd9r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050535635224559616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHT3S8jXAAAgVpd.jpg",
+        "width": 1618
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050535635224559616"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2050535658112889227",
+        "created_at": "2026-05-02T11:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050535658112889227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qE55MfQd9r",
+              "end": 117,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2050535658112889227/photo/1",
+              "media_key": "3_2050535635224559616",
+              "start": 94,
+              "url": "https://t.co/qE55MfQd9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050535658112889227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出一些HRT药物\n土色：一盒300，散装65/10t\n泰补：一盒200\n国补：一盒30\n以上不包邮\n都比药商便宜百分之10以上\n数量极少（因为是我自用买多了的）\n另外还有展示小药柜环节😋 https://t.co/qE55MfQd9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 410,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 922
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

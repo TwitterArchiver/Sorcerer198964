@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055496433961512960"
+      ],
+      "media_source_tweet_id": [
+        "2055496466861637702"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040666972",
+          "name": "The New York Times"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10040666972",
+          "name": "The New York Times"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "2055882321987825949",
+    "created_at": "2026-05-17T05:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055882321987825949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2853407766",
+          "start": 3,
+          "username": "zhu0588"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tJBQ3EeR2X",
+          "end": 103,
+          "expanded_url": "https://x.com/zhu0588/status/2055496466861637702/photo/1",
+          "media_key": "3_2055496433961512960",
+          "start": 80,
+          "url": "https://t.co/tJBQ3EeR2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055882321987825949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055496466861637702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhu0588: 2019年6月4日，香港18万人参加最后一次维园六四烛光晚会。\nLam Yik Fei for The New York Times https://t.co/tJBQ3EeR2X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_2055496433961512960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaXHb9bsAAuklO.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055496433961512960"
+          ],
+          "media_source_tweet_id": [
+            "2055496466861637702"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040666972",
+              "name": "The New York Times"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040666972",
+              "name": "The New York Times"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2055882321987825949",
+        "created_at": "2026-05-17T05:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055882321987825949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2853407766",
+              "start": 3,
+              "username": "zhu0588"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJBQ3EeR2X",
+              "end": 103,
+              "expanded_url": "https://x.com/zhu0588/status/2055496466861637702/photo/1",
+              "media_key": "3_2055496433961512960",
+              "start": 80,
+              "url": "https://t.co/tJBQ3EeR2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055882321987825949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055496466861637702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhu0588: 2019年6月4日，香港18万人参加最后一次维园六四烛光晚会。\nLam Yik Fei for The New York Times https://t.co/tJBQ3EeR2X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055496433961512960"
+          ]
+        },
+        "author_id": "2853407766",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040666972",
+              "name": "The New York Times"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040666972",
+              "name": "The New York Times"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2055496466861637702",
+        "created_at": "2026-05-16T03:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055496466861637702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJBQ3EeR2X",
+              "end": 90,
+              "expanded_url": "https://x.com/zhu0588/status/2055496466861637702/photo/1",
+              "media_key": "3_2055496433961512960",
+              "start": 67,
+              "url": "https://t.co/tJBQ3EeR2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055496466861637702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 11164,
+          "like_count": 235,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "2019年6月4日，香港18万人参加最后一次维园六四烛光晚会。\nLam Yik Fei for The New York Times https://t.co/tJBQ3EeR2X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 546,
+          "like_count": 492,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-12T18:27:07.000Z",
+        "description": "中国未来大趋势：经济危机--社会动荡--专制垮台",
+        "id": "2853407766",
+        "name": "朱韵和",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/633313799383060480/3SqyD6-x_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515183,
+          "following_count": 339,
+          "like_count": 961,
+          "listed_count": 1495,
+          "media_count": 62890,
+          "tweet_count": 86606
+        },
+        "username": "zhu0588",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2054442538627469561",
+    "created_at": "2026-05-13T06:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054442538627469561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kkawsb/status/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/kkawsb/status/2054381614906646637",
+          "start": 16,
+          "url": "https://t.co/vbSSdD4RFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054442538627469561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054381614906646637",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赌狗把全家输进贫民窟的怎么不说 https://t.co/vbSSdD4RFv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23500,
+        "height": 1080,
+        "media_key": "13_2054198406688415744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054198406688415744/img/59AzUdG0T4CZe4HH.jpg",
+        "public_metrics": {
+          "view_count": 439958
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054198406688415744/vid/avc1/720x754/SIRXOKVr4UXulwuK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054198406688415744/pl/n-D-e-QYHf9BgMqS.m3u8?v=f2e"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054198406688415744/vid/avc1/480x502/g0vNkluS4nNg207I.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054198406688415744/vid/avc1/1030x1080/k_gsCdOt8xo34R88.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054198406688415744/vid/avc1/320x334/kJqEapHaJ90Yv-YE.mp4"
+          }
+        ],
+        "width": 1030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2054442538627469561",
+        "created_at": "2026-05-13T06:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054442538627469561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kkawsb/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/kkawsb/status/2054381614906646637",
+              "start": 16,
+              "url": "https://t.co/vbSSdD4RFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054442538627469561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054381614906646637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赌狗把全家输进贫民窟的怎么不说 https://t.co/vbSSdD4RFv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054198406688415744"
+          ],
+          "media_source_tweet_id": [
+            "2054198471486263465"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054381614906646637",
+        "created_at": "2026-05-13T02:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054381614906646637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mqYzIbyTXl",
+              "end": 142,
+              "expanded_url": "https://x.com/izamamaa/status/2054198471486263465/video/1",
+              "media_key": "13_2054198406688415744",
+              "start": 119,
+              "url": "https://t.co/mqYzIbyTXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054381614906646637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 82055,
+          "like_count": 231,
+          "quote_count": 3,
+          "reply_count": 42,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "男子在赌场赢了 130 万美元大奖。\n\n他来不及庆祝就拨通电话打给妈妈：“妈，我们要离开这片贫民窟了。明天就走。”\n\n这一刻最打动人的，不是赢钱本身。是一个人终于有能力把家人从旧生活里带出去。\n\n很多暴富故事都很吵，这一个是安静的故事。\nhttps://t.co/mqYzIbyTXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 500,
+          "like_count": 399,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 1320
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co Founder @ CarbonSilicon AI | AI Quant Trading in Palo Alto | 加密投研 | 美股 | 科技 | 政治经济学 | 用趣闻对冲无聊世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SilentFleetKK",
+                "end": 23,
+                "expanded_url": "https://github.com/SilentFleetKK",
+                "start": 0,
+                "url": "https://t.co/TpeTVm0Rrr"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83662,
+          "following_count": 2900,
+          "like_count": 9485,
+          "listed_count": 680,
+          "media_count": 6866,
+          "tweet_count": 13885
+        },
+        "url": "https://t.co/TpeTVm0Rrr",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

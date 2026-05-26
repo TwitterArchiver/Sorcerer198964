@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1575492090816913409",
+          "name": "Paris Baguette"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1354777483782963208",
+          "name": "Sweets & desserts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1354777483782963208",
+          "name": "Sweets & desserts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1354777483782963208",
+          "name": "Sweets & desserts"
+        }
+      }
+    ],
+    "conversation_id": "2046054082637693240",
+    "created_at": "2026-04-20T02:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T03:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046054082637693240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/howlemont/stat…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/howlemont/status/2045981368728097138",
+          "start": 45,
+          "url": "https://t.co/13NBuXhTIs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046054082637693240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045981368728097138",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "并非超甜，这种一看就没吃过法式甜点\n吹亚洲甜点的差不多得了，没有打发奶油表现技法都差很多 https://t.co/13NBuXhTIs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1575492090816913409",
+              "name": "Paris Baguette"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1354777483782963208",
+              "name": "Sweets & desserts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1354777483782963208",
+              "name": "Sweets & desserts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1354777483782963208",
+              "name": "Sweets & desserts"
+            }
+          }
+        ],
+        "conversation_id": "2046054082637693240",
+        "created_at": "2026-04-20T02:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046054082637693240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/howlemont/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/howlemont/status/2045981368728097138",
+              "start": 45,
+              "url": "https://t.co/13NBuXhTIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046054082637693240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045981368728097138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并非超甜，这种一看就没吃过法式甜点\n吹亚洲甜点的差不多得了，没有打发奶油表现技法都差很多 https://t.co/13NBuXhTIs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766683750757519360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1575492090816913409",
+              "name": "Paris Baguette"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1354777483782963208",
+              "name": "Sweets & desserts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1354777483782963208",
+              "name": "Sweets & desserts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1354777483782963208",
+              "name": "Sweets & desserts"
+            }
+          }
+        ],
+        "conversation_id": "2045920568793559133",
+        "created_at": "2026-04-19T21:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T22:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045981368728097138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "215939847",
+              "start": 0,
+              "username": "bboczeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045981368728097138",
+        "in_reply_to_user_id": "215939847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "西方蛋糕一般都做得超甜！糖+奶油+黄油太多了，吃一块就血糖爆炸，容易变大肥猪\n\n这家巴黎贝甜，可能是韩国人开的假法国风Paris Baguette，完美结合法国烘焙技法 + 韩式轻甜水果口味。\n\n咱们亚洲人做蛋糕就完全不一样，水果塞得满满的，糖控得特别低，清新、水润、越吃越好吃，完全不腻人。\n\n法式烘焙的酥脆层次 + 韩国人的清新健康，吃再多也不会胖成波波球～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045920568793559133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bboczeng 西方蛋糕一般都做得超甜！糖+奶油+黄油太多了，吃一块就血糖爆炸，容易变大肥猪\n\n这家巴黎贝甜，可能是韩国人开的假法国风Paris Baguette，完美结合法国烘焙技法 + 韩式轻甜水果口味。\n\n咱们亚洲人做蛋糕就完全不一样，水果塞得满满的，糖控得特别低，清新、水润、越吃越好吃，完全不腻人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045887826638807131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 318,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 488
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T04:37:18.000Z",
+        "description": "复合增长 | Agentic AI 跟进中 | 意识流 | 量基策略 | 场浸ing | 简衣锦行 | 好吃 | 不懒做 | 狗狗好可爱 | https://t.co/ZOXuzZnCkx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "substack.com/@howlemont",
+                "end": 94,
+                "expanded_url": "https://substack.com/@howlemont",
+                "start": 71,
+                "url": "https://t.co/ZOXuzZnCkx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCyGMu…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCyGMulH_sbnKIcTC3IWZqlA",
+                "start": 0,
+                "url": "https://t.co/xC9y4gYRKO"
+              }
+            ]
+          }
+        },
+        "id": "1766683750757519360",
+        "location": "ASTRAL",
+        "name": "皓樂芒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766687190409740288/K5kcLqIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12173,
+          "following_count": 577,
+          "like_count": 2449,
+          "listed_count": 110,
+          "media_count": 483,
+          "tweet_count": 6409
+        },
+        "url": "https://t.co/xC9y4gYRKO",
+        "username": "howlemont",
+        "verified": true
+      }
+    ]
+  }
+}

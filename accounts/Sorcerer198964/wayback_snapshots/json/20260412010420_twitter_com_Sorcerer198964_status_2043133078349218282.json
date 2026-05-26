@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2043133078349218282",
+    "created_at": "2026-04-12T01:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T02:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043133078349218282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shyam_ayurved/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/shyam_ayurved/status/2042820377936908573",
+          "start": 3,
+          "url": "https://t.co/WDC5nULep5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043133078349218282",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042820377936908573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骇人 https://t.co/WDC5nULep5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65266,
+        "height": 1024,
+        "media_key": "13_2035598291661164544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035598291661164544/img/MItcxp861ClbqqfV.jpg",
+        "public_metrics": {
+          "view_count": 5750202
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035598291661164544/vid/avc1/320x568/P8UbCnQh_8mlIMnz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035598291661164544/vid/avc1/480x852/j52QUDC_Ey9xEpkq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035598291661164544/vid/avc1/576x1024/Ob8PxoMKKGUPGLe_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035598291661164544/pl/BycPuHUEVrZqFpfE.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2043133078349218282",
+        "created_at": "2026-04-12T01:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043133078349218282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shyam_ayurved/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/shyam_ayurved/status/2042820377936908573",
+              "start": 3,
+              "url": "https://t.co/WDC5nULep5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043133078349218282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042820377936908573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骇人 https://t.co/WDC5nULep5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035598291661164544"
+          ],
+          "media_source_tweet_id": [
+            "2035598348439134455"
+          ]
+        },
+        "author_id": "1832788948898185216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042820377936908573",
+        "created_at": "2026-04-11T04:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042820377936908573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntwv9FVX1V",
+              "end": 58,
+              "expanded_url": "https://x.com/dokitawaa/status/2035598348439134455/video/1",
+              "media_key": "13_2035598291661164544",
+              "start": 35,
+              "url": "https://t.co/ntwv9FVX1V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042820377936908573",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17895,
+          "impression_count": 11368439,
+          "like_count": 23878,
+          "quote_count": 1022,
+          "reply_count": 1137,
+          "retweet_count": 1811
+        },
+        "reply_settings": "everyone",
+        "text": "Did you know about this procedure? https://t.co/ntwv9FVX1V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 160,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 129
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T14:32:11.000Z",
+        "description": "",
+        "id": "1832788948898185216",
+        "location": "Vapi, India",
+        "name": "Ayurveda With Shyam",
+        "pinned_tweet_id": "2042901172386959384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034819292630589441/GUmDrxj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75588,
+          "following_count": 226,
+          "like_count": 29729,
+          "listed_count": 144,
+          "media_count": 9319,
+          "tweet_count": 42399
+        },
+        "username": "shyam_ayurved",
+        "verified": true
+      }
+    ]
+  }
+}

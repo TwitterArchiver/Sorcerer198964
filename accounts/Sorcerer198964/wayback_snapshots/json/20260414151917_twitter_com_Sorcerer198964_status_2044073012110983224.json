@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2044073012110983224",
+    "created_at": "2026-04-14T15:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044073012110983224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiangyangbmxi/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/xiangyangbmxi/status/2044065188652167668",
+          "start": 7,
+          "url": "https://t.co/GkoyRIy6EM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044073012110983224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044065188652167668",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鸡哥收网了？ https://t.co/GkoyRIy6EM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2044065183296049152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF36dEwa0AA3E0W.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2044073012110983224",
+        "created_at": "2026-04-14T15:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044073012110983224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiangyangbmxi/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/xiangyangbmxi/status/2044065188652167668",
+              "start": 7,
+              "url": "https://t.co/GkoyRIy6EM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044073012110983224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044065188652167668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鸡哥收网了？ https://t.co/GkoyRIy6EM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044065183296049152"
+          ]
+        },
+        "author_id": "1920438574715154432",
+        "conversation_id": "2044065188652167668",
+        "created_at": "2026-04-14T14:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044065188652167668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cU8bQ97tCT",
+              "end": 23,
+              "expanded_url": "https://x.com/xiangyangbmxi/status/2044065188652167668/photo/1",
+              "media_key": "3_2044065183296049152",
+              "start": 0,
+              "url": "https://t.co/cU8bQ97tCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044065188652167668",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cU8bQ97tCT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 226,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:19.000Z",
+        "description": "TG交流群：https://t.co/Q0S9z9tNVv\nDC交流群：https://t.co/HId4n2CV2B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 29,
+                "expanded_url": "https://t.me/weizhanersheng666",
+                "start": 6,
+                "url": "https://t.co/Q0S9z9tNVv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 59,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 36,
+                "url": "https://t.co/HId4n2CV2B"
+              }
+            ]
+          }
+        },
+        "id": "1920438574715154432",
+        "name": "向阳百科",
+        "pinned_tweet_id": "2044019557678100510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 353,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 189
+        },
+        "username": "xiangyangbmxi",
+        "verified": false
+      }
+    ]
+  }
+}

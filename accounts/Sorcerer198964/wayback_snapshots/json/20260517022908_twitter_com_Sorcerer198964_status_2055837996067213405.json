@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055613561024786432"
+      ],
+      "media_source_tweet_id": [
+        "2055800466915647864"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2055837996067213405",
+    "created_at": "2026-05-17T02:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055837996067213405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qvk2cQZo7u",
+          "end": 74,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2055800466915647864/video/1",
+          "media_key": "13_2055613561024786432",
+          "start": 51,
+          "url": "https://t.co/Qvk2cQZo7u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055837996067213405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055800466915647864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 近日，广东省广州市，有网友拍摄到一名儿童被拴在路边的铁柱上。 https://t.co/Qvk2cQZo7u"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25266,
+        "height": 848,
+        "media_key": "13_2055613561024786432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055613561024786432/img/90c5joTizb0csxH9.jpg",
+        "public_metrics": {
+          "view_count": 16148
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055613561024786432/vid/avc1/320x584/u15h451iBHhOC0kn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055613561024786432/vid/avc1/464x848/6sv4j0P5RA4XOpqs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055613561024786432/pl/msjzwVGNOCrTdMES.m3u8?v=36e"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055613561024786432"
+          ],
+          "media_source_tweet_id": [
+            "2055800466915647864"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2055837996067213405",
+        "created_at": "2026-05-17T02:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055837996067213405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qvk2cQZo7u",
+              "end": 74,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2055800466915647864/video/1",
+              "media_key": "13_2055613561024786432",
+              "start": 51,
+              "url": "https://t.co/Qvk2cQZo7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055837996067213405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055800466915647864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 近日，广东省广州市，有网友拍摄到一名儿童被拴在路边的铁柱上。 https://t.co/Qvk2cQZo7u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055613561024786432"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2055800466915647864",
+        "created_at": "2026-05-17T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055800466915647864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qvk2cQZo7u",
+              "end": 54,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2055800466915647864/video/1",
+              "media_key": "13_2055613561024786432",
+              "start": 31,
+              "url": "https://t.co/Qvk2cQZo7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055800466915647864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 35762,
+          "like_count": 186,
+          "quote_count": 5,
+          "reply_count": 83,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "近日，广东省广州市，有网友拍摄到一名儿童被拴在路边的铁柱上。 https://t.co/Qvk2cQZo7u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 545,
+          "like_count": 481,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 1456
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2229145,
+          "following_count": 1055,
+          "like_count": 9552,
+          "listed_count": 8756,
+          "media_count": 46950,
+          "tweet_count": 54069
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

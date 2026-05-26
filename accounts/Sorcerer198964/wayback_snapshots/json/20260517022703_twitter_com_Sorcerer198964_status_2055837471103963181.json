@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055788237004619777"
+      ],
+      "media_source_tweet_id": [
+        "2055789198985113678"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055837471103963181",
+    "created_at": "2026-05-17T02:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055837471103963181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535701819812462600",
+          "start": 3,
+          "username": "Kenntnis22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iEdLxBJ5y9",
+          "end": 115,
+          "expanded_url": "https://x.com/Kenntnis22/status/2055789198985113678/video/1",
+          "media_key": "13_2055788237004619777",
+          "start": 92,
+          "url": "https://t.co/iEdLxBJ5y9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055837471103963181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055789198985113678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenntnis22: 泰国食物犯罪：往打抛饭里加入奇奇怪怪的东西，或者甚至胆敢不加圣罗勒叶😚统统抓起来关❗\n\n光看前2分钟，猜猜这是什么广告❓\n\n泰国广告世界一绝啊哈哈哈😇 https://t.co/iEdLxBJ5y9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 258181,
+        "height": 720,
+        "media_key": "13_2055788237004619777",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055788237004619777/img/mJnp8NYbxR4gA8Hu.jpg",
+        "public_metrics": {
+          "view_count": 3720
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055788237004619777/vid/avc1/480x270/-gurfUuXy-ma6_lq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055788237004619777/vid/avc1/640x360/cUIys04kjw1VqpeJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055788237004619777/vid/avc1/1280x720/v8O-UlfWc-3Qe7mV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055788237004619777/pl/XyqzlGdOcJk0SV0H.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055788237004619777"
+          ],
+          "media_source_tweet_id": [
+            "2055789198985113678"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055837471103963181",
+        "created_at": "2026-05-17T02:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055837471103963181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535701819812462600",
+              "start": 3,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iEdLxBJ5y9",
+              "end": 115,
+              "expanded_url": "https://x.com/Kenntnis22/status/2055789198985113678/video/1",
+              "media_key": "13_2055788237004619777",
+              "start": 92,
+              "url": "https://t.co/iEdLxBJ5y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055837471103963181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055789198985113678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenntnis22: 泰国食物犯罪：往打抛饭里加入奇奇怪怪的东西，或者甚至胆敢不加圣罗勒叶😚统统抓起来关❗\n\n光看前2分钟，猜猜这是什么广告❓\n\n泰国广告世界一绝啊哈哈哈😇 https://t.co/iEdLxBJ5y9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055788237004619777"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "2055789198985113678",
+        "created_at": "2026-05-16T23:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T00:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055789198985113678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iEdLxBJ5y9",
+              "end": 99,
+              "expanded_url": "https://x.com/Kenntnis22/status/2055789198985113678/video/1",
+              "media_key": "13_2055788237004619777",
+              "start": 76,
+              "url": "https://t.co/iEdLxBJ5y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055789198985113678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6216,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "泰国食物犯罪：往打抛饭里加入奇奇怪怪的东西，或者甚至胆敢不加圣罗勒叶😚统统抓起来关❗\n\n光看前2分钟，猜猜这是什么广告❓\n\n泰国广告世界一绝啊哈哈哈😇 https://t.co/iEdLxBJ5y9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 544,
+          "like_count": 481,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2055422375483801829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54883,
+          "following_count": 439,
+          "like_count": 57775,
+          "listed_count": 266,
+          "media_count": 12384,
+          "tweet_count": 18976
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

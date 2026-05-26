@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2049353886205403277",
+    "created_at": "2026-04-29T05:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T06:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049353886205403277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_forab/status/…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/_forab/status/2049314804243058810",
+          "start": 73,
+          "url": "https://t.co/KPUCwERLc9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049353886205403277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049314804243058810",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "马斯克自己ai搞不过别人天天渲染ai风险\n还记得一年多之前马斯克想搞什么ai伦理委员会\n还想暂停三个月ai研究起草风险评估方案\n你看有人鸟他吗？ https://t.co/KPUCwERLc9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 70485,
+        "height": 1080,
+        "media_key": "13_2049310708907876352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049310708907876352/img/4XXlPKFLptGPioGE.jpg",
+        "public_metrics": {
+          "view_count": 88153
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049310708907876352/vid/avc1/480x270/kraaOT0PW-rNq9d3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049310708907876352/pl/QbWgIEQzBLKAVTYz.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049310708907876352/vid/avc1/1920x1080/9fV6zHH5cq1lu19b.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049310708907876352/vid/avc1/640x360/802RjsW_8MWwrjS2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049310708907876352/vid/avc1/1280x720/WInoPe1bN9ywF6iT.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2049353886205403277",
+        "created_at": "2026-04-29T05:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049353886205403277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_forab/status/…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/_forab/status/2049314804243058810",
+              "start": 73,
+              "url": "https://t.co/KPUCwERLc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049353886205403277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049314804243058810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马斯克自己ai搞不过别人天天渲染ai风险\n还记得一年多之前马斯克想搞什么ai伦理委员会\n还想暂停三个月ai研究起草风险评估方案\n你看有人鸟他吗？ https://t.co/KPUCwERLc9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049310708907876352"
+          ]
+        },
+        "author_id": "4848269835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2049314804243058810",
+        "created_at": "2026-04-29T02:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049314804243058810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkg19oRFSM",
+              "end": 166,
+              "expanded_url": "https://x.com/_FORAB/status/2049314804243058810/video/1",
+              "media_key": "13_2049310708907876352",
+              "start": 143,
+              "url": "https://t.co/xkg19oRFSM"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "451617631d24d98c"
+        },
+        "id": "2049314804243058810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "马斯克于今天凌晨，正式现身法庭，与 OpenAI 对决公堂，声称再不阻止，人类就要面临生存危险。这是 1 小时 40 分钟证词的简要总结，他将于明天继续作证。\n\n• 他认为 AI 最快可能明年，就超过人类智能，如果掌握在不可靠的人手里，人类会面临生存风险。\n\n• 他表示，OpenAI 最初是一个非营利、开源组织，目的是对抗谷歌这种大公司，并专注于 AI 安全。\n\n• 后来 OpenAI 被 Sam Altman 强行转向营利结构，已经违背了最初使命。如果一个不值得信任的人掌控 AI，对整个世界都非常危险。\n\n• 他认为这起案子影响特别大，如果判 OpenAI 胜诉，那么以后任何人，都可以把慈善机构，变成营利组织（指责 OpenAI 违背马斯克和 Sam Altman，当初一起创立的初衷，后面变搞钱了。\n\n• 同时，马斯克声称他把自己旗下公司，如 SpaceX、星链、xAI，描述为保护人类未来的公司。\n\n• 他还提到了一个历史，他曾经把谷歌科学家 Ilya Sutskever 从谷歌挖到 OpenAI 后，谷歌联合创始人 Larry Page 就再也没跟他说过话。他认为 Ilya 是当时谷歌最核心、最有价值的人才，暗示带着信息被挖到了 OpenAI。\n\n• 最后马斯克强调，在整个硅谷，真正理解风险投资的人，没有几个比他更懂。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 259179,
+          "like_count": 926,
+          "quote_count": 33,
+          "reply_count": 145,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克于今天凌晨，正式现身法庭，与 OpenAI 对决公堂，声称再不阻止，人类就要面临生存危险。这是 1 小时 40 分钟证词的简要总结，他将于明天继续作证。\n\n• 他认为 AI 最快可能明年，就超过人类智能，如果掌握在不可靠的人手里，人类会面临生存风险。\n\n• 他表示，OpenAI https://t.co/xkg19oRFSM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 399,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119141,
+          "following_count": 602,
+          "like_count": 10094,
+          "listed_count": 1922,
+          "media_count": 3223,
+          "tweet_count": 14230
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2043847348477145454",
+    "created_at": "2026-04-14T00:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T01:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043847348477145454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tynovaine/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/tynovaine/status/2043598231578501122",
+          "start": 17,
+          "url": "https://t.co/CTGf1sA5VR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043847348477145454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043598231578501122",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我以前就这样给排气扇弄短路烧掉了 https://t.co/CTGf1sA5VR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22570,
+        "height": 1278,
+        "media_key": "7_2043597983208591360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2043597983208591360/pu/img/7pWxdqU0rcCUbuuu.jpg",
+        "public_metrics": {
+          "view_count": 1141648
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043597983208591360/pu/vid/avc1/320x568/dvSaI5NSlFNDBIuJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043597983208591360/pu/vid/avc1/480x854/FHLPtbXDnWMpfgm4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043597983208591360/pu/vid/avc1/718x1278/zZm4-E6S9bU71jh6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2043597983208591360/pu/pl/2U_oDuYaxeCtjytL.m3u8?v=cfc"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2043847348477145454",
+        "created_at": "2026-04-14T00:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043847348477145454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tynovaine/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/tynovaine/status/2043598231578501122",
+              "start": 17,
+              "url": "https://t.co/CTGf1sA5VR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043847348477145454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043598231578501122",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以前就这样给排气扇弄短路烧掉了 https://t.co/CTGf1sA5VR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2043597983208591360"
+          ]
+        },
+        "author_id": "2010989409328607232",
+        "conversation_id": "2043598231578501122",
+        "created_at": "2026-04-13T07:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043598231578501122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M07YH0k6dA",
+              "end": 48,
+              "expanded_url": "https://x.com/tynovaine/status/2043598231578501122/video/1",
+              "media_key": "7_2043597983208591360",
+              "start": 25,
+              "url": "https://t.co/M07YH0k6dA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043598231578501122",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 2377928,
+          "like_count": 1922,
+          "quote_count": 12,
+          "reply_count": 484,
+          "retweet_count": 473
+        },
+        "reply_settings": "everyone",
+        "text": "smartest man in bathroom https://t.co/M07YH0k6dA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 212,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 213
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T08:17:06.000Z",
+        "description": "",
+        "id": "2010989409328607232",
+        "name": "é",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026234380080025601/9JtF1-Te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 1113,
+          "like_count": 146,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 198
+        },
+        "username": "tynovaine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2050522198989783099",
+    "created_at": "2026-05-02T10:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T11:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050522198989783099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zaobaosg/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/zaobaosg/status/2050515879427805479",
+          "start": 9,
+          "url": "https://t.co/HhWIzmtKhI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050522198989783099",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050515879427805479",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "万科A纯属政策市 https://t.co/HhWIzmtKhI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2050522198989783099",
+        "created_at": "2026-05-02T10:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050522198989783099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zaobaosg/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/zaobaosg/status/2050515879427805479",
+              "start": 9,
+              "url": "https://t.co/HhWIzmtKhI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050522198989783099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050515879427805479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "万科A纯属政策市 https://t.co/HhWIzmtKhI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39941478",
+        "conversation_id": "2050515879427805479",
+        "created_at": "2026-05-02T10:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050515879427805479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "随着房屋交付量下降拖累收入表现，中国房地产巨头万科第一季度继续录得大额亏损，净亏损接近60亿元（人民币，下同，11.2亿新元）。",
+              "display_url": "zaobao.com.sg/news/china/sto…",
+              "end": 88,
+              "expanded_url": "https://www.zaobao.com.sg/news/china/story20260502-8987213?utm_medium=Social&utm_source=Twitter#Echobox=1777706787",
+              "start": 65,
+              "status": 200,
+              "title": "房屋交付量下跌 万科首季亏损近60亿人民币",
+              "unwound_url": "https://www.zaobao.com.sg/news/china/story20260502-8987213?utm_medium=Social&utm_source=Twitter#Echobox=1777706787",
+              "url": "https://t.co/6J5cfklv9C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050515879427805479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2400,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "随着房屋交付量下降拖累收入表现，中国房地产巨头万科第一季度继续录得大额亏损，净亏损接近60亿元（人民币，下同，11.2亿新元）。 https://t.co/6J5cfklv9C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 410,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 915
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-14T06:18:48.000Z",
+        "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36EdQU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zaobaosg",
+                "end": 90,
+                "expanded_url": "http://t.me/zaobaosg",
+                "start": 67,
+                "url": "https://t.co/kHH36EdQU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zaobao.sg",
+                "end": 23,
+                "expanded_url": "http://www.zaobao.sg",
+                "start": 0,
+                "url": "https://t.co/SFQSIIL8zo"
+              }
+            ]
+          }
+        },
+        "id": "39941478",
+        "location": "Singapore",
+        "name": "联合早报 Lianhe Zaobao",
+        "pinned_tweet_id": "2041003385239806399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758379,
+          "following_count": 5,
+          "like_count": 22,
+          "listed_count": 6201,
+          "media_count": 7298,
+          "tweet_count": 176401
+        },
+        "url": "https://t.co/SFQSIIL8zo",
+        "username": "zaobaosg",
+        "verified": true
+      }
+    ]
+  }
+}

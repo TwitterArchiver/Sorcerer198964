@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2051547613418111311",
+    "created_at": "2026-05-05T06:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T07:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051547613418111311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zh_crypto517/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/zh_crypto517/status/2051222624530059748",
+          "start": 19,
+          "url": "https://t.co/DiTWO1mHnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051547613418111311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051222624530059748",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "去年美债吃高息的已经被汇损吃干抹净了 https://t.co/DiTWO1mHnb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2051222166709100544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdnsVoaYAAe2BL.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2626,
+        "media_key": "3_2051222186883780609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdntgybkAE4oPe.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2051547613418111311",
+        "created_at": "2026-05-05T06:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051547613418111311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zh_crypto517/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/zh_crypto517/status/2051222624530059748",
+              "start": 19,
+              "url": "https://t.co/DiTWO1mHnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051547613418111311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051222624530059748",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去年美债吃高息的已经被汇损吃干抹净了 https://t.co/DiTWO1mHnb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051222166709100544",
+            "3_2051222186883780609"
+          ]
+        },
+        "author_id": "1907723780400758784",
+        "conversation_id": "2051222624530059748",
+        "created_at": "2026-05-04T08:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051222624530059748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rqeWmrA5yE",
+              "end": 155,
+              "expanded_url": "https://x.com/Zh_Crypto517/status/2051222624530059748/photo/1",
+              "media_key": "3_2051222166709100544",
+              "start": 132,
+              "url": "https://t.co/rqeWmrA5yE"
+            },
+            {
+              "display_url": "pic.x.com/rqeWmrA5yE",
+              "end": 155,
+              "expanded_url": "https://x.com/Zh_Crypto517/status/2051222624530059748/photo/1",
+              "media_key": "3_2051222186883780609",
+              "start": 132,
+              "url": "https://t.co/rqeWmrA5yE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051222624530059748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "余额宝跌破 1%！我的零花钱\"躺赚”时代结束了\n\n可以看看美国版余额宝 —— SGOV 年化有 4%～5%\n\nSGOV只投资 0-3 个月美国国债的 ETF，每月派息\n\n你把闲钱放进去赚取接近短期国债利率的稳定收益，几乎零风险、流动性极高，像买卖股票一样随时进出\n\n购买门槛超级低，几乎等于“零门槛”，支持碎股交易，你就算只想放 10美元、50美元 也能买，不用凑整股\n\n不过需要有一个美股或者港股的券商账户，有条件的配置一下还是很香的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 36525,
+          "like_count": 161,
+          "quote_count": 2,
+          "reply_count": 49,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "余额宝跌破 1%！我的零花钱\"躺赚”时代结束了\n\n可以看看美国版余额宝 —— SGOV 年化有 4%～5%\n\nSGOV只投资 0-3 个月美国国债的 ETF，每月派息\n\n你把闲钱放进去赚取接近短期国债利率的稳定收益，几乎零风险、流动性极高，像买卖股票一样随时进出 https://t.co/rqeWmrA5yE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 449,
+          "like_count": 305,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T09:16:19.000Z",
+        "description": "梦想当富冈义勇\n预测市场｜港美股交易｜RWA｜AI\n商务合作：https://t.co/bwCfRWX0sg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zh_Crypto517",
+                "end": 54,
+                "expanded_url": "https://t.me/Zh_Crypto517",
+                "start": 31,
+                "url": "https://t.co/bwCfRWX0sg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zh_Crypto517",
+                "end": 23,
+                "expanded_url": "https://t.me/Zh_Crypto517",
+                "start": 0,
+                "url": "https://t.co/bwCfRWX0sg"
+              }
+            ]
+          }
+        },
+        "id": "1907723780400758784",
+        "location": "我孙子市",
+        "name": "Z大诗",
+        "pinned_tweet_id": "2038851433370632274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035331429006209024/ixDbnCU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9688,
+          "following_count": 1909,
+          "like_count": 3376,
+          "listed_count": 66,
+          "media_count": 692,
+          "tweet_count": 17855
+        },
+        "url": "https://t.co/bwCfRWX0sg",
+        "username": "Zh_Crypto517",
+        "verified": true
+      }
+    ]
+  }
+}

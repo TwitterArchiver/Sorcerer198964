@@ -1,0 +1,772 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Stephen A. Smith",
+          "id": "809860959447629826",
+          "name": "Stephen A. Smith"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1198965180991864832",
+          "name": "Steve Harvey"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "UFC",
+          "id": "852221476711186432",
+          "name": "UFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Sports Personality like 'Skip Bayless'",
+          "id": "92",
+          "name": "Sports Personality"
+        },
+        "entity": {
+          "description": "Stephen A. Smith",
+          "id": "809860959447629826",
+          "name": "Stephen A. Smith"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Stephen A. Smith",
+          "id": "809860959447629826",
+          "name": "Stephen A. Smith"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543857066848256",
+          "name": "MMA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comedy",
+          "id": "847522909018914820",
+          "name": "Comedy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "UFC",
+          "id": "852221476711186432",
+          "name": "UFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports Figures",
+          "id": "1074755059433463813",
+          "name": "Sports journalists"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comedians\n",
+          "id": "1103358583696048128",
+          "name": "Stand up comedians"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1198965180991864832",
+          "name": "Steve Harvey"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1285942425861545984",
+          "name": "Sports figures"
+        }
+      }
+    ],
+    "conversation_id": "2043583207925518378",
+    "created_at": "2026-04-13T06:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043583207925518378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mubeitech/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/mubeitech/status/2043303249646604531",
+          "start": 15,
+          "url": "https://t.co/oOk5Txwzp0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043583207925518378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043303249646604531",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "弱智\nlidang专骂你这种 https://t.co/oOk5Txwzp0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60720,
+        "height": 720,
+        "media_key": "7_2043303170915409920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2043303170915409920/pu/img/NDNaSpNc2jBH6YHi.jpg",
+        "public_metrics": {
+          "view_count": 123382
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043303170915409920/pu/vid/avc1/480x270/jw2DlwReGQpSFVGH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043303170915409920/pu/vid/avc1/640x360/kIJyik3RMzO84wKA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2043303170915409920/pu/vid/avc1/1280x720/yqtmOGVmM2zBJof-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2043303170915409920/pu/pl/NKSKp7BxdW8fW3TR.m3u8?tag=12&v=214"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Stephen A. Smith",
+              "id": "809860959447629826",
+              "name": "Stephen A. Smith"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1198965180991864832",
+              "name": "Steve Harvey"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "UFC",
+              "id": "852221476711186432",
+              "name": "UFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Sports Personality like 'Skip Bayless'",
+              "id": "92",
+              "name": "Sports Personality"
+            },
+            "entity": {
+              "description": "Stephen A. Smith",
+              "id": "809860959447629826",
+              "name": "Stephen A. Smith"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stephen A. Smith",
+              "id": "809860959447629826",
+              "name": "Stephen A. Smith"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543857066848256",
+              "name": "MMA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comedy",
+              "id": "847522909018914820",
+              "name": "Comedy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "UFC",
+              "id": "852221476711186432",
+              "name": "UFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports Figures",
+              "id": "1074755059433463813",
+              "name": "Sports journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comedians\n",
+              "id": "1103358583696048128",
+              "name": "Stand up comedians"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1198965180991864832",
+              "name": "Steve Harvey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285942425861545984",
+              "name": "Sports figures"
+            }
+          }
+        ],
+        "conversation_id": "2043583207925518378",
+        "created_at": "2026-04-13T06:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043583207925518378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mubeitech/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/mubeitech/status/2043303249646604531",
+              "start": 15,
+              "url": "https://t.co/oOk5Txwzp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043583207925518378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043303249646604531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "弱智\nlidang专骂你这种 https://t.co/oOk5Txwzp0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2043303170915409920"
+          ]
+        },
+        "author_id": "1069599820912910337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Stephen A. Smith",
+              "id": "809860959447629826",
+              "name": "Stephen A. Smith"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1198965180991864832",
+              "name": "Steve Harvey"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "UFC",
+              "id": "852221476711186432",
+              "name": "UFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Sports Personality like 'Skip Bayless'",
+              "id": "92",
+              "name": "Sports Personality"
+            },
+            "entity": {
+              "description": "Stephen A. Smith",
+              "id": "809860959447629826",
+              "name": "Stephen A. Smith"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stephen A. Smith",
+              "id": "809860959447629826",
+              "name": "Stephen A. Smith"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543857066848256",
+              "name": "MMA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comedy",
+              "id": "847522909018914820",
+              "name": "Comedy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "UFC",
+              "id": "852221476711186432",
+              "name": "UFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports Figures",
+              "id": "1074755059433463813",
+              "name": "Sports journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comedians\n",
+              "id": "1103358583696048128",
+              "name": "Stand up comedians"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1198965180991864832",
+              "name": "Steve Harvey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285942425861545984",
+              "name": "Sports figures"
+            }
+          }
+        ],
+        "conversation_id": "2043303249646604531",
+        "created_at": "2026-04-12T12:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043303249646604531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MmWbL9MxV6",
+              "end": 179,
+              "expanded_url": "https://x.com/mubeitech/status/2043303249646604531/video/1",
+              "media_key": "7_2043303170915409920",
+              "start": 156,
+              "url": "https://t.co/MmWbL9MxV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043303249646604531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "把一根针管直接扎进颈静脉。\n把血抽出来。\n用机器洗一遍，再重新输回体内。\n\nUFC总裁白大拿已经预约了这项服务。\n目的地在墨西哥蒂华纳。\n整个疗程要在那边躺上整整三天。\n\n洗血洗什么？\n把血液里积攒的重金属、霉菌和毒素全部物理过滤掉。\n\n顶级名嘴 Stephen A. Smith 和 Steve Harvey 刚从那体验回来。\n两人的反馈出奇一致：\n视力变清晰了。\n听力变敏锐了。\n整个人像重装了系统一样精力充沛。\n白大拿听完直接坐不住了：“今年我必须去弄一次。”\n\n这门技术在医学界叫治疗性血浆置换。\n原理就是清除血液里的炎症分子和自身抗体。\n小规模研究发现它对慢性疲劳有奇效。\n只是目前还缺大规模的临床数据兜底。\n\n但这不妨碍它在顶级富人圈爆火。\n对不差钱的人来说，科学证据可以等。\n买回青春的执念一秒都等不了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 532,
+          "impression_count": 270798,
+          "like_count": 715,
+          "quote_count": 15,
+          "reply_count": 78,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "把一根针管直接扎进颈静脉。\n把血抽出来。\n用机器洗一遍，再重新输回体内。\n\nUFC总裁白大拿已经预约了这项服务。\n目的地在墨西哥蒂华纳。\n整个疗程要在那边躺上整整三天。\n\n洗血洗什么？\n把血液里积攒的重金属、霉菌和毒素全部物理过滤掉。\n\n顶级名嘴 Stephen A. Smith 和 Steve Harvey https://t.co/MmWbL9MxV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 194,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 170
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-03T14:30:44.000Z",
+        "description": "人类的金色通道：Crypto → AI → Space！美国政治、AI科技、国际博弈--用人话讲给你听。",
+        "id": "1069599820912910337",
+        "name": "墓碑科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936440283094265856/FEwHZFDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59308,
+          "following_count": 4164,
+          "like_count": 11045,
+          "listed_count": 302,
+          "media_count": 10346,
+          "tweet_count": 74380
+        },
+        "username": "mubeitech",
+        "verified": true
+      }
+    ]
+  }
+}

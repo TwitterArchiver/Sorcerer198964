@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2048796150526791907",
+    "created_at": "2026-04-27T16:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048796150526791907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meitingting10/…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/meitingting10/status/2048543143667372479",
+          "start": 36,
+          "url": "https://t.co/PP8kx16b6h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048796150526791907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048543143667372479",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6个猪肉大葱馅的包子、一碗炒肝、一份芥菜，只要21元，你这怎么和我比啊 https://t.co/PP8kx16b6h"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12213,
+        "height": 1920,
+        "media_key": "13_2047584290129743872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047584290129743872/img/5qUF8NwuIHbMsEuD.jpg",
+        "public_metrics": {
+          "view_count": 74424
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047584290129743872/vid/avc1/720x1280/bpTvTW92VloEYexX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047584290129743872/vid/avc1/480x852/O5heybJTwS9ehUD-.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047584290129743872/vid/avc1/320x568/Jrzlmm2NJlJLV2Mg.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047584290129743872/vid/avc1/1080x1920/b3h0DMaBFJjIhqKl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047584290129743872/pl/ZKMOiHnEyMNvUAmP.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2048796150526791907",
+        "created_at": "2026-04-27T16:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048796150526791907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meitingting10/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/meitingting10/status/2048543143667372479",
+              "start": 36,
+              "url": "https://t.co/PP8kx16b6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048796150526791907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048543143667372479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6个猪肉大葱馅的包子、一碗炒肝、一份芥菜，只要21元，你这怎么和我比啊 https://t.co/PP8kx16b6h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047584290129743872"
+          ]
+        },
+        "author_id": "1589428630933082113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048543143667372479",
+        "created_at": "2026-04-26T23:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T00:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048543143667372479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8yZJRca6H",
+              "end": 52,
+              "expanded_url": "https://x.com/meitingting10/status/2048543143667372479/video/1",
+              "media_key": "13_2047584290129743872",
+              "start": 29,
+              "url": "https://t.co/M8yZJRca6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048543143667372479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 147712,
+          "like_count": 130,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "什么包子能值28元一个啊？看到肉馅后：马上给我来两个！！ https://t.co/M8yZJRca6H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 381,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 724
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T01:25:11.000Z",
+        "description": "民以食为天，食在中国最美。 Love food, share food！",
+        "id": "1589428630933082113",
+        "location": "Morgan Hill, CA",
+        "name": "食在中国",
+        "pinned_tweet_id": "2046140310820970707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843090023664541696/okjMIf3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73122,
+          "following_count": 5666,
+          "like_count": 14751,
+          "listed_count": 59,
+          "media_count": 2157,
+          "tweet_count": 12964
+        },
+        "username": "meitingting10",
+        "verified": true
+      }
+    ]
+  }
+}

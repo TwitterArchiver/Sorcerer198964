@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2050625429577363691",
+    "created_at": "2026-05-02T17:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050625429577363691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dr_duckter/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/dr_duckter/status/2050559056822378508",
+          "start": 6,
+          "url": "https://t.co/Q9gIRgn0t2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050625429577363691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050559056822378508",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们怀念他 https://t.co/Q9gIRgn0t2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2050559054070890496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUMmGjbQAAHA5r.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2050625429577363691",
+        "created_at": "2026-05-02T17:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050625429577363691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dr_duckter/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/dr_duckter/status/2050559056822378508",
+              "start": 6,
+              "url": "https://t.co/Q9gIRgn0t2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050625429577363691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050559056822378508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们怀念他 https://t.co/Q9gIRgn0t2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050559054070890496"
+          ]
+        },
+        "author_id": "1792158516096180224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050559056822378508",
+        "created_at": "2026-05-02T12:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050559056822378508"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "网友投稿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXM2t80RAw",
+              "end": 29,
+              "expanded_url": "https://x.com/Dr_Duckter/status/2050559056822378508/photo/1",
+              "media_key": "3_2050559054070890496",
+              "start": 6,
+              "url": "https://t.co/zXM2t80RAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050559056822378508",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6389,
+          "like_count": 187,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#网友投稿 https://t.co/zXM2t80RAw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 415,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "逃生仓 @Dr__Duckter  \n\n被B了就是你友链的原因  查成分回关\n\nemail（吃灰中）：drduckter@proton.me\n\n想要premium",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "Dr__Duckter"
+              }
+            ]
+          }
+        },
+        "id": "1792158516096180224",
+        "location": "1603 Matthews Ave, Vancouver",
+        "name": "Dr Ducky Drizzy Duckter Duckworth DingDongji",
+        "pinned_tweet_id": "2049065986897412581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041732131186208769/TvZD5dx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1094,
+          "like_count": 19944,
+          "listed_count": 20,
+          "media_count": 479,
+          "tweet_count": 2670
+        },
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

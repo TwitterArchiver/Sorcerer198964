@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2045715588736311509",
+    "created_at": "2026-04-19T15:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045892425881993610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2028205953380945920",
+          "start": 0,
+          "username": "psyopal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045892425881993610",
+    "in_reply_to_user_id": "2028205953380945920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045715588736311509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@psyopal pr和玉米其实有相互强化的效果，控制得当不会有危险"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2045715588736311509",
+        "created_at": "2026-04-19T15:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045892425881993610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2028205953380945920",
+              "start": 0,
+              "username": "psyopal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045892425881993610",
+        "in_reply_to_user_id": "2028205953380945920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045715588736311509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyopal pr和玉米其实有相互强化的效果，控制得当不会有危险"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028205953380945920",
+        "conversation_id": "2045715588736311509",
+        "created_at": "2026-04-19T04:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045715588736311509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045715588736311509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3017,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞和愚昧联用本身就呼吸抑制，再加阿片的话暴毙更快，不要乱联啊喂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045887826638807131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 315,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 475
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T20:29:23.000Z",
+        "description": "Moonshotlab复活介绍点https://t.co/RIbaVNCNdD\n飞机同ID，神必物质欢迎观看\n同类超级大友好，提问箱接受相关咨询，专业合法合规",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/auaquq",
+                "end": 39,
+                "expanded_url": "https://t.me/auaquq",
+                "start": 16,
+                "url": "https://t.co/RIbaVNCNdD"
+              }
+            ]
+          }
+        },
+        "id": "2028205953380945920",
+        "location": "提问箱https://ngl.link/psyopal",
+        "name": "psyopal",
+        "pinned_tweet_id": "2042673385277465010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038830668533334016/ktouiTat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 347,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 232
+        },
+        "username": "psyopal",
+        "verified": false
+      }
+    ]
+  }
+}

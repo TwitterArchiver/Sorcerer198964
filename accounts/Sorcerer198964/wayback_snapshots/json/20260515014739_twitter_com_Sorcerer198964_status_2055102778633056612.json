@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055012312801751041"
+      ],
+      "media_source_tweet_id": [
+        "2055012484499784129"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2055102778633056612",
+    "created_at": "2026-05-15T01:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T02:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055102778633056612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "215939847",
+          "start": 3,
+          "username": "bboczeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yxKMbuSroP",
+          "end": 89,
+          "expanded_url": "https://x.com/bboczeng/status/2055012484499784129/photo/1",
+          "media_key": "3_2055012312801751041",
+          "start": 66,
+          "url": "https://t.co/yxKMbuSroP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055102778633056612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055012484499784129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bboczeng: 恭喜币圈，恭喜散户，恭喜韭菜，恭喜赌狗们！\n\n马斯克回复李颖大号之后，李币大涨1.21%！\n\n谢谢大家 https://t.co/yxKMbuSroP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_2055012312801751041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITez4GaMAEZFOe.jpg",
+        "width": 2072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055012312801751041"
+          ],
+          "media_source_tweet_id": [
+            "2055012484499784129"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2055102778633056612",
+        "created_at": "2026-05-15T01:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T02:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055102778633056612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "215939847",
+              "start": 3,
+              "username": "bboczeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxKMbuSroP",
+              "end": 89,
+              "expanded_url": "https://x.com/bboczeng/status/2055012484499784129/photo/1",
+              "media_key": "3_2055012312801751041",
+              "start": 66,
+              "url": "https://t.co/yxKMbuSroP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055102778633056612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055012484499784129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bboczeng: 恭喜币圈，恭喜散户，恭喜韭菜，恭喜赌狗们！\n\n马斯克回复李颖大号之后，李币大涨1.21%！\n\n谢谢大家 https://t.co/yxKMbuSroP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055012312801751041"
+          ]
+        },
+        "author_id": "215939847",
+        "conversation_id": "2055012484499784129",
+        "created_at": "2026-05-14T19:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T20:48:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055012372704899291",
+          "2055012484499784129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxKMbuSroP",
+              "end": 75,
+              "expanded_url": "https://x.com/bboczeng/status/2055012484499784129/photo/1",
+              "media_key": "3_2055012312801751041",
+              "start": 52,
+              "url": "https://t.co/yxKMbuSroP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055012484499784129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 33089,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜币圈，恭喜散户，恭喜韭菜，恭喜赌狗们！\n\n马斯克回复李颖大号之后，李币大涨1.21%！\n\n谢谢大家 https://t.co/yxKMbuSroP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 525,
+          "like_count": 427,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 1376
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "2053738291393142834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207734,
+          "following_count": 733,
+          "like_count": 145907,
+          "listed_count": 1241,
+          "media_count": 20750,
+          "tweet_count": 124464
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      }
+    ]
+  }
+}

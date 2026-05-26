@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2055581453505708236",
+    "created_at": "2026-05-16T09:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055581453505708236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ace_mustdiee/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Ace_mustdiee/status/2055343695902196155",
+          "start": 7,
+          "url": "https://t.co/iCuWeMndNb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055581453505708236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055343695902196155",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "割手手就这样 https://t.co/iCuWeMndNb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35944,
+        "height": 1024,
+        "media_key": "7_2055343617233797120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055343617233797120/pu/img/Z09g94HlQIYfX0vC.jpg",
+        "public_metrics": {
+          "view_count": 13642
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055343617233797120/pu/vid/avc1/320x568/dqnm5XT1HZazp_H9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055343617233797120/pu/vid/avc1/480x852/Acx39DcAHsiFcczs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055343617233797120/pu/vid/avc1/576x1024/8wkVSUImJLgKroG-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055343617233797120/pu/pl/_HZLCgFn2FFuQP3U.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2055581453505708236",
+        "created_at": "2026-05-16T09:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055581453505708236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ace_mustdiee/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Ace_mustdiee/status/2055343695902196155",
+              "start": 7,
+              "url": "https://t.co/iCuWeMndNb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055581453505708236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055343695902196155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "割手手就这样 https://t.co/iCuWeMndNb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055343617233797120"
+          ]
+        },
+        "author_id": "1883930275970703360",
+        "conversation_id": "2055343695902196155",
+        "created_at": "2026-05-15T17:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055343695902196155"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 54,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oe5ZgSKKFA",
+              "end": 84,
+              "expanded_url": "https://x.com/Ace_mustdiee/status/2055343695902196155/video/1",
+              "media_key": "7_2055343617233797120",
+              "start": 61,
+              "url": "https://t.co/Oe5ZgSKKFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055343695902196155",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 23436,
+          "like_count": 1343,
+          "quote_count": 31,
+          "reply_count": 39,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "you cannot cannot convince me it doesn't look like sh\n#shtwt https://t.co/Oe5ZgSKKFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 539,
+          "like_count": 458,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 1431
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T17:29:27.000Z",
+        "description": "#shtwt   -    #988twt                                               ۫ ׅ         \n\n#shedtwt || #suicidaltwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              },
+              {
+                "end": 21,
+                "start": 14,
+                "tag": "988twt"
+              },
+              {
+                "end": 90,
+                "start": 82,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "tag": "suicidaltwt"
+              }
+            ]
+          }
+        },
+        "id": "1883930275970703360",
+        "name": "ᥲᥴᥱ",
+        "pinned_tweet_id": "2045286691091485028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054634510243786752/N6Yer9S6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 258,
+          "like_count": 971,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 384
+        },
+        "username": "Ace_mustdiee",
+        "verified": false
+      }
+    ]
+  }
+}

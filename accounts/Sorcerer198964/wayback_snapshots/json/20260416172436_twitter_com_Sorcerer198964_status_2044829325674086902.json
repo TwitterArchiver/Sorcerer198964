@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2044400087590162636",
+    "created_at": "2026-04-16T17:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T18:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044829325674086902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027304329728946177",
+          "start": 0,
+          "username": "Kephas98765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044829325674086902",
+    "in_reply_to_user_id": "2027304329728946177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044400087590162636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kephas98765 然而“商人”这个词的来源真的和商朝有关，公元前11世纪，周朝灭掉了商朝，大量原本属于商朝的贵族和平民失去了土地和政治地位，被迫迁徙、谋生。这些人没有固定产业，就逐渐转向四处贩卖商品、进行交换贸易来维持生计。久而久之，周人就把这些“来自商朝、以贸易为生的人”称为“商人”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2044400087590162636",
+        "created_at": "2026-04-16T17:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044829325674086902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027304329728946177",
+              "start": 0,
+              "username": "Kephas98765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044829325674086902",
+        "in_reply_to_user_id": "2027304329728946177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044400087590162636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kephas98765 然而“商人”这个词的来源真的和商朝有关，公元前11世纪，周朝灭掉了商朝，大量原本属于商朝的贵族和平民失去了土地和政治地位，被迫迁徙、谋生。这些人没有固定产业，就逐渐转向四处贩卖商品、进行交换贸易来维持生计。久而久之，周人就把这些“来自商朝、以贸易为生的人”称为“商人”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027304329728946177",
+        "conversation_id": "2044400087590162636",
+        "created_at": "2026-04-15T12:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044400087590162636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044400087590162636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 95830,
+          "like_count": 1239,
+          "quote_count": 31,
+          "reply_count": 66,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "马克思：资本家是吃人的。\n周公：什么是资本家？\n马克思：就是商人。\n周公：那确实，商人确实吃人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 275,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T08:46:51.000Z",
+        "description": "兴高采烈地汲水。",
+        "id": "2027304329728946177",
+        "location": "新耶路撒冷",
+        "name": "Kephas矶法",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027315371431313408/ivXrxtcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 192,
+          "like_count": 2204,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 2407
+        },
+        "username": "Kephas98765",
+        "verified": false
+      }
+    ]
+  }
+}

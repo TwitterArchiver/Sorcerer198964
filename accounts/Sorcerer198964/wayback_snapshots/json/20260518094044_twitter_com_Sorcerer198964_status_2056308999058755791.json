@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2056308999058755791",
+    "created_at": "2026-05-18T09:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056308999058755791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/titikumalayunu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/titikumalayunus/status/2056087356684329321",
+          "start": 20,
+          "url": "https://t.co/6vZSeIh4O4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056308999058755791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056087356684329321",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最难以理解的就是在肉肠粉上加一条白肠粉 https://t.co/6vZSeIh4O4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32043,
+        "height": 1920,
+        "media_key": "13_2056028803714158592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056028803714158592/img/rH4IxWsuY5PwuJ1t.jpg",
+        "public_metrics": {
+          "view_count": 303881
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056028803714158592/pl/Sooa0V8Rmq2_E4VE.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056028803714158592/vid/avc1/720x1280/UOOV37C3jxuxAeqz.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056028803714158592/vid/avc1/1080x1920/X8ebk1hIj1fyGcfs.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056028803714158592/vid/avc1/320x568/TUzcUCbv4iOpTNS-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056028803714158592/vid/avc1/480x852/LFBdnQYxpNzTAPL5.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2056308999058755791",
+        "created_at": "2026-05-18T09:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056308999058755791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/titikumalayunu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/titikumalayunus/status/2056087356684329321",
+              "start": 20,
+              "url": "https://t.co/6vZSeIh4O4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056308999058755791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056087356684329321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最难以理解的就是在肉肠粉上加一条白肠粉 https://t.co/6vZSeIh4O4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056028803714158592"
+          ]
+        },
+        "author_id": "2051448465847148544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056087356684329321",
+        "created_at": "2026-05-17T19:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056087356684329321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aqx4rtA07J",
+              "end": 55,
+              "expanded_url": "https://x.com/titikumalayunus/status/2056087356684329321/video/1",
+              "media_key": "13_2056028803714158592",
+              "start": 32,
+              "url": "https://t.co/aqx4rtA07J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056087356684329321",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 432836,
+          "like_count": 871,
+          "quote_count": 3,
+          "reply_count": 455,
+          "retweet_count": 356
+        },
+        "reply_settings": "everyone",
+        "text": "chinese foods - A Delicious Day https://t.co/aqx4rtA07J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 553,
+          "like_count": 526,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T23:46:54.000Z",
+        "description": "",
+        "id": "2051448465847148544",
+        "name": "titi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051448569849327616/cRFsTkHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 589,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 27
+        },
+        "username": "titikumalayunus",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2051456842996298038",
+    "created_at": "2026-05-05T05:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T06:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051537762789069200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051537762789069200",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051456842996298038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 我操985毕业生都抓"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37151,
+        "height": 1920,
+        "media_key": "13_2051450634050707456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051450634050707456/img/kIJbLVrHfdtHLq5L.jpg",
+        "public_metrics": {
+          "view_count": 26092
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051450634050707456/vid/avc1/480x852/aP0sa0HaWMF7P8nm.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051450634050707456/vid/avc1/720x1280/McnxkOEWV5MISgX6.mp4?tag=27"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051450634050707456/vid/avc1/1080x1920/NxYO5pUKwG4O0hT5.mp4?tag=27"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051450634050707456/vid/avc1/320x568/cnRZw7sT_3YUbJGn.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051450634050707456/pl/qUEawfP1ORTUe3WH.m3u8?tag=27&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2051456842996298038",
+        "created_at": "2026-05-05T05:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051537762789069200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051537762789069200",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051456842996298038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 我操985毕业生都抓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051450634050707456"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051456842996298038",
+        "created_at": "2026-05-05T00:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T01:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051456842996298038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWhzhM1lYN",
+              "end": 147,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2051456842996298038/video/1",
+              "media_key": "13_2051450634050707456",
+              "start": 124,
+              "url": "https://t.co/zWhzhM1lYN"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2050787432430485586",
+              "start": 148,
+              "url": "https://t.co/F6pQD0feF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051456842996298038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月2日，博主“张教官守护成长”再次发布视频，列出了三名被强制送往“戒网瘾学校”接受所谓“矫正”的典型案例：第一位是待业在家、待业且躺平打游戏长达三年的青年；\n第二位是活成流浪汉的985名校毕业生；第三位是七年不出门且五年不说话的深度社交恐惧者。\n该“教官”在视频下方明确标注，其机构提供12至36岁的“行为调整”业务，并声称可“全国上门”进行强制带离。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 90539,
+          "like_count": 207,
+          "quote_count": 4,
+          "reply_count": 33,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050787432430485586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月2日，博主“张教官守护成长”再次发布视频，列出了三名被强制送往“戒网瘾学校”接受所谓“矫正”的典型案例：第一位是待业在家、待业且躺平打游戏长达三年的青年；\n第二位是活成流浪汉的985名校毕业生；第三位是七年不出门且五年不说话的深度社交恐惧者。 https://t.co/zWhzhM1lYN https://t.co/F6pQD0feF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 446,
+          "like_count": 299,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215214,
+          "following_count": 1041,
+          "like_count": 9467,
+          "listed_count": 8716,
+          "media_count": 46238,
+          "tweet_count": 53330
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

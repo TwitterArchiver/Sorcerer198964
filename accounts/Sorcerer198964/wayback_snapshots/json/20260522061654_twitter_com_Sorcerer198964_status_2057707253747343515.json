@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2057707253747343515",
+    "created_at": "2026-05-22T06:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057707253747343515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akenohotaru/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/akenohotaru/status/2057416443579560032",
+          "start": 17,
+          "url": "https://t.co/2JKkBdLJiA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057707253747343515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057416443579560032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学校附近的小卖部都不卖西柚汁了😭 https://t.co/2JKkBdLJiA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057416400365330432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1pUMLWoAAhLHj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057416421114564608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1pVZeW0AAnI6h.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057416430933495808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1pV-DX0AABOEE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2057707253747343515",
+        "created_at": "2026-05-22T06:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057707253747343515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akenohotaru/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/akenohotaru/status/2057416443579560032",
+              "start": 17,
+              "url": "https://t.co/2JKkBdLJiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057707253747343515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057416443579560032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学校附近的小卖部都不卖西柚汁了😭 https://t.co/2JKkBdLJiA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057416400365330432",
+            "3_2057416421114564608",
+            "3_2057416430933495808"
+          ]
+        },
+        "author_id": "1592697440343162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057416443579560032",
+        "created_at": "2026-05-21T11:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057416443579560032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7lWzQhQeY",
+              "end": 56,
+              "expanded_url": "https://x.com/akenohotaru/status/2057416443579560032/photo/1",
+              "media_key": "3_2057416400365330432",
+              "start": 33,
+              "url": "https://t.co/o7lWzQhQeY"
+            },
+            {
+              "display_url": "pic.x.com/o7lWzQhQeY",
+              "end": 56,
+              "expanded_url": "https://x.com/akenohotaru/status/2057416443579560032/photo/1",
+              "media_key": "3_2057416421114564608",
+              "start": 33,
+              "url": "https://t.co/o7lWzQhQeY"
+            },
+            {
+              "display_url": "pic.x.com/o7lWzQhQeY",
+              "end": 56,
+              "expanded_url": "https://x.com/akenohotaru/status/2057416443579560032/photo/1",
+              "media_key": "3_2057416430933495808",
+              "start": 33,
+              "url": "https://t.co/o7lWzQhQeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057416443579560032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 636,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的很好笑，为了找瓶西柚汁跑了三个地方才找到，这东西这么稀有吗草 https://t.co/o7lWzQhQeY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 604,
+          "like_count": 624,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "ASD/重抑中焦/od/bzd、pr重度依赖 /音游/术力口/生物/化学/药理/互fo，欢迎来找我聊天₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 118,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 371
+        },
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}

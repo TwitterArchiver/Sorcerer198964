@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2042251943750561932",
+    "created_at": "2026-04-09T15:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042269568396374277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521553831775158273",
+          "start": 0,
+          "username": "ww123qwq"
+        },
+        {
+          "end": 22,
+          "id": "1928504693585842176",
+          "start": 10,
+          "username": "siangel0911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042269568396374277",
+    "in_reply_to_user_id": "1521553831775158273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042251943750561932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ww123qwq @siangel0911 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2042251943750561932",
+        "created_at": "2026-04-09T15:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042269568396374277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 22,
+              "id": "1928504693585842176",
+              "start": 10,
+              "username": "siangel0911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042269568396374277",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042251943750561932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq @siangel0911 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2042251943750561932",
+        "created_at": "2026-04-09T14:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042251943750561932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042251943750561932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 556,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "1600fo抽奖，感谢大家的fo和陪伴\n一等奖(1人)：dxm一箱(折现88r\n二等奖(2人)：pr80三盒(折现60r)\n三等奖(3人)：咖啡一杯(折现10r)\n\n【参与条件】关注+点赞+评论+转发（四项必做）\n100转发开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 121,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 53
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 272,
+          "like_count": 42096,
+          "listed_count": 4,
+          "media_count": 676,
+          "tweet_count": 12598
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T17:34:05.000Z",
+        "description": "mtf或mtx或xyn小药娘，furry福瑞控，为糖暂停自伤life，摊上各种精神或心理问题...20070911，160cm，92斤左右，常居四川，可爱黑猫猫，喜欢各种可爱的东西和黄黄的东西，精神状态不稳定极其负能◉‿◉，网络要饭+结交好友ing",
+        "id": "1928504693585842176",
+        "location": "中国大陆 四川",
+        "name": "希安angel🍥🌈🏳️‍⚧️🐱🐾",
+        "pinned_tweet_id": "2039867735853916582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039249037359280128/BYFm5BSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 852,
+          "like_count": 2816,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 2044
+        },
+        "username": "siangel0911",
+        "verified": false
+      }
+    ]
+  }
+}

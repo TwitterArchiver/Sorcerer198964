@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2043587207060205747",
+    "created_at": "2026-04-13T07:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043587207060205747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yujiudu/status…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/yujiudu/status/2043517013805629770",
+          "start": 39,
+          "url": "https://t.co/T5eQVY4ldw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043587207060205747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043517013805629770",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每次我在酒桌上就是闷头吃喝，家里人还让多吃点。真要喝酒我就喝醉后趴桌子上睡觉 https://t.co/T5eQVY4ldw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2043517010584498176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwH5ORbcAAhVey.jpg",
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2043587207060205747",
+        "created_at": "2026-04-13T07:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043587207060205747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yujiudu/status…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/yujiudu/status/2043517013805629770",
+              "start": 39,
+              "url": "https://t.co/T5eQVY4ldw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043587207060205747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043517013805629770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每次我在酒桌上就是闷头吃喝，家里人还让多吃点。真要喝酒我就喝醉后趴桌子上睡觉 https://t.co/T5eQVY4ldw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043517010584498176"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2043517013805629770",
+        "created_at": "2026-04-13T02:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043517013805629770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BkhPEHx4sP",
+              "end": 42,
+              "expanded_url": "https://x.com/Yujiudu/status/2043517013805629770/photo/1",
+              "media_key": "3_2043517010584498176",
+              "start": 19,
+              "url": "https://t.co/BkhPEHx4sP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043517013805629770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2021,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酒桌文化到底是封建糟粕还是社交精华？ https://t.co/BkhPEHx4sP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 194,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 178
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "跨圈混子 窝窝屎五年海猴 摄影圈HiFi圈已退役   政治属性社民偏左 实事求是 客观看待问题 理性爱国 欢迎私信找我交朋友\n买🍬可以找找@Minokakay\n推荐我自己长期使用的动兔VPN加速器https://t.co/vWxMasDVLA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dongtu2.sobotx.com/#/register?cod…",
+                "end": 121,
+                "expanded_url": "https://dongtu2.sobotx.com/#/register?code=UX4wscAS",
+                "start": 98,
+                "url": "https://t.co/vWxMasDVLA"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "name": "風月无边夜未央",
+        "pinned_tweet_id": "2040095974123851948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996692268997398532/753I2hJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4714,
+          "following_count": 1852,
+          "like_count": 52422,
+          "listed_count": 8,
+          "media_count": 1282,
+          "tweet_count": 10702
+        },
+        "username": "Yujiudu",
+        "verified": true
+      }
+    ]
+  }
+}

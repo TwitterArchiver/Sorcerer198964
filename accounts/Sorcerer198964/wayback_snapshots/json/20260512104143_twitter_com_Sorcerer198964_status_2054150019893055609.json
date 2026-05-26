@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2054150019893055609",
+    "created_at": "2026-05-12T10:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054150019893055609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2054003628508385476",
+          "start": 22,
+          "url": "https://t.co/Mb1TIbAa9L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054150019893055609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054003628508385476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人人有盒开，个个会查档\n快进到大开盒时代！ https://t.co/Mb1TIbAa9L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 86076,
+        "height": 2340,
+        "media_key": "13_2053741810623840256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053741810623840256/img/faZBNnrbDZSpaOSM.jpg",
+        "public_metrics": {
+          "view_count": 24442
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053741810623840256/vid/avc1/720x1560/WX9I9ec16CWt5zAs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053741810623840256/pl/JSUiMA-oM3sj0ba0.m3u8?v=7dc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053741810623840256/vid/avc1/480x1040/r2CnusVp7FX5mUmx.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053741810623840256/vid/avc1/320x692/6TtKeIlB-yoXh7li.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053741810623840256/vid/avc1/1080x2340/GRH-P-84Iahbr3Cn.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2054150019893055609",
+        "created_at": "2026-05-12T10:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054150019893055609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2054003628508385476",
+              "start": 22,
+              "url": "https://t.co/Mb1TIbAa9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054150019893055609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054003628508385476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人人有盒开，个个会查档\n快进到大开盒时代！ https://t.co/Mb1TIbAa9L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053741810623840256"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054003628508385476",
+        "created_at": "2026-05-12T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054003628508385476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHAmOYsNSH",
+              "end": 124,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2054003628508385476/video/1",
+              "media_key": "13_2053741810623840256",
+              "start": 101,
+              "url": "https://t.co/JHAmOYsNSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054003628508385476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一条信息1000元：公安负责人拉副所长组团倒卖公民账户信息\n近日，裁判文书网公开了一份判决：买家通过中间人找到江西上高县公安局负责人，并开出一条信息1000快的价格，让他利用权限帮忙查询银行账户信息。\n\n 而这位本该守护公民信息安全的负责人，不仅答应了对方的请求，还拉上了副所长和刑侦大队副队长组成了一支专业的查询团伙。利用内部的数字证书，通过国家反诈大数据平台查询银行账户信息。之后再通过境外聊天软件发送给对方。\n\n 仅一个时间，他们就查询了180多条信息。负责人至少获利13万、副所长3万、刑侦副队长600。俨然把国家反诈平台当成了摇钱树。\n\n但目前的判决书只公布了买家，被判刑3年3个月，而中间人和内部公职人员并没有公布具体的判决结果..."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 55041,
+          "like_count": 286,
+          "quote_count": 2,
+          "reply_count": 50,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "一条信息1000元：公安负责人拉副所长组团倒卖公民账户信息\n近日，裁判文书网公开了一份判决：买家通过中间人找到江西上高县公安局负责人，并开出一条信息1000快的价格，让他利用权限帮忙查询银行账户信息。 https://t.co/JHAmOYsNSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 487,
+          "like_count": 360,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 1247
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218909,
+          "following_count": 1047,
+          "like_count": 9482,
+          "listed_count": 8718,
+          "media_count": 46588,
+          "tweet_count": 53693
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

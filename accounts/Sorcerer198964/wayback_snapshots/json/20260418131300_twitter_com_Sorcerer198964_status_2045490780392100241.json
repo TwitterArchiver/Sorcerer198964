@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2045490780392100241",
+    "created_at": "2026-04-18T13:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T14:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045490780392100241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiaweishen2568…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/jiaweishen2568/status/2045475876905889942",
+          "start": 8,
+          "url": "https://t.co/qt4cdWvS9o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045490780392100241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045475876905889942",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "粤语谐音梗扣钱 https://t.co/qt4cdWvS9o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1810,
+        "media_key": "3_2045475748941803520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGL9WzRaMAAkOle.jpg",
+        "width": 1357
+      },
+      {
+        "height": 1780,
+        "media_key": "3_2045475789899227136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGL9ZL2a4AAR-Ez.jpg",
+        "width": 1335
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2045490780392100241",
+        "created_at": "2026-04-18T13:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045490780392100241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiaweishen2568…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/jiaweishen2568/status/2045475876905889942",
+              "start": 8,
+              "url": "https://t.co/qt4cdWvS9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045490780392100241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045475876905889942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "粤语谐音梗扣钱 https://t.co/qt4cdWvS9o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045475748941803520",
+            "3_2045475789899227136"
+          ]
+        },
+        "author_id": "1635476041438461952",
+        "conversation_id": "2045475876905889942",
+        "created_at": "2026-04-18T12:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045475876905889942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9nkm2aDJH",
+              "end": 71,
+              "expanded_url": "https://x.com/JiaweiShen2568/status/2045475876905889942/photo/1",
+              "media_key": "3_2045475748941803520",
+              "start": 48,
+              "url": "https://t.co/o9nkm2aDJH"
+            },
+            {
+              "display_url": "pic.x.com/o9nkm2aDJH",
+              "end": 71,
+              "expanded_url": "https://x.com/JiaweiShen2568/status/2045475876905889942/photo/1",
+              "media_key": "3_2045475789899227136",
+              "start": 48,
+              "url": "https://t.co/o9nkm2aDJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045475876905889942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 733,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦当劳在广州一般叫M记\n才知道还有个叫法是牡丹楼\n现在麦当劳新开了个广州农讲所店\n就叫牡丹楼🥲 https://t.co/o9nkm2aDJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD，抹茶脑袋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 296,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 407
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T03:01:07.000Z",
+        "description": "最近听到字节跳槽出来的管理带来一些新的词汇，以前腾讯是拉通，字节喜欢说对齐。\n我不懂啥是对齐。有人说就是对齐思路，比如你在网上和人对线，那就是对齐。我说抱歉，真对齐不了一点儿。",
+        "id": "1635476041438461952",
+        "location": "广州，深圳",
+        "name": "渡边君",
+        "pinned_tweet_id": "1949724676168786000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698170245012410368/-hDgjw5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24017,
+          "following_count": 2054,
+          "like_count": 56205,
+          "listed_count": 93,
+          "media_count": 5177,
+          "tweet_count": 39739
+        },
+        "username": "JiaweiShen2568",
+        "verified": true
+      }
+    ]
+  }
+}

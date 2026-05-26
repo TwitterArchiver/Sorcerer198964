@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2048603700860465377",
+    "created_at": "2026-04-28T07:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049025818240659901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1329107256567336960",
+          "start": 0,
+          "username": "HXR001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049025818240659901",
+    "in_reply_to_user_id": "1329107256567336960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048603700860465377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HXR001 这个距离这个爆炸当量顶多脑震荡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49130,
+        "height": 600,
+        "media_key": "13_2048603351747846144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048603351747846144/img/LqYBoKtnJeJ9QJ6V.jpg",
+        "public_metrics": {
+          "view_count": 108662
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048603351747846144/vid/avc1/324x270/OxepgTu6hnGeBDPS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048603351747846144/vid/avc1/432x360/SJI-ipcPffVZ6G6U.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048603351747846144/vid/avc1/720x600/Wj5w0LcErrk-buvl.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048603351747846144/pl/ypyrpzxr0_A0c133.m3u8?tag=14&v=b30"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2048603700860465377",
+        "created_at": "2026-04-28T07:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049025818240659901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1329107256567336960",
+              "start": 0,
+              "username": "HXR001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049025818240659901",
+        "in_reply_to_user_id": "1329107256567336960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048603700860465377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HXR001 这个距离这个爆炸当量顶多脑震荡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048603351747846144"
+          ]
+        },
+        "author_id": "1329107256567336960",
+        "conversation_id": "2048603700860465377",
+        "created_at": "2026-04-27T03:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048603700860465377"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "乌克兰战报"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WOsLnqW0bx",
+              "end": 84,
+              "expanded_url": "https://x.com/HXR001/status/2048603700860465377/video/1",
+              "media_key": "13_2048603351747846144",
+              "start": 61,
+              "url": "https://t.co/WOsLnqW0bx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048603700860465377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 175490,
+          "like_count": 407,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "#乌克兰战报\n乌克兰国防部视频：三个川粉红粉支持的俄罗斯入侵者，正在庆祝他们成功渗透到乌克兰阵地后方。。。。随即被炸死！ https://t.co/WOsLnqW0bx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 396,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 762
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-18T17:01:45.000Z",
+        "description": "华夏人1号💛分析与思考\n支持🇺🇦反抗•极右保守的普京独裁\n#美国伊朗战争 #乌克兰战报 #美国今日 #世界今日 #红右世界 #川粉是粉红 #每日投票 #左派右派 #共党一家 #华夏古今\nTo support Ukraine is to defend ourselves!\n支持烏克蘭•就是•保衛我們自己",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 29,
+                "tag": "美国伊朗战争"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "乌克兰战报"
+              },
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "美国今日"
+              },
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "世界今日"
+              },
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "红右世界"
+              },
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "川粉是粉红"
+              },
+              {
+                "end": 74,
+                "start": 69,
+                "tag": "每日投票"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "左派右派"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "共党一家"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "华夏古今"
+              }
+            ]
+          }
+        },
+        "id": "1329107256567336960",
+        "name": "乌克兰战争•最新进展🇺🇦",
+        "pinned_tweet_id": "1988249749409980849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1332374660533657610/rNffp3F3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114634,
+          "following_count": 15,
+          "like_count": 2134,
+          "listed_count": 359,
+          "media_count": 7762,
+          "tweet_count": 13167
+        },
+        "username": "HXR001",
+        "verified": false
+      }
+    ]
+  }
+}

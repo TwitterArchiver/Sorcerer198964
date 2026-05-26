@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050151038821568512"
+      ],
+      "media_source_tweet_id": [
+        "2050151127027773510"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2050392943182201154",
+    "created_at": "2026-05-02T01:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T02:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050392943182201154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1830784176972537856",
+          "start": 3,
+          "username": "Xin78787"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/brgazgQjaW",
+          "end": 64,
+          "expanded_url": "https://x.com/Xin78787/status/2050151127027773510/video/1",
+          "media_key": "13_2050151038821568512",
+          "start": 41,
+          "url": "https://t.co/brgazgQjaW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050392943182201154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050151127027773510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xin78787: 漫展上遇到cos布洛芬的玩家，妥妥的漫展人气显眼包。 https://t.co/brgazgQjaW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11180,
+        "height": 2880,
+        "media_key": "13_2050151038821568512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050151038821568512/img/2EmcUsSMP9lF3oOv.jpg",
+        "public_metrics": {
+          "view_count": 84693
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050151038821568512/vid/avc1/320x426/uTRUk4drRjfpFpAI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050151038821568512/vid/avc1/480x640/K0_XNQwq-xeSlDpu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050151038821568512/vid/avc1/720x960/p8lCilO-6qgsLsdl.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050151038821568512/pl/6O1zy9dqZZHGGZ8A.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050151038821568512"
+          ],
+          "media_source_tweet_id": [
+            "2050151127027773510"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2050392943182201154",
+        "created_at": "2026-05-02T01:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T02:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050392943182201154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1830784176972537856",
+              "start": 3,
+              "username": "Xin78787"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/brgazgQjaW",
+              "end": 64,
+              "expanded_url": "https://x.com/Xin78787/status/2050151127027773510/video/1",
+              "media_key": "13_2050151038821568512",
+              "start": 41,
+              "url": "https://t.co/brgazgQjaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050392943182201154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050151127027773510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xin78787: 漫展上遇到cos布洛芬的玩家，妥妥的漫展人气显眼包。 https://t.co/brgazgQjaW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050151038821568512"
+          ]
+        },
+        "author_id": "1830784176972537856",
+        "conversation_id": "2050151127027773510",
+        "created_at": "2026-05-01T09:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050151127027773510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/brgazgQjaW",
+              "end": 50,
+              "expanded_url": "https://x.com/Xin78787/status/2050151127027773510/video/1",
+              "media_key": "13_2050151038821568512",
+              "start": 27,
+              "url": "https://t.co/brgazgQjaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050151127027773510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 132698,
+          "like_count": 441,
+          "quote_count": 0,
+          "reply_count": 77,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "漫展上遇到cos布洛芬的玩家，妥妥的漫展人气显眼包。 https://t.co/brgazgQjaW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 407,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 898
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T01:45:44.000Z",
+        "description": "🇨🇳\nThe whole world is mired in filth while I remain unsullied.All mortals drown in stupor whilst I keep clear-minded.",
+        "id": "1830784176972537856",
+        "location": "距你5.2km",
+        "name": "醉清風",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004480530621059072/8eQK5aBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20192,
+          "following_count": 5499,
+          "like_count": 253670,
+          "listed_count": 20,
+          "media_count": 2551,
+          "tweet_count": 21308
+        },
+        "username": "Xin78787",
+        "verified": false
+      }
+    ]
+  }
+}

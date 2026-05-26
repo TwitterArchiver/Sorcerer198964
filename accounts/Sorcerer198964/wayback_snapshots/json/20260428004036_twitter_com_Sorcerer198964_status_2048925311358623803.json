@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2048925311358623803",
+    "created_at": "2026-04-28T00:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T01:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048925311358623803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cuichenghao/st…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/cuichenghao/status/2048741130037252347",
+          "start": 23,
+          "url": "https://t.co/VILmh0Pywq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048925311358623803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048741130037252347",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "意识形态的培养和建立影响一生的价值判断和取向 https://t.co/VILmh0Pywq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51196,
+        "height": 626,
+        "media_key": "13_2048741034222604288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048741034222604288/img/eeW8fPV2kptHr804.jpg",
+        "public_metrics": {
+          "view_count": 35000
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048741034222604288/vid/avc1/380x270/-lzkwKt7tkv9jP4y.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048741034222604288/vid/avc1/506x360/nhgIyiGSITx6yxKq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048741034222604288/vid/avc1/882x626/xJSMRircXBtbRCbQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048741034222604288/pl/PlnYiqGP4d3n9Ok3.m3u8?v=57b"
+          }
+        ],
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2048925311358623803",
+        "created_at": "2026-04-28T00:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048925311358623803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cuichenghao/st…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/cuichenghao/status/2048741130037252347",
+              "start": 23,
+              "url": "https://t.co/VILmh0Pywq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048925311358623803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048741130037252347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "意识形态的培养和建立影响一生的价值判断和取向 https://t.co/VILmh0Pywq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048741034222604288"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2048741130037252347",
+        "created_at": "2026-04-27T12:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048741130037252347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HSgDK5uiQo",
+              "end": 36,
+              "expanded_url": "https://x.com/cuichenghao/status/2048741130037252347/video/1",
+              "media_key": "13_2048741034222604288",
+              "start": 13,
+              "url": "https://t.co/HSgDK5uiQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048741130037252347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 44245,
+          "like_count": 277,
+          "quote_count": 3,
+          "reply_count": 80,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "这孩子一看就特别能吃苦。 https://t.co/HSgDK5uiQo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 387,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96953,
+          "following_count": 732,
+          "like_count": 6692,
+          "listed_count": 325,
+          "media_count": 3642,
+          "tweet_count": 3832
+        },
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

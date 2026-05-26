@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2045531591980753231",
+    "created_at": "2026-04-18T15:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045531591980753231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minokakay/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/minokakay/status/2045432472264200489",
+          "start": 30,
+          "url": "https://t.co/tqb32Kr1lv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045531591980753231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045432472264200489",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种其实饿两天就好了\n没日本人给你父母发工资\n你也配吃饭？ https://t.co/tqb32Kr1lv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2045432464626307072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLV_UoaUAA32JK.jpg",
+        "width": 658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2045531591980753231",
+        "created_at": "2026-04-18T15:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045531591980753231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/minokakay/status/2045432472264200489",
+              "start": 30,
+              "url": "https://t.co/tqb32Kr1lv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045531591980753231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045432472264200489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种其实饿两天就好了\n没日本人给你父母发工资\n你也配吃饭？ https://t.co/tqb32Kr1lv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045432464626307072"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2045432472264200489",
+        "created_at": "2026-04-18T09:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045432472264200489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9E5buyjDF",
+              "end": 35,
+              "expanded_url": "https://x.com/Minokakay/status/2045432472264200489/photo/1",
+              "media_key": "3_2045432464626307072",
+              "start": 12,
+              "url": "https://t.co/m9E5buyjDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045432472264200489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 130072,
+          "like_count": 980,
+          "quote_count": 6,
+          "reply_count": 304,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "索尼父母生个鸿蒙小孩😁 https://t.co/m9E5buyjDF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 300,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 416
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 78,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 55,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14174,
+          "following_count": 1050,
+          "like_count": 44032,
+          "listed_count": 53,
+          "media_count": 1797,
+          "tweet_count": 25912
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

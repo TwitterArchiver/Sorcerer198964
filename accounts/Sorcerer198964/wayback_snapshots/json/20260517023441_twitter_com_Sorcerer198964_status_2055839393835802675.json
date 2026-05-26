@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055707342709358592"
+      ],
+      "media_source_tweet_id": [
+        "2055707348719821248"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2055839393835802675",
+    "created_at": "2026-05-17T02:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055839393835802675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1569261027090472964",
+          "start": 3,
+          "username": "isnowzerocovid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SGqJzqPtIB",
+          "end": 71,
+          "expanded_url": "https://x.com/isnowzerocovid/status/2055707348719821248/photo/1",
+          "media_key": "3_2055707342709358592",
+          "start": 48,
+          "url": "https://t.co/SGqJzqPtIB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055839393835802675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055707348719821248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @isnowzerocovid: 石头剪刀布有一种必胜的方法是，一直出石头直到对面认输。 https://t.co/SGqJzqPtIB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2055707342709358592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdW78RagAArXQo.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055707342709358592"
+          ],
+          "media_source_tweet_id": [
+            "2055707348719821248"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2055839393835802675",
+        "created_at": "2026-05-17T02:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055839393835802675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1569261027090472964",
+              "start": 3,
+              "username": "isnowzerocovid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SGqJzqPtIB",
+              "end": 71,
+              "expanded_url": "https://x.com/isnowzerocovid/status/2055707348719821248/photo/1",
+              "media_key": "3_2055707342709358592",
+              "start": 48,
+              "url": "https://t.co/SGqJzqPtIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055839393835802675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055707348719821248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @isnowzerocovid: 石头剪刀布有一种必胜的方法是，一直出石头直到对面认输。 https://t.co/SGqJzqPtIB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055707342709358592"
+          ]
+        },
+        "author_id": "1569261027090472964",
+        "conversation_id": "2055707348719821248",
+        "created_at": "2026-05-16T17:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055707348719821248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SGqJzqPtIB",
+              "end": 51,
+              "expanded_url": "https://x.com/isnowzerocovid/status/2055707348719821248/photo/1",
+              "media_key": "3_2055707342709358592",
+              "start": 28,
+              "url": "https://t.co/SGqJzqPtIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055707348719821248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3427,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "石头剪刀布有一种必胜的方法是，一直出石头直到对面认输。 https://t.co/SGqJzqPtIB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 545,
+          "like_count": 481,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 1457
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-12T09:46:10.000Z",
+        "description": "🎖️中国第一带货王，我爱熟女美声歌唱家🇨🇳🇦🇺🇸🇬➡️🇺🇸纯粹恶趣味，很少键政(只講幹話) 黄推bot会手工隐藏回复+spam，有本事你就多发点",
+        "id": "1569261027090472964",
+        "location": "最近核酸检测：1.3km",
+        "name": "钟莲花🪷延寿150岁工程总设计师",
+        "pinned_tweet_id": "1768855231327326705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779520724694339584/5cf6RJ5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5766,
+          "following_count": 704,
+          "like_count": 46547,
+          "listed_count": 32,
+          "media_count": 1662,
+          "tweet_count": 15639
+        },
+        "username": "isnowzerocovid",
+        "verified": false
+      }
+    ]
+  }
+}

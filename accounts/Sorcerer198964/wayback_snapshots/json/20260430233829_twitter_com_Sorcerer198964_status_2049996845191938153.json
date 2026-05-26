@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2049996845191938153",
+    "created_at": "2026-04-30T23:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T00:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049996845191938153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2049987160791540002",
+          "start": 11,
+          "url": "https://t.co/r8qB2NqVWo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049996845191938153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049987160791540002",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们华师是这样的吗😄 https://t.co/r8qB2NqVWo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049685464295395328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHyEfCb0AAOj5n.jpg",
+        "width": 1779
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049685488458698752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHyF5DakAAPk9k.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049685508847181824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHyHFAaIAAflzz.jpg",
+        "width": 946
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2049685507798675456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHyHBGbMAAYdeB.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2049996845191938153",
+        "created_at": "2026-04-30T23:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T00:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049996845191938153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2049987160791540002",
+              "start": 11,
+              "url": "https://t.co/r8qB2NqVWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049996845191938153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049987160791540002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们华师是这样的吗😄 https://t.co/r8qB2NqVWo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049685464295395328",
+            "3_2049685488458698752",
+            "3_2049685508847181824",
+            "3_2049685507798675456"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2049987160791540002",
+        "created_at": "2026-04-30T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049987160791540002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NApCHNinUs",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2049987160791540002/photo/1",
+              "media_key": "3_2049685464295395328",
+              "start": 112,
+              "url": "https://t.co/NApCHNinUs"
+            },
+            {
+              "display_url": "pic.x.com/NApCHNinUs",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2049987160791540002/photo/1",
+              "media_key": "3_2049685488458698752",
+              "start": 112,
+              "url": "https://t.co/NApCHNinUs"
+            },
+            {
+              "display_url": "pic.x.com/NApCHNinUs",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2049987160791540002/photo/1",
+              "media_key": "3_2049685508847181824",
+              "start": 112,
+              "url": "https://t.co/NApCHNinUs"
+            },
+            {
+              "display_url": "pic.x.com/NApCHNinUs",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2049987160791540002/photo/1",
+              "media_key": "3_2049685507798675456",
+              "start": 112,
+              "url": "https://t.co/NApCHNinUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049987160791540002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5876,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "4月28日，多名华南师范大学的学生在小红书反映，学校已经开始对不安全的网络行为（例如翻墙）封禁校园网Portal认证账号，导致无法通过Web认证接入互联网\n \n 有学生称：“现在各个学院都发了通知只要翻墙就要被拉黑写报告” https://t.co/NApCHNinUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 397,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 841
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211949,
+          "following_count": 1038,
+          "like_count": 9441,
+          "listed_count": 8699,
+          "media_count": 46024,
+          "tweet_count": 53110
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

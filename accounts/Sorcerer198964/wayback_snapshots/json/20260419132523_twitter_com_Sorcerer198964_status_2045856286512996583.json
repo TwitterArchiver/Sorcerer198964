@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2045856286512996583",
+    "created_at": "2026-04-19T13:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045856286512996583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682558288247021568",
+          "start": 3,
+          "username": "miumiu_14_dd"
+        },
+        {
+          "end": 30,
+          "id": "1683505568131190785",
+          "start": 18,
+          "username": "Crab2046123"
+        },
+        {
+          "end": 43,
+          "id": "1761423076850589696",
+          "start": 31,
+          "username": "nakamori222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045856286512996583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035032361394708607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miumiu_14_dd: @Crab2046123 @nakamori222 其实有一些公益的资源，我已经通过找到的公益咨询做了13+次的全免费咨询。如“东方明见心理咨询”/“玫瑰少年计划”等。还有一些个体执业咨询师在小红书/微信公众号等平台会发布低价/公益招募，从免…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035032352473415680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3jJHubAAA27ka.jpg",
+        "width": 964
+      },
+      {
+        "height": 2130,
+        "media_key": "3_2035032358374842372",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3jJdtboAQ7SHK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2045856286512996583",
+        "created_at": "2026-04-19T13:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045856286512996583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682558288247021568",
+              "start": 3,
+              "username": "miumiu_14_dd"
+            },
+            {
+              "end": 30,
+              "id": "1683505568131190785",
+              "start": 18,
+              "username": "Crab2046123"
+            },
+            {
+              "end": 43,
+              "id": "1761423076850589696",
+              "start": 31,
+              "username": "nakamori222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045856286512996583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035032361394708607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miumiu_14_dd: @Crab2046123 @nakamori222 其实有一些公益的资源，我已经通过找到的公益咨询做了13+次的全免费咨询。如“东方明见心理咨询”/“玫瑰少年计划”等。还有一些个体执业咨询师在小红书/微信公众号等平台会发布低价/公益招募，从免…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035032352473415680",
+            "3_2035032358374842372"
+          ]
+        },
+        "author_id": "1682558288247021568",
+        "conversation_id": "2034866048294691266",
+        "created_at": "2026-03-20T16:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035032361394708607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683505568131190785",
+              "start": 0,
+              "username": "Crab2046123"
+            },
+            {
+              "end": 25,
+              "id": "1761423076850589696",
+              "start": 13,
+              "username": "nakamori222"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSpvPikjJ1",
+              "end": 180,
+              "expanded_url": "https://x.com/miumiu_14_dd/status/2035032361394708607/photo/1",
+              "media_key": "3_2035032352473415680",
+              "start": 157,
+              "url": "https://t.co/YSpvPikjJ1"
+            },
+            {
+              "display_url": "pic.x.com/YSpvPikjJ1",
+              "end": 180,
+              "expanded_url": "https://x.com/miumiu_14_dd/status/2035032361394708607/photo/1",
+              "media_key": "3_2035032358374842372",
+              "start": 157,
+              "url": "https://t.co/YSpvPikjJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035032361394708607",
+        "in_reply_to_user_id": "1683505568131190785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1381,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034918040769601875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crab2046123 @nakamori222 其实有一些公益的资源，我已经通过找到的公益咨询做了13+次的全免费咨询。如“东方明见心理咨询”/“玫瑰少年计划”等。还有一些个体执业咨询师在小红书/微信公众号等平台会发布低价/公益招募，从免费到1、200一次都有。真的很推荐有心理困扰的朋友去搜搜看，尝试一下。 https://t.co/YSpvPikjJ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 315,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T01:09:28.000Z",
+        "description": "贴文含可能触发创伤应激的碎碎念△\n05｜AFAB｜BPD／CPTSD／OSDD-1a｜有对象｜友跨｜feminist｜matriarchy｜不登校｜百合爱好者｜\n\n——★欢迎互fo★——",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miumiu_14_dd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miumiu_14_dd",
+                "start": 0,
+                "url": "https://t.co/0roPVau7Sn"
+              }
+            ]
+          }
+        },
+        "id": "1682558288247021568",
+        "name": "透明岚",
+        "pinned_tweet_id": "2042677538519158935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040513387734712320/nXeN_voK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 353,
+          "like_count": 1387,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/0roPVau7Sn",
+        "username": "miumiu_14_dd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T15:53:09.000Z",
+        "description": "我生来一无所知 只有一点儿时间四处奔波试图改变这一点",
+        "id": "1683505568131190785",
+        "location": "距离你12KM",
+        "name": "野比玉子🐰",
+        "pinned_tweet_id": "2003486111382020308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029855007626153984/l8jSrCss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 2107,
+          "like_count": 47198,
+          "listed_count": 2,
+          "media_count": 908,
+          "tweet_count": 8508
+        },
+        "username": "Crab2046123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T16:09:42.000Z",
+        "description": "不键政，只记录碎碎念，小号 @kaze2077",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "kaze2077"
+              }
+            ]
+          }
+        },
+        "id": "1761423076850589696",
+        "location": "宛平南路599号",
+        "name": "Nakamori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045437974897360896/N5od5RlS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4355,
+          "following_count": 139,
+          "like_count": 55982,
+          "listed_count": 22,
+          "media_count": 276,
+          "tweet_count": 7578
+        },
+        "username": "nakamori222",
+        "verified": true
+      }
+    ]
+  }
+}

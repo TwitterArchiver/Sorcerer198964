@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2052028883608682558",
+    "created_at": "2026-05-06T14:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052028883608682558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_forab/status/…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/_forab/status/2051883216743940607",
+          "start": 45,
+          "url": "https://t.co/DryYMt1BYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052028883608682558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051883216743940607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不应该是NO Immigration and Customs Enforcement吗？ https://t.co/DryYMt1BYN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1142,
+        "media_key": "3_2051882875147190272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnAmoXbAAA5U7u.jpg",
+        "width": 1114
+      },
+      {
+        "height": 950,
+        "media_key": "3_2051883094853169152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnAza1aMAArwMi.png",
+        "width": 908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2052028883608682558",
+        "created_at": "2026-05-06T14:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052028883608682558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_forab/status/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/_forab/status/2051883216743940607",
+              "start": 45,
+              "url": "https://t.co/DryYMt1BYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052028883608682558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051883216743940607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不应该是NO Immigration and Customs Enforcement吗？ https://t.co/DryYMt1BYN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051882875147190272",
+            "3_2051883094853169152"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2051883216743940607",
+        "created_at": "2026-05-06T04:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051883216743940607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGlvonVbSy",
+              "end": 167,
+              "expanded_url": "https://x.com/_FORAB/status/2051883216743940607/photo/1",
+              "media_key": "3_2051882875147190272",
+              "start": 144,
+              "url": "https://t.co/IGlvonVbSy"
+            },
+            {
+              "display_url": "pic.x.com/IGlvonVbSy",
+              "end": 167,
+              "expanded_url": "https://x.com/_FORAB/status/2051883216743940607/photo/1",
+              "media_key": "3_2051883094853169152",
+              "start": 144,
+              "url": "https://t.co/IGlvonVbSy"
+            },
+            {
+              "display_url": "x.com/DHSgov/status/…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/DHSgov/status/2051754837683896415",
+              "start": 168,
+              "url": "https://t.co/cauT2OSxyh"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "594fa6c6bc5b5ba9"
+        },
+        "id": "2051883216743940607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 125454,
+          "like_count": 444,
+          "quote_count": 14,
+          "reply_count": 78,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051754837683896415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绷不住了。在美国专门负责抓非法移民、驱逐人出境的 ICE 部门，决定改名为 NICE 部门。\n\n此构想源于一名支持者的建议，因为 ICE 天天抓非法移民，被媒体频繁负面报道，而如果改名，媒体就必须整天称呼它为 NICE 部门（直翻就是 好部门、好员工），然后特朗普就真接收了这个提议。。 https://t.co/IGlvonVbSy https://t.co/cauT2OSxyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 475,
+          "like_count": 340,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1145
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120356,
+          "following_count": 605,
+          "like_count": 10111,
+          "listed_count": 1930,
+          "media_count": 3284,
+          "tweet_count": 14332
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055544434419503104"
+      ],
+      "media_source_tweet_id": [
+        "2055544444359942293"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2055832791061852431",
+    "created_at": "2026-05-17T02:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055832791061852431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1779921577213337601",
+          "start": 3,
+          "username": "TROWGGG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w8NuuXFLVn",
+          "end": 36,
+          "expanded_url": "https://x.com/TROWGGG/status/2055544444359942293/photo/1",
+          "media_key": "3_2055544434419503104",
+          "start": 13,
+          "url": "https://t.co/w8NuuXFLVn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055832791061852431",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055544444359942293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TROWGGG: https://t.co/w8NuuXFLVn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1510,
+        "media_key": "3_2055544434419503104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbCxbmbEAAGhI_.jpg",
+        "width": 841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055544434419503104"
+          ],
+          "media_source_tweet_id": [
+            "2055544444359942293"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2055832791061852431",
+        "created_at": "2026-05-17T02:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055832791061852431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1779921577213337601",
+              "start": 3,
+              "username": "TROWGGG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w8NuuXFLVn",
+              "end": 36,
+              "expanded_url": "https://x.com/TROWGGG/status/2055544444359942293/photo/1",
+              "media_key": "3_2055544434419503104",
+              "start": 13,
+              "url": "https://t.co/w8NuuXFLVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055832791061852431",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055544444359942293",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TROWGGG: https://t.co/w8NuuXFLVn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055544434419503104"
+          ]
+        },
+        "author_id": "1779921577213337601",
+        "conversation_id": "2055544444359942293",
+        "created_at": "2026-05-16T07:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055544444359942293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w8NuuXFLVn",
+              "end": 23,
+              "expanded_url": "https://x.com/TROWGGG/status/2055544444359942293/photo/1",
+              "media_key": "3_2055544434419503104",
+              "start": 0,
+              "url": "https://t.co/w8NuuXFLVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055544444359942293",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1129,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/w8NuuXFLVn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 544,
+          "like_count": 480,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 1454
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T17:16:12.000Z",
+        "description": "我无处不在✟                                                                     \n✟不要攻击只是一个不存在的实体                                     只对药物科研有兴趣",
+        "id": "1779921577213337601",
+        "location": "三东京市",
+        "name": "我叫某小花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779922488182583296/kIMH2qk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 83,
+          "like_count": 7555,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 422
+        },
+        "username": "TROWGGG",
+        "verified": false
+      }
+    ]
+  }
+}

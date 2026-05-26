@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2051098490487312415",
+    "created_at": "2026-05-04T00:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T01:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051099935316070898"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051099935316070898",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051098490487312415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另外不要迷信苏联/俄罗斯药物，审核机制和欧美完全没得比，虽然留下了很多可能有效的药物但是去试错成本太高了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051098477547941888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHb3MrmW8AAnPdI.jpg",
+        "width": 266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2051098490487312415",
+        "created_at": "2026-05-04T00:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T01:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051099935316070898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051099935316070898",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051098490487312415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另外不要迷信苏联/俄罗斯药物，审核机制和欧美完全没得比，虽然留下了很多可能有效的药物但是去试错成本太高了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051098477547941888"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2051098490487312415",
+        "created_at": "2026-05-04T00:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T01:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051098490487312415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RLh8HwfRke",
+              "end": 141,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2051098490487312415/photo/1",
+              "media_key": "3_2051098477547941888",
+              "start": 118,
+              "url": "https://t.co/RLh8HwfRke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051098490487312415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到个用药体验\n个人认为这个作者表达了对专注达的不敬\n他提到的药物我感觉都不如专注达\n我没有ADHD，专注达18mg就能带来轻中度的眼前明亮，噪声抑制和学习动力提升\n维稳思在中国搞不到\n不知道作者为什么认为利他林可以反制阿德拉的副作用 https://t.co/RLh8HwfRke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 443,
+          "like_count": 286,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

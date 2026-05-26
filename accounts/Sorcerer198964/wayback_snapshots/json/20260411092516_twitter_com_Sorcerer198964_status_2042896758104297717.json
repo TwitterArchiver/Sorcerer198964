@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2042817525063520392",
+    "created_at": "2026-04-11T09:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042896758104297717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        },
+        {
+          "end": 24,
+          "id": "1834043719961772032",
+          "start": 14,
+          "username": "NK_DRAG0N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042896758104297717",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042894611883184426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 @NK_DRAG0N 看看你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2042817525063520392",
+        "created_at": "2026-04-11T09:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042896758104297717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            },
+            {
+              "end": 24,
+              "id": "1834043719961772032",
+              "start": 14,
+              "username": "NK_DRAG0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042896758104297717",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042894611883184426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 @NK_DRAG0N 看看你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2042817525063520392",
+        "created_at": "2026-04-11T09:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042894611883184426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1834043719961772032",
+              "start": 0,
+              "username": "NK_DRAG0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042894611883184426",
+        "in_reply_to_user_id": "1834043719961772032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042817525063520392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NK_DRAG0N 好小的牛子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 150,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 114
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "enby mtx  they/him  hrt2025.2.27 性少数友好  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  全网最尊重激女和毛泽东的账号  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2033963961281085452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 1460,
+          "like_count": 4244,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 2812
+        },
+        "username": "ashasw114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T01:38:02.000Z",
+        "description": "如有要事致联络事务合署邮件地址Yun_Dragon@Vip.qq.com\\\\ QQ：3972879837 \\\\📷\\\\睡觉💤\\\\总会有天马行空的想法，自我开发尝试中\\\\广深港常驻\\\\肠胃不适\\\\🎨学习尝试中\\\\language🐶🐉🦊\\\\政治禁止\\\\禁止任何未经授的搬运！！！",
+        "id": "1834043719961772032",
+        "location": "Hong Kong",
+        "name": "奈雪",
+        "pinned_tweet_id": "2013855358830145874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035180350998290433/7p6v-tH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816,
+          "following_count": 30,
+          "like_count": 35,
+          "listed_count": 8,
+          "media_count": 86,
+          "tweet_count": 159
+        },
+        "username": "NK_DRAG0N",
+        "verified": false
+      }
+    ]
+  }
+}

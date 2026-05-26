@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2058114506983944369",
+    "created_at": "2026-05-23T09:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058114506983944369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cuichenghao/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/cuichenghao/status/2058042501089616111",
+          "start": 20,
+          "url": "https://t.co/A8ibbS898P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058114506983944369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058042501089616111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一次是真有问题\n第二次是为了混毕业吧 https://t.co/A8ibbS898P"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20175,
+        "height": 1554,
+        "media_key": "13_2058041929938653184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058041929938653184/img/wYbtvhqxflnG_sxX.jpg",
+        "public_metrics": {
+          "view_count": 36475
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058041929938653184/vid/avc1/480x840/jUWTCZBd6rKUVO8K.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058041929938653184/vid/avc1/886x1554/ayjUJODOpnaAn6__.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058041929938653184/pl/brv2U85mxtZtZuma.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058041929938653184/vid/avc1/720x1262/uwuJnsQFuUPwuUU7.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058041929938653184/vid/avc1/320x560/9a1Qb9ym0BnqOcVu.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2058114506983944369",
+        "created_at": "2026-05-23T09:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058114506983944369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cuichenghao/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/cuichenghao/status/2058042501089616111",
+              "start": 20,
+              "url": "https://t.co/A8ibbS898P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058114506983944369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058042501089616111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次是真有问题\n第二次是为了混毕业吧 https://t.co/A8ibbS898P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058041929938653184"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2058042501089616111",
+        "created_at": "2026-05-23T04:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058042501089616111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F4MCfIcc2d",
+              "end": 79,
+              "expanded_url": "https://x.com/cuichenghao/status/2058042501089616111/video/1",
+              "media_key": "13_2058041929938653184",
+              "start": 56,
+              "url": "https://t.co/F4MCfIcc2d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058042501089616111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 72310,
+          "like_count": 441,
+          "quote_count": 11,
+          "reply_count": 121,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "继杀哥之后，内地某大学又出行为怪异学生，当场惊呆老师和同学。随着生存压力加大，内地大学生心理健康问题愈发突出。 https://t.co/F4MCfIcc2d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 617,
+          "like_count": 673,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 1734
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103462,
+          "following_count": 749,
+          "like_count": 7611,
+          "listed_count": 346,
+          "media_count": 4322,
+          "tweet_count": 4516
+        },
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

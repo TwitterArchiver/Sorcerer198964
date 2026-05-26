@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2042401743473164560",
+    "created_at": "2026-04-10T00:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T01:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042401743473164560"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042401743473164560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有的人喜欢对我说些莫名其妙的话\n比如“我的话是不是伤到你了？”诸如此类没事找事自我怀疑甚至还要告诉别人的神奇之事\n我该怎么回应？我难道说：“是，你恶心到我了”吗？\n如果我说：“没有”，你倒是安心了，却不怀疑自己是不是真的在麻烦别人吗？\n这种人真的很内耗，在我经验中以宗教徒特别是基督徒为主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2042401743473164560",
+        "created_at": "2026-04-10T00:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T01:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042401743473164560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042401743473164560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的人喜欢对我说些莫名其妙的话\n比如“我的话是不是伤到你了？”诸如此类没事找事自我怀疑甚至还要告诉别人的神奇之事\n我该怎么回应？我难道说：“是，你恶心到我了”吗？\n如果我说：“没有”，你倒是安心了，却不怀疑自己是不是真的在麻烦别人吗？\n这种人真的很内耗，在我经验中以宗教徒特别是基督徒为主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 126,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 61
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2051675344290128003",
+    "created_at": "2026-05-05T14:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051675344290128003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1262587553162489856",
+          "start": 3,
+          "username": "caijingshujuku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/1vlg04bh",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/1vlg04bh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051675344290128003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051648759671705972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caijingshujuku: 女子玩重庆探险营高空滑索项目，安全绳没拴紧直接高空坠亡了\n\n可以听到视频里女生说了两遍“没拴紧”，但工作人员还是不负责任把她放下去了\n\n之后躺担架里满身是血，身亡\n\n极目新闻等多家媒体报道了此事 https://t.co/1vlg04bh…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19712,
+        "height": 1280,
+        "media_key": "13_2051647598218608640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051647598218608640/img/N6UIYkiSp0C6OWZr.jpg",
+        "public_metrics": {
+          "view_count": 36280
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051647598218608640/vid/avc1/320x568/Z4KEnPMm4noAtEc6.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051647598218608640/vid/avc1/480x852/Ll-74IGhZFY7Cb41.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051647598218608640/vid/avc1/720x1280/ksl7MLFvQeTpb_xc.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051647598218608640/pl/mclobYfrApOE2Oyt.m3u8?tag=27&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 900,
+        "media_key": "3_2051647598201896960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjqntcbgAAnma7.jpg",
+        "width": 510
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051648752805642240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjrq6ragAAqlQ9.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051648752818257920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjrq6ubAAAcLpn.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2051675344290128003",
+        "created_at": "2026-05-05T14:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051675344290128003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1262587553162489856",
+              "start": 3,
+              "username": "caijingshujuku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/1vlg04bh",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/1vlg04bh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051675344290128003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051648759671705972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caijingshujuku: 女子玩重庆探险营高空滑索项目，安全绳没拴紧直接高空坠亡了\n\n可以听到视频里女生说了两遍“没拴紧”，但工作人员还是不负责任把她放下去了\n\n之后躺担架里满身是血，身亡\n\n极目新闻等多家媒体报道了此事 https://t.co/1vlg04bh…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051647598218608640",
+            "3_2051647598201896960",
+            "3_2051648752805642240",
+            "3_2051648752818257920"
+          ]
+        },
+        "author_id": "1262587553162489856",
+        "conversation_id": "2051648759671705972",
+        "created_at": "2026-05-05T13:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:58:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051647652488765569",
+          "2051648759671705972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vlg04bhN6",
+              "end": 121,
+              "expanded_url": "https://x.com/caijingshujuku/status/2051648759671705972/video/1",
+              "media_key": "13_2051647598218608640",
+              "start": 98,
+              "url": "https://t.co/1vlg04bhN6"
+            },
+            {
+              "display_url": "pic.x.com/1vlg04bhN6",
+              "end": 121,
+              "expanded_url": "https://x.com/caijingshujuku/status/2051648759671705972/video/1",
+              "media_key": "3_2051647598201896960",
+              "start": 98,
+              "url": "https://t.co/1vlg04bhN6"
+            },
+            {
+              "display_url": "pic.x.com/1vlg04bhN6",
+              "end": 121,
+              "expanded_url": "https://x.com/caijingshujuku/status/2051648759671705972/video/1",
+              "media_key": "3_2051648752805642240",
+              "start": 98,
+              "url": "https://t.co/1vlg04bhN6"
+            },
+            {
+              "display_url": "pic.x.com/1vlg04bhN6",
+              "end": 121,
+              "expanded_url": "https://x.com/caijingshujuku/status/2051648759671705972/video/1",
+              "media_key": "3_2051648752818257920",
+              "start": 98,
+              "url": "https://t.co/1vlg04bhN6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051648759671705972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 77338,
+          "like_count": 86,
+          "quote_count": 1,
+          "reply_count": 41,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "女子玩重庆探险营高空滑索项目，安全绳没拴紧直接高空坠亡了\n\n可以听到视频里女生说了两遍“没拴紧”，但工作人员还是不负责任把她放下去了\n\n之后躺担架里满身是血，身亡\n\n极目新闻等多家媒体报道了此事 https://t.co/1vlg04bhN6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 457,
+          "like_count": 317,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 1106
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-19T03:35:14.000Z",
+        "description": "防止墙内封号，海内外财经数据和思想的保存和收集者！海内外最新财经观点碰撞的平台",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/Nlh6PxIuyO"
+              }
+            ]
+          }
+        },
+        "id": "1262587553162489856",
+        "name": "财经数据库",
+        "pinned_tweet_id": "2050202905899380769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645446590541463552/r6f6qEtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367044,
+          "following_count": 70,
+          "like_count": 544,
+          "listed_count": 1684,
+          "media_count": 8491,
+          "tweet_count": 19591
+        },
+        "url": "https://t.co/Nlh6PxIuyO",
+        "username": "caijingshujuku",
+        "verified": true
+      }
+    ]
+  }
+}

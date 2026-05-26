@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2054958447414694060",
+    "created_at": "2026-05-14T16:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T17:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054958447414694060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1676634704878129152",
+          "start": 3,
+          "username": "AotraWong"
+        },
+        {
+          "end": 34,
+          "id": "1810873766119100416",
+          "start": 19,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 50,
+          "id": "1970857021588262912",
+          "start": 43,
+          "username": "UnkXyn"
+        },
+        {
+          "end": 76,
+          "id": "1894461745277931524",
+          "start": 61,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 99,
+          "id": "2028321716049743872",
+          "start": 89,
+          "username": "xynMTFxyn"
+        },
+        {
+          "end": 123,
+          "id": "1928705633135767600",
+          "start": 108,
+          "username": "AuroraLight_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054958447414694060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054953271018852704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AotraWong: 我既没有@RainEngine2024的名气、网络朋友\n@UnkXyn的涨粉速度、生理优势\n@Rain_Antar1121的自由、到世界旅行的时间\n@xynMTFxyn的切🥚实力和勇气\n@AuroraLight_01那么好的年龄\n@nyaephei…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2054958447414694060",
+        "created_at": "2026-05-14T16:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054958447414694060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1676634704878129152",
+              "start": 3,
+              "username": "AotraWong"
+            },
+            {
+              "end": 34,
+              "id": "1810873766119100416",
+              "start": 19,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 50,
+              "id": "1970857021588262912",
+              "start": 43,
+              "username": "UnkXyn"
+            },
+            {
+              "end": 76,
+              "id": "1894461745277931524",
+              "start": 61,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 99,
+              "id": "2028321716049743872",
+              "start": 89,
+              "username": "xynMTFxyn"
+            },
+            {
+              "end": 123,
+              "id": "1928705633135767600",
+              "start": 108,
+              "username": "AuroraLight_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054958447414694060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054953271018852704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AotraWong: 我既没有@RainEngine2024的名气、网络朋友\n@UnkXyn的涨粉速度、生理优势\n@Rain_Antar1121的自由、到世界旅行的时间\n@xynMTFxyn的切🥚实力和勇气\n@AuroraLight_01那么好的年龄\n@nyaephei…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676634704878129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2054953271018852704",
+        "created_at": "2026-05-14T15:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054953271018852704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1810873766119100416",
+              "start": 4,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 35,
+              "id": "1970857021588262912",
+              "start": 28,
+              "username": "UnkXyn"
+            },
+            {
+              "end": 61,
+              "id": "1894461745277931524",
+              "start": 46,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 84,
+              "id": "2028321716049743872",
+              "start": 74,
+              "username": "xynMTFxyn"
+            },
+            {
+              "end": 108,
+              "id": "1928705633135767600",
+              "start": 93,
+              "username": "AuroraLight_01"
+            },
+            {
+              "end": 125,
+              "id": "1608637128132685825",
+              "start": 115,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 149,
+              "id": "1436287470207832064",
+              "start": 139,
+              "username": "wuyuandev"
+            },
+            {
+              "end": 168,
+              "id": "1781510736000274432",
+              "start": 159,
+              "username": "huantim1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/huantim1/statu…",
+              "end": 212,
+              "expanded_url": "https://twitter.com/huantim1/status/2054938040095924697",
+              "start": 189,
+              "url": "https://t.co/lbY6yWGcr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054953271018852704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054938040095924697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我既没有@RainEngine2024的名气、网络朋友\n@UnkXyn的涨粉速度、生理优势\n@Rain_Antar1121的自由、到世界旅行的时间\n@xynMTFxyn的切🥚实力和勇气\n@AuroraLight_01那么好的年龄\n@nyaepheia已经休学多得是做项目的时间\n@wuyuandev 那么强的技术能力\n@huantim1 那么好的地理位置\n我呀，或许就这样了😇 https://t.co/lbY6yWGcr0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 521,
+          "like_count": 426,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T16:50:50.000Z",
+        "description": "芷姗 | 也许是个大姐姐 | 08 May | 🏳️‍⚧️ | 物化政 |\n头像：迎恩门 / 背景：虎门港 | 校心理社前部长 | \nLCNA总管理员 | DPS MC服务器服主 |\nIT/交通/医学（尤其是精神医学） 爱好者 | \n希望我能帮到你，哪怕只是一点点。谢谢你的Fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lcna.cn",
+                "end": 23,
+                "expanded_url": "https://blog.lcna.cn",
+                "start": 0,
+                "url": "https://t.co/9a4AgdadOU"
+              }
+            ]
+          }
+        },
+        "id": "1676634704878129152",
+        "location": "東莞 Dongguan",
+        "name": "Aotra | An Open Tunnel to Receive Answer",
+        "pinned_tweet_id": "1938617299428323702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782805332924002304/j-PEXjWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 1055,
+          "like_count": 21520,
+          "listed_count": 5,
+          "media_count": 420,
+          "tweet_count": 1748
+        },
+        "url": "https://t.co/9a4AgdadOU",
+        "username": "AotraWong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052221080052674560/erKoHu5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10103,
+          "following_count": 952,
+          "like_count": 87498,
+          "listed_count": 24,
+          "media_count": 1723,
+          "tweet_count": 12136
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "RainEngine2024",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|💊oder|生产日期:11.13.2011|161cm52kg75A40码|INFP-T，重度社恐|初二牲，成绩倒数，希望不登校😭，渴望在家里躺尸😭|同类互fo喵～|小号@UnkXyn|https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 129,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 160,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 137,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "湖北省-孝感市-汉川市",
+        "name": "𝑼𝒏𝒌~🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051684783588315136/Nkhjk1Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 1459,
+          "like_count": 17435,
+          "listed_count": 2,
+          "media_count": 509,
+          "tweet_count": 2767
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "UnkXyn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042559105353842688/Hs-yW50g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4107,
+          "following_count": 6065,
+          "like_count": 14012,
+          "listed_count": 10,
+          "media_count": 270,
+          "tweet_count": 3149
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-02T04:14:51.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| 摄影📹| LGBT 🏳️‍🌈 | 青岛|私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 非常helpful的南盺 | 小南 |",
+        "id": "2028321716049743872",
+        "name": "南盺酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054013336845709427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028373556783153152/usYeYRCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 111,
+          "like_count": 152,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 721
+        },
+        "username": "xynMTFxyn",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？推龄最小的? \n无证小药娘🍥2026.4.7 MTF\n从小想做个女孩子-炸柜：5.2,断糖ing\n喜欢折腾电脑和会一点编程\n分享Hrt日常-自残🔪  不Od💊  \n关注芸光谢谢喵~（目标900fo QWQ）\n—————\n我只想要与你留住每个瞬间”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Coxe_Pica",
+                "end": 23,
+                "expanded_url": "http://t.me/Coxe_Pica",
+                "start": 0,
+                "url": "https://t.co/ic4apAlvVH"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱AuroraLight 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2053779388169412843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 18,
+          "like_count": 1707,
+          "listed_count": 5,
+          "media_count": 94,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/ic4apAlvVH",
+        "username": "AuroraLight_01",
+        "verified": true
+      }
+    ]
+  }
+}

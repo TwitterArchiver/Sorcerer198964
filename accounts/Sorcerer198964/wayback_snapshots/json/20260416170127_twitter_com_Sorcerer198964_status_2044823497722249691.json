@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2044624420485075202",
+    "created_at": "2026-04-16T17:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T18:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044823497722249691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823295689176346624",
+          "start": 0,
+          "username": "letmego6327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044823497722249691",
+    "in_reply_to_user_id": "1823295689176346624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044624420485075202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@letmego6327 吃过罐头，但是加了柠檬酸吃不很出本味\n不过感觉味道应该不会太差，可能类似于比较老和紧实的芥菜\n而且据说有护肝功能"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29280,
+        "height": 1024,
+        "media_key": "13_2044624356706574336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044624356706574336/img/YUetDx95fAYtiY3P.jpg",
+        "public_metrics": {
+          "view_count": 364
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044624356706574336/vid/avc1/320x568/kxWI-bwVCbwdYaZd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044624356706574336/vid/avc1/480x852/-1jH2fwPOCIRLvLe.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044624356706574336/vid/avc1/576x1024/Vk0MYZuP_GeriZmZ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044624356706574336/pl/fLQpRzQaE7mlHRya.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2044624420485075202",
+        "created_at": "2026-04-16T17:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044823497722249691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823295689176346624",
+              "start": 0,
+              "username": "letmego6327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044823497722249691",
+        "in_reply_to_user_id": "1823295689176346624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044624420485075202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@letmego6327 吃过罐头，但是加了柠檬酸吃不很出本味\n不过感觉味道应该不会太差，可能类似于比较老和紧实的芥菜\n而且据说有护肝功能"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044624356706574336"
+          ]
+        },
+        "author_id": "1823295689176346624",
+        "conversation_id": "2044624420485075202",
+        "created_at": "2026-04-16T03:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044624420485075202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hyUGrDrj70",
+              "end": 30,
+              "expanded_url": "https://x.com/letmego6327/status/2044624420485075202/video/1",
+              "media_key": "13_2044624356706574336",
+              "start": 7,
+              "url": "https://t.co/hyUGrDrj70"
+            },
+            {
+              "display_url": "x.com/letmego6327/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/letmego6327/status/2043127040887673300",
+              "start": 31,
+              "url": "https://t.co/9drnHFZx2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044624420485075202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1680,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043127040887673300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "洋蓟好吃吗？ https://t.co/hyUGrDrj70 https://t.co/9drnHFZx2M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 273,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T09:49:17.000Z",
+        "description": "生活推，日常吃喝～\n解压视频爱好者～\n屡被言论自由，已老实～",
+        "id": "1823295689176346624",
+        "name": "悠悠姐🌸🕊🍀",
+        "pinned_tweet_id": "2043127040887673300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037439454684573696/o6IWY9HQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4918,
+          "following_count": 5394,
+          "like_count": 92980,
+          "listed_count": 14,
+          "media_count": 730,
+          "tweet_count": 9620
+        },
+        "username": "letmego6327",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2045556022342021166",
+    "created_at": "2026-04-19T07:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T08:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045767019900133567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1676101365465235457",
+          "start": 0,
+          "username": "qgmzmy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045767019900133567",
+    "in_reply_to_user_id": "1676101365465235457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045761090236334303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qgmzmy 橘子也可以去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2045556022342021166",
+        "created_at": "2026-04-19T07:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045767019900133567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676101365465235457",
+              "start": 0,
+              "username": "qgmzmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045767019900133567",
+        "in_reply_to_user_id": "1676101365465235457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045761090236334303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qgmzmy 橘子也可以去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676101365465235457",
+        "conversation_id": "2045556022342021166",
+        "created_at": "2026-04-19T07:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045761090236334303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045761090236334303",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045556022342021166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer198964 应该是起义路200号吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 314,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T05:31:57.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.qgmzmy.me",
+                "end": 23,
+                "expanded_url": "https://blog.qgmzmy.me",
+                "start": 0,
+                "url": "https://t.co/N26RxgKESL"
+              }
+            ]
+          }
+        },
+        "id": "1676101365465235457",
+        "location": "평양 직할시",
+        "name": "qgmzmy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678357802753081344/UrFmWcen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 94,
+          "like_count": 1422,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/N26RxgKESL",
+        "username": "qgmzmy",
+        "verified": false
+      }
+    ]
+  }
+}

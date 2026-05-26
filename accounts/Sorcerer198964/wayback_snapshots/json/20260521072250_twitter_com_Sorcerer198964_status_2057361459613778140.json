@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2057361459613778140",
+    "created_at": "2026-05-21T07:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057361459613778140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CCA8798/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/CCA8798/status/2057352879460250011",
+          "start": 5,
+          "url": "https://t.co/VoxsgVnPAj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057361459613778140",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057352879460250011",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想去 https://t.co/VoxsgVnPAj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 532,
+        "media_key": "3_2057352811814473728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0ve2XaUAAm0_N.jpg",
+        "width": 2204
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057352814104551424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0ve-5aIAAWhBF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2057352813618053120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0ve9FawAALUmh.jpg",
+        "width": 1348
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057352822728101888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0vffBbEAAYG3F.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2057361459613778140",
+        "created_at": "2026-05-21T07:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057361459613778140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CCA8798/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/CCA8798/status/2057352879460250011",
+              "start": 5,
+              "url": "https://t.co/VoxsgVnPAj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057361459613778140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057352879460250011",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想去 https://t.co/VoxsgVnPAj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057352811814473728",
+            "3_2057352814104551424",
+            "3_2057352813618053120",
+            "3_2057352822728101888"
+          ]
+        },
+        "author_id": "1764195010986274816",
+        "conversation_id": "2057352879460250011",
+        "created_at": "2026-05-21T06:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057352879460250011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BmQ1a3otjF",
+              "end": 74,
+              "expanded_url": "https://x.com/CCA8798/status/2057352879460250011/photo/1",
+              "media_key": "3_2057352811814473728",
+              "start": 51,
+              "url": "https://t.co/BmQ1a3otjF"
+            },
+            {
+              "display_url": "pic.x.com/BmQ1a3otjF",
+              "end": 74,
+              "expanded_url": "https://x.com/CCA8798/status/2057352879460250011/photo/1",
+              "media_key": "3_2057352814104551424",
+              "start": 51,
+              "url": "https://t.co/BmQ1a3otjF"
+            },
+            {
+              "display_url": "pic.x.com/BmQ1a3otjF",
+              "end": 74,
+              "expanded_url": "https://x.com/CCA8798/status/2057352879460250011/photo/1",
+              "media_key": "3_2057352813618053120",
+              "start": 51,
+              "url": "https://t.co/BmQ1a3otjF"
+            },
+            {
+              "display_url": "pic.x.com/BmQ1a3otjF",
+              "end": 74,
+              "expanded_url": "https://x.com/CCA8798/status/2057352879460250011/photo/1",
+              "media_key": "3_2057352822728101888",
+              "start": 51,
+              "url": "https://t.co/BmQ1a3otjF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057352879460250011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广州-灰色博物馆\n很欣慰的是\n进门第一个故事是木桶饭的故事\n还有这个处方笺\n不知道写啥只好报菜名了( https://t.co/BmQ1a3otjF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 598,
+          "like_count": 604,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 1612
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党(家长党！) 出柜26.05.05 | 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 | 玻璃心 心境障碍 ED GD (OD🧐)双相中焦 | 交通 科学 医学 杂圈迷 | 战争雷霆 | Cpp Coder\n可寄拍/扩列\n二代目(逃生舱): @CCA8798suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(疲乏版)🍥",
+        "pinned_tweet_id": "2052265032193581443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051736077615136768/q8UF6A0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 1256,
+          "like_count": 16337,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 2307
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      }
+    ]
+  }
+}

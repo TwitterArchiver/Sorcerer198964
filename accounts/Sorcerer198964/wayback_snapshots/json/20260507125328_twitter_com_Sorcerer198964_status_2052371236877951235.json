@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2052371236877951235",
+    "created_at": "2026-05-07T12:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052371236877951235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_forab/status/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/_forab/status/2052337951858954270",
+          "start": 16,
+          "url": "https://t.co/yJCGGeprbz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052371236877951235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052337951858954270",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以后可能五年来一次疾病大流行？ https://t.co/yJCGGeprbz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 590,
+        "media_key": "3_2052337806421454848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHteXHba8AApak2.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2052371236877951235",
+        "created_at": "2026-05-07T12:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052371236877951235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_forab/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/_forab/status/2052337951858954270",
+              "start": 16,
+              "url": "https://t.co/yJCGGeprbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052371236877951235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052337951858954270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以后可能五年来一次疾病大流行？ https://t.co/yJCGGeprbz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052337806421454848"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2052337951858954270",
+        "created_at": "2026-05-07T10:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052337951858954270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZBa9ELoiv",
+              "end": 133,
+              "expanded_url": "https://x.com/_FORAB/status/2052337951858954270/photo/1",
+              "media_key": "3_2052337806421454848",
+              "start": 110,
+              "url": "https://t.co/1ZBa9ELoiv"
+            },
+            {
+              "display_url": "x.com/iamasoothsayer…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/iamasoothsayer/status/1535494638391664641",
+              "start": 134,
+              "url": "https://t.co/xXnlrh9RWX"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "451617631d24d98c"
+        },
+        "id": "2052337951858954270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 178159,
+          "like_count": 286,
+          "quote_count": 8,
+          "reply_count": 121,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1535494638391664641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天这条推文，在整个 X 上炸开了。\n\n一名自称是占卜师的老哥，在 2022 年发推说 23 年新冠疫情会结束，但是 2026 年汉坦病毒会到来。\n\n虽然现实世界不推崇迷信，但近期汉坦病毒在美欧，确实出现了迅速的传播。 https://t.co/1ZBa9ELoiv https://t.co/xXnlrh9RWX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 477,
+          "like_count": 351,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 1187
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120475,
+          "following_count": 606,
+          "like_count": 10113,
+          "listed_count": 1931,
+          "media_count": 3292,
+          "tweet_count": 14346
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

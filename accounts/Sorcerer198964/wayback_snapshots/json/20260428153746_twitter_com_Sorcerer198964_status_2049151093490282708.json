@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2049151093490282708",
+    "created_at": "2026-04-28T15:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049151093490282708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1316002167338065921",
+          "start": 3,
+          "username": "Gnimi114514"
+        },
+        {
+          "end": 27,
+          "id": "1621101576017543170",
+          "start": 17,
+          "username": "FALALI812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049151093490282708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049133933305143641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gnimi114514: @FALALI812 扯jb🥚我就是武理生物的，这jb是个中外合办专业，一年4w，没钱谁jb报啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2049151093490282708",
+        "created_at": "2026-04-28T15:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049151093490282708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1316002167338065921",
+              "start": 3,
+              "username": "Gnimi114514"
+            },
+            {
+              "end": 27,
+              "id": "1621101576017543170",
+              "start": 17,
+              "username": "FALALI812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049151093490282708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049133933305143641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gnimi114514: @FALALI812 扯jb🥚我就是武理生物的，这jb是个中外合办专业，一年4w，没钱谁jb报啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1316002167338065921",
+        "conversation_id": "2049032533455827425",
+        "created_at": "2026-04-28T14:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049133933305143641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621101576017543170",
+              "start": 0,
+              "username": "FALALI812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049133933305143641",
+        "in_reply_to_user_id": "1621101576017543170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12392,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049032533455827425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FALALI812 扯jb🥚我就是武理生物的，这jb是个中外合办专业，一年4w，没钱谁jb报啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 397,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T13:06:22.000Z",
+        "description": "",
+        "id": "1316002167338065921",
+        "name": "Gnimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996778231723446273/QdYmBxZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 632,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 99
+        },
+        "username": "Gnimi114514",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T11:02:01.000Z",
+        "description": "比特币在仓，山寨能冲，土狗敢打，生活潇洒，酒吧常客，内心强大到混蛋。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/1972443334",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/1972443334",
+                "start": 0,
+                "url": "https://t.co/redS6FNiNp"
+              }
+            ]
+          }
+        },
+        "id": "1621101576017543170",
+        "name": "男神天花板新哥",
+        "pinned_tweet_id": "1772558224220409864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670362147929591809/hWChhHJQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63655,
+          "following_count": 1077,
+          "like_count": 18783,
+          "listed_count": 188,
+          "media_count": 2402,
+          "tweet_count": 19481
+        },
+        "url": "https://t.co/redS6FNiNp",
+        "username": "FALALI812",
+        "verified": true
+      }
+    ]
+  }
+}

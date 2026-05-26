@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046042399961497600"
+      ],
+      "media_source_tweet_id": [
+        "2046042407020417433"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2046079332184142093",
+    "created_at": "2026-04-20T04:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T05:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046079332184142093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535701819812462600",
+          "start": 3,
+          "username": "Kenntnis22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/USied3AEZ5",
+          "end": 46,
+          "expanded_url": "https://x.com/Kenntnis22/status/2046042407020417433/photo/1",
+          "media_key": "3_2046042399961497600",
+          "start": 23,
+          "url": "https://t.co/USied3AEZ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046079332184142093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046042407020417433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenntnis22: 里根讲笑话😊 https://t.co/USied3AEZ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1716,
+        "media_key": "3_2046042399961497600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUAuO0XwAAiNMt.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046042399961497600"
+          ],
+          "media_source_tweet_id": [
+            "2046042407020417433"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2046079332184142093",
+        "created_at": "2026-04-20T04:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046079332184142093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535701819812462600",
+              "start": 3,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/USied3AEZ5",
+              "end": 46,
+              "expanded_url": "https://x.com/Kenntnis22/status/2046042407020417433/photo/1",
+              "media_key": "3_2046042399961497600",
+              "start": 23,
+              "url": "https://t.co/USied3AEZ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046079332184142093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046042407020417433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenntnis22: 里根讲笑话😊 https://t.co/USied3AEZ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046042399961497600"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "2046042407020417433",
+        "created_at": "2026-04-20T01:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046042407020417433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/USied3AEZ5",
+              "end": 30,
+              "expanded_url": "https://x.com/Kenntnis22/status/2046042407020417433/photo/1",
+              "media_key": "3_2046042399961497600",
+              "start": 7,
+              "url": "https://t.co/USied3AEZ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046042407020417433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 20820,
+          "like_count": 217,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "里根讲笑话😊 https://t.co/USied3AEZ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045887826638807131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 318,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 493
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2044836436659073291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52203,
+          "following_count": 430,
+          "like_count": 55226,
+          "listed_count": 259,
+          "media_count": 11596,
+          "tweet_count": 17823
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

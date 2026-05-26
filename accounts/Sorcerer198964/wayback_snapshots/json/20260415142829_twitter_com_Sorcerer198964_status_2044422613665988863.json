@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2044422613665988863",
+    "created_at": "2026-04-15T14:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044422613665988863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044422613665988863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044405379292090769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 4月14日，乌鲁木齐市场监管人员，发现一家名为“好想来”的外卖牛排店后厨环境令人作呕。\n\n 视频显示，厨房生熟肉放在一起，墙壁、灶台布满了油污，黑胡椒酱放腐烂了还给客人吃，冰箱里面也满是污垢。打包盒和臭鞋臭袜子放在一起。甚至连狗用的食盆都…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 250404,
+        "height": 1920,
+        "media_key": "13_2044352561084502016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044352561084502016/img/ewbV7NuVtYKkONWw.jpg",
+        "public_metrics": {
+          "view_count": 13998
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044352561084502016/vid/avc1/1080x1920/NvaR_-wRxdnmRdor.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044352561084502016/pl/7CVRtTm5LgjB2odB.m3u8?v=f27"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044352561084502016/vid/avc1/320x568/xU4d8be0Osk2h3U8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044352561084502016/vid/avc1/480x852/aYKh69sbwNBczbRB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044352561084502016/vid/avc1/720x1280/P0U2DLbiIN_l-PKU.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2044422613665988863",
+        "created_at": "2026-04-15T14:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044422613665988863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044422613665988863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044405379292090769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 4月14日，乌鲁木齐市场监管人员，发现一家名为“好想来”的外卖牛排店后厨环境令人作呕。\n\n 视频显示，厨房生熟肉放在一起，墙壁、灶台布满了油污，黑胡椒酱放腐烂了还给客人吃，冰箱里面也满是污垢。打包盒和臭鞋臭袜子放在一起。甚至连狗用的食盆都…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044352561084502016"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044405379292090769",
+        "created_at": "2026-04-15T13:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044405379292090769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CoYihsX3Do",
+              "end": 166,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2044405379292090769/video/1",
+              "media_key": "13_2044352561084502016",
+              "start": 143,
+              "url": "https://t.co/CoYihsX3Do"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044405379292090769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "4月14日，乌鲁木齐市场监管人员，发现一家名为“好想来”的外卖牛排店后厨环境令人作呕。\n\n 视频显示，厨房生熟肉放在一起，墙壁、灶台布满了油污，黑胡椒酱放腐烂了还给客人吃，冰箱里面也满是污垢。打包盒和臭鞋臭袜子放在一起。甚至连狗用的食盆都清洗得十分干净，反倒比盛放食物的器具还要洁净。\n\n此外，该商家在美团外卖平台上还展示了所谓“牛排现做”的全过程视频。面对执法人员询问，商家却表示：“哎呀，这个视频仅供参考。”\n\n评论区有当地人称：“这家牛排店在美团热销榜中排名第一，我经常点” “整个店铺只有小狗的碗是最干净的”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 34180,
+          "like_count": 174,
+          "quote_count": 1,
+          "reply_count": 49,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "4月14日，乌鲁木齐市场监管人员，发现一家名为“好想来”的外卖牛排店后厨环境令人作呕。\n\n 视频显示，厨房生熟肉放在一起，墙壁、灶台布满了油污，黑胡椒酱放腐烂了还给客人吃，冰箱里面也满是污垢。打包盒和臭鞋臭袜子放在一起。甚至连狗用的食盆都清洗得十分干净，反倒比盛放食物的器具还要洁净。 https://t.co/CoYihsX3Do"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 256,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193794,
+          "following_count": 1029,
+          "like_count": 9407,
+          "listed_count": 8617,
+          "media_count": 45302,
+          "tweet_count": 52384
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

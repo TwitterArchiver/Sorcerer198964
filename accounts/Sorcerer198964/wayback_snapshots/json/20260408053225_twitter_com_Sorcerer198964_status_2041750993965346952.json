@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2041750343554609275",
+    "created_at": "2026-04-08T05:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T06:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041750993965346952"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041750993965346952",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041750343554609275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的局子里的板子是过期的我真没绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2041750330543894530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXBG6Qa8AIJITa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2041750343554609275",
+        "created_at": "2026-04-08T05:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041750993965346952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041750993965346952",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041750343554609275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的局子里的板子是过期的我真没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041750330543894530"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2041750343554609275",
+        "created_at": "2026-04-08T05:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041750343554609275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GSIs7UI0oy",
+              "end": 166,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2041750343554609275/photo/1",
+              "media_key": "3_2041750330543894530",
+              "start": 143,
+              "url": "https://t.co/GSIs7UI0oy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041750343554609275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在派出所尿检板就查4个，1冰2吗啡3氯胺酮4右美沙芬，至于我怎么知道的，因为我进去过，不确定以后会不会加其他的，反正冰阳了说吃了司来吉兰，吗啡阳了说吃了复方甘草片，氯胺酮阳了说自己有抑郁症，右美沙芬阳了说自己感冒吃了玉米片\n谁写的傻逼文案，不仅文案有问题，我还因为转了这个被请喝茶了 https://t.co/GSIs7UI0oy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 69,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 22
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

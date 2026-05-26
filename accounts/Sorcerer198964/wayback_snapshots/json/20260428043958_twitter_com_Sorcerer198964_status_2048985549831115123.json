@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2048985549831115123",
+    "created_at": "2026-04-28T04:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048985549831115123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bolaatum/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/bolaatum/status/2048899997316588023",
+          "start": 13,
+          "url": "https://t.co/qTkmhi8EPb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048985549831115123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048899997316588023",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这什么效率啊\n不如中国人 https://t.co/qTkmhi8EPb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33808,
+        "height": 960,
+        "media_key": "13_2048755469821661184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048755469821661184/img/dWmHAvICUFOKxzid.jpg",
+        "public_metrics": {
+          "view_count": 811
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048755469821661184/vid/avc1/320x426/U4E6fGnguAOlEztN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048755469821661184/vid/avc1/480x640/V4nnjOYMPv8hJ2pX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048755469821661184/vid/avc1/720x960/jVGsJTOQAZjqBsxQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048755469821661184/pl/7fNIBsCRSOwpjd4w.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2048985549831115123",
+        "created_at": "2026-04-28T04:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048985549831115123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bolaatum/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/bolaatum/status/2048899997316588023",
+              "start": 13,
+              "url": "https://t.co/qTkmhi8EPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048985549831115123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048899997316588023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这什么效率啊\n不如中国人 https://t.co/qTkmhi8EPb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048755469821661184"
+          ]
+        },
+        "author_id": "1980649630712164352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048899997316588023",
+        "created_at": "2026-04-27T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048899997316588023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9gdqfW1OO",
+              "end": 39,
+              "expanded_url": "https://x.com/BolaAtum/status/2048899997316588023/video/1",
+              "media_key": "13_2048755469821661184",
+              "start": 16,
+              "url": "https://t.co/s9gdqfW1OO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048899997316588023",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1610,
+          "like_count": 238,
+          "quote_count": 1,
+          "reply_count": 193,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "wow its amazing https://t.co/s9gdqfW1OO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 396,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 757
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T14:57:46.000Z",
+        "description": "Ballers",
+        "id": "1980649630712164352",
+        "name": "Bola Atum",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984155712306737154/EetF5LZh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3788,
+          "following_count": 1254,
+          "like_count": 8680,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 12271
+        },
+        "username": "BolaAtum",
+        "verified": true
+      }
+    ]
+  }
+}

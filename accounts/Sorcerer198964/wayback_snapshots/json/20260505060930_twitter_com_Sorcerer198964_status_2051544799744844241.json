@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2051544799744844241",
+    "created_at": "2026-05-05T06:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T07:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051544799744844241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer198964"
+        },
+        {
+          "end": 27,
+          "id": "1580781",
+          "start": 20,
+          "username": "ruanyf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051544799744844241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051544773001920830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer198964: @ruanyf 门罗币的家庭挖矿收益极低\n我的7945HX，4060laptop挖一天收益几毛钱不算电费我都亏\n门罗币的主要好处是相比于其他主要币种更具备隐私性因此适合长期持有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2051544799744844241",
+        "created_at": "2026-05-05T06:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051544799744844241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer198964"
+            },
+            {
+              "end": 27,
+              "id": "1580781",
+              "start": 20,
+              "username": "ruanyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051544799744844241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051544773001920830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer198964: @ruanyf 门罗币的家庭挖矿收益极低\n我的7945HX，4060laptop挖一天收益几毛钱不算电费我都亏\n门罗币的主要好处是相比于其他主要币种更具备隐私性因此适合长期持有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2051490028631822632",
+        "created_at": "2026-05-05T06:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051544773001920830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1580781",
+              "start": 0,
+              "username": "ruanyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051544773001920830",
+        "in_reply_to_user_id": "1580781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051490028631822632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruanyf 门罗币的家庭挖矿收益极低\n我的7945HX，4060laptop挖一天收益几毛钱不算电费我都亏\n门罗币的主要好处是相比于其他主要币种更具备隐私性因此适合长期持有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 448,
+          "like_count": 303,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-20T02:53:02.000Z",
+        "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ruanyifeng.com",
+                "end": 22,
+                "expanded_url": "http://www.ruanyifeng.com",
+                "start": 0,
+                "url": "http://t.co/fw8pEsBuak"
+              }
+            ]
+          }
+        },
+        "id": "1580781",
+        "location": "Shanghai, China",
+        "name": "ruanyf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199242,
+          "following_count": 374,
+          "like_count": 13729,
+          "listed_count": 1615,
+          "media_count": 2986,
+          "tweet_count": 4970
+        },
+        "url": "http://t.co/fw8pEsBuak",
+        "username": "ruanyf",
+        "verified": false
+      }
+    ]
+  }
+}

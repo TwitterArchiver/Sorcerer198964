@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2048809377147003074",
+    "created_at": "2026-04-27T16:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048809377147003074"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/diamond_kokoro…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/diamond_kokoro/status/2048260875543589124",
+          "start": 24,
+          "url": "https://t.co/pU8GbO3bRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048809377147003074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048260875543589124",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "去Hegre上面找\n片都不会找点好看的真是灾难 https://t.co/pU8GbO3bRW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2048809377147003074",
+        "created_at": "2026-04-27T16:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048809377147003074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/diamond_kokoro…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/diamond_kokoro/status/2048260875543589124",
+              "start": 24,
+              "url": "https://t.co/pU8GbO3bRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048809377147003074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048260875543589124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去Hegre上面找\n片都不会找点好看的真是灾难 https://t.co/pU8GbO3bRW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2048260875543589124",
+        "created_at": "2026-04-26T04:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048260875543589124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048260875543589124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 211227,
+          "like_count": 3455,
+          "quote_count": 20,
+          "reply_count": 380,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "没有美学的色情真是灾难，为什么这个世界上的色情片都这么土"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 381,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 727
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "identity: Non-Male. Any pronouns except he/him，但中文的“他”ok。\n@irisdesombres 的忠犬。我的任务是让你感到幸福，就像你让我感到的一样。\n欢迎造访我的提问箱：https://t.co/CAHk8J3HgH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/diamond_kokoro",
+                "end": 134,
+                "expanded_url": "https://ngl.link/diamond_kokoro",
+                "start": 111,
+                "url": "https://t.co/CAHk8J3HgH"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "万达广场附近",
+        "name": "小羽",
+        "pinned_tweet_id": "2042093453010665597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047563727785062401/Jzs0daN2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 86,
+          "like_count": 3872,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 2547
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

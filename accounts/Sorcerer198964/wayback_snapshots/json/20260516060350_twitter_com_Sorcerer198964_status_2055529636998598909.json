@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2055529636998598909",
+    "created_at": "2026-05-16T06:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T07:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055529636998598909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055529636998598909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055506024443077022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 5月16日，北京网警发布3起打击“造假摆拍，无底线博流量”的典型案例。\n\n其中，刘某（男，26岁）和江某某（女，24岁）虚假摆拍“盲人在盲道行走被电动自行车撞击并遭骑车人斥责”内容，被公安机关依法采取刑事强制措施。 https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9066,
+        "height": 1280,
+        "media_key": "13_2055492906820214784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055492906820214784/img/OkXW3Yp3vIPQzyXm.jpg",
+        "public_metrics": {
+          "view_count": 10254
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055492906820214784/vid/avc1/320x568/f1wVLhDIreE5n_tI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055492906820214784/vid/avc1/480x852/MikmRS4or6L6ddpS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055492906820214784/vid/avc1/720x1280/A87bbblO9vyJwXAT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055492906820214784/pl/_apZOTj-JetuWL-A.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2055529636998598909",
+        "created_at": "2026-05-16T06:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055529636998598909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055529636998598909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055506024443077022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 5月16日，北京网警发布3起打击“造假摆拍，无底线博流量”的典型案例。\n\n其中，刘某（男，26岁）和江某某（女，24岁）虚假摆拍“盲人在盲道行走被电动自行车撞击并遭骑车人斥责”内容，被公安机关依法采取刑事强制措施。 https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055492906820214784"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055506024443077022",
+        "created_at": "2026-05-16T04:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055506024443077022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2EbWlCQjJ",
+              "end": 131,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2055506024443077022/video/1",
+              "media_key": "13_2055492906820214784",
+              "start": 108,
+              "url": "https://t.co/C2EbWlCQjJ"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2052984409096081839",
+              "start": 132,
+              "url": "https://t.co/Y4d547p3Oa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055506024443077022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 38743,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 52,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052984409096081839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月16日，北京网警发布3起打击“造假摆拍，无底线博流量”的典型案例。\n\n其中，刘某（男，26岁）和江某某（女，24岁）虚假摆拍“盲人在盲道行走被电动自行车撞击并遭骑车人斥责”内容，被公安机关依法采取刑事强制措施。 https://t.co/C2EbWlCQjJ https://t.co/Y4d547p3Oa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 538,
+          "like_count": 455,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 1423
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227295,
+          "following_count": 1056,
+          "like_count": 9542,
+          "listed_count": 8749,
+          "media_count": 46914,
+          "tweet_count": 54032
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

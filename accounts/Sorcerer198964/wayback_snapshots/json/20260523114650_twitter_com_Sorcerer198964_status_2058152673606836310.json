@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058140110429016064"
+      ],
+      "media_source_tweet_id": [
+        "2058140663435436450"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Food Hashtags",
+          "id": "826815276989624321",
+          "name": "Food Hashtags"
+        }
+      }
+    ],
+    "conversation_id": "2058152673606836310",
+    "created_at": "2026-05-23T11:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058152673606836310"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 84,
+          "tag": "China"
+        },
+        {
+          "end": 98,
+          "start": 91,
+          "tag": "foodie"
+        },
+        {
+          "end": 104,
+          "start": 99,
+          "tag": "food"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1658307583109636098",
+          "start": 3,
+          "username": "ColeLee1899"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FVovOfcz8Z",
+          "end": 128,
+          "expanded_url": "https://x.com/ColeLee1899/status/2058140663435436450/video/1",
+          "media_key": "13_2058140110429016064",
+          "start": 105,
+          "url": "https://t.co/FVovOfcz8Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058152673606836310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058140663435436450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ColeLee1899: 可惜你不是广东人，不知道这一锅的含金量！猪脚软糯、鸡蛋入味，醋香浓郁还带着姜的辛香，是广东人滋补又暖胃的美味。你知道这道美食的名字吗？#China #foodie #food https://t.co/FVovOfcz8Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8933,
+        "height": 1920,
+        "media_key": "13_2058140110429016064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058140110429016064/img/T-6x1zpx6zNOLSN7.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058140110429016064/vid/avc1/480x852/wdkG_uKdmD2NShcr.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058140110429016064/vid/avc1/320x568/ckzqhE480PWuvrGl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058140110429016064/pl/0mnShy1vyOX6QdBg.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058140110429016064/vid/avc1/1080x1920/QxnE9c3N4kBlcpwT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058140110429016064/vid/avc1/720x1280/aOVBvJ11MSmyBq1J.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 8933,
+        "height": 1920,
+        "media_key": "13_2058140110429016064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058140110429016064/img/T-6x1zpx6zNOLSN7.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058140110429016064/vid/avc1/480x852/wdkG_uKdmD2NShcr.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058140110429016064/vid/avc1/320x568/ckzqhE480PWuvrGl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058140110429016064/pl/0mnShy1vyOX6QdBg.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058140110429016064/vid/avc1/1080x1920/QxnE9c3N4kBlcpwT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058140110429016064/vid/avc1/720x1280/aOVBvJ11MSmyBq1J.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058140110429016064"
+          ],
+          "media_source_tweet_id": [
+            "2058140663435436450"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Food Hashtags",
+              "id": "826815276989624321",
+              "name": "Food Hashtags"
+            }
+          }
+        ],
+        "conversation_id": "2058152673606836310",
+        "created_at": "2026-05-23T11:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058152673606836310"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 84,
+              "tag": "China"
+            },
+            {
+              "end": 98,
+              "start": 91,
+              "tag": "foodie"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "food"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1658307583109636098",
+              "start": 3,
+              "username": "ColeLee1899"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FVovOfcz8Z",
+              "end": 128,
+              "expanded_url": "https://x.com/ColeLee1899/status/2058140663435436450/video/1",
+              "media_key": "13_2058140110429016064",
+              "start": 105,
+              "url": "https://t.co/FVovOfcz8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058152673606836310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058140663435436450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ColeLee1899: 可惜你不是广东人，不知道这一锅的含金量！猪脚软糯、鸡蛋入味，醋香浓郁还带着姜的辛香，是广东人滋补又暖胃的美味。你知道这道美食的名字吗？#China #foodie #food https://t.co/FVovOfcz8Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058140110429016064"
+          ]
+        },
+        "author_id": "1658307583109636098",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Food Hashtags",
+              "id": "826815276989624321",
+              "name": "Food Hashtags"
+            }
+          }
+        ],
+        "conversation_id": "2058140663435436450",
+        "created_at": "2026-05-23T10:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058140663435436450"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 67,
+              "tag": "China"
+            },
+            {
+              "end": 81,
+              "start": 74,
+              "tag": "foodie"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "food"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FVovOfcz8Z",
+              "end": 111,
+              "expanded_url": "https://x.com/ColeLee1899/status/2058140663435436450/video/1",
+              "media_key": "13_2058140110429016064",
+              "start": 88,
+              "url": "https://t.co/FVovOfcz8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058140663435436450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "可惜你不是广东人，不知道这一锅的含金量！猪脚软糯、鸡蛋入味，醋香浓郁还带着姜的辛香，是广东人滋补又暖胃的美味。你知道这道美食的名字吗？#China #foodie #food https://t.co/FVovOfcz8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 617,
+          "like_count": 690,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T03:05:32.000Z",
+        "description": "35+中年吃货 |  做梦都想开启全国觅食日记   没流量没目标，但有真诚胃口   今天又被哪里的小吃治愈了？来一起解馋！🍜",
+        "id": "1658307583109636098",
+        "location": "中国江西南昌",
+        "name": "Cole Lee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659489104378183680/LygkrOtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20026,
+          "following_count": 11624,
+          "like_count": 259024,
+          "listed_count": 42,
+          "media_count": 2644,
+          "tweet_count": 17992
+        },
+        "username": "ColeLee1899",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2055122313528353086",
+    "created_at": "2026-05-15T03:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T04:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055122313528353086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1510298100446871554",
+          "start": 3,
+          "username": "CCaalifornia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055122313528353086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055066969318285374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CCaalifornia: [特朗普偷翻习近平“小本本”]\n这一幕发生在昨天（2026年5月14日）特朗普访华招待晚宴上。\n乘习近平起身离席人不在，特朗普伸手打开他面前摆的本子看看，很快又合上。\n一旁的卢比奥看在眼里，却不动声乘。\n想起2022年10月22日中共二十大闭…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21933,
+        "height": 720,
+        "media_key": "7_2055066807401435137",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055066807401435137/pu/img/nsIoq5dBHjCUsO5Y.jpg",
+        "public_metrics": {
+          "view_count": 152825
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055066807401435137/pu/vid/avc1/480x270/f9U7SIvYtyROIiFd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055066807401435137/pu/vid/avc1/640x360/gHsJQEqi84svKJPy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055066807401435137/pu/vid/avc1/1280x720/qwbhTDtODPXvd9Br.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055066807401435137/pu/pl/bJ7icLjRQ10jTFqp.m3u8?tag=12&v=cee"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2055122313528353086",
+        "created_at": "2026-05-15T03:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055122313528353086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1510298100446871554",
+              "start": 3,
+              "username": "CCaalifornia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055122313528353086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055066969318285374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CCaalifornia: [特朗普偷翻习近平“小本本”]\n这一幕发生在昨天（2026年5月14日）特朗普访华招待晚宴上。\n乘习近平起身离席人不在，特朗普伸手打开他面前摆的本子看看，很快又合上。\n一旁的卢比奥看在眼里，却不动声乘。\n想起2022年10月22日中共二十大闭…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055066807401435137"
+          ]
+        },
+        "author_id": "1510298100446871554",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2055066969318285374",
+        "created_at": "2026-05-14T23:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T00:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055066969318285374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dC7RMMe5zJ",
+              "end": 175,
+              "expanded_url": "https://x.com/CCaalifornia/status/2055066969318285374/video/1",
+              "media_key": "7_2055066807401435137",
+              "start": 152,
+              "url": "https://t.co/dC7RMMe5zJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055066969318285374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 349,
+          "impression_count": 303225,
+          "like_count": 764,
+          "quote_count": 19,
+          "reply_count": 90,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "[特朗普偷翻习近平“小本本”]\n这一幕发生在昨天（2026年5月14日）特朗普访华招待晚宴上。\n乘习近平起身离席人不在，特朗普伸手打开他面前摆的本子看看，很快又合上。\n一旁的卢比奥看在眼里，却不动声乘。\n想起2022年10月22日中共二十大闭幕会上那一幕，胡锦涛伸手拿习近平面前的材料看，结果被架了出去 https://t.co/dC7RMMe5zJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 525,
+          "like_count": 430,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 1380
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T16:48:54.000Z",
+        "description": "本賬號關注俄烏戰爭、中東局勢和劇烈變化中的世界，聚焦中國周邊國家，擁抱人類文明與進步……觀點多元，左右不分，敵友包容，但善惡分明",
+        "id": "1510298100446871554",
+        "location": "臺灣",
+        "name": "W_News",
+        "pinned_tweet_id": "2000930526560182419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036732111588347904/Hp7lt7j__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17697,
+          "following_count": 346,
+          "like_count": 13020,
+          "listed_count": 67,
+          "media_count": 2923,
+          "tweet_count": 3350
+        },
+        "username": "CCaalifornia",
+        "verified": false
+      }
+    ]
+  }
+}

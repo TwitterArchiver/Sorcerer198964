@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2051300455473680653",
+    "created_at": "2026-05-05T04:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051527042005381305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1259309461467881472",
+          "start": 0,
+          "username": "CharlesXBoy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051527042005381305",
+    "in_reply_to_user_id": "1259309461467881472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051300455473680653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharlesXBoy 电车西藏自驾？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33574,
+        "height": 720,
+        "media_key": "13_2051300342739226625",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051300342739226625/img/TWjzUk5b89-4Za9B.jpg",
+        "public_metrics": {
+          "view_count": 45393
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051300342739226625/vid/avc1/480x270/uK7GHPb1Un6kV22e.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051300342739226625/vid/avc1/640x360/1PH9JfdDLMGbm3p2.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051300342739226625/vid/avc1/1280x720/Mdb-Euy26iG0vKl3.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051300342739226625/pl/mWzn_DoLX0Ne3Z67.m3u8?tag=27&v=866"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 26800,
+        "height": 1280,
+        "media_key": "13_2051300342747607040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051300342747607040/img/qKCn17L9X-DRVJvq.jpg",
+        "public_metrics": {
+          "view_count": 14666
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051300342747607040/vid/avc1/320x568/GAEQqinCqD77lY3W.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051300342747607040/vid/avc1/480x852/de0tn8oDo8a6jYrf.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051300342747607040/vid/avc1/720x1280/GtvQnKVk1L9mKq3O.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051300342747607040/pl/aLsjZ4jEfOzRdZcZ.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2051300342718144512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeuyx9aIAAvNSs.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2051300455473680653",
+        "created_at": "2026-05-05T04:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051527042005381305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1259309461467881472",
+              "start": 0,
+              "username": "CharlesXBoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051527042005381305",
+        "in_reply_to_user_id": "1259309461467881472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051300455473680653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharlesXBoy 电车西藏自驾？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051300342739226625",
+            "13_2051300342747607040",
+            "3_2051300342718144512"
+          ]
+        },
+        "author_id": "1259309461467881472",
+        "conversation_id": "2051300455473680653",
+        "created_at": "2026-05-04T13:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051300455473680653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eYzAcFX9QH",
+              "end": 141,
+              "expanded_url": "https://x.com/CharlesXBoy/status/2051300455473680653/video/1",
+              "media_key": "13_2051300342739226625",
+              "start": 118,
+              "url": "https://t.co/eYzAcFX9QH"
+            },
+            {
+              "display_url": "pic.x.com/eYzAcFX9QH",
+              "end": 141,
+              "expanded_url": "https://x.com/CharlesXBoy/status/2051300455473680653/video/1",
+              "media_key": "13_2051300342747607040",
+              "start": 118,
+              "url": "https://t.co/eYzAcFX9QH"
+            },
+            {
+              "display_url": "pic.x.com/eYzAcFX9QH",
+              "end": 141,
+              "expanded_url": "https://x.com/CharlesXBoy/status/2051300455473680653/video/1",
+              "media_key": "3_2051300342718144512",
+              "start": 118,
+              "url": "https://t.co/eYzAcFX9QH"
+            },
+            {
+              "display_url": "x.com/theevuniverse/…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/theevuniverse/status/1929950384992510390",
+              "start": 142,
+              "url": "https://t.co/mjWkxQR5W0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051300455473680653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Danny Duncan这个“特斯拉推下悬崖、气囊空中打开”的测试，昨天被一名在中国西藏自驾的特斯拉车主真实体验到了\n\n“再订一台特斯拉，当我飞下去那一刻气囊全爆开！坠崖悬空摄像头自动感应提前爆安全气囊，除了特斯拉没有一家车企做出来的 落地后不是恐惧是特斯拉客服小姐姐的声音问人员有没有受伤需不需要救援惊讶的是座椅侧面也有气囊 车门从里面外面正常打开根本不需要特斯拉断电的机械开门拉环 车门正常一按就开”\n——车主"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 152676,
+          "like_count": 321,
+          "quote_count": 9,
+          "reply_count": 20,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929950384992510390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Danny Duncan这个“特斯拉推下悬崖、气囊空中打开”的测试，昨天被一名在中国西藏自驾的特斯拉车主真实体验到了\n\n“再订一台特斯拉，当我飞下去那一刻气囊全爆开！坠崖悬空摄像头自动感应提前爆安全气囊，除了特斯拉没有一家车企做出来的 https://t.co/eYzAcFX9QH https://t.co/mjWkxQR5W0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 446,
+          "like_count": 297,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 1060
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-10T02:29:25.000Z",
+        "description": "All in $TSLA",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 12,
+                "start": 7,
+                "tag": "TSLA"
+              }
+            ]
+          }
+        },
+        "id": "1259309461467881472",
+        "location": "Japan",
+        "name": "𝐶ℎ𝑎𝑟𝑙𝑒𝑠",
+        "pinned_tweet_id": "2017794433065095536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939195755455025152/1HkV57JC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3383,
+          "following_count": 1453,
+          "like_count": 11546,
+          "listed_count": 40,
+          "media_count": 1377,
+          "tweet_count": 6008
+        },
+        "username": "CharlesXBoy",
+        "verified": true
+      }
+    ]
+  }
+}

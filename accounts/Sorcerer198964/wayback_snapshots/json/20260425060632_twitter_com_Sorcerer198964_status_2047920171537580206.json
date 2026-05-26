@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2047893869795389532",
+    "created_at": "2026-04-25T06:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047920171537580206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1938210111992074240",
+          "start": 0,
+          "username": "FJUNNNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047920171537580206",
+    "in_reply_to_user_id": "1938210111992074240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047893869795389532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FJUNNNN 比卡鲁胺效果怎么样，据说不会丧失生育能力是真的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2047893869795389532",
+        "created_at": "2026-04-25T06:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047920171537580206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1938210111992074240",
+              "start": 0,
+              "username": "FJUNNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047920171537580206",
+        "in_reply_to_user_id": "1938210111992074240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047893869795389532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FJUNNNN 比卡鲁胺效果怎么样，据说不会丧失生育能力是真的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938210111992074240",
+        "conversation_id": "2047893869795389532",
+        "created_at": "2026-04-25T04:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047893869795389532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047893869795389532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大家在买比卡鲁胺时，尽量购买新出厂，长期限的，尽量不要购买只剩几个月过期的临期药\n\n购买临期的比卡鲁胺很容易买到无效或低效产品\n\n（网上的临期药都会标注有效期限，大家买的时候注意仔细看商品标题，页面，sku）\n\n比卡鲁胺有明确的仓储条件：\n需要在室温（20–25℃，最高不超30℃）密闭、干燥、避光处保存\n\n不要放在浴室（潮湿）、高温处（如车内、暖气旁）、阳光直射或冷藏\n\n国内很多仓库保存条件并不完美，存放久了会变成有效成分降解，溶出度下降的无效或低效产品"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 503,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家在买比卡鲁胺时，尽量购买新出厂，长期限的，尽量不要购买只剩几个月过期的临期药\n\n购买临期的比卡鲁胺很容易买到无效或低效产品\n\n（网上的临期药都会标注有效期限，大家买的时候注意仔细看商品标题，页面，sku）\n\n比卡鲁胺有明确的仓储条件："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 364,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 824,
+          "like_count": 2188,
+          "listed_count": 6,
+          "media_count": 225,
+          "tweet_count": 676
+        },
+        "username": "FJUNNNN",
+        "verified": true
+      }
+    ]
+  }
+}

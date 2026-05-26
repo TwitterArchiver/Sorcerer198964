@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2044074158917587434",
+    "created_at": "2026-04-14T15:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044074158917587434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nerinatita/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/nerinatita/status/2043954014640124378",
+          "start": 9,
+          "url": "https://t.co/B5csfjJi9V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044074158917587434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043954014640124378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美式披萨就这样（ https://t.co/B5csfjJi9V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10750,
+        "height": 1920,
+        "media_key": "13_2043953913033117696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043953913033117696/img/gFm4zGTCe8fOs2pJ.jpg",
+        "public_metrics": {
+          "view_count": 3436
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043953913033117696/pl/8ODoJWnkbfctIK_d.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043953913033117696/vid/avc1/1080x1920/zDU2AVwb6iXDF8_B.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043953913033117696/vid/avc1/720x1280/bSGSQvDXDxSybati.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043953913033117696/vid/avc1/320x568/MEx87xhBaOf_kThB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043953913033117696/vid/avc1/480x852/GoAMC8YwkzhBhtli.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2044074158917587434",
+        "created_at": "2026-04-14T15:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044074158917587434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nerinatita/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nerinatita/status/2043954014640124378",
+              "start": 9,
+              "url": "https://t.co/B5csfjJi9V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044074158917587434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043954014640124378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美式披萨就这样（ https://t.co/B5csfjJi9V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043953913033117696"
+          ]
+        },
+        "author_id": "2002580849192292352",
+        "conversation_id": "2043954014640124378",
+        "created_at": "2026-04-14T07:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043954014640124378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSC8K8VmL2",
+              "end": 54,
+              "expanded_url": "https://x.com/nerinatita/status/2043954014640124378/video/1",
+              "media_key": "13_2043953913033117696",
+              "start": 31,
+              "url": "https://t.co/DSC8K8VmL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043954014640124378",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10165,
+          "like_count": 436,
+          "quote_count": 2,
+          "reply_count": 333,
+          "retweet_count": 280
+        },
+        "reply_settings": "everyone",
+        "text": "Cheese pizza &amp; hot honey 🤤 https://t.co/DSC8K8VmL2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 226,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T03:24:19.000Z",
+        "description": "",
+        "id": "2002580849192292352",
+        "name": "tita nerina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002580920612859904/ROmPzJgg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 873,
+          "like_count": 4060,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 5579
+        },
+        "username": "nerinatita",
+        "verified": true
+      }
+    ]
+  }
+}

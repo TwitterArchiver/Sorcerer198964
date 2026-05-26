@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2045878462389637120"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2045879087231877130",
+    "created_at": "2026-04-19T14:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045879087231877130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zb91cYpAYn",
+          "end": 47,
+          "expanded_url": "https://x.com/Sorcerer198964/status/2045879087231877130/video/1",
+          "media_key": "13_2045878462389637120",
+          "start": 24,
+          "url": "https://t.co/zb91cYpAYn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045879087231877130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给大家看看我的猫猫\n它叫补佳乐\n是一只术后喵呀 https://t.co/zb91cYpAYn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17566,
+        "height": 1280,
+        "media_key": "13_2045878462389637120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045878462389637120/img/JYyDV-Xj2R_qj4tf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045878462389637120/vid/avc1/320x568/jrGnaN72ACDlQasN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045878462389637120/vid/avc1/480x852/AfT2aAq7c_ePlS6m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045878462389637120/vid/avc1/720x1280/bvWPQ5aMgMW1Bp__.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045878462389637120/pl/isJgAdj2Q521t5zF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045878462389637120"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2045879087231877130",
+        "created_at": "2026-04-19T14:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045879087231877130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zb91cYpAYn",
+              "end": 47,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2045879087231877130/video/1",
+              "media_key": "13_2045878462389637120",
+              "start": 24,
+              "url": "https://t.co/zb91cYpAYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045879087231877130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给大家看看我的猫猫\n它叫补佳乐\n是一只术后喵呀 https://t.co/zb91cYpAYn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 315,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

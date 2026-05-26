@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2046054627590988098",
+    "created_at": "2026-04-20T02:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T03:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046054627590988098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2045774403556802624",
+          "start": 32,
+          "url": "https://t.co/6BZHJLldIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046054627590988098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045774403556802624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种家长难逃其咎\n弱智老师教弱智学生\n农村升学率低的原因找到了 https://t.co/6BZHJLldIL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 80875,
+        "height": 2340,
+        "media_key": "13_2045451146911981568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045451146911981568/img/s5YhZkpTFQNBpfxy.jpg",
+        "public_metrics": {
+          "view_count": 3387
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045451146911981568/vid/avc1/1080x2340/WE9tD7vktcmT3AQG.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045451146911981568/vid/avc1/320x692/Al7FCRMAjR5XTyC4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045451146911981568/pl/oVZvzY3ZmDMjKt5W.m3u8?v=da6"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045451146911981568/vid/avc1/720x1560/AUPR9xTJaxWSc1wl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045451146911981568/vid/avc1/480x1040/4gzT1J7wNVJ3UiCa.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 84066,
+        "height": 1560,
+        "media_key": "13_2045451146916188160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045451146916188160/img/Xdv0kPbdKvZTGVs8.jpg",
+        "public_metrics": {
+          "view_count": 315
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045451146916188160/vid/avc1/320x692/_tLgFhsPHNEqm56j.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045451146916188160/vid/avc1/480x1040/eQ-euXGTnJrveDKZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045451146916188160/vid/avc1/720x1560/4EpqHlYJ9GXm5Dxx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045451146916188160/pl/67nZb8quTG7EGjFn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2046054627590988098",
+        "created_at": "2026-04-20T02:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046054627590988098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2045774403556802624",
+              "start": 32,
+              "url": "https://t.co/6BZHJLldIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046054627590988098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045774403556802624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种家长难逃其咎\n弱智老师教弱智学生\n农村升学率低的原因找到了 https://t.co/6BZHJLldIL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045451146911981568",
+            "13_2045451146916188160"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045774403556802624",
+        "created_at": "2026-04-19T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045774403556802624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XTL3mmo8SC",
+              "end": 152,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2045774403556802624/video/1",
+              "media_key": "13_2045451146911981568",
+              "start": 129,
+              "url": "https://t.co/XTL3mmo8SC"
+            },
+            {
+              "display_url": "pic.x.com/XTL3mmo8SC",
+              "end": 152,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2045774403556802624/video/1",
+              "media_key": "13_2045451146916188160",
+              "start": 129,
+              "url": "https://t.co/XTL3mmo8SC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045774403556802624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "4月17日，温州市龙湾区一名小学生反映，因为自己字丑经常被英语老师罚抄，每次都是罚抄100遍。但从今年开始老师变本加厉，有一次自己忘记给课本包书皮和写名字，就该老师罚抄1000遍名字，还要求明天就要完成。自己害怕老师加倍惩罚，只好不休息一连抄了四五个小时。\n\n 4月17日，上海。一位父亲用镜头记录下女儿在国内与国外读书时截然不同的状态：在国内时，白天沉重的书包压弯了她的肩背，夜晚困意袭来仍要挑灯赶作业，补课每个科目5万。而出国读书后，孩子的变化肉眼可见，神情更轻松，笑容也明显多了起来。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 137839,
+          "like_count": 542,
+          "quote_count": 5,
+          "reply_count": 81,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "4月17日，温州市龙湾区一名小学生反映，因为自己字丑经常被英语老师罚抄，每次都是罚抄100遍。但从今年开始老师变本加厉，有一次自己忘记给课本包书皮和写名字，就该老师罚抄1000遍名字，还要求明天就要完成。自己害怕老师加倍惩罚，只好不休息一连抄了四五个小时。 https://t.co/XTL3mmo8SC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045887826638807131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 318,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198829,
+          "following_count": 1037,
+          "like_count": 9410,
+          "listed_count": 8635,
+          "media_count": 45524,
+          "tweet_count": 52606
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

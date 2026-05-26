@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2056596694997868907",
+    "created_at": "2026-05-19T04:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056596694997868907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tangeorange/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/tangeorange/status/2056588670078201999",
+          "start": 8,
+          "url": "https://t.co/78lWJFK36t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056596694997868907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056588670078201999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "伪麻黄碱太逊了 https://t.co/78lWJFK36t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2056588643356303360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIp4eZBa4AAE2wT.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1027,
+        "media_key": "3_2056588643343773696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIp4eY-bsAAT6FU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 995,
+        "media_key": "3_2056588643352133632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIp4eZAbQAAIeZT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1035,
+        "media_key": "3_2056588660297138176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIp4fYIbgAAfqQW.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2056596694997868907",
+        "created_at": "2026-05-19T04:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056596694997868907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tangeorange/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/tangeorange/status/2056588670078201999",
+              "start": 8,
+              "url": "https://t.co/78lWJFK36t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056596694997868907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056588670078201999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伪麻黄碱太逊了 https://t.co/78lWJFK36t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056588643356303360",
+            "3_2056588643343773696",
+            "3_2056588643352133632",
+            "3_2056588660297138176"
+          ]
+        },
+        "author_id": "1806849464386416640",
+        "conversation_id": "2056588670078201999",
+        "created_at": "2026-05-19T04:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056588670078201999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66oOXOThsl",
+              "end": 41,
+              "expanded_url": "https://x.com/tangeorange/status/2056588670078201999/photo/1",
+              "media_key": "3_2056588643356303360",
+              "start": 18,
+              "url": "https://t.co/66oOXOThsl"
+            },
+            {
+              "display_url": "pic.x.com/66oOXOThsl",
+              "end": 41,
+              "expanded_url": "https://x.com/tangeorange/status/2056588670078201999/photo/1",
+              "media_key": "3_2056588643343773696",
+              "start": 18,
+              "url": "https://t.co/66oOXOThsl"
+            },
+            {
+              "display_url": "pic.x.com/66oOXOThsl",
+              "end": 41,
+              "expanded_url": "https://x.com/tangeorange/status/2056588670078201999/photo/1",
+              "media_key": "3_2056588643352133632",
+              "start": 18,
+              "url": "https://t.co/66oOXOThsl"
+            },
+            {
+              "display_url": "pic.x.com/66oOXOThsl",
+              "end": 41,
+              "expanded_url": "https://x.com/tangeorange/status/2056588670078201999/photo/1",
+              "media_key": "3_2056588660297138176",
+              "start": 18,
+              "url": "https://t.co/66oOXOThsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056588670078201999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连花清瘟或将成为下一代 od 用药 https://t.co/66oOXOThsl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 580,
+          "like_count": 557,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 1560
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "15 y.o.\n尝试不死 | \nbff @maoxian1527 @kxk1388574 @tangeror @mxyzcdb | \n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n我不是精神病。|\n微信 orgudev 🚧35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "kxk1388574"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "tangeror"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "mxyzcdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子",
+        "pinned_tweet_id": "2055354468758429860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056276486991368192/tMDwIk9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2673,
+          "following_count": 2552,
+          "like_count": 8194,
+          "listed_count": 3,
+          "media_count": 1088,
+          "tweet_count": 7605
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2056343191880667451",
+    "created_at": "2026-05-18T11:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056343191880667451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fairyliiliess_…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/fairyliiliess_/status/2056063695210570123",
+          "start": 5,
+          "url": "https://t.co/xX3NSU9Og5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056343191880667451",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056063695210570123",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中医tv https://t.co/xX3NSU9Og5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14698,
+        "height": 1280,
+        "media_key": "7_2056063659072450560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2056063659072450560/pu/img/Qr_--bc_s6nOYf66.jpg",
+        "public_metrics": {
+          "view_count": 494065
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056063659072450560/pu/vid/avc1/320x568/WwfUBcj3GSZVnw6i.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056063659072450560/pu/vid/avc1/480x852/1Ph-rBjV6WhQi34l.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056063659072450560/pu/vid/avc1/720x1280/SU6iWyqblIAZkaiv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2056063659072450560/pu/pl/xvwAMQDQT6H3i_ho.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2056343191880667451",
+        "created_at": "2026-05-18T11:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056343191880667451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fairyliiliess_…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/fairyliiliess_/status/2056063695210570123",
+              "start": 5,
+              "url": "https://t.co/xX3NSU9Og5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056343191880667451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056063695210570123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中医tv https://t.co/xX3NSU9Og5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056063659072450560"
+          ]
+        },
+        "author_id": "2028572870423756800",
+        "conversation_id": "2056063695210570123",
+        "created_at": "2026-05-17T17:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056063695210570123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ol1hJnkDf1",
+              "end": 57,
+              "expanded_url": "https://x.com/fairyliiliess_/status/2056063695210570123/video/1",
+              "media_key": "7_2056063659072450560",
+              "start": 34,
+              "url": "https://t.co/ol1hJnkDf1"
+            },
+            {
+              "display_url": "x.com/bvlanja/status…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/bvlanja/status/2055723133290901828",
+              "start": 58,
+              "url": "https://t.co/CQ96t3ydN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056063695210570123",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 1784310,
+          "like_count": 745,
+          "quote_count": 5,
+          "reply_count": 596,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055723133290901828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "are such things really necessary? https://t.co/ol1hJnkDf1 https://t.co/CQ96t3ydN4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 567,
+          "like_count": 534,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 1528
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T20:47:30.000Z",
+        "description": "",
+        "id": "2028572870423756800",
+        "name": "𝒆𝒊𝒓𝒚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028573285773123584/KAr7_Oli_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 1043,
+          "like_count": 873,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 986
+        },
+        "username": "fairyliiliess_",
+        "verified": true
+      }
+    ]
+  }
+}

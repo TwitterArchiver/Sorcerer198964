@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050031429451481088"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2050031452591394966",
+    "created_at": "2026-05-01T01:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T02:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050031452591394966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i7L6PzJ2ZN",
+          "end": 75,
+          "expanded_url": "https://x.com/Sorcerer198964/status/2050031452591394966/photo/1",
+          "media_key": "3_2050031429451481088",
+          "start": 52,
+          "url": "https://t.co/i7L6PzJ2ZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050031452591394966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "林则徐不是禁大烟，禁的是英国佬的印度烟。鸦片战争后中国人抽鸦片的有增无减，而且90%是中国产的国货之光 https://t.co/i7L6PzJ2ZN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2050031429451481088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMsuTrXgAAyi1B.jpg",
+        "width": 739
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050031429451481088"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2050031452591394966",
+        "created_at": "2026-05-01T01:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T02:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050031452591394966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7L6PzJ2ZN",
+              "end": 75,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2050031452591394966/photo/1",
+              "media_key": "3_2050031429451481088",
+              "start": 52,
+              "url": "https://t.co/i7L6PzJ2ZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050031452591394966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "林则徐不是禁大烟，禁的是英国佬的印度烟。鸦片战争后中国人抽鸦片的有增无减，而且90%是中国产的国货之光 https://t.co/i7L6PzJ2ZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 398,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

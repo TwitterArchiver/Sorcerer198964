@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058093076045045760"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2058093136359141665",
+    "created_at": "2026-05-23T07:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058093136359141665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MQXmfo4dKZ",
+          "end": 153,
+          "expanded_url": "https://x.com/Sorcerer198964/status/2058093136359141665/photo/1",
+          "media_key": "3_2058093076045045760",
+          "start": 130,
+          "url": "https://t.co/MQXmfo4dKZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058093136359141665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "马上就要到今年的VPN稳定性高考了，这是一场公平的，全面地，选拔性的竞争。只有真正的vpn佼佼者才可以从此次稳定性高考中顺利存活下来。请每位用户在2026年6月3日23时59分准时开启vpn，准备好网络测速工具或网页。2026年6月4日00时00分准时开考。 https://t.co/MQXmfo4dKZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_2058093076045045760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_Qv5hbIAA3Psj.jpg",
+        "width": 691
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058093076045045760"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2058093136359141665",
+        "created_at": "2026-05-23T07:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058093136359141665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MQXmfo4dKZ",
+              "end": 153,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2058093136359141665/photo/1",
+              "media_key": "3_2058093076045045760",
+              "start": 130,
+              "url": "https://t.co/MQXmfo4dKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058093136359141665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马上就要到今年的VPN稳定性高考了，这是一场公平的，全面地，选拔性的竞争。只有真正的vpn佼佼者才可以从此次稳定性高考中顺利存活下来。请每位用户在2026年6月3日23时59分准时开启vpn，准备好网络测速工具或网页。2026年6月4日00时00分准时开考。 https://t.co/MQXmfo4dKZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 617,
+          "like_count": 665,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 1716
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

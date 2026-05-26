@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2048078021001961775",
+    "created_at": "2026-04-25T16:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048078021001961775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1594934407432847360",
+          "start": 3,
+          "username": "YLDLZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048078021001961775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047892070640373883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YLDLZN: 一个女烟鬼，跑到公交车站台“禁烟”，别人不从，就拿饮料泼人灭烟，被警方传唤完了，写小作文，先是故意把公交车站台写成公交。怕是不少人第一时间以为她是在公交车上扮演禁烟大使呢。更是把“连饮料带瓶砸向吸烟者”春秋笔法描述成“浇灭烟头”。咋的，两个人因为抽烟问题…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_2047891698844573697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuSpmAaIAEBlnB.png",
+        "width": 554
+      },
+      {
+        "height": 740,
+        "media_key": "3_2047892011148251136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuS7xbaEAAJOd3.png",
+        "width": 527
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2048078021001961775",
+        "created_at": "2026-04-25T16:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048078021001961775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1594934407432847360",
+              "start": 3,
+              "username": "YLDLZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048078021001961775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047892070640373883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YLDLZN: 一个女烟鬼，跑到公交车站台“禁烟”，别人不从，就拿饮料泼人灭烟，被警方传唤完了，写小作文，先是故意把公交车站台写成公交。怕是不少人第一时间以为她是在公交车上扮演禁烟大使呢。更是把“连饮料带瓶砸向吸烟者”春秋笔法描述成“浇灭烟头”。咋的，两个人因为抽烟问题…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047891698844573697",
+            "3_2047892011148251136"
+          ]
+        },
+        "author_id": "1594934407432847360",
+        "conversation_id": "2047892070640373883",
+        "created_at": "2026-04-25T04:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047892070640373883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/04FWHJsUXQ",
+              "end": 167,
+              "expanded_url": "https://x.com/YLDLZN/status/2047892070640373883/photo/1",
+              "media_key": "3_2047891698844573697",
+              "start": 144,
+              "url": "https://t.co/04FWHJsUXQ"
+            },
+            {
+              "display_url": "pic.x.com/04FWHJsUXQ",
+              "end": 167,
+              "expanded_url": "https://x.com/YLDLZN/status/2047892070640373883/photo/1",
+              "media_key": "3_2047892011148251136",
+              "start": 144,
+              "url": "https://t.co/04FWHJsUXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047892070640373883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个女烟鬼，跑到公交车站台“禁烟”，别人不从，就拿饮料泼人灭烟，被警方传唤完了，写小作文，先是故意把公交车站台写成公交。怕是不少人第一时间以为她是在公交车上扮演禁烟大使呢。更是把“连饮料带瓶砸向吸烟者”春秋笔法描述成“浇灭烟头”。咋的，两个人因为抽烟问题发生口角，还能让你从容不迫“浇灭烟头”啊。你既然是“浇灭”，那空的饮料瓶是怎么被对方从地上捡起来再砸回来的？自己寻衅滋事，就是“浇灭”，别人还手，就是“又砸又泼”，你这写法有点牛逼啊？\n被传唤回来，更是编小作文，说自己“被扒光衣服脱掉内裤吓得失禁”，啥时候派出所传唤人还有这服务了？\n主要这个案例来得太及时了。\n前两天保安因为阻止违停，被踹了一脚加抽一耳光，还手却被当作互殴。一堆人讨论，虽然女司机违停在先，但是保安没有执法权，能做的只有劝导，报警。\n再加上更早几年西安的地铁事件，也算闹得沸沸扬扬。\n怎么到了深圳这儿，你就有权力，在自己也是烟民的情况下，跑去公交车站，以灭烟为由，往人身上泼饮料了？\n不管在深圳，公交车站能不能抽烟，你作为路人，唯一能做的，也只有劝导和拍照举报。而不是跑去藏在政治正确的旗帜下，拿饮料泼人。\n在我看来，无非是借着一个看起来正当的理由寻衅滋事罢了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 48590,
+          "like_count": 403,
+          "quote_count": 9,
+          "reply_count": 107,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "一个女烟鬼，跑到公交车站台“禁烟”，别人不从，就拿饮料泼人灭烟，被警方传唤完了，写小作文，先是故意把公交车站台写成公交。怕是不少人第一时间以为她是在公交车上扮演禁烟大使呢。更是把“连饮料带瓶砸向吸烟者”春秋笔法描述成“浇灭烟头”。咋的，两个人因为抽烟问题发生口角，还能让你从容不迫“浇灭 https://t.co/04FWHJsUXQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 371,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T06:02:57.000Z",
+        "description": "皇汉+反女权，全网最爱女的博主，请谨慎关注。",
+        "id": "1594934407432847360",
+        "location": "暴风城",
+        "name": "伊利丹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007655851574865922/pJHUnFSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6503,
+          "following_count": 11,
+          "like_count": 27,
+          "listed_count": 11,
+          "media_count": 750,
+          "tweet_count": 1344
+        },
+        "username": "YLDLZN",
+        "verified": true
+      }
+    ]
+  }
+}

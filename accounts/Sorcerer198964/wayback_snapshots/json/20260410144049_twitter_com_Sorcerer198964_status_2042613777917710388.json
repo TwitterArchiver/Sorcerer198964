@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2042613777917710388",
+    "created_at": "2026-04-10T14:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042613777917710388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxx_jjkk/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/xxx_jjkk/status/2042605259814769069",
+          "start": 9,
+          "url": "https://t.co/54Ee1MPZxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042613777917710388",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042605259814769069",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "四月新番我要追！ https://t.co/54Ee1MPZxz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_2042605257335934982",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjKqMvakAYYZiF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2042613777917710388",
+        "created_at": "2026-04-10T14:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042613777917710388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxx_jjkk/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xxx_jjkk/status/2042605259814769069",
+              "start": 9,
+              "url": "https://t.co/54Ee1MPZxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042613777917710388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042605259814769069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "四月新番我要追！ https://t.co/54Ee1MPZxz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042605257335934982"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2042605259814769069",
+        "created_at": "2026-04-10T14:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042605259814769069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONWXMVuVMp",
+              "end": 98,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2042605259814769069/photo/1",
+              "media_key": "3_2042605257335934982",
+              "start": 75,
+              "url": "https://t.co/ONWXMVuVMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042605259814769069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "噢噢噢名字标题还有“(一)” 好好好\n就是还有续集。坐等一二三四五\n我当四月新番那样追了。\n(细节已关注+点赞ദ്ദി(˵ •̀ ᴗ - ˵ ) ) https://t.co/ONWXMVuVMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 138,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 86
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "开放私信 欢迎聊天",
+        "name": "旖旎",
+        "pinned_tweet_id": "2036763868152934681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 412,
+          "like_count": 9508,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2049022620788756499",
+    "created_at": "2026-04-28T11:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049091590845555003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1603337446183546880",
+          "start": 0,
+          "username": "jye1968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049091590845555003",
+    "in_reply_to_user_id": "1603337446183546880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049022620788756499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jye1968 打磨竹筷子毛刺的滑石粉而已\n大惊小怪\n虽然对身体确实没甚好处"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23755,
+        "height": 1280,
+        "media_key": "13_2049022502937165824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049022502937165824/img/MqQN1wOLuNdUUrGX.jpg",
+        "public_metrics": {
+          "view_count": 6101
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049022502937165824/vid/avc1/320x568/0wHfVrVVZy_e7Sbi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049022502937165824/vid/avc1/480x852/kui_tWY73t7KwxpJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049022502937165824/vid/avc1/720x1280/NLZ1XIMnLZPdSU3B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049022502937165824/pl/41XCpzMgUusAqSIN.m3u8?v=827"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2049022620788756499",
+        "created_at": "2026-04-28T11:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049091590845555003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1603337446183546880",
+              "start": 0,
+              "username": "jye1968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049091590845555003",
+        "in_reply_to_user_id": "1603337446183546880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049022620788756499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jye1968 打磨竹筷子毛刺的滑石粉而已\n大惊小怪\n虽然对身体确实没甚好处"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049022502937165824"
+          ]
+        },
+        "author_id": "1603337446183546880",
+        "conversation_id": "2049022620788756499",
+        "created_at": "2026-04-28T07:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049022620788756499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7nWmIx6aQj",
+              "end": 43,
+              "expanded_url": "https://x.com/jye1968/status/2049022620788756499/video/1",
+              "media_key": "13_2049022502937165824",
+              "start": 20,
+              "url": "https://t.co/7nWmIx6aQj"
+            },
+            {
+              "display_url": "x.com/jye1968/status…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/jye1968/status/2048524113489334690",
+              "start": 44,
+              "url": "https://t.co/QF4jYKOkeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049022620788756499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 24182,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048524113489334690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "细思极恐！一次性筷子上的这些东西是啥？ https://t.co/7nWmIx6aQj https://t.co/QF4jYKOkeg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（抹茶重度依赖版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 397,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T10:35:40.000Z",
+        "description": "Share the latest news from China.",
+        "id": "1603337446183546880",
+        "name": "新新",
+        "pinned_tweet_id": "2040068058455462376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763085380453326848/6gLHRO5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25776,
+          "following_count": 10191,
+          "like_count": 117248,
+          "listed_count": 75,
+          "media_count": 4706,
+          "tweet_count": 56118
+        },
+        "username": "jye1968",
+        "verified": false
+      }
+    ]
+  }
+}

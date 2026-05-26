@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2056365089817759978",
+    "created_at": "2026-05-18T14:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056380125302652964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036431003158454277",
+          "start": 0,
+          "username": "yueyuedr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056380125302652964",
+    "in_reply_to_user_id": "2036431003158454277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056365089817759978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyuedr 用达英35作为抗雄药吗？？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2056365086386823168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImtJqaaIAA656k.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2056365089817759978",
+        "created_at": "2026-05-18T14:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056380125302652964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036431003158454277",
+              "start": 0,
+              "username": "yueyuedr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056380125302652964",
+        "in_reply_to_user_id": "2036431003158454277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056365089817759978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyuedr 用达英35作为抗雄药吗？？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056365086386823168"
+          ]
+        },
+        "author_id": "2036431003158454277",
+        "conversation_id": "2056365089817759978",
+        "created_at": "2026-05-18T13:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056365089817759978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EkAK6RbYVp",
+              "end": 58,
+              "expanded_url": "https://x.com/yueyuedr/status/2056365089817759978/photo/1",
+              "media_key": "3_2056365086386823168",
+              "start": 35,
+              "url": "https://t.co/EkAK6RbYVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056365089817759978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听说国补现在要纸质药方才能审批通过，到底是不是真的啊！库存就这么多了 https://t.co/EkAK6RbYVp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 572,
+          "like_count": 543,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 1535
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T13:13:04.000Z",
+        "description": "此号日常吐槽发癫，不完全代表本意，请勿对号入座，双相，深柜无证🍬S属性🚪100，纯绿,文",
+        "id": "2036431003158454277",
+        "location": "天国寰宇",
+        "name": "Immort🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048768609061851136/YVu9Mxau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 25,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 145
+        },
+        "username": "yueyuedr",
+        "verified": false
+      }
+    ]
+  }
+}

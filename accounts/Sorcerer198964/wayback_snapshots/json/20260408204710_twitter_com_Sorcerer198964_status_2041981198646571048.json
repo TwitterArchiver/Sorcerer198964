@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2041981198646571048",
+    "created_at": "2026-04-08T20:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T21:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041981198646571048"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041981198646571048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当然是我理解中的，因为我也喜欢搞抽象。但是抽象的定义是“利用社会话题相关的行为博取关注度”吗？这种感觉更倾向于炒作，可能和抽象的定义不太一样。我自认为也是抽象人，但是我的炒作感可能没那么强烈，我本身甚至略反感这种行为，特别是涉及到不喜欢的价值观以及崇拜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2041981198646571048",
+        "created_at": "2026-04-08T20:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T21:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041981198646571048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041981198646571048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当然是我理解中的，因为我也喜欢搞抽象。但是抽象的定义是“利用社会话题相关的行为博取关注度”吗？这种感觉更倾向于炒作，可能和抽象的定义不太一样。我自认为也是抽象人，但是我的炒作感可能没那么强烈，我本身甚至略反感这种行为，特别是涉及到不喜欢的价值观以及崇拜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 93,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 34
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

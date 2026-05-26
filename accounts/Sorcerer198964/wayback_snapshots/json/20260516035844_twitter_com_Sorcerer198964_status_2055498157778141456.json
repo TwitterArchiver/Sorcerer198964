@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2055498157778141456",
+    "created_at": "2026-05-16T03:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055498157778141456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "143810986",
+          "start": 3,
+          "username": "dw_chinese"
+        }
+      ],
+      "urls": [
+        {
+          "description": "I'm a software engineer with a focus on Android and Platform development. Currently at OpenAI.",
+          "display_url": "amandeep.ca/tco",
+          "end": 139,
+          "expanded_url": "http://amandeep.ca/tco",
+          "start": 125,
+          "status": 200,
+          "title": "Amandeep Grewal",
+          "unwound_url": "https://amandeep.ca/tco",
+          "url": "https://t.co/A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055498157778141456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055245557606797469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dw_chinese: 为妇女发声：德国男性父亲节示威 呼吁终止性别暴力\n德国父亲节的庆祝方式，通常是啤酒、派对卡车和男士专属的聚会。但今年，一些男性选择走上街头，反对针对女性的暴力，呼吁所有男性共同面对性别歧视、有毒的男子气概及虐待行为。 https://t.co/A…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 116160,
+        "height": 1920,
+        "media_key": "13_2055224000603738112",
+        "preview_image_url": "https://pbs.twimg.com/media/HIWf8BZbMAAPPXH.jpg",
+        "public_metrics": {
+          "view_count": 8919
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055224000603738112/pl/I_EqA8tSIsiIrGi3.m3u8?v=2f4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055224000603738112/vid/avc1/1080x1920/KOGpQmfpg-bzr6W4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055224000603738112/vid/avc1/720x1280/e-H_Wy5zxgvzzQ_Q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055224000603738112/vid/avc1/480x852/rLEVjRbXZXgPmCtT.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055224000603738112/vid/avc1/320x568/r3qFcOf4UjGa2kur.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2055498157778141456",
+        "created_at": "2026-05-16T03:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055498157778141456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "143810986",
+              "start": 3,
+              "username": "dw_chinese"
+            }
+          ],
+          "urls": [
+            {
+              "description": "I'm a software engineer with a focus on Android and Platform development. Currently at OpenAI.",
+              "display_url": "amandeep.ca/tco",
+              "end": 139,
+              "expanded_url": "http://amandeep.ca/tco",
+              "start": 125,
+              "status": 200,
+              "title": "Amandeep Grewal",
+              "unwound_url": "https://amandeep.ca/tco",
+              "url": "https://t.co/A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055498157778141456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055245557606797469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dw_chinese: 为妇女发声：德国男性父亲节示威 呼吁终止性别暴力\n德国父亲节的庆祝方式，通常是啤酒、派对卡车和男士专属的聚会。但今年，一些男性选择走上街头，反对针对女性的暴力，呼吁所有男性共同面对性别歧视、有毒的男子气概及虐待行为。 https://t.co/A…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055224000603738112"
+          ]
+        },
+        "author_id": "143810986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055245557606797469",
+        "created_at": "2026-05-15T11:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055245557606797469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AH8DRF5sTd",
+              "end": 132,
+              "expanded_url": "https://x.com/dw_chinese/status/2055245557606797469/video/1",
+              "media_key": "13_2055224000603738112",
+              "start": 109,
+              "url": "https://t.co/AH8DRF5sTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055245557606797469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 22463,
+          "like_count": 304,
+          "quote_count": 6,
+          "reply_count": 28,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "为妇女发声：德国男性父亲节示威 呼吁终止性别暴力\n德国父亲节的庆祝方式，通常是啤酒、派对卡车和男士专属的聚会。但今年，一些男性选择走上街头，反对针对女性的暴力，呼吁所有男性共同面对性别歧视、有毒的男子气概及虐待行为。 https://t.co/AH8DRF5sTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 534,
+          "like_count": 453,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-14T13:16:33.000Z",
+        "description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!https://t.co/sd6bL3bDrv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/dwlegalnotice",
+                "end": 106,
+                "expanded_url": "http://bit.ly/dwlegalnotice",
+                "start": 83,
+                "url": "https://t.co/sd6bL3bDrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dw.com/chinese",
+                "end": 23,
+                "expanded_url": "http://www.dw.com/chinese",
+                "start": 0,
+                "url": "https://t.co/MJXQ2XoxI2"
+              }
+            ]
+          }
+        },
+        "id": "143810986",
+        "location": "德国 波恩",
+        "name": "DW 中文- 德国之声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799009694549413888/a4GIoJOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382234,
+          "following_count": 11,
+          "like_count": 398,
+          "listed_count": 5520,
+          "media_count": 16042,
+          "tweet_count": 84785
+        },
+        "url": "https://t.co/MJXQ2XoxI2",
+        "username": "dw_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

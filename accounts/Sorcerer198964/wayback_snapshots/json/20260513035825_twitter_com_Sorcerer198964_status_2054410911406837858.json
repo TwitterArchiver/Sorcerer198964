@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2054410911406837858",
+    "created_at": "2026-05-13T03:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054410911406837858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sorsacerba/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/sorsacerba/status/2054399221537906824",
+          "start": 18,
+          "url": "https://t.co/4qgsSFKqhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054410911406837858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054399221537906824",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人妖们听明白了吗？\n汉族已经崛起了 https://t.co/4qgsSFKqhb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2054410911406837858",
+        "created_at": "2026-05-13T03:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054410911406837858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sorsacerba/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/sorsacerba/status/2054399221537906824",
+              "start": 18,
+              "url": "https://t.co/4qgsSFKqhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054410911406837858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054399221537906824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人妖们听明白了吗？\n汉族已经崛起了 https://t.co/4qgsSFKqhb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597945043251187712",
+        "conversation_id": "2054399221537906824",
+        "created_at": "2026-05-13T03:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054399221537906824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054399221537906824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我留长发是因为我是汉族传统男性，你留长发是因为你是人妖，我们差距太大了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 499,
+          "like_count": 393,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "恋人 @HacchiTheMaid \n///\n农友：@ceciliahyve",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "HacchiTheMaid"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "ceciliahyve"
+              }
+            ]
+          }
+        },
+        "id": "1597945043251187712",
+        "location": "我家",
+        "name": "芋粥冷漠",
+        "pinned_tweet_id": "2050960198819541292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005238125216534528/kDTOQwsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 696,
+          "like_count": 68831,
+          "listed_count": 6,
+          "media_count": 1577,
+          "tweet_count": 20158
+        },
+        "username": "Sorsacerba",
+        "verified": false
+      }
+    ]
+  }
+}

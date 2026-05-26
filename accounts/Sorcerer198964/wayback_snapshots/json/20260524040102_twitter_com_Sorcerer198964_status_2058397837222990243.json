@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058344471943688192"
+      ],
+      "media_source_tweet_id": [
+        "2058344486137160070"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2058397837222990243",
+    "created_at": "2026-05-24T04:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058397837222990243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1728656771735273472",
+          "start": 3,
+          "username": "amiercreer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U1A1NeuhsV",
+          "end": 69,
+          "expanded_url": "https://x.com/amiercreer/status/2058344486137160070/photo/1",
+          "media_key": "3_2058344471943688192",
+          "start": 46,
+          "url": "https://t.co/U1A1NeuhsV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058397837222990243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058344486137160070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amiercreer: 我本科做农村老人自杀问题研究的时候，在村里待了一个暑假。… https://t.co/U1A1NeuhsV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1346,
+        "media_key": "3_2058344471943688192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJC1ZEOXsAAv8Lr.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058344471943688192"
+          ],
+          "media_source_tweet_id": [
+            "2058344486137160070"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2058397837222990243",
+        "created_at": "2026-05-24T04:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058397837222990243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1728656771735273472",
+              "start": 3,
+              "username": "amiercreer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1A1NeuhsV",
+              "end": 69,
+              "expanded_url": "https://x.com/amiercreer/status/2058344486137160070/photo/1",
+              "media_key": "3_2058344471943688192",
+              "start": 46,
+              "url": "https://t.co/U1A1NeuhsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058397837222990243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058344486137160070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amiercreer: 我本科做农村老人自杀问题研究的时候，在村里待了一个暑假。… https://t.co/U1A1NeuhsV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058344471943688192"
+          ]
+        },
+        "author_id": "1728656771735273472",
+        "conversation_id": "2058344486137160070",
+        "created_at": "2026-05-24T00:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058344486137160070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1A1NeuhsV",
+              "end": 52,
+              "expanded_url": "https://x.com/amiercreer/status/2058344486137160070/photo/1",
+              "media_key": "3_2058344471943688192",
+              "start": 29,
+              "url": "https://t.co/U1A1NeuhsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058344486137160070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我本科做农村老人自杀问题研究的时候，在村里待了一个暑假。\n\n有个老太太中风过一次，左边身子不太好使，老伴在的时候还能互相照应。老伴走了以后三个儿子抓阄，抓到小儿子。小儿子两口子在镇上开早餐店，天不亮就走，老太太一个人在家。起初也还过得去，媳妇每天中午回来做一顿，晚上留点剩的。后来媳妇怀了二胎，不过来了，让老太太自己热饭。有次把锅烧干了，差点着火，媳妇就把灶上的气罐收了，改成每天早上来在桌上放一盒饼干、一壶热水。村里人跟我说老太太有段时间天天拄着拐去隔壁大儿子家坐，也不说话，就坐着看人家吃饭，他们吃之前会给她盛出来，她就端着碗慢慢吃，碗洗好了她才吃完。大儿媳妇嘴上没说什么，但后来吃饭时把就把院门关上。老太太是冬天走的。小儿子中午去送饭的时候发现人已经凉了，喝的百草枯，杯子洗了，拐杖靠在门边，鞋摆得很齐。这些事是她八十多岁的邻居告诉我的，她很平静地跟我说：“那天太阳可好哩。”\n\n也有再婚的。一个七十多的老头，老伴去世第二年想找个伴，儿子们开家庭会，当面说的是怕人骗他钱，实际上怕他把宅基地和承包地的利益带给外人。老头最后还是找了，但不敢办酒，两个人就这么搭伙过。\n\n过年儿子们不叫他回去吃饭，他也不去。\n\n家庭分离是普遍状态。年轻人基本上全走了，村里只剩老人跟小孩。有个大爷跟我说他三个儿子的电话号码都换了，没告诉他新号码。他不觉得这是故意的，他说可能是忘了。\n\n也有温暖的时候。有个奶奶知道我们来做调研，每天早上给我们煮鸡蛋，临走塞了一袋子花生给我。她说你们是读书的人，以后当了官，记得对老人好一点。\n\n刘燕舞在湖北农村做过系统的田野调查，写过老人自杀的类型学分析，把原因归纳为经济困难、家庭疏离、身体疾病和丧偶后的孤立。他有句话我一直记得，大意是在有些村子，老人自杀已经被”正常化”了，周围的人不觉得意外，甚至觉得这是老人”想开了”。￼"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 6144,
+          "like_count": 72,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我本科做农村老人自杀问题研究的时候，在村里待了一个暑假。 https://t.co/U1A1NeuhsV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 622,
+          "like_count": 706,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 1760
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T06:07:58.000Z",
+        "description": "你既怕又何必想，你既想又何必怕@yannan74713我的幕后",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "yannan74713"
+              }
+            ]
+          }
+        },
+        "id": "1728656771735273472",
+        "name": "Hermaphroditus🎀",
+        "pinned_tweet_id": "1765721690301219061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893501220620509186/59T8Mbft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3865,
+          "following_count": 411,
+          "like_count": 14196,
+          "listed_count": 8,
+          "media_count": 814,
+          "tweet_count": 6349
+        },
+        "username": "amiercreer",
+        "verified": true
+      }
+    ]
+  }
+}

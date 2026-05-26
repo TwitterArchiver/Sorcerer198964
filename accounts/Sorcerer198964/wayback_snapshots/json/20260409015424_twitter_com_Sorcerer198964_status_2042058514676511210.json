@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2042058514676511210",
+    "created_at": "2026-04-09T01:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042058514676511210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2041993606790021310",
+          "start": 144,
+          "url": "https://t.co/jCna7mb10C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042058514676511210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041993606790021310",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对待工人好，产品才会好，这其实是个天大的逻辑错误\n实际上是人对“感恩” 的一种美好遐想，产品质量的稳定可靠，靠的是严格标准化和质量控制，而不是前现代的感恩戴德可以决定的\n若真如此，小作坊有人情味的产品质量会比流水线的高吗？\n正如认养一头牛提出的奶牛生活好牛奶才会好，只是满足情绪价值罢了 https://t.co/jCna7mb10C"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66989,
+        "height": 2340,
+        "media_key": "13_2041993096636833792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041993096636833792/img/4j-oXf7E79RIS8pl.jpg",
+        "public_metrics": {
+          "view_count": 25039
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041993096636833792/pl/JtjTBfVFx-qhg2_P.m3u8?v=20b"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041993096636833792/vid/avc1/720x1560/KScW76LRysE3aw0Z.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041993096636833792/vid/avc1/320x692/GqcdjbiDTQGwv8mt.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041993096636833792/vid/avc1/1080x2340/cVvy6n4mvHuTP3X5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041993096636833792/vid/avc1/480x1040/RTNP55y848Ib9EQP.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2042058514676511210",
+        "created_at": "2026-04-09T01:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042058514676511210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2041993606790021310",
+              "start": 144,
+              "url": "https://t.co/jCna7mb10C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042058514676511210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041993606790021310",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对待工人好，产品才会好，这其实是个天大的逻辑错误\n实际上是人对“感恩” 的一种美好遐想，产品质量的稳定可靠，靠的是严格标准化和质量控制，而不是前现代的感恩戴德可以决定的\n若真如此，小作坊有人情味的产品质量会比流水线的高吗？\n正如认养一头牛提出的奶牛生活好牛奶才会好，只是满足情绪价值罢了 https://t.co/jCna7mb10C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041993096636833792"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2041993606790021310",
+        "created_at": "2026-04-08T21:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041993606790021310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKrIpWcEIm",
+              "end": 150,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2041993606790021310/video/1",
+              "media_key": "13_2041993096636833792",
+              "start": 127,
+              "url": "https://t.co/tKrIpWcEIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041993606790021310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "4月8日，一名博主参观广州松下空调厂后表示，松下在厂区设置了爱心妈妈小屋，怀孕的员工可以在屋内休息，并且屋内沙发、微波炉等设施一应俱全。\n\n松下工厂会定期举办技能比赛，在广州松下工厂得了技能大奖的员工，可以去杭州松下参赛，如果晋级，还能去日本松下比赛。\n\n此外，松下有完善的人才晋升体系，不只是领导，哪怕是普工，他们也会考虑个人发展，并且他们很多课长、系长、部长都是从生产线上晋升上来的。\n\n博主还表示，厂里很多员工工作二三十年，至今都没离职。企业用心对待员工，培养员工，员工自然会用心对待产品。对员工越好的企业，他生产出来的产品质量才越好。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 56469,
+          "like_count": 315,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "4月8日，一名博主参观广州松下空调厂后表示，松下在厂区设置了爱心妈妈小屋，怀孕的员工可以在屋内休息，并且屋内沙发、微波炉等设施一应俱全。\n\n松下工厂会定期举办技能比赛，在广州松下工厂得了技能大奖的员工，可以去杭州松下参赛，如果晋级，还能去日本松下比赛。 https://t.co/tKrIpWcEIm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 95,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 39
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2034624681609933025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195307,
+          "following_count": 1027,
+          "like_count": 9388,
+          "listed_count": 8616,
+          "media_count": 44936,
+          "tweet_count": 52010
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

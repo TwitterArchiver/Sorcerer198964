@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2054521809689588117",
+    "created_at": "2026-05-13T11:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T12:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054522573111595046"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054522573111595046",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054521809689588117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这真不是在反讽，虽然这张图看着像反讽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 585,
+        "media_key": "3_2054521797886857216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMgsJpX0AAveJI.jpg",
+        "width": 1324
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2054521809689588117",
+        "created_at": "2026-05-13T11:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054522573111595046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054522573111595046",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054521809689588117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这真不是在反讽，虽然这张图看着像反讽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054521797886857216"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2054521809689588117",
+        "created_at": "2026-05-13T11:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054521809689588117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qE6dgwjshD",
+              "end": 47,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2054521809689588117/photo/1",
+              "media_key": "3_2054521797886857216",
+              "start": 24,
+              "url": "https://t.co/qE6dgwjshD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054521809689588117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越好的学校越能让学生摆脱舆论压力的困扰\n显然： https://t.co/qE6dgwjshD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 513,
+          "like_count": 401,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 1328
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2050161071747473533",
+    "created_at": "2026-05-01T10:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T11:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050161071747473533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maoricch15988/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/maoricch15988/status/2049738672220917920",
+          "start": 5,
+          "url": "https://t.co/o2VupfJFE9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050161071747473533",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049738672220917920",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操有牛 https://t.co/o2VupfJFE9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54900,
+        "height": 640,
+        "media_key": "13_2049738448144330753",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049738448144330753/img/AoLIRBYpwdRO9w4B.jpg",
+        "public_metrics": {
+          "view_count": 190349
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049738448144330753/vid/avc1/320x568/Qiob3E8cXuoMoblp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049738448144330753/vid/avc1/360x640/HwbO04ICYqoTpfG7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049738448144330753/pl/eVN9uG8OxLiLmWng.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2050161071747473533",
+        "created_at": "2026-05-01T10:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050161071747473533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoricch15988/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/maoricch15988/status/2049738672220917920",
+              "start": 5,
+              "url": "https://t.co/o2VupfJFE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050161071747473533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049738672220917920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操有牛 https://t.co/o2VupfJFE9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049738448144330753"
+          ]
+        },
+        "author_id": "1762456822571823104",
+        "conversation_id": "2049738672220917920",
+        "created_at": "2026-04-30T06:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049738672220917920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZV2pOwony",
+              "end": 43,
+              "expanded_url": "https://x.com/MaoRicch15988/status/2049738672220917920/video/1",
+              "media_key": "13_2049738448144330753",
+              "start": 20,
+              "url": "https://t.co/BZV2pOwony"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049738672220917920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1033,
+          "impression_count": 151362,
+          "like_count": 4020,
+          "quote_count": 17,
+          "reply_count": 524,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "范小勤打街机视频流出\n小马云你要笑死谁 https://t.co/BZV2pOwony"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 401,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 866
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T12:37:21.000Z",
+        "description": "交易心得&行情分析 会讲西语的雅思老师   分享polymarket 里那些“捡钱”盘 ⚽&🎵&web3",
+        "id": "1762456822571823104",
+        "name": "叶子维",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020375119991123968/lojTVD8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 41,
+          "like_count": 42,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 194
+        },
+        "username": "MaoRicch15988",
+        "verified": true
+      }
+    ]
+  }
+}

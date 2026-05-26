@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051965540168511500"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2051965566349352995",
+    "created_at": "2026-05-06T10:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051965566349352995"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JUEjb481Oa",
+          "end": 40,
+          "expanded_url": "https://x.com/Sorcerer198964/status/2051965566349352995/photo/1",
+          "media_key": "3_2051965540168511500",
+          "start": 17,
+          "url": "https://t.co/JUEjb481Oa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051965566349352995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "青春是用来操逼的，不是用来撸管的 https://t.co/JUEjb481Oa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1394,
+        "media_key": "3_2051965540168511500",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoLyXkWMAwFg5Q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051965540168511500"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2051965566349352995",
+        "created_at": "2026-05-06T10:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051965566349352995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUEjb481Oa",
+              "end": 40,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2051965566349352995/photo/1",
+              "media_key": "3_2051965540168511500",
+              "start": 17,
+              "url": "https://t.co/JUEjb481Oa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051965566349352995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青春是用来操逼的，不是用来撸管的 https://t.co/JUEjb481Oa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 465,
+          "like_count": 330,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 1127
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

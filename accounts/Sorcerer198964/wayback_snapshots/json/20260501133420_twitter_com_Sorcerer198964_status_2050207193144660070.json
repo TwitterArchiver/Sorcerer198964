@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2050207193144660070",
+    "created_at": "2026-05-01T13:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T14:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050207193144660070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xueqiuxka/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/xueqiuxka/status/2050195801809539296",
+          "start": 16,
+          "url": "https://t.co/wNKKyixduN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050207193144660070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050195801809539296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第二次中雪秋的奖了\n中奖率好高 https://t.co/wNKKyixduN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2050207193144660070",
+        "created_at": "2026-05-01T13:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050207193144660070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xueqiuxka/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/xueqiuxka/status/2050195801809539296",
+              "start": 16,
+              "url": "https://t.co/wNKKyixduN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050207193144660070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050195801809539296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二次中雪秋的奖了\n中奖率好高 https://t.co/wNKKyixduN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "2050195801809539296",
+        "created_at": "2026-05-01T12:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050195801809539296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 116,
+              "id": "1796929111996456960",
+              "start": 104,
+              "username": "nbrkfst0721"
+            },
+            {
+              "end": 151,
+              "id": "2041449281677045760",
+              "start": 136,
+              "username": "Sorcerer198964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/2048760669638742205",
+              "start": 159,
+              "url": "https://t.co/TwjO8oydNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050195801809539296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 116,
+                "id": "1796929111996456960",
+                "start": 104,
+                "username": "nbrkfst0721"
+              },
+              {
+                "end": 151,
+                "id": "2041449281677045760",
+                "start": 136,
+                "username": "Sorcerer198964"
+              },
+              {
+                "end": 176,
+                "id": "1471682441471578114",
+                "start": 167,
+                "username": "boboywyw"
+              }
+            ]
+          },
+          "text": "抽奖结果出炉啦！ 我根据你这次提供的3张截图（转帖人列表、评论区、被喜欢列表），提取了所有可见的唯一@用户名（每个类别内已严格去重），然后用代码随机抽取各一个中奖者，保证公平透明～ 中奖名单：转发（转帖人）：@nbrkfst0721  （Unces鎮魂曲）\n评论（回复）：@Sorcerer198964\n （索瑟尔）\n点赞（被喜欢）：@boboywyw\n （原味珍珠奶茶BoBo）\n\n恭喜三位中奖者！\n请尽快私信或@他们发放奖品\n这次基于你提供的可见参与者，完全公开透明～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048760669638742205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽奖结果出炉啦！ 我根据你这次提供的3张截图（转帖人列表、评论区、被喜欢列表），提取了所有可见的唯一@用户名（每个类别内已严格去重），然后用代码随机抽取各一个中奖者，保证公平透明～ 中奖名单：转发（转帖人）：@nbrkfst0721  （Unces鎮魂曲）\n评论（回复）：@Sorcerer198964\n （索瑟尔） https://t.co/TwjO8oydNN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 404,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 876
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7808,
+          "following_count": 2174,
+          "like_count": 27988,
+          "listed_count": 27,
+          "media_count": 1041,
+          "tweet_count": 4541
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

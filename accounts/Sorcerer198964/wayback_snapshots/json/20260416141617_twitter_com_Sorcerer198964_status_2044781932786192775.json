@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2044781932786192775",
+    "created_at": "2026-04-16T14:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044781932786192775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2044772800137666774",
+          "start": 6,
+          "url": "https://t.co/9NAXexJJdM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044781932786192775",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044772800137666774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蜘蛛切呢？ https://t.co/9NAXexJJdM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6873,
+        "height": 1280,
+        "media_key": "13_2044702637892018176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044702637892018176/img/XrrHBE6LA-uGc5qU.jpg",
+        "public_metrics": {
+          "view_count": 3270
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044702637892018176/vid/avc1/320x568/PKkPu_-bDXHL8JD6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044702637892018176/vid/avc1/480x852/m4u8IX5L-MSzxm1g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044702637892018176/vid/avc1/720x1280/mqeh6-DdbLfDf28D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044702637892018176/pl/aVIc0BADJ8NzpdwU.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 3366,
+        "height": 1280,
+        "media_key": "13_2044702637770088448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044702637770088448/img/1SORFXghxsfr8uEL.jpg",
+        "public_metrics": {
+          "view_count": 1323
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044702637770088448/vid/avc1/960x1280/3O2zUP8RZSGVazg_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044702637770088448/pl/FVM8HarQ9TfIRZTD.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044702637770088448/vid/avc1/320x426/beBSgIxrabIG4CcX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044702637770088448/vid/avc1/720x960/GgG9lmaYG1OoJlUV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044702637770088448/vid/avc1/480x640/L6LBlYf0Db4TRgof.mp4"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2044781932786192775",
+        "created_at": "2026-04-16T14:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044781932786192775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2044772800137666774",
+              "start": 6,
+              "url": "https://t.co/9NAXexJJdM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044781932786192775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044772800137666774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蜘蛛切呢？ https://t.co/9NAXexJJdM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044702637892018176",
+            "13_2044702637770088448"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2044772800137666774",
+        "created_at": "2026-04-16T13:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T14:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044772800137666774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rc9hiPLiYD",
+              "end": 85,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2044772800137666774/video/1",
+              "media_key": "13_2044702637892018176",
+              "start": 62,
+              "url": "https://t.co/rc9hiPLiYD"
+            },
+            {
+              "display_url": "pic.x.com/rc9hiPLiYD",
+              "end": 85,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2044772800137666774/video/1",
+              "media_key": "13_2044702637770088448",
+              "start": 62,
+              "url": "https://t.co/rc9hiPLiYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044772800137666774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8574,
+          "like_count": 48,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "4月14日，四川达州，我的英雄学院一coser被霸凌，周围群众举着手机将其围堵拍摄，旁边同行的coser的母亲有一些无措。 https://t.co/rc9hiPLiYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 271,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194385,
+          "following_count": 1029,
+          "like_count": 9408,
+          "listed_count": 8616,
+          "media_count": 45356,
+          "tweet_count": 52438
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2044356665202643379",
+    "created_at": "2026-04-15T11:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044373970841903365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029891270861299712",
+          "start": 0,
+          "username": "JoelQinmetme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044373970841903365",
+    "in_reply_to_user_id": "2029891270861299712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044356665202643379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@JoelQinmetme 似乎要买两杯才有周边呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044356655379533824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8Di-4aUAAAps7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044356655375433728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8Di-3bwAAvCHg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2044356665202643379",
+        "created_at": "2026-04-15T11:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044373970841903365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029891270861299712",
+              "start": 0,
+              "username": "JoelQinmetme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044373970841903365",
+        "in_reply_to_user_id": "2029891270861299712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044356665202643379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@JoelQinmetme 似乎要买两杯才有周边呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044356655379533824",
+            "3_2044356655375433728"
+          ]
+        },
+        "author_id": "2029891270861299712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044356665202643379",
+        "created_at": "2026-04-15T10:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044356665202643379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GVwTtuOA8",
+              "end": 54,
+              "expanded_url": "https://x.com/JoelQinmetme/status/2044356665202643379/photo/1",
+              "media_key": "3_2044356655379533824",
+              "start": 31,
+              "url": "https://t.co/5GVwTtuOA8"
+            },
+            {
+              "display_url": "pic.x.com/5GVwTtuOA8",
+              "end": 54,
+              "expanded_url": "https://x.com/JoelQinmetme/status/2044356665202643379/photo/1",
+              "media_key": "3_2044356655375433728",
+              "start": 31,
+              "url": "https://t.co/5GVwTtuOA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044356665202643379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 115,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "好可爱的kitty诶～\n但是为什么没有周边哇🫪👿👿👿\n生气😡 https://t.co/5GVwTtuOA8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 254,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T12:06:37.000Z",
+        "description": "09｜mtf｜坐标上海｜生竞中｜爱捣鼓各种技术｜生产日期2009.05.26｜小号@espakoala｜姐姐@ElysiumFengxuan\nMTF ｜Bio Student | Shanghai | Tutorials & Proxy Guides",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "espakoala"
+              },
+              {
+                "end": 70,
+                "start": 54,
+                "username": "ElysiumFengxuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dashcf.metc.uk",
+                "end": 23,
+                "expanded_url": "http://dashcf.metc.uk",
+                "start": 0,
+                "url": "https://t.co/A1eZJWywIr"
+              }
+            ]
+          }
+        },
+        "id": "2029891270861299712",
+        "name": "EspaKoala🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2044197409304260836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029891487677468672/_RfnoaLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 1405,
+          "like_count": 1881,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 578
+        },
+        "url": "https://t.co/A1eZJWywIr",
+        "username": "JoelQinmetme",
+        "verified": true
+      }
+    ]
+  }
+}

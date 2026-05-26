@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2058109000676503759",
+    "created_at": "2026-05-23T08:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058109000676503759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pstf11458964/s…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/pstf11458964/status/2058095442781679990",
+          "start": 53,
+          "url": "https://t.co/VIyuypgWpG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058109000676503759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058095442781679990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说这话的就像没学过哲学\n目前即使是研究领域也会标明以xx的方法分析xx社会现象，而不会强调自己是唯一真理 https://t.co/VIyuypgWpG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2058109000676503759",
+        "created_at": "2026-05-23T08:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058109000676503759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pstf11458964/s…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/pstf11458964/status/2058095442781679990",
+              "start": 53,
+              "url": "https://t.co/VIyuypgWpG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058109000676503759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058095442781679990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说这话的就像没学过哲学\n目前即使是研究领域也会标明以xx的方法分析xx社会现象，而不会强调自己是唯一真理 https://t.co/VIyuypgWpG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985722042126303232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2058095442781679990",
+        "created_at": "2026-05-23T07:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058095442781679990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058095442781679990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想，世界有没有真理的哲学以及他所属的思想\n比如萨特尼采马克思和卢梭\n他们后代的思想影响全世界，包括互联网全都是以他们的思想前进\n我想应该让我们订一个思想为真理 ，要不来就会滋生矛盾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 617,
+          "like_count": 669,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 1728
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T14:53:38.000Z",
+        "description": "一个潜伏在新加坡的纯正的大西洋主义者，馬蹄鐵大一統理論支持者/You block=I win/I had no malicious intent; all malice is subjective.:)/Asian lib/Bi/AMWF",
+        "id": "1985722042126303232",
+        "name": "Ⅳ/Jones🇪🇺🇨🇦🇺🇦🇹🇼",
+        "pinned_tweet_id": "2012446597326717089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035670602305122304/zXiLibal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 791,
+          "like_count": 81707,
+          "listed_count": 9,
+          "media_count": 278,
+          "tweet_count": 10133
+        },
+        "username": "pstf11458964",
+        "verified": false
+      }
+    ]
+  }
+}

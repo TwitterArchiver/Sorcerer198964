@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054409510970630144"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2054322142368666110",
+    "created_at": "2026-05-13T03:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054409524430160182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1336523761198120962",
+          "start": 0,
+          "username": "potechi_nikki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RucqjCN3T8",
+          "end": 42,
+          "expanded_url": "https://x.com/Sorcerer198964/status/2054409524430160182/photo/1",
+          "media_key": "3_2054409510970630144",
+          "start": 19,
+          "url": "https://t.co/RucqjCN3T8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054409524430160182",
+    "in_reply_to_user_id": "1336523761198120962",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054322142368666110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@potechi_nikki 好奇猫 https://t.co/RucqjCN3T8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054409510970630144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIK6kMSWoAAOU9X.jpg",
+        "width": 1536
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2054322133262897152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJrGI9bkAAEdrs.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054409510970630144"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2054322142368666110",
+        "created_at": "2026-05-13T03:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054409524430160182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1336523761198120962",
+              "start": 0,
+              "username": "potechi_nikki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RucqjCN3T8",
+              "end": 42,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2054409524430160182/photo/1",
+              "media_key": "3_2054409510970630144",
+              "start": 19,
+              "url": "https://t.co/RucqjCN3T8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054409524430160182",
+        "in_reply_to_user_id": "1336523761198120962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054322142368666110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@potechi_nikki 好奇猫 https://t.co/RucqjCN3T8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054322133262897152"
+          ]
+        },
+        "author_id": "1336523761198120962",
+        "conversation_id": "2054322142368666110",
+        "created_at": "2026-05-12T22:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054322142368666110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BcA3UvmtLd",
+              "end": 50,
+              "expanded_url": "https://x.com/potechi_nikki/status/2054322142368666110/photo/1",
+              "media_key": "3_2054322133262897152",
+              "start": 27,
+              "url": "https://t.co/BcA3UvmtLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054322142368666110",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1661,
+          "impression_count": 1074390,
+          "like_count": 15246,
+          "quote_count": 325,
+          "reply_count": 880,
+          "retweet_count": 895
+        },
+        "reply_settings": "everyone",
+        "text": "1番おもろい猫の顔出した人優勝ね\nじゃあまずは私から https://t.co/BcA3UvmtLd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 499,
+          "like_count": 392,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 1306
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-09T04:11:22.000Z",
+        "description": "🐈ぽてち・こゆき・おこめ・うなぎ・こたつ🐈5匹の猫たちと暮らしてます。うちの猫可愛いをひたすら垂れ流すアカウント▶️YouTube「ぽてこゆこめ/もふちゃんねる。」週1回動画配信中🐈☁️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC4jT2…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC4jT2TAR5gQExaBKv8b4mpw",
+                "start": 0,
+                "url": "https://t.co/DQz9JAM8Yz"
+              }
+            ]
+          }
+        },
+        "id": "1336523761198120962",
+        "name": "ぽてこゆこめ。",
+        "pinned_tweet_id": "1996344454211621043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1481427479029948417/mTT0L0Sh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67031,
+          "following_count": 467,
+          "like_count": 10231,
+          "listed_count": 1360,
+          "media_count": 3001,
+          "tweet_count": 11858
+        },
+        "url": "https://t.co/DQz9JAM8Yz",
+        "username": "potechi_nikki",
+        "verified": true
+      }
+    ]
+  }
+}

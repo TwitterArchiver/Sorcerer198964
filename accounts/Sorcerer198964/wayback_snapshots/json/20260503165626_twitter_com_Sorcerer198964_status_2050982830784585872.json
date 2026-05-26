@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2050982830784585872",
+    "created_at": "2026-05-03T16:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050982830784585872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x19917675/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/x19917675/status/2050933917994176763",
+          "start": 25,
+          "url": "https://t.co/SDPr0YLQ8T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050982830784585872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050933917994176763",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "揭锅盖是耗能最高的运动了\n不复当年十里山路不换肩 https://t.co/SDPr0YLQ8T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2050933909345509376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZhhjRXoAAM6zw.jpg",
+        "width": 1448
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2050933909559357440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZhhkEWsAAYMnm.jpg",
+        "width": 1306
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2050982830784585872",
+        "created_at": "2026-05-03T16:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050982830784585872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x19917675/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/x19917675/status/2050933917994176763",
+              "start": 25,
+              "url": "https://t.co/SDPr0YLQ8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050982830784585872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050933917994176763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "揭锅盖是耗能最高的运动了\n不复当年十里山路不换肩 https://t.co/SDPr0YLQ8T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050933909345509376",
+            "3_2050933909559357440"
+          ]
+        },
+        "author_id": "1282337602436120577",
+        "conversation_id": "2050933917994176763",
+        "created_at": "2026-05-03T13:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050933917994176763"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "每日一平媛"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "身材管理"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qL9bgcnuvU",
+              "end": 53,
+              "expanded_url": "https://x.com/x19917675/status/2050933917994176763/photo/1",
+              "media_key": "3_2050933909345509376",
+              "start": 30,
+              "url": "https://t.co/qL9bgcnuvU"
+            },
+            {
+              "display_url": "pic.x.com/qL9bgcnuvU",
+              "end": 53,
+              "expanded_url": "https://x.com/x19917675/status/2050933917994176763/photo/1",
+              "media_key": "3_2050933909559357440",
+              "start": 30,
+              "url": "https://t.co/qL9bgcnuvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050933917994176763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3166,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑喜我了😂😂看得出来家里管得很严 #每日一平媛 #身材管理 https://t.co/qL9bgcnuvU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 441,
+          "like_count": 285,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1001
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-12T15:34:58.000Z",
+        "description": "5⃣️",
+        "id": "1282337602436120577",
+        "location": "蹲",
+        "name": "彗星森林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041047945756508160/BwkMWeXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 188,
+          "like_count": 1703,
+          "listed_count": 6,
+          "media_count": 68,
+          "tweet_count": 418
+        },
+        "username": "x19917675",
+        "verified": false
+      }
+    ]
+  }
+}

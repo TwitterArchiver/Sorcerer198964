@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1909582871481704448"
+      ],
+      "media_source_tweet_id": [
+        "1909582990520332371"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2043589783868555356",
+    "created_at": "2026-04-13T07:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043589783868555356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1323861935385800705",
+          "start": 3,
+          "username": "PNWConservative"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bjvDrp22jL",
+          "end": 129,
+          "expanded_url": "https://x.com/iAnonPatriot/status/1909582990520332371/video/1",
+          "media_key": "13_1909582871481704448",
+          "start": 106,
+          "url": "https://t.co/bjvDrp22jL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043589783868555356",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1090
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043257553677947084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PNWConservative: Imagine how much your life must suck to spend your time making something like this…. https://t.co/bjvDrp22jL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13866,
+        "height": 1280,
+        "media_key": "13_1909582871481704448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1909582871481704448/img/5C3uJXQNryHTBHOd.jpg",
+        "public_metrics": {
+          "view_count": 11466706
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909582871481704448/vid/avc1/320x568/2hn_BS_-ynb645w4.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909582871481704448/vid/avc1/480x852/3Kosv8KCr9mcVDkr.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909582871481704448/vid/avc1/720x1280/3VClfNhuzfdj9BDJ.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1909582871481704448/pl/kDT94-wj16d33NKS.m3u8?tag=16&v=008"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1909582871481704448"
+          ],
+          "media_source_tweet_id": [
+            "1909582990520332371"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2043589783868555356",
+        "created_at": "2026-04-13T07:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043589783868555356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1323861935385800705",
+              "start": 3,
+              "username": "PNWConservative"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjvDrp22jL",
+              "end": 129,
+              "expanded_url": "https://x.com/iAnonPatriot/status/1909582990520332371/video/1",
+              "media_key": "13_1909582871481704448",
+              "start": 106,
+              "url": "https://t.co/bjvDrp22jL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043589783868555356",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1090
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043257553677947084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PNWConservative: Imagine how much your life must suck to spend your time making something like this…. https://t.co/bjvDrp22jL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1909582871481704448"
+          ],
+          "media_source_tweet_id": [
+            "1909582990520332371"
+          ]
+        },
+        "author_id": "1323861935385800705",
+        "conversation_id": "2043257553677947084",
+        "created_at": "2026-04-12T09:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043257553677947084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjvDrp22jL",
+              "end": 108,
+              "expanded_url": "https://x.com/iAnonPatriot/status/1909582990520332371/video/1",
+              "media_key": "13_1909582871481704448",
+              "start": 85,
+              "url": "https://t.co/bjvDrp22jL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043257553677947084",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2472,
+          "impression_count": 13459120,
+          "like_count": 25713,
+          "quote_count": 283,
+          "reply_count": 1886,
+          "retweet_count": 1090
+        },
+        "reply_settings": "everyone",
+        "text": "Imagine how much your life must suck to spend your time making something like this…. https://t.co/bjvDrp22jL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 195,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 180
+        },
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-04T05:37:43.000Z",
+        "description": "PNW OG🌲🇺🇸 Sarcasm/Satire abound. Roman Catholic. AMDG. Support 🇮🇱. RT🚫endorsing. Personal Account. I do not represent any company or campaign.",
+        "id": "1323861935385800705",
+        "location": "People's Republic of Seattle",
+        "name": "PNW Conservative",
+        "pinned_tweet_id": "2039162151877886273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027790300371161093/Wjs95vNq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54439,
+          "following_count": 282,
+          "like_count": 106955,
+          "listed_count": 68,
+          "media_count": 6289,
+          "tweet_count": 34911
+        },
+        "username": "PNWConservative",
+        "verified": true
+      }
+    ]
+  }
+}

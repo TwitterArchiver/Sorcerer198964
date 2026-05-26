@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2044771738257621160",
+    "created_at": "2026-04-16T13:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T14:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044771738257621160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/loriforyour/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/loriforyour/status/2044702531377586227",
+          "start": 13,
+          "url": "https://t.co/brMMsnWthd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044771738257621160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044702531377586227",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈笑死了哈哈哈哈哈哈 https://t.co/brMMsnWthd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044702523056136192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGA-HIYbIAAMZyx.jpg",
+        "width": 932
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044702523077120001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGA-HIdbUAEHPFe.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2044771738257621160",
+        "created_at": "2026-04-16T13:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T14:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044771738257621160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loriforyour/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/loriforyour/status/2044702531377586227",
+              "start": 13,
+              "url": "https://t.co/brMMsnWthd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044771738257621160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044702531377586227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈笑死了哈哈哈哈哈哈 https://t.co/brMMsnWthd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044702523056136192",
+            "3_2044702523077120001"
+          ]
+        },
+        "author_id": "2043945891917434880",
+        "conversation_id": "2044323823785521443",
+        "created_at": "2026-04-16T09:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044702531377586227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIsucmysFE",
+              "end": 36,
+              "expanded_url": "https://x.com/Loriforyour/status/2044702531377586227/photo/1",
+              "media_key": "3_2044702523056136192",
+              "start": 13,
+              "url": "https://t.co/sIsucmysFE"
+            },
+            {
+              "display_url": "pic.x.com/sIsucmysFE",
+              "end": 36,
+              "expanded_url": "https://x.com/Loriforyour/status/2044702531377586227/photo/1",
+              "media_key": "3_2044702523077120001",
+              "start": 13,
+              "url": "https://t.co/sIsucmysFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044702531377586227",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1697,
+          "like_count": 73,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044323823785521443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 https://t.co/sIsucmysFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜同类互fo可面\n因被陷害转世而生三周目，互fo寻回中\n唐某文钦点NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258DZTzm"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Sorcerer（三周目版）互fo寻回🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041455500353540591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 271,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/vX258DZTzm",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T06:55:09.000Z",
+        "description": "一个一般路过的稍微有点魔怔的正常人",
+        "id": "2043945891917434880",
+        "location": "天际省独孤市",
+        "name": "Lori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043957420331020293/ODwe6_rt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 27,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 30
+        },
+        "username": "Loriforyour",
+        "verified": false
+      }
+    ]
+  }
+}

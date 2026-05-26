@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2055841153832886415",
+    "created_at": "2026-05-17T02:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055841153832886415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xynunk/status/…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/xynunk/status/2055709006635954520",
+          "start": 60,
+          "url": "https://t.co/t5oLhs7Omu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055841153832886415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055709006635954520",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "炒作狗死妈了\n人家就是靠在所谓的堕落与正常之间反复横跳来骗取关注和同情\n你们能不能别给他曝光度了？\n跨圈真是欠天火烧了 https://t.co/t5oLhs7Omu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055709001267208192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdYce4a4AAt3B5.jpg",
+        "width": 746
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055709003943219200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdYco2bkAAoyqf.jpg",
+        "width": 622
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055709001074290688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdYceKbMAAqC8d.jpg",
+        "width": 607
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2055841153832886415",
+        "created_at": "2026-05-17T02:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055841153832886415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xynunk/status/…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/xynunk/status/2055709006635954520",
+              "start": 60,
+              "url": "https://t.co/t5oLhs7Omu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055841153832886415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055709006635954520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "炒作狗死妈了\n人家就是靠在所谓的堕落与正常之间反复横跳来骗取关注和同情\n你们能不能别给他曝光度了？\n跨圈真是欠天火烧了 https://t.co/t5oLhs7Omu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055709001267208192",
+            "3_2055709003943219200",
+            "3_2055709001074290688"
+          ]
+        },
+        "author_id": "2015213345847300096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055709006635954520",
+        "created_at": "2026-05-16T17:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055709006635954520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1928705633135767600",
+              "start": 5,
+              "username": "AuroraLight_01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MST40qQ7E4",
+              "end": 91,
+              "expanded_url": "https://x.com/XynUnk/status/2055709006635954520/photo/1",
+              "media_key": "3_2055709001267208192",
+              "start": 68,
+              "url": "https://t.co/MST40qQ7E4"
+            },
+            {
+              "display_url": "pic.x.com/MST40qQ7E4",
+              "end": 91,
+              "expanded_url": "https://x.com/XynUnk/status/2055709006635954520/photo/1",
+              "media_key": "3_2055709003943219200",
+              "start": 68,
+              "url": "https://t.co/MST40qQ7E4"
+            },
+            {
+              "display_url": "pic.x.com/MST40qQ7E4",
+              "end": 91,
+              "expanded_url": "https://x.com/XynUnk/status/2055709006635954520/photo/1",
+              "media_key": "3_2055709001074290688",
+              "start": 68,
+              "url": "https://t.co/MST40qQ7E4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055709006635954520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1800,
+          "like_count": 38,
+          "quote_count": 4,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "感觉芸光酱@AuroraLight_01要开始od了😭，还想得抑郁和双向😱，咋办，谁能劝一下🫠，不想让她这样堕落下去😭，感觉我劝不动😭 https://t.co/MST40qQ7E4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 545,
+          "like_count": 481,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 1459
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T00:02:43.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|生产日期:11.13.2011|161cm52kg|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵～|一代目@UnkXyn|https://t.co/aB65o8oOXI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 107,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 138,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 115,
+                "url": "https://t.co/aB65o8oOXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/2KoP9pAGCu"
+              }
+            ]
+          }
+        },
+        "id": "2015213345847300096",
+        "name": "Unk~🍥🏳️‍⚧️(二代目",
+        "pinned_tweet_id": "2054692978460078311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053140552099749888/BhRMG_MC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 491,
+          "like_count": 555,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/2KoP9pAGCu",
+        "username": "XynUnk",
+        "verified": false
+      }
+    ]
+  }
+}

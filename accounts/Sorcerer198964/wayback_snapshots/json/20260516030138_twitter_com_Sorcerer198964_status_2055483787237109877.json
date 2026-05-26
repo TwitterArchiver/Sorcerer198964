@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2055483787237109877",
+    "created_at": "2026-05-16T03:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055483787237109877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813561571941183488",
+          "start": 3,
+          "username": "careforme123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055483787237109877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055465198329475112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @careforme123: 卧槽拟吗，有些中国人真的为了洗人性都没有了\n\n你但凡去真正了解一下，就知道三鹿事件是唯一一个主观故意的事件，唯一一个明知有毒还要继续掩盖继续卖的案件\n\n你但凡去真正了解一下，除了三鹿受害者，其他企业哪个不是给的天价赔偿？够你打工几十辈子了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2055483787237109877",
+        "created_at": "2026-05-16T03:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055483787237109877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813561571941183488",
+              "start": 3,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055483787237109877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055465198329475112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @careforme123: 卧槽拟吗，有些中国人真的为了洗人性都没有了\n\n你但凡去真正了解一下，就知道三鹿事件是唯一一个主观故意的事件，唯一一个明知有毒还要继续掩盖继续卖的案件\n\n你但凡去真正了解一下，除了三鹿受害者，其他企业哪个不是给的天价赔偿？够你打工几十辈子了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2055465198329475112",
+        "created_at": "2026-05-16T01:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055465198329475112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/94iSxmywd4LwrN…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/94iSxmywd4LwrN5/status/2055411090822189459",
+              "start": 144,
+              "url": "https://t.co/8OXbAabGxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055465198329475112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "卧槽拟吗，有些中国人真的为了洗人性都没有了\n\n你但凡去真正了解一下，就知道三鹿事件是唯一一个主观故意的事件，唯一一个明知有毒还要继续掩盖继续卖的案件\n\n你但凡去真正了解一下，除了三鹿受害者，其他企业哪个不是给的天价赔偿？够你打工几十辈子了\n\n雅培案导致肠道坏死案例，每名婴儿一千多万美元\n\n其次只有你三鹿的规模是最大的，波及三十万婴儿\n\n你甚至他妈的不知道最后一个肉毒杆菌是闹出来的乌龙事件\n\n还有，你再说别人的不好，也没法证明你的优秀，操你妈！我无法想象你这种魔鬼的人生！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055411090822189459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽拟吗，有些中国人真的为了洗人性都没有了\n\n你但凡去真正了解一下，就知道三鹿事件是唯一一个主观故意的事件，唯一一个明知有毒还要继续掩盖继续卖的案件\n\n你但凡去真正了解一下，除了三鹿受害者，其他企业哪个不是给的天价赔偿？够你打工几十辈子了\n\n雅培案导致肠道坏死案例，每名婴儿一千多万美元 https://t.co/8OXbAabGxf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 533,
+          "like_count": 451,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 1415
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055179927515984326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 555,
+          "like_count": 5593,
+          "listed_count": 6,
+          "media_count": 618,
+          "tweet_count": 2286
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

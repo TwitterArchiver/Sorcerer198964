@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052427060904099841"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2052427077949767991",
+    "created_at": "2026-05-07T16:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052427077949767991"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WliH33UlQd",
+          "end": 38,
+          "expanded_url": "https://x.com/Sorcerer198964/status/2052427077949767991/photo/1",
+          "media_key": "3_2052427060904099841",
+          "start": 15,
+          "url": "https://t.co/WliH33UlQd"
+        },
+        {
+          "display_url": "x.com/ashasw114514/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/ashasw114514/status/2052417996937986101",
+          "start": 39,
+          "url": "https://t.co/wruMTHxNcq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052427077949767991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052417996937986101",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这些都有怎么办？是好药娘吗？ https://t.co/WliH33UlQd https://t.co/wruMTHxNcq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1428,
+        "media_key": "3_2052427060904099841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuviaSWgAEC3qF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1428,
+        "media_key": "3_2052417981125480448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHunR5eb0AA7knF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052427060904099841"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2052427077949767991",
+        "created_at": "2026-05-07T16:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052427077949767991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WliH33UlQd",
+              "end": 38,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2052427077949767991/photo/1",
+              "media_key": "3_2052427060904099841",
+              "start": 15,
+              "url": "https://t.co/WliH33UlQd"
+            },
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2052417996937986101",
+              "start": 39,
+              "url": "https://t.co/wruMTHxNcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052427077949767991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052417996937986101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这些都有怎么办？是好药娘吗？ https://t.co/WliH33UlQd https://t.co/wruMTHxNcq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052417981125480448"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2052417996937986101",
+        "created_at": "2026-05-07T15:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052417996937986101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tViD08k3B1",
+              "end": 23,
+              "expanded_url": "https://x.com/ashasw114514/status/2052417996937986101/photo/1",
+              "media_key": "3_2052417981125480448",
+              "start": 0,
+              "url": "https://t.co/tViD08k3B1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052417996937986101",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tViD08k3B1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 489,
+          "like_count": 359,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1218
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "they/him  县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52 妈妈 @maopao_hfqy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "maopao_hfqy"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2965,
+          "following_count": 2649,
+          "like_count": 6281,
+          "listed_count": 9,
+          "media_count": 420,
+          "tweet_count": 3762
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

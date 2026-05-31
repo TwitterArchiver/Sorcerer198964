@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059190928435298304"
+      ],
+      "media_source_tweet_id": [
+        "2059190978146144639"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2059223601921069184",
+    "created_at": "2026-05-26T10:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059223601921069184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993455710274043905",
+          "start": 3,
+          "username": "satireorcry1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HY1nj1u1Dr",
+          "end": 101,
+          "expanded_url": "https://x.com/satireorcry1/status/2059190978146144639/photo/1",
+          "media_key": "3_2059190928435298304",
+          "start": 78,
+          "url": "https://t.co/HY1nj1u1Dr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059223601921069184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059190978146144639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satireorcry1: 老师上课讲广告失误的案例，讲到一个单车用坦克当图标然后就凉了，老师提到坦克时欲言又止我就感觉不简单，一搜果然如此ಥ_ಥ https://t.co/HY1nj1u1Dr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2059190928435298304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJO3PUYXwAAGumk.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059190928435298304"
+          ],
+          "media_source_tweet_id": [
+            "2059190978146144639"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2059223601921069184",
+        "created_at": "2026-05-26T10:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059223601921069184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993455710274043905",
+              "start": 3,
+              "username": "satireorcry1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HY1nj1u1Dr",
+              "end": 101,
+              "expanded_url": "https://x.com/satireorcry1/status/2059190978146144639/photo/1",
+              "media_key": "3_2059190928435298304",
+              "start": 78,
+              "url": "https://t.co/HY1nj1u1Dr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059223601921069184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059190978146144639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satireorcry1: 老师上课讲广告失误的案例，讲到一个单车用坦克当图标然后就凉了，老师提到坦克时欲言又止我就感觉不简单，一搜果然如此ಥ_ಥ https://t.co/HY1nj1u1Dr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059190928435298304"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2059190978146144639",
+        "created_at": "2026-05-26T08:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059190978146144639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HY1nj1u1Dr",
+              "end": 83,
+              "expanded_url": "https://x.com/satireorcry1/status/2059190978146144639/photo/1",
+              "media_key": "3_2059190928435298304",
+              "start": 60,
+              "url": "https://t.co/HY1nj1u1Dr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059190978146144639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4168,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "老师上课讲广告失误的案例，讲到一个单车用坦克当图标然后就凉了，老师提到坦克时欲言又止我就感觉不简单，一搜果然如此ಥ_ಥ https://t.co/HY1nj1u1Dr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 651,
+          "like_count": 753,
+          "listed_count": 2,
+          "media_count": 304,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvog37z"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31633,
+          "following_count": 1618,
+          "like_count": 19067,
+          "listed_count": 73,
+          "media_count": 4191,
+          "tweet_count": 5847
+        },
+        "url": "https://t.co/EYxWvog37z",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2059087268820992359",
+    "created_at": "2026-05-26T01:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059087268820992359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hatachi0525/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/hatachi0525/status/2058995838861672697",
+          "start": 16,
+          "url": "https://t.co/jSQQFTs1MF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059087268820992359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058995838861672697",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "NVDA一晚上波动就不止这点了 https://t.co/jSQQFTs1MF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2059087268820992359",
+        "created_at": "2026-05-26T01:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059087268820992359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hatachi0525/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/hatachi0525/status/2058995838861672697",
+              "start": 16,
+              "url": "https://t.co/jSQQFTs1MF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059087268820992359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058995838861672697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "NVDA一晚上波动就不止这点了 https://t.co/jSQQFTs1MF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1108658732295028737",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Investing",
+              "id": "847894353708068864",
+              "name": "Investing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "2058995838861672697",
+        "created_at": "2026-05-25T19:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T20:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058995838861672697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TedPillows/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/TedPillows/status/2057367152655548766",
+              "start": 11,
+              "url": "https://t.co/9B3ctjJfUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058995838861672697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057367152655548766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "驚人啊，當割韭菜啊？ https://t.co/9B3ctjJfUR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 645,
+          "like_count": 739,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 1832
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T09:16:54.000Z",
+        "description": "171/47 1997.5.25出廠\n2016.12.19取證 含糖起始日不可考約早一年\n\n泛性戀？但是可以確定是個顏值控，母胎單\n精神狀態良好（大概\n歡迎同類或藍勾互fo 如果我沒fo回去希望我fo的話請私 因為自主fo我會看文章內容",
+        "id": "1108658732295028737",
+        "location": "台灣",
+        "name": "柔柔🍥",
+        "pinned_tweet_id": "2058296685672182227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057181420041510912/OOZ-jWJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 62,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 199
+        },
+        "username": "hatachi0525",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059251775337889792"
+      ],
+      "media_source_tweet_id": [
+        "2059251778454209005"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2059252116166955183",
+    "created_at": "2026-05-26T12:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059252116166955183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1420894599531270145",
+          "start": 3,
+          "username": "zhugezichublank"
+        },
+        {
+          "end": 36,
+          "id": "1489872233984311301",
+          "start": 21,
+          "username": "Aoncshagriuneo"
+        },
+        {
+          "end": 52,
+          "id": "2041449281677045760",
+          "start": 37,
+          "username": "Sorcerer198964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h7Loym2jWK",
+          "end": 133,
+          "expanded_url": "https://x.com/zhugezichublank/status/2059251778454209005/photo/1",
+          "media_key": "3_2059251775337889792",
+          "start": 110,
+          "url": "https://t.co/h7Loym2jWK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059252116166955183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059251778454209005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhugezichublank: @Aoncshagriuneo @Sorcerer198964 但其实自杀本身是会传播的啊，不是“连呼吁博得关注的爱都没有”——而是这种行为本身就在不断“推动”关注的人去自杀。 https://t.co/h7Loym2jWK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1490,
+        "media_key": "3_2059251775337889792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPulEwbgAANo66.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059251775337889792"
+          ],
+          "media_source_tweet_id": [
+            "2059251778454209005"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2059252116166955183",
+        "created_at": "2026-05-26T12:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059252116166955183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1420894599531270145",
+              "start": 3,
+              "username": "zhugezichublank"
+            },
+            {
+              "end": 36,
+              "id": "1489872233984311301",
+              "start": 21,
+              "username": "Aoncshagriuneo"
+            },
+            {
+              "end": 52,
+              "id": "2041449281677045760",
+              "start": 37,
+              "username": "Sorcerer198964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h7Loym2jWK",
+              "end": 133,
+              "expanded_url": "https://x.com/zhugezichublank/status/2059251778454209005/photo/1",
+              "media_key": "3_2059251775337889792",
+              "start": 110,
+              "url": "https://t.co/h7Loym2jWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059252116166955183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059251778454209005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhugezichublank: @Aoncshagriuneo @Sorcerer198964 但其实自杀本身是会传播的啊，不是“连呼吁博得关注的爱都没有”——而是这种行为本身就在不断“推动”关注的人去自杀。 https://t.co/h7Loym2jWK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059251775337889792"
+          ]
+        },
+        "author_id": "1420894599531270145",
+        "conversation_id": "2059065735121678737",
+        "created_at": "2026-05-26T12:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059251778454209005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489872233984311301",
+              "start": 0,
+              "username": "Aoncshagriuneo"
+            },
+            {
+              "end": 31,
+              "id": "2041449281677045760",
+              "start": 16,
+              "username": "Sorcerer198964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h7Loym2jWK",
+              "end": 112,
+              "expanded_url": "https://x.com/zhugezichublank/status/2059251778454209005/photo/1",
+              "media_key": "3_2059251775337889792",
+              "start": 89,
+              "url": "https://t.co/h7Loym2jWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059251778454209005",
+        "in_reply_to_user_id": "1489872233984311301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059068041435152811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aoncshagriuneo @Sorcerer198964 但其实自杀本身是会传播的啊，不是“连呼吁博得关注的爱都没有”——而是这种行为本身就在不断“推动”关注的人去自杀。 https://t.co/h7Loym2jWK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 654,
+          "like_count": 760,
+          "listed_count": 2,
+          "media_count": 304,
+          "tweet_count": 1872
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-29T23:50:53.000Z",
+        "description": "红色的旗帜🚩便已经足够了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "newhongqi.org",
+                "end": 23,
+                "expanded_url": "https://newhongqi.org/",
+                "start": 0,
+                "url": "https://t.co/nTs5NLK2u9"
+              }
+            ]
+          }
+        },
+        "id": "1420894599531270145",
+        "name": "诸葛子楚_blank",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551498269188325376/eaw3Q0Th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 450,
+          "like_count": 14885,
+          "listed_count": 2,
+          "media_count": 557,
+          "tweet_count": 4831
+        },
+        "url": "https://t.co/nTs5NLK2u9",
+        "username": "zhugezichublank",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T08:03:23.000Z",
+        "description": "they/she/he/any",
+        "id": "1489872233984311301",
+        "location": "世界",
+        "name": "安城 上 anjo nokami",
+        "pinned_tweet_id": "1987799848100544516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052637602801741824/nn4Kp9Bv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 4644,
+          "like_count": 213083,
+          "listed_count": 5,
+          "media_count": 120,
+          "tweet_count": 58123
+        },
+        "username": "Aoncshagriuneo",
+        "verified": false
+      }
+    ]
+  }
+}

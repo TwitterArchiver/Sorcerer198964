@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2059281685003506132",
+    "created_at": "2026-05-26T14:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059281685003506132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LightSTAR_qwq/…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/LightSTAR_qwq/status/2059268620639969707",
+          "start": 61,
+          "url": "https://t.co/eVwU70OoX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059281685003506132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059268620639969707",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "终于有一个稍微会点的了（\n不过这种方法救回来的话会很痛苦，长时间缺氧容易造成慢性脑损伤，要做很多次高压氧治疗还未必能复原 https://t.co/eVwU70OoX3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2059281685003506132",
+        "created_at": "2026-05-26T14:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059281685003506132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LightSTAR_qwq/…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/LightSTAR_qwq/status/2059268620639969707",
+              "start": 61,
+              "url": "https://t.co/eVwU70OoX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059281685003506132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059268620639969707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "终于有一个稍微会点的了（\n不过这种方法救回来的话会很痛苦，长时间缺氧容易造成慢性脑损伤，要做很多次高压氧治疗还未必能复原 https://t.co/eVwU70OoX3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999059927650930688",
+        "conversation_id": "2059268620639969707",
+        "created_at": "2026-05-26T13:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059268620639969707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059268620639969707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2斤炭够烧到缺氧吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 658,
+          "like_count": 763,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 1881
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T10:13:45.000Z",
+        "description": "音游人 | mtf🏳️‍⚧️ | 165cm | 57kg | 中重度抑郁 | 无证含糖 | 生日2008.11.28 | B站up | VRchat重度依赖 | 不od | 不见证 | 不抽烟喝酒 | 有时会割手 | 同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/bzfR3fN",
+                "end": 23,
+                "expanded_url": "https://b23.tv/bzfR3fN",
+                "start": 0,
+                "url": "https://t.co/ghmbUs8165"
+              }
+            ]
+          }
+        },
+        "id": "1999059927650930688",
+        "location": "广东",
+        "name": "苍星哒哒哒🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051718115445354496/zw7XNEkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 202,
+          "like_count": 671,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/ghmbUs8165",
+        "username": "LightSTAR_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

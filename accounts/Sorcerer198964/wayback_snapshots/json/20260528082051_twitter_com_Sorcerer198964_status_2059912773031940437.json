@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2059874668937724326",
+    "created_at": "2026-05-28T08:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059912773031940437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1693848156688236544",
+          "start": 0,
+          "username": "zIA6aIdMJW2228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059912773031940437",
+    "in_reply_to_user_id": "1693848156688236544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059874668937724326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zIA6aIdMJW2228 最好还是烟酰胺精华液"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2059874668937724326",
+        "created_at": "2026-05-28T08:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059912773031940437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1693848156688236544",
+              "start": 0,
+              "username": "zIA6aIdMJW2228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059912773031940437",
+        "in_reply_to_user_id": "1693848156688236544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059874668937724326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zIA6aIdMJW2228 最好还是烟酰胺精华液"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693848156688236544",
+        "conversation_id": "2059874668937724326",
+        "created_at": "2026-05-28T05:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059874668937724326"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "药娘"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "男娘"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059874668937724326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么办法可以美白皮肤吗？🤔#药娘 #男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 678,
+          "like_count": 794,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T04:50:54.000Z",
+        "description": "无证含糖🍥|生产日期：2010.9.08|同类互关😘丨可扩列Q：1297338930丨兴趣领域:数码·科技·游戏·二次元·音乐·政治(还是算了吧😅)丨小号：@wngznghun124323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "wngznghun124323"
+              }
+            ]
+          }
+        },
+        "id": "1693848156688236544",
+        "location": "中国",
+        "name": "八爪鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054151047137149185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354283466694657/Z36zBtnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 252,
+          "like_count": 1659,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 197
+        },
+        "username": "zIA6aIdMJW2228",
+        "verified": false
+      }
+    ]
+  }
+}

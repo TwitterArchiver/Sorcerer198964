@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2064676121887776821",
+    "created_at": "2026-06-10T11:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064676121887776821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/olive_way/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/olive_way/status/2064648994257506449",
+          "start": 8,
+          "url": "https://t.co/vPwORVZgIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064676121887776821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064648994257506449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子看看学信网 https://t.co/vPwORVZgIu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2064676121887776821",
+        "created_at": "2026-06-10T11:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064676121887776821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/olive_way/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/olive_way/status/2064648994257506449",
+              "start": 8,
+              "url": "https://t.co/vPwORVZgIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064676121887776821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064648994257506449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子看看学信网 https://t.co/vPwORVZgIu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17738923",
+        "conversation_id": "2063074586196099267",
+        "created_at": "2026-06-10T10:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064648994257506449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064648994257506449",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063074586196099267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 贱畜东西，无产阶级女性被迫出卖身体是迫于资本主义的结构性压迫。她们被迫使用身体来换取生活资料恰好是资本主义最血腥的现实，而你这头“人跨畜”居然在这里还羡慕起来了？\n这种逼话基本等于：“我好羡慕高危作业的煤矿工人呀”，把压在无产阶级身上的大山当作羡慕的东西，实在让人很难不怀疑你的智商。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 791,
+          "like_count": 1264,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 2432
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-29T18:24:46.000Z",
+        "description": "",
+        "id": "17738923",
+        "location": "如果一切顺利的话，我们的道路将不再交汇",
+        "name": "唯物辩证法",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060560123324465153/_kUJZZcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 17,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 178
+        },
+        "username": "Olive_Way",
+        "verified": false
+      }
+    ]
+  }
+}

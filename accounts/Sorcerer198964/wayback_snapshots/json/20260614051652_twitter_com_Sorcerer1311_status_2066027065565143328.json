@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2066027065565143328",
+    "created_at": "2026-06-14T05:16:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066027065565143328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066027065565143328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066022824058269956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 宠物维权的荒诞现实：估值竟要“折旧”？\n\n6月13日，一网友发文：百万粉丝网红边牧，“锄头”被盗、低价转卖并遭宰杀，同样作为毛孩子家长，非常痛心。\n锄头本身市场价值超2千，已达到多数地区盗窃罪刑事立案标准，当地警方已刑事立案，很多人认为这…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1780,
+        "media_key": "3_2065823667863384064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtHrkOXcAA6GZQ.jpg",
+        "width": 2256
+      },
+      {
+        "height": 35,
+        "media_key": "3_2065823768614785024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtHxbjX0AAW_6s.jpg",
+        "width": 690
+      },
+      {
+        "height": 194,
+        "media_key": "3_2065823774767792129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtHxyeXQAEZFHH.jpg",
+        "width": 690
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2065823780576940032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtHyIHX0AAzvt1.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2066027065565143328",
+        "created_at": "2026-06-14T05:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066027065565143328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066027065565143328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066022824058269956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 宠物维权的荒诞现实：估值竟要“折旧”？\n\n6月13日，一网友发文：百万粉丝网红边牧，“锄头”被盗、低价转卖并遭宰杀，同样作为毛孩子家长，非常痛心。\n锄头本身市场价值超2千，已达到多数地区盗窃罪刑事立案标准，当地警方已刑事立案，很多人认为这…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065823667863384064",
+            "3_2065823768614785024",
+            "3_2065823774767792129",
+            "3_2065823780576940032"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2066022824058269956",
+        "created_at": "2026-06-14T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066022824058269956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EM30ENNH48",
+              "end": 154,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066022824058269956/photo/1",
+              "media_key": "3_2065823667863384064",
+              "start": 131,
+              "url": "https://t.co/EM30ENNH48"
+            },
+            {
+              "display_url": "pic.x.com/EM30ENNH48",
+              "end": 154,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066022824058269956/photo/1",
+              "media_key": "3_2065823768614785024",
+              "start": 131,
+              "url": "https://t.co/EM30ENNH48"
+            },
+            {
+              "display_url": "pic.x.com/EM30ENNH48",
+              "end": 154,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066022824058269956/photo/1",
+              "media_key": "3_2065823774767792129",
+              "start": 131,
+              "url": "https://t.co/EM30ENNH48"
+            },
+            {
+              "display_url": "pic.x.com/EM30ENNH48",
+              "end": 154,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066022824058269956/photo/1",
+              "media_key": "3_2065823780576940032",
+              "start": 131,
+              "url": "https://t.co/EM30ENNH48"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2059662160226107570",
+              "start": 155,
+              "url": "https://t.co/NVKbLbOxrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066022824058269956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "宠物维权的荒诞现实：估值竟要“折旧”？\n\n6月13日，一网友发文：百万粉丝网红边牧，“锄头”被盗、低价转卖并遭宰杀，同样作为毛孩子家长，非常痛心。\n锄头本身市场价值超2千，已达到多数地区盗窃罪刑事立案标准，当地警方已刑事立案，很多人认为这是保护宠物的一大进步。\n\n遗憾的是，之所以能立刑事案件，一是锄头的市场价超过2000元，二是锄头被害引发了公众关注。\n\n我检索裁判文书网发现：宠物狗被偷走、被吃掉、被杀死，哪怕购买时金额大于犯罪起刑点，定损时竟然面临着“折旧”。某法院认为：“鉴于原告以3千元的价格购买宠物，考虑到宠物的一半寿命和原告已经抚养的时间，本院酌定被告赔偿原告购买费用2千元”。许多案件里，毛孩子家长只能主张民事赔偿。\n\n司法实践现状很现实、也很残酷：无论倾注多少心血与情感，你的猫狗、宠物伴侣，在司法层面就是一种“私人动产”，和家具、家电无本质区别。\n\n说回锄头，有网友说狗狗坐拥百万粉丝，能给主人持续赚钱，是生产工具，但是这在现实中很难被认定。罪刑法定要求主客观相统一。简单的说：嫌疑人偷狗的时候，如果意识不到这只狗能变现、有粉丝，那这部分附加价值，就难以算进盗窃金额里。\n\n比如2003年北京天价葡萄案，四名农民工偷摘农科院科研葡萄，最初鉴定价值1.12万元，远高于盗窃罪立案标准，三人面临三年以上有期徒刑。后重新估价按普通葡萄定价仅376元，远低于起刑点，最终不起诉，无罪释放。这个决定合乎法理人情，但一袋葡萄和陪伴十年的宠物狗，对财产所有人来讲，真的一样吗？\n\n实务中，司法机关只追责行为人主观上能预见的价值，超出普通人认知的特殊溢价、科研价值、流量价值难以认可。锄头案同理，若宠物的粉丝流量、变现能力，不在盗窃者认知范围内，难以计入涉案金额。\n\n盗窃案还有刑事追责途径，前段时间另一起顺风车闷死陪伴8年宠物猫的事件，是所有养宠人的无解噩梦。哪怕司机过错一目了然，但可以明确：司机100%不用承担任何刑事责任。我国刑法对于毁坏财物要求故意，不存在过失毁坏财物罪，虐待动物目前也没有专门立法。司机可能只是不想车里有猫毛，或者想多接单赚钱，不存在故意弄死小猫的想法，法律层面根本没有刑事责任。\n\n民事索赔同样难走。很多人问，我的猫或者狗陪伴我长大，是我的精神寄托，现在被人杀死了，能不能要精神损失费？\n\n依据《民法典》1183条，因侵害“具有人身意义的特定物”，并且造成严重精神损害的，才有权请求精神赔偿。什么是“具有人身意义的特定物”？如何判断“造成严重精神损害”？都是裁判者自由裁量，各地区认定大不相同。\n\n绝大多数判决认为：宠物就是普通动产，直接驳回精神损害赔偿。部分地区会详细考量，比如某案法官如此论述：“2021年左右，原告在杭州工作，狗放在其位于江山市的家里饲养，即便原告周末回江山，也难以认定原告对黑狗具有非常强的精神依赖度，因此，本院认为狗尚不属于具有人身意义的特定物，仅属于一般宠物，……，并不足以认定其因狗被侵害死亡产生了严重的精神损害。”\n\n因此，申请精神赔偿门槛极高、审核极严，只有极少数特殊案例能拿到少量赔偿，绝大多数诉求被驳回。\n\n更荒诞的是逆向“折旧”：法院核算宠物赔偿价，按购入原价逐年折旧贬值。结果就是：宠物养得越久越不值钱；但从情感角度，陪伴越久的宠物越是无可替代的家人。陪你走过十年的老狗，被别人害死，赔的钱还不如一只刚满月的小狗。这份倾注数年的感情，在文书里一文不值。\n\n很多时候，我们并不主张给宠物和人一样的法律地位，但现状确实令毛孩子家长无奈：第一，法律只承认宠物的财产属性，几乎无视伴侣动物承载的人格情感价值；第二，重罪可能还涉嫌盗窃罪或者危害公共安全罪，轻微侵权只能自认倒霉，中间既没有行政处罚，也没有适配的民事赔付标准；第三，精神损害赔偿没有统一、可落地的量化标准。\n\n目前动物保护法的推动确实存在许多难题，比如基层如何管控弃养、恶性虐杀，养宠人权利如何保障，社会资源如何分配。但短期内至少可以统一裁判标准：明确饲养一定年限、能够提供证据证明的宠物，认定为具有人身意义的特定物，至少能有些精神损害赔偿和赔礼道歉。哪怕只有一块钱，对于毛孩子家长也是一种安慰。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4266,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059662160226107570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宠物维权的荒诞现实：估值竟要“折旧”？\n\n6月13日，一网友发文：百万粉丝网红边牧，“锄头”被盗、低价转卖并遭宰杀，同样作为毛孩子家长，非常痛心。\n锄头本身市场价值超2千，已达到多数地区盗窃罪刑事立案标准，当地警方已刑事立案，很多人认为这是保护宠物的一大进步。 https://t.co/EM30ENNH48 https://t.co/NVKbLbOxrP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 808,
+          "like_count": 1379,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236487,
+          "following_count": 1070,
+          "like_count": 9689,
+          "listed_count": 8795,
+          "media_count": 48543,
+          "tweet_count": 55701
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

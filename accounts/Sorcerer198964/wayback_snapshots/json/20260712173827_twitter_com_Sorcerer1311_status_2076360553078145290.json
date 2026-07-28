@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076360541090836480"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2076360553078145290",
+    "created_at": "2026-07-12T17:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076360553078145290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vg9rvG0u5M",
+          "end": 42,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2076360553078145290/photo/1",
+          "media_key": "3_2076360541090836480",
+          "start": 19,
+          "url": "https://t.co/vg9rvG0u5M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076360553078145290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇靠三万一斤的茶\n周劼公子喝得起吗？ https://t.co/vg9rvG0u5M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076360541090836480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNC26T1bcAAoTuT.jpg",
+        "width": 1549
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076360541090836480"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2076360553078145290",
+        "created_at": "2026-07-12T17:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076360553078145290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vg9rvG0u5M",
+              "end": 42,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2076360553078145290/photo/1",
+              "media_key": "3_2076360541090836480",
+              "start": 19,
+              "url": "https://t.co/vg9rvG0u5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076360553078145290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇靠三万一斤的茶\n周劼公子喝得起吗？ https://t.co/vg9rvG0u5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 897,
+          "like_count": 1642,
+          "listed_count": 2,
+          "media_count": 387,
+          "tweet_count": 2877
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

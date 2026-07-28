@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2067060517265662275",
+    "created_at": "2026-06-17T01:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T02:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067060517265662275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "925157460842659842",
+          "start": 3,
+          "username": "cnfa2002"
+        },
+        {
+          "end": 30,
+          "id": "2022647069413089280",
+          "start": 14,
+          "username": "monicawhite0913"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067060517265662275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067056747366502531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cnfa2002: @monicawhite0913 扯蛋 百盛是把全球的必胜客都卖了 除中国大陆之外的卖给私募朗睿资本了 中国大陆的卖给百盛中国了 但百盛中国的前三大股东都是海外投资机构 谁跟你说变成国企了 🪂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2067060517265662275",
+        "created_at": "2026-06-17T01:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067060517265662275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "925157460842659842",
+              "start": 3,
+              "username": "cnfa2002"
+            },
+            {
+              "end": 30,
+              "id": "2022647069413089280",
+              "start": 14,
+              "username": "monicawhite0913"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067060517265662275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067056747366502531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cnfa2002: @monicawhite0913 扯蛋 百盛是把全球的必胜客都卖了 除中国大陆之外的卖给私募朗睿资本了 中国大陆的卖给百盛中国了 但百盛中国的前三大股东都是海外投资机构 谁跟你说变成国企了 🪂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "925157460842659842",
+        "conversation_id": "2066978687288057930",
+        "created_at": "2026-06-17T01:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067056747366502531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2022647069413089280",
+              "start": 0,
+              "username": "monicawhite0913"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067056747366502531",
+        "in_reply_to_user_id": "2022647069413089280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066978687288057930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@monicawhite0913 扯蛋 百盛是把全球的必胜客都卖了 除中国大陆之外的卖给私募朗睿资本了 中国大陆的卖给百盛中国了 但百盛中国的前三大股东都是海外投资机构 谁跟你说变成国企了 🪂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 834,
+          "like_count": 1445,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 2639
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-31T00:28:22.000Z",
+        "description": "Hi",
+        "id": "925157460842659842",
+        "name": "fa2002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1493271898494439427/LTGUIBYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 902,
+          "like_count": 112679,
+          "listed_count": 3,
+          "media_count": 635,
+          "tweet_count": 41264
+        },
+        "username": "cnfa2002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T12:20:25.000Z",
+        "description": "Premium+用户～\n小镇出生长大，苏州待了8年，婚后回到了小镇生活了10年，后面到了泰国🇹🇭\n泰国清迈带娃中年人 | 从小镇到苏州再到海外，分享真实生活、育儿吐槽、泰国日常 | 欢迎同频朋友一起聊～",
+        "id": "2022647069413089280",
+        "name": "莫小白 Monica",
+        "pinned_tweet_id": "2058667164698353691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022647754158448640/RYAq3dMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4421,
+          "following_count": 2303,
+          "like_count": 47619,
+          "listed_count": 10,
+          "media_count": 342,
+          "tweet_count": 15291
+        },
+        "username": "monicawhite0913",
+        "verified": true
+      }
+    ]
+  }
+}

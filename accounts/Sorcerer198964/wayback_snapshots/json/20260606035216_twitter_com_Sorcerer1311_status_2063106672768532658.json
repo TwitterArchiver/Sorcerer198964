@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063048205731037184",
+        "3_2063048205710098432"
+      ],
+      "media_source_tweet_id": [
+        "2063048210722234594",
+        "2063048210722234594"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2063106672768532658",
+    "created_at": "2026-06-06T03:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063106672768532658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1789179729695891456",
+          "start": 3,
+          "username": "Thomaskong96638"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g180zS85tX",
+          "end": 75,
+          "expanded_url": "https://x.com/Thomaskong96638/status/2063048210722234594/photo/1",
+          "media_key": "3_2063048205731037184",
+          "start": 52,
+          "url": "https://t.co/g180zS85tX"
+        },
+        {
+          "display_url": "pic.x.com/g180zS85tX",
+          "end": 75,
+          "expanded_url": "https://x.com/Thomaskong96638/status/2063048210722234594/photo/1",
+          "media_key": "3_2063048205710098432",
+          "start": 52,
+          "url": "https://t.co/g180zS85tX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063106672768532658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063048210722234594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Thomaskong96638: 让刘晓波获得诺贝尔和平奖的《零八宪章》，到底是个什么东东？… https://t.co/g180zS85tX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_2063048205731037184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFraaEbAAAgGz_.jpg",
+        "width": 534
+      },
+      {
+        "height": 700,
+        "media_key": "3_2063048205710098432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFraZ_bgAAJlHy.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063048205731037184",
+            "3_2063048205710098432"
+          ],
+          "media_source_tweet_id": [
+            "2063048210722234594",
+            "2063048210722234594"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2063106672768532658",
+        "created_at": "2026-06-06T03:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063106672768532658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1789179729695891456",
+              "start": 3,
+              "username": "Thomaskong96638"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g180zS85tX",
+              "end": 75,
+              "expanded_url": "https://x.com/Thomaskong96638/status/2063048210722234594/photo/1",
+              "media_key": "3_2063048205731037184",
+              "start": 52,
+              "url": "https://t.co/g180zS85tX"
+            },
+            {
+              "display_url": "pic.x.com/g180zS85tX",
+              "end": 75,
+              "expanded_url": "https://x.com/Thomaskong96638/status/2063048210722234594/photo/1",
+              "media_key": "3_2063048205710098432",
+              "start": 52,
+              "url": "https://t.co/g180zS85tX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063106672768532658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063048210722234594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Thomaskong96638: 让刘晓波获得诺贝尔和平奖的《零八宪章》，到底是个什么东东？… https://t.co/g180zS85tX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063048205731037184",
+            "3_2063048205710098432"
+          ]
+        },
+        "author_id": "1789179729695891456",
+        "conversation_id": "2063048210722234594",
+        "created_at": "2026-06-05T23:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063048210722234594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g180zS85tX",
+              "end": 53,
+              "expanded_url": "https://x.com/Thomaskong96638/status/2063048210722234594/photo/1",
+              "media_key": "3_2063048205731037184",
+              "start": 30,
+              "url": "https://t.co/g180zS85tX"
+            },
+            {
+              "display_url": "pic.x.com/g180zS85tX",
+              "end": 53,
+              "expanded_url": "https://x.com/Thomaskong96638/status/2063048210722234594/photo/1",
+              "media_key": "3_2063048205710098432",
+              "start": 30,
+              "url": "https://t.co/g180zS85tX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063048210722234594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "让刘晓波获得诺贝尔和平奖的《零八宪章》，到底是个什么东东？\n\n2008年12月10日，世界人权日当天，三百零三位中国各界人士公开发表了《零八宪章》。这份文件由张祖桦负责起草，刘晓波参与修改并担任第一位联署者。随后鲍彤、茅于轼、浦志强、戴晴、丁子霖等知名人士相继联署，短短时间内联署人数迅速突破一万。到2011年为止，已有一万三千多人联署，但联署网站在2009年就被中国政府封锁。\n\n《零八宪章》一共提出了十九条主张，其中最核心的内容可以归纳为以下几点：\n第一，修改宪法，废除一党专政，实行民主宪政；\n第二，实行三权分立，保障司法独立；\n第三，保障言论、出版、集会、结社、宗教信仰等基本自由；\n第四，军队国家化，军人效忠宪法而非任何政党；\n第五，保护私有财产，保障公民合法的经济权利。\n\n这份由一万三千多人联署的文件，不仅记录了中国知识分子对民主宪政的向往，更是中国公民社会的一次重要觉醒。它的核心主张，其实早已是当今大多数民主国家宪法的基本内容，却在中国成为禁忌。它让世界看到了中国人对自由、法治与人权的追求，也成为理解当代中国无法回避的重要政治文献，至今仍在持续影响着无数人的思考。\n（图片来源于网络，若有侵权联系删除）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 7780,
+          "like_count": 85,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 22
+        },
+        "reply_settings": "following",
+        "text": "让刘晓波获得诺贝尔和平奖的《零八宪章》，到底是个什么东东？ https://t.co/g180zS85tX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 753,
+          "like_count": 1065,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 2184
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T06:24:49.000Z",
+        "description": "历史故事分享。观今宜鉴古，无古不成今。\n图片及视频来源于网络，如有侵权请联系删除",
+        "id": "1789179729695891456",
+        "location": "New Zealand",
+        "name": "Thomas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015568670223966208/ombfyiDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12775,
+          "following_count": 1665,
+          "like_count": 12638,
+          "listed_count": 26,
+          "media_count": 759,
+          "tweet_count": 6738
+        },
+        "username": "Thomaskong96638",
+        "verified": true
+      }
+    ]
+  }
+}

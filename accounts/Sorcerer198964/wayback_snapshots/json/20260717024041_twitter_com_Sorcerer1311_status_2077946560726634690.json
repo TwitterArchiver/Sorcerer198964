@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2077946560726634690",
+    "created_at": "2026-07-17T02:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077946560726634690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2021168484949032963",
+          "start": 3,
+          "username": "oestrogel2233"
+        },
+        {
+          "end": 32,
+          "id": "2041449281677045760",
+          "start": 19,
+          "username": "Sorcerer1311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077946560726634690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077919601439232257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oestrogel2233: @Sorcerer1311 父母啥时候可以逃脱原生家庭啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2077946560726634690",
+        "created_at": "2026-07-17T02:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077946560726634690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2021168484949032963",
+              "start": 3,
+              "username": "oestrogel2233"
+            },
+            {
+              "end": 32,
+              "id": "2041449281677045760",
+              "start": 19,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077946560726634690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077919601439232257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oestrogel2233: @Sorcerer1311 父母啥时候可以逃脱原生家庭啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021168484949032963",
+        "conversation_id": "2077685181503471943",
+        "created_at": "2026-07-17T00:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077919601439232257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077919601439232257",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077685181503471943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 父母啥时候可以逃脱原生家庭啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 905,
+          "like_count": 1699,
+          "listed_count": 3,
+          "media_count": 400,
+          "tweet_count": 2919
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T10:25:07.000Z",
+        "description": "哈基远二代目（大悲）\n生日0301，扩列贴贴，现居成都）\n前文明：@dizoclipine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "dizoclipine"
+              }
+            ]
+          }
+        },
+        "id": "2021168484949032963",
+        "location": "床上",
+        "name": "小蠢猫猫🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021171816509943808/c93wySm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 92,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "oestrogel2233",
+        "verified": false
+      }
+    ]
+  }
+}

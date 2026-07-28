@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2064245380087451714",
+    "created_at": "2026-06-09T14:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064347952836149402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1316301573828427777",
+          "start": 0,
+          "username": "nhs1688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064347952836149402",
+    "in_reply_to_user_id": "1316301573828427777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064245380087451714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhs1688 还有这种好事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2064245380087451714",
+        "created_at": "2026-06-09T14:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064347952836149402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1316301573828427777",
+              "start": 0,
+              "username": "nhs1688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064347952836149402",
+        "in_reply_to_user_id": "1316301573828427777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064245380087451714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhs1688 还有这种好事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1316301573828427777",
+        "conversation_id": "2064245380087451714",
+        "created_at": "2026-06-09T07:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064245380087451714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064245380087451714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 135576,
+          "like_count": 266,
+          "quote_count": 0,
+          "reply_count": 1037,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "招助理:\n\n男女不限，月薪6666美金。\n工作内容：躺平 躺平。\n\n我想体验用金钱把一个年轻人砸成废人的感觉。\n\n评论区报道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 785,
+          "like_count": 1203,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 2362
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-14T08:55:41.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/nhs1688",
+                "end": 23,
+                "expanded_url": "https://twitter.com/nhs1688",
+                "start": 0,
+                "url": "https://t.co/TTbC8UcmTk"
+              }
+            ]
+          }
+        },
+        "id": "1316301573828427777",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "BiLL(🦈,💧）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936127130645168128/zYpJmEus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8970,
+          "following_count": 2729,
+          "like_count": 12464,
+          "listed_count": 13,
+          "media_count": 1291,
+          "tweet_count": 17046
+        },
+        "url": "https://t.co/TTbC8UcmTk",
+        "username": "nhs1688",
+        "verified": true
+      }
+    ]
+  }
+}

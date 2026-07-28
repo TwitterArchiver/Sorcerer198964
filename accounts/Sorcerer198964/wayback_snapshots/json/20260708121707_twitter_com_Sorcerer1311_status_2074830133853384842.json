@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2074830133853384842",
+    "created_at": "2026-07-08T12:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074830133853384842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/taoistyouth/st…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/taoistyouth/status/2074778139524472932",
+          "start": 55,
+          "url": "https://t.co/dCeXkRuFL9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074830133853384842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074778139524472932",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么还没到蛋炒饭节就开始炒了？\n征求一下大家意见\n前年我做的腊肉蛋炒饭\n去年我做的韩式蛋炒饭\n今年做什么好？ https://t.co/dCeXkRuFL9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 454,
+        "media_key": "3_2074778134726205440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsXuIwaYAALS50.jpg",
+        "width": 675
+      },
+      {
+        "height": 1274,
+        "media_key": "3_2074778135380598786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsXuLMboAInjWZ.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2074830133853384842",
+        "created_at": "2026-07-08T12:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074830133853384842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/taoistyouth/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/taoistyouth/status/2074778139524472932",
+              "start": 55,
+              "url": "https://t.co/dCeXkRuFL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074830133853384842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074778139524472932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么还没到蛋炒饭节就开始炒了？\n征求一下大家意见\n前年我做的腊肉蛋炒饭\n去年我做的韩式蛋炒饭\n今年做什么好？ https://t.co/dCeXkRuFL9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074778134726205440",
+            "3_2074778135380598786"
+          ]
+        },
+        "author_id": "2048745058804105216",
+        "conversation_id": "2074778139524472932",
+        "created_at": "2026-07-08T08:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074778139524472932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IqTXKLGzUw",
+              "end": 127,
+              "expanded_url": "https://x.com/TaoistYouth/status/2074778139524472932/photo/1",
+              "media_key": "3_2074778134726205440",
+              "start": 104,
+              "url": "https://t.co/IqTXKLGzUw"
+            },
+            {
+              "display_url": "pic.x.com/IqTXKLGzUw",
+              "end": 127,
+              "expanded_url": "https://x.com/TaoistYouth/status/2074778139524472932/photo/1",
+              "media_key": "3_2074778135380598786",
+              "start": 104,
+              "url": "https://t.co/IqTXKLGzUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074778139524472932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9361,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "美食作家王刚因在毛岸英忌日发布制作蛋炒饭的视频，遭到大批中共毛左、粉红的攻击\n\n指王刚涉嫌用蛋炒饭讽刺英烈——前中共党魁毛泽东之子毛岸英\n\n近年每逢11月25日毛岸英的忌日，“蛋炒饭”3字便成为中国敏感词汇 https://t.co/IqTXKLGzUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 888,
+          "like_count": 1612,
+          "listed_count": 2,
+          "media_count": 385,
+          "tweet_count": 2845
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T12:44:34.000Z",
+        "description": "右翼自由派/自由意志主义/反极权/永远铭记六四/\n日本留学生/高一做题区/道教善信☯/友跨非跨🏳️‍⚧️/时而暴躁时而温和/键政辱包重度依赖/\n一入玄门终不悔，永做三清不二臣/六四精神永存，自由民主不死/\n努力突破1000fo喵/\n回fo标准：简介、名称和内容明确（最好立场鲜明）或粉丝量大于50（蓝v必回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20740…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2074037789138772108",
+                "start": 0,
+                "url": "https://t.co/UuEmggjyf8"
+              }
+            ]
+          }
+        },
+        "id": "2048745058804105216",
+        "location": "日本东京",
+        "name": "☯︎Taoist_Youth🇨🇳🇯🇵",
+        "pinned_tweet_id": "2074807249047081307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750584791171072/wJ8bgXnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 377,
+          "like_count": 8776,
+          "listed_count": 4,
+          "media_count": 317,
+          "tweet_count": 2977
+        },
+        "url": "https://t.co/UuEmggjyf8",
+        "username": "TaoistYouth",
+        "verified": false
+      }
+    ]
+  }
+}

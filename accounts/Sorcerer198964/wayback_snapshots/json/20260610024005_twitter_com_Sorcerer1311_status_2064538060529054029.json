@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064395408366096384",
+        "3_2064395408743489536"
+      ],
+      "media_source_tweet_id": [
+        "2064395411809587355",
+        "2064395411809587355"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2064538060529054029",
+    "created_at": "2026-06-10T02:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064538060529054029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721895937357004800",
+          "start": 3,
+          "username": "Strf_9040C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jEW2HCk4OG",
+          "end": 70,
+          "expanded_url": "https://x.com/Strf_9040C/status/2064395411809587355/photo/1",
+          "media_key": "3_2064395408366096384",
+          "start": 47,
+          "url": "https://t.co/jEW2HCk4OG"
+        },
+        {
+          "display_url": "pic.x.com/jEW2HCk4OG",
+          "end": 70,
+          "expanded_url": "https://x.com/Strf_9040C/status/2064395411809587355/photo/1",
+          "media_key": "3_2064395408743489536",
+          "start": 47,
+          "url": "https://t.co/jEW2HCk4OG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064538060529054029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064395411809587355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Strf_9040C: 那他最新的这个是什么\nHIV 不治自愈然后自我转化成梅毒了？ https://t.co/jEW2HCk4OG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2176,
+        "media_key": "3_2064395408366096384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKY0r6-b0AAJf8j.jpg",
+        "width": 1812
+      },
+      {
+        "height": 2176,
+        "media_key": "3_2064395408743489536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKY0r8YaYAAOzJc.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064395408366096384",
+            "3_2064395408743489536"
+          ],
+          "media_source_tweet_id": [
+            "2064395411809587355",
+            "2064395411809587355"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2064538060529054029",
+        "created_at": "2026-06-10T02:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064538060529054029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721895937357004800",
+              "start": 3,
+              "username": "Strf_9040C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEW2HCk4OG",
+              "end": 70,
+              "expanded_url": "https://x.com/Strf_9040C/status/2064395411809587355/photo/1",
+              "media_key": "3_2064395408366096384",
+              "start": 47,
+              "url": "https://t.co/jEW2HCk4OG"
+            },
+            {
+              "display_url": "pic.x.com/jEW2HCk4OG",
+              "end": 70,
+              "expanded_url": "https://x.com/Strf_9040C/status/2064395411809587355/photo/1",
+              "media_key": "3_2064395408743489536",
+              "start": 47,
+              "url": "https://t.co/jEW2HCk4OG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064538060529054029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064395411809587355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Strf_9040C: 那他最新的这个是什么\nHIV 不治自愈然后自我转化成梅毒了？ https://t.co/jEW2HCk4OG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064395408366096384",
+            "3_2064395408743489536"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2064395411809587355",
+        "created_at": "2026-06-09T17:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064395411809587355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEW2HCk4OG",
+              "end": 54,
+              "expanded_url": "https://x.com/Strf_9040C/status/2064395411809587355/photo/1",
+              "media_key": "3_2064395408366096384",
+              "start": 31,
+              "url": "https://t.co/jEW2HCk4OG"
+            },
+            {
+              "display_url": "pic.x.com/jEW2HCk4OG",
+              "end": 54,
+              "expanded_url": "https://x.com/Strf_9040C/status/2064395411809587355/photo/1",
+              "media_key": "3_2064395408743489536",
+              "start": 31,
+              "url": "https://t.co/jEW2HCk4OG"
+            },
+            {
+              "display_url": "x.com/suekageseikiyo…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/suekageseikiyo/status/2064363717689815255",
+              "start": 55,
+              "url": "https://t.co/1kARQ664TQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064395411809587355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064363717689815255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那他最新的这个是什么\nHIV 不治自愈然后自我转化成梅毒了？ https://t.co/jEW2HCk4OG https://t.co/1kARQ664TQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 789,
+          "like_count": 1234,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 2393
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 2302,
+          "like_count": 11892,
+          "listed_count": 2,
+          "media_count": 592,
+          "tweet_count": 1089
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

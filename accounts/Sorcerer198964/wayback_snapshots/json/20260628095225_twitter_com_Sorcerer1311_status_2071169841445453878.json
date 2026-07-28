@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2071169841445453878",
+    "created_at": "2026-06-28T09:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071169841445453878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071169841445453878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071130920896110730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: “爱自由，为自由，终于获自由”\n\n6月27日，纽约时报报道，中国异见人士董广平（68岁）历经十余年、四次出逃尝试，终于抵达加拿大多伦多与家人团聚。\n他曾多次在中国身陷囹圄，长期遭受警方监控和出境禁令；前几次出逃途中曾被泰国和越南遣返，甚至…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2071130850574372864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4iiQfWkAAfJMZ.jpg",
+        "width": 1127
+      },
+      {
+        "height": 526,
+        "media_key": "3_2071130850565996544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4iiQdWwAAexC2.jpg",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2071169841445453878",
+        "created_at": "2026-06-28T09:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071169841445453878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071169841445453878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071130920896110730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: “爱自由，为自由，终于获自由”\n\n6月27日，纽约时报报道，中国异见人士董广平（68岁）历经十余年、四次出逃尝试，终于抵达加拿大多伦多与家人团聚。\n他曾多次在中国身陷囹圄，长期遭受警方监控和出境禁令；前几次出逃途中曾被泰国和越南遣返，甚至…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071130850574372864",
+            "3_2071130850565996544"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2071130920896110730",
+        "created_at": "2026-06-28T07:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071130920896110730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HwWm8yoMb7",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2071130920896110730/photo/1",
+              "media_key": "3_2071130850574372864",
+              "start": 138,
+              "url": "https://t.co/HwWm8yoMb7"
+            },
+            {
+              "display_url": "pic.x.com/HwWm8yoMb7",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2071130920896110730/photo/1",
+              "media_key": "3_2071130850565996544",
+              "start": 138,
+              "url": "https://t.co/HwWm8yoMb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071130920896110730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“爱自由，为自由，终于获自由”\n\n6月27日，纽约时报报道，中国异见人士董广平（68岁）历经十余年、四次出逃尝试，终于抵达加拿大多伦多与家人团聚。\n他曾多次在中国身陷囹圄，长期遭受警方监控和出境禁令；前几次出逃途中曾被泰国和越南遣返，甚至在试图游泳抵达台湾时被中国渔船截获。\n\n2026年5月24日黎明前，他只身从威海驾驶一艘灰色充气小艇出发，携带42加仑汽油和熟牛肉、饼干。\n他原计划前往日本，但途中引擎故障、手机耗尽电量、天气突变致使失去方向，36小时仅行驶124英里。\n精疲力竭之际，他改变航向驶向韩国，被一名渔夫救起并移交韩国海警。\n\n在韩国，法官拒绝批准逮捕令，当局最终允许他离境。\n董广平表示，此次出逃的转折点在于韩国依法为他提供了律师，令他相信民主法治国家不会将他遣返中国。\n抵达多伦多后，他表示将继续为中国实现宪政民主而奋斗——这是他自1999年签署天安门事件相关公开信以来毕生追求的目标。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 53861,
+          "like_count": 669,
+          "quote_count": 6,
+          "reply_count": 51,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "“爱自由，为自由，终于获自由”\n\n6月27日，纽约时报报道，中国异见人士董广平（68岁）历经十余年、四次出逃尝试，终于抵达加拿大多伦多与家人团聚。\n他曾多次在中国身陷囹圄，长期遭受警方监控和出境禁令；前几次出逃途中曾被泰国和越南遣返，甚至在试图游泳抵达台湾时被中国渔船截获。 https://t.co/HwWm8yoMb7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 864,
+          "like_count": 1557,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241476,
+          "following_count": 1072,
+          "like_count": 9757,
+          "listed_count": 8804,
+          "media_count": 49414,
+          "tweet_count": 56593
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

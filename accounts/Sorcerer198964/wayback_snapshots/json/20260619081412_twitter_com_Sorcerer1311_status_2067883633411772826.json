@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2067176143464321212",
+    "created_at": "2026-06-19T08:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067883633411772826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2893886738",
+          "start": 0,
+          "username": "kangke666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067883633411772826",
+    "in_reply_to_user_id": "2893886738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067176143464321212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kangke666666 pr80根本不是抗癫痫一线用药…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2013,
+        "media_key": "3_2067176139303616512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAVvw9bAAAN0Sk.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1891,
+        "media_key": "3_2067176136619286528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAVvm9bYAAGJOJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1808,
+        "media_key": "3_2067176136531197952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAVvmobQAARxEM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1897,
+        "media_key": "3_2067176137659412480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAVvq1acAAyf_G.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2067176143464321212",
+        "created_at": "2026-06-19T08:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067883633411772826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2893886738",
+              "start": 0,
+              "username": "kangke666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067883633411772826",
+        "in_reply_to_user_id": "2893886738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067176143464321212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kangke666666 pr80根本不是抗癫痫一线用药…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067176139303616512",
+            "3_2067176136619286528",
+            "3_2067176136531197952",
+            "3_2067176137659412480"
+          ]
+        },
+        "author_id": "2893886738",
+        "conversation_id": "2067176143464321212",
+        "created_at": "2026-06-17T09:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067176143464321212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DcoAQVISQg",
+              "end": 122,
+              "expanded_url": "https://x.com/kangke666666/status/2067176143464321212/photo/1",
+              "media_key": "3_2067176139303616512",
+              "start": 99,
+              "url": "https://t.co/DcoAQVISQg"
+            },
+            {
+              "display_url": "pic.x.com/DcoAQVISQg",
+              "end": 122,
+              "expanded_url": "https://x.com/kangke666666/status/2067176143464321212/photo/1",
+              "media_key": "3_2067176136619286528",
+              "start": 99,
+              "url": "https://t.co/DcoAQVISQg"
+            },
+            {
+              "display_url": "pic.x.com/DcoAQVISQg",
+              "end": 122,
+              "expanded_url": "https://x.com/kangke666666/status/2067176143464321212/photo/1",
+              "media_key": "3_2067176136531197952",
+              "start": 99,
+              "url": "https://t.co/DcoAQVISQg"
+            },
+            {
+              "display_url": "pic.x.com/DcoAQVISQg",
+              "end": 122,
+              "expanded_url": "https://x.com/kangke666666/status/2067176143464321212/photo/1",
+              "media_key": "3_2067176137659412480",
+              "start": 99,
+              "url": "https://t.co/DcoAQVISQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067176143464321212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "未成年人滥用处方药成瘾，别让药片毁掉青春\n\n“全身软绵绵的，像躺在棉花上面，一切都特别幸福美好。”这听起来像极致的放松，却是一名高二女生小柔（化名）在连续服用抗癫痫处方药普瑞巴林一周后的真实感受。\n\n她原本只是想缓解失眠和抑郁，却一步步陷入成瘾泥潭：从每天8片，逐渐加到一次30多片，一年多吞下近万片，还混用止咳药愈美片（含右美沙芬）。\n\n停药时，全身发痒、忽冷忽热、烦躁失眠，像“生不如死”。最终被诊断为重度抑郁并休学，小柔的经历并非孤例。\n\n2026年，国家药监局、公安部等部门联合发文，加强普瑞巴林口服单方制剂和愈美制剂全链条监管，禁止网络零售。这背后，是一个隐秘的“OD”（overdose，过量服药）圈子正在青少年中蔓延。\n\n一些青少年正在通过网络社群OD，滥用普瑞巴林、愈美片等药物追求镇静与致幻感。普瑞巴林原是抗癫痫和神经痛药物，超量服用会产生醉酒似的欣快；愈美片含右美沙芬，大量吞服可引发幻觉和解离。\n\n成瘾模式来得很快，连续数日超量用药后，一停药就会出现发痒、忽冷忽热、失眠等戒断反应，逼迫着不断加量。从8片到30多片，身体耐受性飙升，最终越吃越抑郁，甚至出现昏厥、摔伤等严重后果。\n\n许多青少年并非纯粹寻乐，而是借药物麻痹抑郁、焦虑或家庭创伤，却错将滥用当成“正常生活”的依靠。随着监管部门禁止普瑞巴林、愈美片网络零售，社群又迅速流转至二十多种替代药，甚至涉及科研化工原料，风险更难控制。\n\n真正的出路在于正视心理困境，及早寻求专业精神科帮助。自行戒断极度痛苦且易反复，在医生指导下进行药物替代和心理治疗，才是打破成瘾循环的关键。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11044,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "未成年人滥用处方药成瘾，别让药片毁掉青春\n\n“全身软绵绵的，像躺在棉花上面，一切都特别幸福美好。”这听起来像极致的放松，却是一名高二女生小柔（化名）在连续服用抗癫痫处方药普瑞巴林一周后的真实感受。 https://t.co/DcoAQVISQg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 846,
+          "like_count": 1497,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 2685
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T15:19:57.000Z",
+        "description": "医药健康科普内容，仅供参考，不构成任何医疗建议。",
+        "id": "2893886738",
+        "location": "X平台",
+        "name": "康客",
+        "pinned_tweet_id": "2066825132908454117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063104353523924992/UvHSVRyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179012,
+          "following_count": 2456,
+          "like_count": 18619,
+          "listed_count": 668,
+          "media_count": 16121,
+          "tweet_count": 24053
+        },
+        "url": "",
+        "username": "kangke666666",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075989151607042049",
+        "3_2075989151611326465"
+      ],
+      "media_source_tweet_id": [
+        "2075989160129974712",
+        "2075989160129974712"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2076190139064414673",
+    "created_at": "2026-07-12T06:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076190139064414673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1601599920276140033",
+          "start": 3,
+          "username": "ayanamirei_may"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hTnuIXsQML",
+          "end": 52,
+          "expanded_url": "https://x.com/ayanamirei_may/status/2075989160129974712/photo/1",
+          "media_key": "3_2075989151607042049",
+          "start": 29,
+          "url": "https://t.co/hTnuIXsQML"
+        },
+        {
+          "display_url": "pic.x.com/hTnuIXsQML",
+          "end": 52,
+          "expanded_url": "https://x.com/ayanamirei_may/status/2075989160129974712/photo/1",
+          "media_key": "3_2075989151611326465",
+          "start": 29,
+          "url": "https://t.co/hTnuIXsQML"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076190139064414673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075989160129974712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayanamirei_may: 右美沙芬魂兮归来 https://t.co/hTnuIXsQML"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075989151607042049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9lImMaMAE_BpV.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075989151611326465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9lImNbkAE9SCC.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075989151607042049",
+            "3_2075989151611326465"
+          ],
+          "media_source_tweet_id": [
+            "2075989160129974712",
+            "2075989160129974712"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2076190139064414673",
+        "created_at": "2026-07-12T06:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076190139064414673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1601599920276140033",
+              "start": 3,
+              "username": "ayanamirei_may"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hTnuIXsQML",
+              "end": 52,
+              "expanded_url": "https://x.com/ayanamirei_may/status/2075989160129974712/photo/1",
+              "media_key": "3_2075989151607042049",
+              "start": 29,
+              "url": "https://t.co/hTnuIXsQML"
+            },
+            {
+              "display_url": "pic.x.com/hTnuIXsQML",
+              "end": 52,
+              "expanded_url": "https://x.com/ayanamirei_may/status/2075989160129974712/photo/1",
+              "media_key": "3_2075989151611326465",
+              "start": 29,
+              "url": "https://t.co/hTnuIXsQML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076190139064414673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075989160129974712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayanamirei_may: 右美沙芬魂兮归来 https://t.co/hTnuIXsQML"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075989151607042049",
+            "3_2075989151611326465"
+          ]
+        },
+        "author_id": "1601599920276140033",
+        "conversation_id": "2075989160129974712",
+        "created_at": "2026-07-11T17:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075989160129974712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hTnuIXsQML",
+              "end": 32,
+              "expanded_url": "https://x.com/ayanamirei_may/status/2075989160129974712/photo/1",
+              "media_key": "3_2075989151607042049",
+              "start": 9,
+              "url": "https://t.co/hTnuIXsQML"
+            },
+            {
+              "display_url": "pic.x.com/hTnuIXsQML",
+              "end": 32,
+              "expanded_url": "https://x.com/ayanamirei_may/status/2075989160129974712/photo/1",
+              "media_key": "3_2075989151611326465",
+              "start": 9,
+              "url": "https://t.co/hTnuIXsQML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075989160129974712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6048,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "右美沙芬魂兮归来 https://t.co/hTnuIXsQML"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 897,
+          "like_count": 1630,
+          "listed_count": 2,
+          "media_count": 386,
+          "tweet_count": 2871
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T15:29:25.000Z",
+        "description": "存在しない人",
+        "id": "1601599920276140033",
+        "name": "鳴",
+        "pinned_tweet_id": "1874382445925245100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905053921191788544/4AMTqEhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24168,
+          "following_count": 142,
+          "like_count": 1106,
+          "listed_count": 53,
+          "media_count": 69,
+          "tweet_count": 1846
+        },
+        "url": "",
+        "username": "ayanamirei_may",
+        "verified": false
+      }
+    ]
+  }
+}

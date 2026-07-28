@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2079043516324520056",
+    "created_at": "2026-07-20T03:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079043516324520056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuwenmewo/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/yuwenmewo/status/2078862312497410209",
+          "start": 9,
+          "url": "https://t.co/DCUxMBaggJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079043516324520056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078862312497410209",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "占用的社会资源多 https://t.co/DCUxMBaggJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2091,
+        "media_key": "3_2078862276640243712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmaOfAaAAAtlej.jpg",
+        "width": 1264
+      },
+      {
+        "height": 1406,
+        "media_key": "3_2078862294822617088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmaPivbAAAcmCR.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2079043516324520056",
+        "created_at": "2026-07-20T03:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079043516324520056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuwenmewo/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yuwenmewo/status/2078862312497410209",
+              "start": 9,
+              "url": "https://t.co/DCUxMBaggJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079043516324520056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078862312497410209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "占用的社会资源多 https://t.co/DCUxMBaggJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078862276640243712",
+            "3_2078862294822617088"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078862312497410209",
+        "created_at": "2026-07-19T15:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078862312497410209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KWCYStjtBW",
+              "end": 44,
+              "expanded_url": "https://x.com/YuwenMewo/status/2078862312497410209/photo/1",
+              "media_key": "3_2078862276640243712",
+              "start": 21,
+              "url": "https://t.co/KWCYStjtBW"
+            },
+            {
+              "display_url": "pic.x.com/KWCYStjtBW",
+              "end": 44,
+              "expanded_url": "https://x.com/YuwenMewo/status/2078862312497410209/photo/1",
+              "media_key": "3_2078862294822617088",
+              "start": 21,
+              "url": "https://t.co/KWCYStjtBW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078862312497410209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3554,
+          "like_count": 37,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "n55自杀被光速报警救活\n世上还是好人多 https://t.co/KWCYStjtBW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 922,
+          "like_count": 1752,
+          "listed_count": 4,
+          "media_count": 408,
+          "tweet_count": 2970
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2078947357216170444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 79,
+          "like_count": 177,
+          "listed_count": 5,
+          "media_count": 596,
+          "tweet_count": 1682
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

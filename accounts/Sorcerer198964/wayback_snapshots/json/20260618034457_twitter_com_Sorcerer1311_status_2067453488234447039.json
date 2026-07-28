@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067447780537176064"
+      ],
+      "media_source_tweet_id": [
+        "2067447788401500208"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2067453488234447039",
+    "created_at": "2026-06-18T03:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067453488234447039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041159531657416704",
+          "start": 3,
+          "username": "amber_digit2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LsP8xzwQwx",
+          "end": 88,
+          "expanded_url": "https://x.com/amber_digit2/status/2067447788401500208/photo/1",
+          "media_key": "3_2067447780537176064",
+          "start": 65,
+          "url": "https://t.co/LsP8xzwQwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067453488234447039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067447788401500208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit2: 帮转：虽然账号被封，镇镇的彩虹仍在提供性少数反家暴干预服务，欢迎大家传播图中联系方式和二维码 https://t.co/LsP8xzwQwx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2134,
+        "media_key": "3_2067447780537176064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEMzXaWkAAwTbR.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067447780537176064"
+          ],
+          "media_source_tweet_id": [
+            "2067447788401500208"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2067453488234447039",
+        "created_at": "2026-06-18T03:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067453488234447039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041159531657416704",
+              "start": 3,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LsP8xzwQwx",
+              "end": 88,
+              "expanded_url": "https://x.com/amber_digit2/status/2067447788401500208/photo/1",
+              "media_key": "3_2067447780537176064",
+              "start": 65,
+              "url": "https://t.co/LsP8xzwQwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067453488234447039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067447788401500208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit2: 帮转：虽然账号被封，镇镇的彩虹仍在提供性少数反家暴干预服务，欢迎大家传播图中联系方式和二维码 https://t.co/LsP8xzwQwx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067447780537176064"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2067447788401500208",
+        "created_at": "2026-06-18T03:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067447788401500208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LsP8xzwQwx",
+              "end": 70,
+              "expanded_url": "https://x.com/amber_digit2/status/2067447788401500208/photo/1",
+              "media_key": "3_2067447780537176064",
+              "start": 47,
+              "url": "https://t.co/LsP8xzwQwx"
+            },
+            {
+              "display_url": "x.com/QueerLawWatchC…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/QueerLawWatchCN/status/2067259808504225863",
+              "start": 71,
+              "url": "https://t.co/z1GksPpg8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067447788401500208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 152,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067259808504225863",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮转：虽然账号被封，镇镇的彩虹仍在提供性少数反家暴干预服务，欢迎大家传播图中联系方式和二维码 https://t.co/LsP8xzwQwx https://t.co/z1GksPpg8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 839,
+          "like_count": 1471,
+          "listed_count": 2,
+          "media_count": 367,
+          "tweet_count": 2661
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6\n📮 https://t.co/EteJePLwuB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish",
+                "start": 48,
+                "url": "https://t.co/EteJePLwuB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2063040552594202699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2941,
+          "following_count": 511,
+          "like_count": 1283,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 1224
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

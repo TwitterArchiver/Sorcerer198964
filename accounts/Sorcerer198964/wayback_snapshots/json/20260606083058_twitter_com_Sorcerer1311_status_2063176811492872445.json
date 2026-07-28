@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2063086291659702547",
+    "created_at": "2026-06-06T08:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063176811492872445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684411421256466432",
+          "start": 0,
+          "username": "xiaomeinuya_GST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063176811492872445",
+    "in_reply_to_user_id": "1684411421256466432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063155485700948421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomeinuya_GST 美团外卖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2063086291659702547",
+        "created_at": "2026-06-06T08:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063176811492872445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684411421256466432",
+              "start": 0,
+              "username": "xiaomeinuya_GST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063176811492872445",
+        "in_reply_to_user_id": "1684411421256466432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063155485700948421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomeinuya_GST 美团外卖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684411421256466432",
+        "conversation_id": "2063086291659702547",
+        "created_at": "2026-06-06T07:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063155485700948421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063155485700948421",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063086291659702547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 何平台"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 753,
+          "like_count": 1067,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 2186
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T03:52:44.000Z",
+        "description": "无证含糖🍥/双性恋/抑郁/焦虑/阳痿/制造日期2007.12.13/170cm 60kg 39码/INFP/hrt2026.02.10/家里蹲好无聊想认识更多朋友😭小男娘小药娘来互fo😭",
+        "id": "1684411421256466432",
+        "name": "🍥顾诗钿.🏳️‍⚧️",
+        "pinned_tweet_id": "2052064351717359647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052666153844027398/wuqocx2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 79,
+          "like_count": 17619,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1591
+        },
+        "username": "xiaomeinuya_GST",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075227497285726209",
+        "3_2075227497289928705",
+        "3_2075227497289891840"
+      ],
+      "media_source_tweet_id": [
+        "2075227503614885999",
+        "2075227503614885999",
+        "2075227503614885999"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075232189520994640",
+    "created_at": "2026-07-09T14:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075232189520994640"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "伪娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040565175514779648",
+          "start": 3,
+          "username": "amber_digit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/np6z7hRuBk",
+          "end": 84,
+          "expanded_url": "https://x.com/amber_digit/status/2075227503614885999/photo/1",
+          "media_key": "3_2075227497285726209",
+          "start": 61,
+          "url": "https://t.co/np6z7hRuBk"
+        },
+        {
+          "display_url": "pic.x.com/np6z7hRuBk",
+          "end": 84,
+          "expanded_url": "https://x.com/amber_digit/status/2075227503614885999/photo/1",
+          "media_key": "3_2075227497289928705",
+          "start": 61,
+          "url": "https://t.co/np6z7hRuBk"
+        },
+        {
+          "display_url": "pic.x.com/np6z7hRuBk",
+          "end": 84,
+          "expanded_url": "https://x.com/amber_digit/status/2075227503614885999/photo/1",
+          "media_key": "3_2075227497289891840",
+          "start": 61,
+          "url": "https://t.co/np6z7hRuBk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075232189520994640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075227503614885999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit: 因为能对着面包起性欲，并且面包也是从窑炉里烤出来的，所以逛面包店都感觉在逛窑子 #伪娘 https://t.co/np6z7hRuBk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075227497285726209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMywaevWsAEwFsU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075227497289928705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMywaewW0AEka77.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075227497289891840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMywaewWQAAEvrU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075227497285726209",
+            "3_2075227497289928705",
+            "3_2075227497289891840"
+          ],
+          "media_source_tweet_id": [
+            "2075227503614885999",
+            "2075227503614885999",
+            "2075227503614885999"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075232189520994640",
+        "created_at": "2026-07-09T14:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075232189520994640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "伪娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040565175514779648",
+              "start": 3,
+              "username": "amber_digit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/np6z7hRuBk",
+              "end": 84,
+              "expanded_url": "https://x.com/amber_digit/status/2075227503614885999/photo/1",
+              "media_key": "3_2075227497285726209",
+              "start": 61,
+              "url": "https://t.co/np6z7hRuBk"
+            },
+            {
+              "display_url": "pic.x.com/np6z7hRuBk",
+              "end": 84,
+              "expanded_url": "https://x.com/amber_digit/status/2075227503614885999/photo/1",
+              "media_key": "3_2075227497289928705",
+              "start": 61,
+              "url": "https://t.co/np6z7hRuBk"
+            },
+            {
+              "display_url": "pic.x.com/np6z7hRuBk",
+              "end": 84,
+              "expanded_url": "https://x.com/amber_digit/status/2075227503614885999/photo/1",
+              "media_key": "3_2075227497289891840",
+              "start": 61,
+              "url": "https://t.co/np6z7hRuBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075232189520994640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075227503614885999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit: 因为能对着面包起性欲，并且面包也是从窑炉里烤出来的，所以逛面包店都感觉在逛窑子 #伪娘 https://t.co/np6z7hRuBk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075227497285726209",
+            "3_2075227497289928705",
+            "3_2075227497289891840"
+          ]
+        },
+        "author_id": "2040565175514779648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075227503614885999",
+        "created_at": "2026-07-09T14:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075227503614885999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/np6z7hRuBk",
+              "end": 67,
+              "expanded_url": "https://x.com/amber_digit/status/2075227503614885999/photo/1",
+              "media_key": "3_2075227497285726209",
+              "start": 44,
+              "url": "https://t.co/np6z7hRuBk"
+            },
+            {
+              "display_url": "pic.x.com/np6z7hRuBk",
+              "end": 67,
+              "expanded_url": "https://x.com/amber_digit/status/2075227503614885999/photo/1",
+              "media_key": "3_2075227497289928705",
+              "start": 44,
+              "url": "https://t.co/np6z7hRuBk"
+            },
+            {
+              "display_url": "pic.x.com/np6z7hRuBk",
+              "end": 67,
+              "expanded_url": "https://x.com/amber_digit/status/2075227503614885999/photo/1",
+              "media_key": "3_2075227497289891840",
+              "start": 44,
+              "url": "https://t.co/np6z7hRuBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075227503614885999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "因为能对着面包起性欲，并且面包也是从窑炉里烤出来的，所以逛面包店都感觉在逛窑子 #伪娘 https://t.co/np6z7hRuBk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 890,
+          "like_count": 1624,
+          "listed_count": 2,
+          "media_count": 386,
+          "tweet_count": 2851
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "📍多伦多Toronto #mtf #ts\n🪼@amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 12,
+                "tag": "mtf"
+              },
+              {
+                "end": 20,
+                "start": 17,
+                "tag": "ts"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/8wrbgvmggP"
+              }
+            ]
+          }
+        },
+        "id": "2040565175514779648",
+        "location": "🚪¥150/240",
+        "name": "𝑎𝑚𝑏𝑒𝑟💖",
+        "pinned_tweet_id": "2071480056619163699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2362,
+          "following_count": 312,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1273
+        },
+        "url": "https://t.co/8wrbgvmggP",
+        "username": "amber_digit",
+        "verified": true
+      }
+    ]
+  }
+}

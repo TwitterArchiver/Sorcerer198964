@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2064239468832567447",
+    "created_at": "2026-06-09T08:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064268516308754464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721509979348488192",
+          "start": 0,
+          "username": "HaoyangZ20152"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064268516308754464",
+    "in_reply_to_user_id": "1721509979348488192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064263260954870119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaoyangZ20152 注射很难死的，而且非常非常疼，无力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2064239468832567447",
+        "created_at": "2026-06-09T08:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064268516308754464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721509979348488192",
+              "start": 0,
+              "username": "HaoyangZ20152"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064268516308754464",
+        "in_reply_to_user_id": "1721509979348488192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064263260954870119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaoyangZ20152 注射很难死的，而且非常非常疼，无力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721509979348488192",
+        "conversation_id": "2064239468832567447",
+        "created_at": "2026-06-09T08:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064263260954870119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064263260954870119",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064239468832567447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 话说氯化钾效果怎么样，据说也很痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 781,
+          "like_count": 1187,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2341
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T12:50:25.000Z",
+        "description": "But free doesn't come free",
+        "id": "1721509979348488192",
+        "location": "日本",
+        "name": "STALKER-333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042234772630712320/QiJd4UkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 342,
+          "like_count": 48838,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 765
+        },
+        "username": "HaoyangZ20152",
+        "verified": false
+      }
+    ]
+  }
+}

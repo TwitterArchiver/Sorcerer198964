@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2064718130510004617",
+    "created_at": "2026-06-10T14:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064718130510004617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1574516663935901696",
+          "start": 3,
+          "username": "wangjupaian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064718130510004617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064710551524299111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wangjupaian: 【解读重庆虐狗案通报：使用“谎称收养”表述，警方按“故意损毁财物”或“涉及诈骗公私财物”处罚？】\n\n重庆警方通报显示，39岁的李某对犬只实施伤害导致伤亡，警方已依据《治安管理处罚法》对其作出行政拘留处理。不过，警方通报并未说明具体适用了《治安管…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1821,
+        "media_key": "3_2064710515201617920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdTRjabMAAVbO_.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2064718130510004617",
+        "created_at": "2026-06-10T14:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064718130510004617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1574516663935901696",
+              "start": 3,
+              "username": "wangjupaian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064718130510004617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064710551524299111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wangjupaian: 【解读重庆虐狗案通报：使用“谎称收养”表述，警方按“故意损毁财物”或“涉及诈骗公私财物”处罚？】\n\n重庆警方通报显示，39岁的李某对犬只实施伤害导致伤亡，警方已依据《治安管理处罚法》对其作出行政拘留处理。不过，警方通报并未说明具体适用了《治安管…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064710515201617920"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "conversation_id": "2064710551524299111",
+        "created_at": "2026-06-10T14:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064710551524299111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FbaHFC2VVL",
+              "end": 157,
+              "expanded_url": "https://x.com/wangjupaian/status/2064710551524299111/photo/1",
+              "media_key": "3_2064710515201617920",
+              "start": 134,
+              "url": "https://t.co/FbaHFC2VVL"
+            },
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2064705084110590251",
+              "start": 158,
+              "url": "https://t.co/8c7Wpazo04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064710551524299111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【解读重庆虐狗案通报：使用“谎称收养”表述，警方按“故意损毁财物”或“涉及诈骗公私财物”处罚？】\n\n重庆警方通报显示，39岁的李某对犬只实施伤害导致伤亡，警方已依据《治安管理处罚法》对其作出行政拘留处理。不过，警方通报并未说明具体适用了《治安管理处罚法》的哪一条款。\n\n从目前公开披露的情况来看，最有可能涉及的是“故意损毁公私财物”相关规定。原因在于，犬只在现行法律体系中通常被认定为财产。如果警方认定犬只属于原主人或救助机构所有，而李某通过领养获得犬只后故意将其虐待致死，那么有可能被认定为故意损毁他人财物。这也是目前法律界讨论此类案件时最常见的适用路径。\n\n此外，通报中特别使用了“谎称收养获取犬只”这一表述，如果警方认定李某从一开始就没有真实收养意图，而是以虚假理由骗取犬只，理论上还可能涉及诈骗公私财物的问题。不过由于犬只价值通常有限，类似案件在实践中多数仍按照治安案件处理，而不会上升到刑事层面。\n\n问题在于，中国目前尚无专门针对虐待动物行为的《动物保护法》或《反虐待动物法》。因此，单纯虐待或杀害宠物，一般难以直接构成刑事犯罪，多数情况下仍以治安处罚或财产侵害处理。需强调的是，具体适用条款和处罚依据，仍有待警方进一步说明。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2381,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064705084110590251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【解读重庆虐狗案通报：使用“谎称收养”表述，警方按“故意损毁财物”或“涉及诈骗公私财物”处罚？】\n\n重庆警方通报显示，39岁的李某对犬只实施伤害导致伤亡，警方已依据《治安管理处罚法》对其作出行政拘留处理。不过，警方通报并未说明具体适用了《治安管理处罚法》的哪一条款。 https://t.co/FbaHFC2VVL https://t.co/8c7Wpazo04"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 790,
+          "like_count": 1275,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 2473
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jXuer"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149054,
+          "following_count": 346,
+          "like_count": 364,
+          "listed_count": 419,
+          "media_count": 7548,
+          "tweet_count": 8314
+        },
+        "url": "https://t.co/FWdZ3jXuer",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

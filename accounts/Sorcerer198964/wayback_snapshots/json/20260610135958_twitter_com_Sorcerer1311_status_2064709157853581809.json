@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064709149829787648"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2064709157853581809",
+    "created_at": "2026-06-10T13:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064709157853581809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZDJbZnTHAe",
+          "end": 102,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2064709157853581809/photo/1",
+          "media_key": "3_2064709149829787648",
+          "start": 79,
+          "url": "https://t.co/ZDJbZnTHAe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064709157853581809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说实话这帮人事后闹事的行动力还不如小红书集美\n人家为了防止毛孩子被收养者虐待早就起草好了合同并且提示送猫人要防范这类行为\n这不比事后追责来的更符合法理秩序？ https://t.co/ZDJbZnTHAe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1550,
+        "media_key": "3_2064709149829787648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdSCFAacAAmZQH.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064709149829787648"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2064709157853581809",
+        "created_at": "2026-06-10T13:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064709157853581809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDJbZnTHAe",
+              "end": 102,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2064709157853581809/photo/1",
+              "media_key": "3_2064709149829787648",
+              "start": 79,
+              "url": "https://t.co/ZDJbZnTHAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064709157853581809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话这帮人事后闹事的行动力还不如小红书集美\n人家为了防止毛孩子被收养者虐待早就起草好了合同并且提示送猫人要防范这类行为\n这不比事后追责来的更符合法理秩序？ https://t.co/ZDJbZnTHAe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 791,
+          "like_count": 1272,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 2460
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

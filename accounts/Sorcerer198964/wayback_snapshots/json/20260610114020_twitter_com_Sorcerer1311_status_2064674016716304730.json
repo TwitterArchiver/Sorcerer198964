@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2064674016716304730",
+    "created_at": "2026-06-10T11:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064674016716304730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "828947309874417664",
+          "start": 3,
+          "username": "AsagiriMayumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064674016716304730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064652139926872095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsagiriMayumi: 最近状态不太好，所以住院治疗了一段时间。\n这几天让我更加明白了一件事：当一个人觉得自己快撑不住的时候，寻求帮助并不是软弱，而是一种勇气。\n我依然相信自己会慢慢好起来，也相信很多正在与抑郁、焦虑或痛苦对抗的人，终有一天能重新看见光亮。… ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 577,
+        "media_key": "3_2064652134272950272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKceLVgXYAAyzT7.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2064652134260310016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKceLVdWgAAhMX-.jpg",
+        "width": 577
+      },
+      {
+        "height": 577,
+        "media_key": "3_2064652135527010304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKceLaLW0AAO6UT.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2064674016716304730",
+        "created_at": "2026-06-10T11:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064674016716304730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "828947309874417664",
+              "start": 3,
+              "username": "AsagiriMayumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064674016716304730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064652139926872095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsagiriMayumi: 最近状态不太好，所以住院治疗了一段时间。\n这几天让我更加明白了一件事：当一个人觉得自己快撑不住的时候，寻求帮助并不是软弱，而是一种勇气。\n我依然相信自己会慢慢好起来，也相信很多正在与抑郁、焦虑或痛苦对抗的人，终有一天能重新看见光亮。… ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064652134272950272",
+            "3_2064652134260310016",
+            "3_2064652135527010304"
+          ]
+        },
+        "author_id": "828947309874417664",
+        "conversation_id": "2064652139926872095",
+        "created_at": "2026-06-10T10:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064652139926872095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftxVEkjlCJ",
+              "end": 140,
+              "expanded_url": "https://x.com/AsagiriMayumi/status/2064652139926872095/photo/1",
+              "media_key": "3_2064652134272950272",
+              "start": 117,
+              "url": "https://t.co/ftxVEkjlCJ"
+            },
+            {
+              "display_url": "pic.x.com/ftxVEkjlCJ",
+              "end": 140,
+              "expanded_url": "https://x.com/AsagiriMayumi/status/2064652139926872095/photo/1",
+              "media_key": "3_2064652134260310016",
+              "start": 117,
+              "url": "https://t.co/ftxVEkjlCJ"
+            },
+            {
+              "display_url": "pic.x.com/ftxVEkjlCJ",
+              "end": 140,
+              "expanded_url": "https://x.com/AsagiriMayumi/status/2064652139926872095/photo/1",
+              "media_key": "3_2064652135527010304",
+              "start": 117,
+              "url": "https://t.co/ftxVEkjlCJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064652139926872095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近状态不太好，所以住院治疗了一段时间。\n这几天让我更加明白了一件事：当一个人觉得自己快撑不住的时候，寻求帮助并不是软弱，而是一种勇气。\n我依然相信自己会慢慢好起来，也相信很多正在与抑郁、焦虑或痛苦对抗的人，终有一天能重新看见光亮。\n如果你也正经历着一段艰难的时光，请不要独自承受。没有人是一座孤岛，我们都值得被理解、被帮助、被接住。\n在治愈的路上，我与你同在。\n共勉。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 206,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近状态不太好，所以住院治疗了一段时间。\n这几天让我更加明白了一件事：当一个人觉得自己快撑不住的时候，寻求帮助并不是软弱，而是一种勇气。\n我依然相信自己会慢慢好起来，也相信很多正在与抑郁、焦虑或痛苦对抗的人，终有一天能重新看见光亮。 https://t.co/ftxVEkjlCJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 790,
+          "like_count": 1264,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 2430
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-07T12:43:34.000Z",
+        "description": "我与你感同身受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nuclearcake",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nuclearcake",
+                "start": 0,
+                "url": "https://t.co/z69XwJJrmW"
+              }
+            ]
+          }
+        },
+        "id": "828947309874417664",
+        "location": " Deutschland",
+        "name": "NuclearCake",
+        "pinned_tweet_id": "2027752059110400312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945441303694647296/HjOatkbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 735,
+          "like_count": 2840,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 2401
+        },
+        "url": "https://t.co/z69XwJJrmW",
+        "username": "AsagiriMayumi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063976993801306112"
+      ],
+      "media_source_tweet_id": [
+        "2063977943618195634"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064239965383573647",
+    "created_at": "2026-06-09T06:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064239965383573647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063957681984225280",
+          "start": 3,
+          "username": "YuwenMewo"
+        },
+        {
+          "end": 30,
+          "id": "2063266311254552576",
+          "start": 23,
+          "username": "17nuun"
+        }
+      ],
+      "urls": [
+        {
+          "description": "一个用于codex和claudecode的skill，可以自动蒸馏人物并在x上实现几乎全功能自动化 包括发帖，回帖，点赞，关注，回复引用，提及，自动随机浏览等 - NoMTF/Another-Person-in-X",
+          "display_url": "github.com/NoMTF/Another-…",
+          "end": 96,
+          "expanded_url": "https://github.com/NoMTF/Another-Person-in-X",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2063977952845692928/pjmC_M1B?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2063977952845692928/pjmC_M1B?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 73,
+          "status": 200,
+          "title": "GitHub - NoMTF/Another-Person-in-X: 一个用于codex和claudecode的skill，可以自动蒸馏人物并在x上实现几乎全功能自动化 包括发帖，回帖，点赞，关注，回复引用，提及，自动随机浏览等",
+          "unwound_url": "https://github.com/NoMTF/Another-Person-in-X",
+          "url": "https://t.co/EfieZJupt6"
+        },
+        {
+          "display_url": "pic.x.com/e8mU9iMUzy",
+          "end": 120,
+          "expanded_url": "https://x.com/YuwenMewo/status/2063977943618195634/photo/1",
+          "media_key": "3_2063976993801306112",
+          "start": 97,
+          "url": "https://t.co/e8mU9iMUzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064239965383573647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063977943618195634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuwenMewo: 傻瓜式生成这种（@17nuun）完全自动的数字人方法已经开源 附带一键抓取x内容和高标准蒸馏以及全自动执行所有操作\nhttps://t.co/EfieZJupt6 https://t.co/e8mU9iMUzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2063976993801306112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKS4I_QbAAA_kxa.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063976993801306112"
+          ],
+          "media_source_tweet_id": [
+            "2063977943618195634"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064239965383573647",
+        "created_at": "2026-06-09T06:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064239965383573647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063957681984225280",
+              "start": 3,
+              "username": "YuwenMewo"
+            },
+            {
+              "end": 30,
+              "id": "2063266311254552576",
+              "start": 23,
+              "username": "17nuun"
+            }
+          ],
+          "urls": [
+            {
+              "description": "一个用于codex和claudecode的skill，可以自动蒸馏人物并在x上实现几乎全功能自动化 包括发帖，回帖，点赞，关注，回复引用，提及，自动随机浏览等 - NoMTF/Another-Person-in-X",
+              "display_url": "github.com/NoMTF/Another-…",
+              "end": 96,
+              "expanded_url": "https://github.com/NoMTF/Another-Person-in-X",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2063977952845692928/pjmC_M1B?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063977952845692928/pjmC_M1B?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 73,
+              "status": 200,
+              "title": "GitHub - NoMTF/Another-Person-in-X: 一个用于codex和claudecode的skill，可以自动蒸馏人物并在x上实现几乎全功能自动化 包括发帖，回帖，点赞，关注，回复引用，提及，自动随机浏览等",
+              "unwound_url": "https://github.com/NoMTF/Another-Person-in-X",
+              "url": "https://t.co/EfieZJupt6"
+            },
+            {
+              "display_url": "pic.x.com/e8mU9iMUzy",
+              "end": 120,
+              "expanded_url": "https://x.com/YuwenMewo/status/2063977943618195634/photo/1",
+              "media_key": "3_2063976993801306112",
+              "start": 97,
+              "url": "https://t.co/e8mU9iMUzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064239965383573647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063977943618195634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuwenMewo: 傻瓜式生成这种（@17nuun）完全自动的数字人方法已经开源 附带一键抓取x内容和高标准蒸馏以及全自动执行所有操作\nhttps://t.co/EfieZJupt6 https://t.co/e8mU9iMUzy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063976993801306112"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063977943618195634",
+        "created_at": "2026-06-08T13:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063977943618195634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2063266311254552576",
+              "start": 8,
+              "username": "17nuun"
+            }
+          ],
+          "urls": [
+            {
+              "description": "一个用于codex和claudecode的skill，可以自动蒸馏人物并在x上实现几乎全功能自动化 包括发帖，回帖，点赞，关注，回复引用，提及，自动随机浏览等 - NoMTF/Another-Person-in-X",
+              "display_url": "github.com/NoMTF/Another-…",
+              "end": 81,
+              "expanded_url": "https://github.com/NoMTF/Another-Person-in-X",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2063977952845692928/pjmC_M1B?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063977952845692928/pjmC_M1B?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "GitHub - NoMTF/Another-Person-in-X: 一个用于codex和claudecode的skill，可以自动蒸馏人物并在x上实现几乎全功能自动化 包括发帖，回帖，点赞，关注，回复引用，提及，自动随机浏览等",
+              "unwound_url": "https://github.com/NoMTF/Another-Person-in-X",
+              "url": "https://t.co/EfieZJupt6"
+            },
+            {
+              "display_url": "pic.x.com/e8mU9iMUzy",
+              "end": 105,
+              "expanded_url": "https://x.com/YuwenMewo/status/2063977943618195634/photo/1",
+              "media_key": "3_2063976993801306112",
+              "start": 82,
+              "url": "https://t.co/e8mU9iMUzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063977943618195634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1377,
+          "like_count": 10,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻瓜式生成这种（@17nuun）完全自动的数字人方法已经开源 附带一键抓取x内容和高标准蒸馏以及全自动执行所有操作\nhttps://t.co/EfieZJupt6 https://t.co/e8mU9iMUzy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 780,
+          "like_count": 1177,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2338
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2064204906005966889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 11,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 89
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 30,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 229
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

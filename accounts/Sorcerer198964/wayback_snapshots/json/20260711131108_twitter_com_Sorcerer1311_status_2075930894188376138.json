@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2075479728551796839",
+    "created_at": "2026-07-11T13:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075930894188376138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2027832345001377792",
+          "start": 0,
+          "username": "zifenone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075930894188376138",
+    "in_reply_to_user_id": "2027832345001377792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075479884613447915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zifenone 贵的一批了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2075479728551796839",
+        "created_at": "2026-07-11T13:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075930894188376138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2027832345001377792",
+              "start": 0,
+              "username": "zifenone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075930894188376138",
+        "in_reply_to_user_id": "2027832345001377792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075479884613447915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifenone 贵的一批了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027832345001377792",
+        "conversation_id": "2075479728551796839",
+        "created_at": "2026-07-10T07:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075479884613447915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075479884613447915",
+        "in_reply_to_user_id": "2027832345001377792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075479728551796839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有就是这个东西居然没禁售吗？我看淘宝还有卖的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 887,
+          "like_count": 1627,
+          "listed_count": 2,
+          "media_count": 386,
+          "tweet_count": 2859
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T19:46:20.000Z",
+        "description": "男 09 泛性恋 0.5 2023年目田区 因被晶哥请去喝茶遗憾退圈 意识形态毛左 不怎么键政 无🚪 但是别私信给我发屌照",
+        "id": "2027832345001377792",
+        "location": "向往自由的国度",
+        "name": "自分",
+        "pinned_tweet_id": "2074902635959009352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074893163450466305/K5mRyOZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "zifenone",
+        "verified": false
+      }
+    ]
+  }
+}

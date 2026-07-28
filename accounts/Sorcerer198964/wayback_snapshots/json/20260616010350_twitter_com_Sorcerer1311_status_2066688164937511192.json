@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2066688164937511192",
+    "created_at": "2026-06-16T01:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T02:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066688164937511192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/guxwkw/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/guxwkw/status/2066470486016774280",
+          "start": 5,
+          "url": "https://t.co/yKFe5kKgF1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066688164937511192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066470486016774280",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呜呜呜😭 https://t.co/yKFe5kKgF1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2066470476927606784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2T8zwaIAA4U4b.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1775,
+        "media_key": "3_2066470476923461633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2T8zva4AECRoW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066470476923469824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2T8zvbAAAJrsa.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066470476919230465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2T8zuaUAEGqOR.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2066688164937511192",
+        "created_at": "2026-06-16T01:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066688164937511192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guxwkw/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/guxwkw/status/2066470486016774280",
+              "start": 5,
+              "url": "https://t.co/yKFe5kKgF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066688164937511192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066470486016774280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜呜呜😭 https://t.co/yKFe5kKgF1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066470476927606784",
+            "3_2066470476923461633",
+            "3_2066470476923469824",
+            "3_2066470476919230465"
+          ]
+        },
+        "author_id": "1973748660975587328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066470486016774280",
+        "created_at": "2026-06-15T10:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066470486016774280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/23bdH9m8Ka",
+              "end": 121,
+              "expanded_url": "https://x.com/guxwkw/status/2066470486016774280/photo/1",
+              "media_key": "3_2066470476927606784",
+              "start": 98,
+              "url": "https://t.co/23bdH9m8Ka"
+            },
+            {
+              "display_url": "pic.x.com/23bdH9m8Ka",
+              "end": 121,
+              "expanded_url": "https://x.com/guxwkw/status/2066470486016774280/photo/1",
+              "media_key": "3_2066470476923461633",
+              "start": 98,
+              "url": "https://t.co/23bdH9m8Ka"
+            },
+            {
+              "display_url": "pic.x.com/23bdH9m8Ka",
+              "end": 121,
+              "expanded_url": "https://x.com/guxwkw/status/2066470486016774280/photo/1",
+              "media_key": "3_2066470476923469824",
+              "start": 98,
+              "url": "https://t.co/23bdH9m8Ka"
+            },
+            {
+              "display_url": "pic.x.com/23bdH9m8Ka",
+              "end": 121,
+              "expanded_url": "https://x.com/guxwkw/status/2066470486016774280/photo/1",
+              "media_key": "3_2066470476919230465",
+              "start": 98,
+              "url": "https://t.co/23bdH9m8Ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066470486016774280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 19765,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "号主安安已经空中飞人去世了 \n\n原因是在合约输掉了所有的钱之后无力生活，前两天把电脑回收的4000元也投进去输掉了，成为压垮她的最后一根稻草，现在已经一分钱都没有了\n\n晚安，祝她下辈子成为富二代 https://t.co/23bdH9m8Ka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 819,
+          "like_count": 1416,
+          "listed_count": 2,
+          "media_count": 361,
+          "tweet_count": 2609
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "号主于 2026.6.15 死于跳楼",
+        "id": "1973748660975587328",
+        "name": "吾輩わ夏目安安",
+        "pinned_tweet_id": "2066470486016774280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066635961862418432/eu0Qrbba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 741,
+          "like_count": 5012,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 538
+        },
+        "username": "guxwkw",
+        "verified": false
+      }
+    ]
+  }
+}

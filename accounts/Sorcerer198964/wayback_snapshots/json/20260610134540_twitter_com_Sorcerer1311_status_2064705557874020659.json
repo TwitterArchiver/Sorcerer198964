@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2064705557874020659",
+    "created_at": "2026-06-10T13:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064705557874020659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangjupaian/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/wangjupaian/status/2064705084110590251",
+          "start": 10,
+          "url": "https://t.co/m4yEMJfwzC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064705557874020659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064705084110590251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根据的是哪条法律？ https://t.co/m4yEMJfwzC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1821,
+        "media_key": "3_2064705079278813184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdOVJBbwAAdkdj.jpg",
+        "width": 1024
+      },
+      {
+        "height": 989,
+        "media_key": "3_2064705079295565825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdOVJFbYAEen8B.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2064705557874020659",
+        "created_at": "2026-06-10T13:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064705557874020659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2064705084110590251",
+              "start": 10,
+              "url": "https://t.co/m4yEMJfwzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064705557874020659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064705084110590251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据的是哪条法律？ https://t.co/m4yEMJfwzC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064705079278813184",
+            "3_2064705079295565825"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "conversation_id": "2064705084110590251",
+        "created_at": "2026-06-10T13:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064705084110590251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TYmZKxXTE",
+              "end": 137,
+              "expanded_url": "https://x.com/wangjupaian/status/2064705084110590251/photo/1",
+              "media_key": "3_2064705079278813184",
+              "start": 114,
+              "url": "https://t.co/8TYmZKxXTE"
+            },
+            {
+              "display_url": "pic.x.com/8TYmZKxXTE",
+              "end": 137,
+              "expanded_url": "https://x.com/wangjupaian/status/2064705084110590251/photo/1",
+              "media_key": "3_2064705079295565825",
+              "start": 114,
+              "url": "https://t.co/8TYmZKxXTE"
+            },
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2064515771137773672",
+              "start": 138,
+              "url": "https://t.co/EasRCpwXqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064705084110590251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【重庆虐狗事件通报：男子谎称领养后虐待犬只，被警方行拘】\n\n6月10日晚，重庆两江新区警方，终于就备受关注的虐狗事件发布通报。\n\n警方表示，经调查，李某（男，39岁）通过谎称收养的方式获取犬只，随后实施伤害行为，导致犬只伤亡。\n\n根据《中华人民共和国治安管理处罚法》相关规定，警方已依法对李某作出行政拘留处罚。\n\n与此同时，有消息称，涉事小区今晚还聚集了不少关注此事的民众，希望向警方表达诉求，请求依法严惩虐待动物行为。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064515771137773672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【重庆虐狗事件通报：男子谎称领养后虐待犬只，被警方行拘】\n\n6月10日晚，重庆两江新区警方，终于就备受关注的虐狗事件发布通报。\n\n警方表示，经调查，李某（男，39岁）通过谎称收养的方式获取犬只，随后实施伤害行为，导致犬只伤亡。 https://t.co/8TYmZKxXTE https://t.co/EasRCpwXqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 791,
+          "like_count": 1270,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 2452
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jXuer"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149048,
+          "following_count": 346,
+          "like_count": 361,
+          "listed_count": 419,
+          "media_count": 7544,
+          "tweet_count": 8310
+        },
+        "url": "https://t.co/FWdZ3jXuer",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

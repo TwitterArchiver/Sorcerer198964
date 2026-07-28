@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2065317145639375021",
+    "created_at": "2026-06-12T06:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065317145639375021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1069814501904502784",
+          "start": 3,
+          "username": "Pulipuli_z"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/FrBvZ",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/FrBvZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065317145639375021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065297590888038460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pulipuli_z: 之前B站发了，估计骂的人太多就删了，现在又发小红书吃流量\n\n致敬传奇耐杀王，骨灰骰子炒作者，洗白上岸之人，药娘圈自杀炒作鼻祖雪秋啊嗯\n\n这样的道德败坏满口谎话的人代表群体去接受采访满足大众猎奇心理博得同情啊嗯 https://t.co/FrBvZ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065297584458248192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlpNe0bMAADdXG.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2065317145639375021",
+        "created_at": "2026-06-12T06:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065317145639375021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1069814501904502784",
+              "start": 3,
+              "username": "Pulipuli_z"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/FrBvZ",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/FrBvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065317145639375021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065297590888038460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pulipuli_z: 之前B站发了，估计骂的人太多就删了，现在又发小红书吃流量\n\n致敬传奇耐杀王，骨灰骰子炒作者，洗白上岸之人，药娘圈自杀炒作鼻祖雪秋啊嗯\n\n这样的道德败坏满口谎话的人代表群体去接受采访满足大众猎奇心理博得同情啊嗯 https://t.co/FrBvZ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065297584458248192"
+          ]
+        },
+        "author_id": "1069814501904502784",
+        "conversation_id": "2065297590888038460",
+        "created_at": "2026-06-12T04:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065297590888038460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrBvZYtQH8",
+              "end": 128,
+              "expanded_url": "https://x.com/Pulipuli_z/status/2065297590888038460/photo/1",
+              "media_key": "3_2065297584458248192",
+              "start": 105,
+              "url": "https://t.co/FrBvZYtQH8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065297590888038460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 189,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "之前B站发了，估计骂的人太多就删了，现在又发小红书吃流量\n\n致敬传奇耐杀王，骨灰骰子炒作者，洗白上岸之人，药娘圈自杀炒作鼻祖雪秋啊嗯\n\n这样的道德败坏满口谎话的人代表群体去接受采访满足大众猎奇心理博得同情啊嗯 https://t.co/FrBvZYtQH8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 793,
+          "like_count": 1321,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 2536
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T04:43:48.000Z",
+        "description": "INFP 一般來說在杭州 MtF 残忍变性女巫 经常转一些小动物视频",
+        "id": "1069814501904502784",
+        "location": "伯伦希尔",
+        "name": "阿粥放弃上午起床",
+        "pinned_tweet_id": "1980587655248347271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977421774976655360/-EHgLN1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7530,
+          "following_count": 152,
+          "like_count": 13797,
+          "listed_count": 30,
+          "media_count": 2862,
+          "tweet_count": 12260
+        },
+        "username": "Pulipuli_z",
+        "verified": false
+      }
+    ]
+  }
+}

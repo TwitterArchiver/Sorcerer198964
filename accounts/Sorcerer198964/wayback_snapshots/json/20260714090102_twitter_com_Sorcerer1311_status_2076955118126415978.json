@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076870212776022016",
+        "3_2076870212822114305",
+        "3_2076870212780183552",
+        "3_2076870212776075264"
+      ],
+      "media_source_tweet_id": [
+        "2076870231071621590",
+        "2076870231071621590",
+        "2076870231071621590",
+        "2076870231071621590"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2076955118126415978",
+    "created_at": "2026-07-14T09:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T10:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076955118126415978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "178794303",
+          "start": 3,
+          "username": "internation0501"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vz36A4hjKz",
+          "end": 51,
+          "expanded_url": "https://x.com/internation0501/status/2076870231071621590/photo/1",
+          "media_key": "3_2076870212776022016",
+          "start": 28,
+          "url": "https://t.co/vz36A4hjKz"
+        },
+        {
+          "display_url": "pic.x.com/vz36A4hjKz",
+          "end": 51,
+          "expanded_url": "https://x.com/internation0501/status/2076870231071621590/photo/1",
+          "media_key": "3_2076870212822114305",
+          "start": 28,
+          "url": "https://t.co/vz36A4hjKz"
+        },
+        {
+          "display_url": "pic.x.com/vz36A4hjKz",
+          "end": 51,
+          "expanded_url": "https://x.com/internation0501/status/2076870231071621590/photo/1",
+          "media_key": "3_2076870212780183552",
+          "start": 28,
+          "url": "https://t.co/vz36A4hjKz"
+        },
+        {
+          "display_url": "pic.x.com/vz36A4hjKz",
+          "end": 51,
+          "expanded_url": "https://x.com/internation0501/status/2076870231071621590/photo/1",
+          "media_key": "3_2076870212776075264",
+          "start": 28,
+          "url": "https://t.co/vz36A4hjKz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076955118126415978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076870231071621590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @internation0501: 只是轮友吗？ https://t.co/vz36A4hjKz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2076870212776022016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKGdG0a0AAXQP6.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1206,
+        "media_key": "3_2076870212822114305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKGdG_aIAEVb9Z.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1206,
+        "media_key": "3_2076870212780183552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKGdG1aUAA0YuW.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1206,
+        "media_key": "3_2076870212776075264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKGdG0boAAV_Qo.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076870212776022016",
+            "3_2076870212822114305",
+            "3_2076870212780183552",
+            "3_2076870212776075264"
+          ],
+          "media_source_tweet_id": [
+            "2076870231071621590",
+            "2076870231071621590",
+            "2076870231071621590",
+            "2076870231071621590"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2076955118126415978",
+        "created_at": "2026-07-14T09:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076955118126415978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "178794303",
+              "start": 3,
+              "username": "internation0501"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vz36A4hjKz",
+              "end": 51,
+              "expanded_url": "https://x.com/internation0501/status/2076870231071621590/photo/1",
+              "media_key": "3_2076870212776022016",
+              "start": 28,
+              "url": "https://t.co/vz36A4hjKz"
+            },
+            {
+              "display_url": "pic.x.com/vz36A4hjKz",
+              "end": 51,
+              "expanded_url": "https://x.com/internation0501/status/2076870231071621590/photo/1",
+              "media_key": "3_2076870212822114305",
+              "start": 28,
+              "url": "https://t.co/vz36A4hjKz"
+            },
+            {
+              "display_url": "pic.x.com/vz36A4hjKz",
+              "end": 51,
+              "expanded_url": "https://x.com/internation0501/status/2076870231071621590/photo/1",
+              "media_key": "3_2076870212780183552",
+              "start": 28,
+              "url": "https://t.co/vz36A4hjKz"
+            },
+            {
+              "display_url": "pic.x.com/vz36A4hjKz",
+              "end": 51,
+              "expanded_url": "https://x.com/internation0501/status/2076870231071621590/photo/1",
+              "media_key": "3_2076870212776075264",
+              "start": 28,
+              "url": "https://t.co/vz36A4hjKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076955118126415978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076870231071621590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @internation0501: 只是轮友吗？ https://t.co/vz36A4hjKz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076870212776022016",
+            "3_2076870212822114305",
+            "3_2076870212780183552",
+            "3_2076870212776075264"
+          ]
+        },
+        "author_id": "178794303",
+        "conversation_id": "2076870231071621590",
+        "created_at": "2026-07-14T03:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076870231071621590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vz36A4hjKz",
+              "end": 30,
+              "expanded_url": "https://x.com/internation0501/status/2076870231071621590/photo/1",
+              "media_key": "3_2076870212776022016",
+              "start": 7,
+              "url": "https://t.co/vz36A4hjKz"
+            },
+            {
+              "display_url": "pic.x.com/vz36A4hjKz",
+              "end": 30,
+              "expanded_url": "https://x.com/internation0501/status/2076870231071621590/photo/1",
+              "media_key": "3_2076870212822114305",
+              "start": 7,
+              "url": "https://t.co/vz36A4hjKz"
+            },
+            {
+              "display_url": "pic.x.com/vz36A4hjKz",
+              "end": 30,
+              "expanded_url": "https://x.com/internation0501/status/2076870231071621590/photo/1",
+              "media_key": "3_2076870212780183552",
+              "start": 7,
+              "url": "https://t.co/vz36A4hjKz"
+            },
+            {
+              "display_url": "pic.x.com/vz36A4hjKz",
+              "end": 30,
+              "expanded_url": "https://x.com/internation0501/status/2076870231071621590/photo/1",
+              "media_key": "3_2076870212776075264",
+              "start": 7,
+              "url": "https://t.co/vz36A4hjKz"
+            },
+            {
+              "display_url": "x.com/wonyoung_ou/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/wonyoung_ou/status/2076626591212609799",
+              "start": 31,
+              "url": "https://t.co/jU6yS5NABG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076870231071621590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 15877,
+          "like_count": 130,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076626591212609799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只是轮友吗？ https://t.co/vz36A4hjKz https://t.co/jU6yS5NABG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 901,
+          "like_count": 1659,
+          "listed_count": 2,
+          "media_count": 390,
+          "tweet_count": 2892
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-15T18:25:03.000Z",
+        "description": "普通的存在主义者，自认为。资本主义终将灭亡，这一趋势是自《九十五条论纲》始。彻底的解放即是叙事灭亡的开始，这一点毫无质疑。存在先于本质，先有鸡再有鸡蛋；先有资本主义精神，才有资本主义，后有《资本论》。在讨论自由等自然法时，先想想天赋人权的天在哪？人真正的不自由，就是永远都无法摆脱自由。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/zhongwen/trad/…",
+                "end": 23,
+                "expanded_url": "https://www.bbc.com/zhongwen/trad/world/2015/04/150411_ukraine_ban_communism",
+                "start": 0,
+                "url": "https://t.co/BGeLzlbfif"
+              }
+            ]
+          }
+        },
+        "id": "178794303",
+        "location": "上海市",
+        "name": "華盛頓革委",
+        "pinned_tweet_id": "1650332348355846144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600447410068942849/7JlFQQNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4136,
+          "following_count": 589,
+          "like_count": 40629,
+          "listed_count": 30,
+          "media_count": 5382,
+          "tweet_count": 32591
+        },
+        "url": "https://t.co/BGeLzlbfif",
+        "username": "internation0501",
+        "verified": false
+      }
+    ]
+  }
+}

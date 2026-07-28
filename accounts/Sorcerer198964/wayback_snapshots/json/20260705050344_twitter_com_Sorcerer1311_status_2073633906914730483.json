@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2073633906914730483",
+    "created_at": "2026-07-05T05:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073633906914730483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ye_and_yae/sta…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/ye_and_yae/status/2073494043678629944",
+          "start": 30,
+          "url": "https://t.co/2mlQnXTazx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073633906914730483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073494043678629944",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实没啥问题\n有的言论留痕确实会害人，这对本人是极度不利的 https://t.co/2mlQnXTazx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 571,
+        "media_key": "3_2073494033293520896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaH1mJaMAAI1TB.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2073633906914730483",
+        "created_at": "2026-07-05T05:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073633906914730483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ye_and_yae/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/ye_and_yae/status/2073494043678629944",
+              "start": 30,
+              "url": "https://t.co/2mlQnXTazx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073633906914730483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073494043678629944",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实没啥问题\n有的言论留痕确实会害人，这对本人是极度不利的 https://t.co/2mlQnXTazx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073494033293520896"
+          ]
+        },
+        "author_id": "1813768883540725760",
+        "conversation_id": "2073494043678629944",
+        "created_at": "2026-07-04T19:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073494043678629944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/llPpm5X44y",
+              "end": 98,
+              "expanded_url": "https://x.com/ye_and_yae/status/2073494043678629944/photo/1",
+              "media_key": "3_2073494033293520896",
+              "start": 75,
+              "url": "https://t.co/llPpm5X44y"
+            },
+            {
+              "display_url": "x.com/xingyunxiya/st…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/xingyunxiya/status/2073449435783450691",
+              "start": 99,
+              "url": "https://t.co/4gAHxthKh8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073494043678629944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1039,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073449435783450691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等下，学位？？？都这个时候了你在乎的竟然是孩子的学位？？？\n我不认为你是在为孩子的未来着想，你是为了自己的脸面吧\n我寒假时说的那句话，真的不是玩笑啊 https://t.co/llPpm5X44y https://t.co/4gAHxthKh8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 883,
+          "like_count": 1594,
+          "listed_count": 2,
+          "media_count": 385,
+          "tweet_count": 2820
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "09/01/26 炸柜26/06/09 有时含糖   喜欢航天（不是三角洲那个啦！） 和二次元\n喜欢画画 正在学日语喜欢电子产品  正在vibe自己的网页 \nmaster @yesterdayorange\n大好き @gcjl9188\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "yesterdayorange"
+              },
+              {
+                "end": 116,
+                "start": 107,
+                "username": "gcjl9188"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "Starbase TX",
+        "name": "🚀爱晔🍥",
+        "pinned_tweet_id": "2071080615785722067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056435388680716288/GYePUBtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 1053,
+          "like_count": 6422,
+          "listed_count": 3,
+          "media_count": 270,
+          "tweet_count": 3399
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

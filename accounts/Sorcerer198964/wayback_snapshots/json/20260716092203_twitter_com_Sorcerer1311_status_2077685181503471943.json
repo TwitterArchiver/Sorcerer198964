@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2077685181503471943",
+    "created_at": "2026-07-16T09:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077685181503471943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/snow_xue_1/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/snow_xue_1/status/2077408974207599009",
+          "start": 13,
+          "url": "https://t.co/C32hoPmQ7e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077685181503471943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077408974207599009",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "问父母要毒资吗那很厉害了 https://t.co/C32hoPmQ7e"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2077685181503471943",
+        "created_at": "2026-07-16T09:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077685181503471943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snow_xue_1/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/snow_xue_1/status/2077408974207599009",
+              "start": 13,
+              "url": "https://t.co/C32hoPmQ7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077685181503471943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077408974207599009",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问父母要毒资吗那很厉害了 https://t.co/C32hoPmQ7e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627860014114168833",
+        "conversation_id": "2077408974207599009",
+        "created_at": "2026-07-15T15:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077408974207599009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077408974207599009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我父母天天说在攒钱给我准备以后做手术，但钱呢，拿其中一小部分给我买个邮票就这么难吗，给我买一点奥施康定就这么难吗。\n他们根本没有攒钱，他们只是一直在骗我罢了，想骗我到成年，想一直拖下去罢了，他们根本不喜欢我，连让我开心一次都不愿意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 903,
+          "like_count": 1690,
+          "listed_count": 2,
+          "media_count": 394,
+          "tweet_count": 2911
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T02:39:25.000Z",
+        "description": "✝️普瑞巴林，曲马多重度依赖✝️ \n 普通的上海入 | 超级大s | 战绩：二刷抢救室 | hrt2025.11 🍥 |  生产日期 2010.3.16 | 家暴党（表面家长不管党，实际家暴党）| 对象&姐姐@vokleer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 104,
+                "username": "vokleer"
+              }
+            ]
+          }
+        },
+        "id": "1627860014114168833",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2076673707746189382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062076159492595713/NHormeLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 266,
+          "like_count": 5567,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 715
+        },
+        "url": "",
+        "username": "Snow_Xue_1",
+        "verified": true
+      }
+    ]
+  }
+}

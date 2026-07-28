@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2065788366801748083",
+    "created_at": "2026-06-13T13:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065788366801748083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shungleemain/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/shungleemain/status/2065708105032458526",
+          "start": 5,
+          "url": "https://t.co/H2Zhx76F1d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065788366801748083",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065708105032458526",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欠摘中… https://t.co/H2Zhx76F1d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 509,
+        "media_key": "3_2065708083549229056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrejrGa0AAgoBH.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2065788366801748083",
+        "created_at": "2026-06-13T13:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065788366801748083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shungleemain/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/shungleemain/status/2065708105032458526",
+              "start": 5,
+              "url": "https://t.co/H2Zhx76F1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065788366801748083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065708105032458526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欠摘中… https://t.co/H2Zhx76F1d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065708083549229056"
+          ]
+        },
+        "author_id": "1756246342676979713",
+        "conversation_id": "2065708105032458526",
+        "created_at": "2026-06-13T08:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065708105032458526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndLXv9W5J3",
+              "end": 52,
+              "expanded_url": "https://x.com/shungleemain/status/2065708105032458526/photo/1",
+              "media_key": "3_2065708083549229056",
+              "start": 29,
+              "url": "https://t.co/ndLXv9W5J3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065708105032458526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6499,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此顧客極有可能是未來國家領導人\n親務必送貨上門，辛苦了！ https://t.co/ndLXv9W5J3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 804,
+          "like_count": 1367,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 2570
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "超級好詭秘 @Akinoyo_desu\n可愛的蜜獾 @kittymi030\n可愛的Mercy @Mercyvnv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "kittymi030"
+              },
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Mercyvnv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shungleemain",
+                "end": 23,
+                "expanded_url": "https://t.me/shungleemain",
+                "start": 0,
+                "url": "https://t.co/ZWd7sZXvOA"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "來看生力麵的TG→",
+        "name": "聖米格爾生力麵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041138223767003137/717JFCWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 617,
+          "like_count": 2823,
+          "listed_count": 7,
+          "media_count": 593,
+          "tweet_count": 6871
+        },
+        "url": "https://t.co/ZWd7sZXvOA",
+        "username": "shungleemain",
+        "verified": false
+      }
+    ]
+  }
+}

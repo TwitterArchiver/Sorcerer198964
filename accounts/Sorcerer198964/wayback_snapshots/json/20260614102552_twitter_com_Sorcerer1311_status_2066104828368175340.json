@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065800668577665024"
+      ],
+      "media_source_tweet_id": [
+        "2065800673220837880"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2066104828368175340",
+    "created_at": "2026-06-14T10:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066104828368175340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1835139537418567680",
+          "start": 3,
+          "username": "WellingtonPixel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b36Bz3sGbF",
+          "end": 50,
+          "expanded_url": "https://x.com/WellingtonPixel/status/2065800673220837880/photo/1",
+          "media_key": "3_2065800668577665024",
+          "start": 27,
+          "url": "https://t.co/b36Bz3sGbF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066104828368175340",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065800673220837880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WellingtonPixel: 🧍🚗🚗🚗🚗 https://t.co/b36Bz3sGbF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_2065800668577665024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsyw1NWEAAY6hU.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065800668577665024"
+          ],
+          "media_source_tweet_id": [
+            "2065800673220837880"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2066104828368175340",
+        "created_at": "2026-06-14T10:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066104828368175340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1835139537418567680",
+              "start": 3,
+              "username": "WellingtonPixel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b36Bz3sGbF",
+              "end": 50,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2065800673220837880/photo/1",
+              "media_key": "3_2065800668577665024",
+              "start": 27,
+              "url": "https://t.co/b36Bz3sGbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066104828368175340",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065800673220837880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WellingtonPixel: 🧍🚗🚗🚗🚗 https://t.co/b36Bz3sGbF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065800668577665024"
+          ]
+        },
+        "author_id": "1835139537418567680",
+        "conversation_id": "2065800673220837880",
+        "created_at": "2026-06-13T14:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065800673220837880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b36Bz3sGbF",
+              "end": 29,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2065800673220837880/photo/1",
+              "media_key": "3_2065800668577665024",
+              "start": 6,
+              "url": "https://t.co/b36Bz3sGbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065800673220837880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 31748,
+          "like_count": 503,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "🧍🚗🚗🚗🚗 https://t.co/b36Bz3sGbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 809,
+          "like_count": 1383,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "斯者长逝，背影长存；孤烛一盏，致以冤魂。\n❤️@LibDems|🤍马克西米利安•德•埃宁|☁️Cloud 9\n小号@AbsolutelyWP|@KUKMonarchy8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "LibDems"
+              },
+              {
+                "end": 70,
+                "start": 57,
+                "username": "AbsolutelyWP"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "KUKMonarchy8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wellingtonpixel",
+                "end": 23,
+                "expanded_url": "https://t.me/wellingtonpixel",
+                "start": 0,
+                "url": "https://t.co/u4ZrWlpK4l"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Den Haag, Nederland",
+        "name": "🇹🇼Wellington † Pixel🪩",
+        "pinned_tweet_id": "2065721812659339748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060067917350273024/E125I94c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2217,
+          "following_count": 3792,
+          "like_count": 21664,
+          "listed_count": 3,
+          "media_count": 387,
+          "tweet_count": 4357
+        },
+        "url": "https://t.co/u4ZrWlpK4l",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

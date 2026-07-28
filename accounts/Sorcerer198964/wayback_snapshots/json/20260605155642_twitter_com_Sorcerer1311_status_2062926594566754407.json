@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062539478967697408",
+        "3_2062539478942511104",
+        "3_2062539449301344257",
+        "3_2062539475415076865"
+      ],
+      "media_source_tweet_id": [
+        "2062539872582180942",
+        "2062539872582180942",
+        "2062539872582180942",
+        "2062539872582180942"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062926594566754407",
+    "created_at": "2026-06-05T15:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062926594566754407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cS2pyaNCNN",
+          "end": 83,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2062539872582180942/photo/1",
+          "media_key": "3_2062539478967697408",
+          "start": 60,
+          "url": "https://t.co/cS2pyaNCNN"
+        },
+        {
+          "display_url": "pic.x.com/cS2pyaNCNN",
+          "end": 83,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2062539872582180942/photo/1",
+          "media_key": "3_2062539478942511104",
+          "start": 60,
+          "url": "https://t.co/cS2pyaNCNN"
+        },
+        {
+          "display_url": "pic.x.com/cS2pyaNCNN",
+          "end": 83,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2062539872582180942/photo/1",
+          "media_key": "3_2062539449301344257",
+          "start": 60,
+          "url": "https://t.co/cS2pyaNCNN"
+        },
+        {
+          "display_url": "pic.x.com/cS2pyaNCNN",
+          "end": 83,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2062539872582180942/photo/1",
+          "media_key": "3_2062539475415076865",
+          "start": 60,
+          "url": "https://t.co/cS2pyaNCNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062926594566754407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062539872582180942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 6月4日，大量网友 购买肯德基疯狂星期四，来线下响应六四学运纪念制作的meme https://t.co/cS2pyaNCNN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2062539478967697408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-cunMWwAAb6el.jpg",
+        "width": 1200
+      },
+      {
+        "height": 900,
+        "media_key": "3_2062539478942511104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-cunGWcAARiht.jpg",
+        "width": 1200
+      },
+      {
+        "height": 796,
+        "media_key": "3_2062539449301344257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-cs4rWIAEuLld.jpg",
+        "width": 1061
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2062539475415076865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-cuZ9WEAEWeej.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062539478967697408",
+            "3_2062539478942511104",
+            "3_2062539449301344257",
+            "3_2062539475415076865"
+          ],
+          "media_source_tweet_id": [
+            "2062539872582180942",
+            "2062539872582180942",
+            "2062539872582180942",
+            "2062539872582180942"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062926594566754407",
+        "created_at": "2026-06-05T15:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062926594566754407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cS2pyaNCNN",
+              "end": 83,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062539872582180942/photo/1",
+              "media_key": "3_2062539478967697408",
+              "start": 60,
+              "url": "https://t.co/cS2pyaNCNN"
+            },
+            {
+              "display_url": "pic.x.com/cS2pyaNCNN",
+              "end": 83,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062539872582180942/photo/1",
+              "media_key": "3_2062539478942511104",
+              "start": 60,
+              "url": "https://t.co/cS2pyaNCNN"
+            },
+            {
+              "display_url": "pic.x.com/cS2pyaNCNN",
+              "end": 83,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062539872582180942/photo/1",
+              "media_key": "3_2062539449301344257",
+              "start": 60,
+              "url": "https://t.co/cS2pyaNCNN"
+            },
+            {
+              "display_url": "pic.x.com/cS2pyaNCNN",
+              "end": 83,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062539872582180942/photo/1",
+              "media_key": "3_2062539475415076865",
+              "start": 60,
+              "url": "https://t.co/cS2pyaNCNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062926594566754407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062539872582180942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 6月4日，大量网友 购买肯德基疯狂星期四，来线下响应六四学运纪念制作的meme https://t.co/cS2pyaNCNN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062539478967697408",
+            "3_2062539478942511104",
+            "3_2062539449301344257",
+            "3_2062539475415076865"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062539872582180942",
+        "created_at": "2026-06-04T14:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062539872582180942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cS2pyaNCNN",
+              "end": 63,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062539872582180942/photo/1",
+              "media_key": "3_2062539478967697408",
+              "start": 40,
+              "url": "https://t.co/cS2pyaNCNN"
+            },
+            {
+              "display_url": "pic.x.com/cS2pyaNCNN",
+              "end": 63,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062539872582180942/photo/1",
+              "media_key": "3_2062539478942511104",
+              "start": 40,
+              "url": "https://t.co/cS2pyaNCNN"
+            },
+            {
+              "display_url": "pic.x.com/cS2pyaNCNN",
+              "end": 63,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062539872582180942/photo/1",
+              "media_key": "3_2062539449301344257",
+              "start": 40,
+              "url": "https://t.co/cS2pyaNCNN"
+            },
+            {
+              "display_url": "pic.x.com/cS2pyaNCNN",
+              "end": 63,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062539872582180942/photo/1",
+              "media_key": "3_2062539475415076865",
+              "start": 40,
+              "url": "https://t.co/cS2pyaNCNN"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2062066757276246096",
+              "start": 64,
+              "url": "https://t.co/hayKhUO1du"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062539872582180942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 304046,
+          "like_count": 1875,
+          "quote_count": 9,
+          "reply_count": 104,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062066757276246096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6月4日，大量网友 购买肯德基疯狂星期四，来线下响应六四学运纪念制作的meme https://t.co/cS2pyaNCNN https://t.co/hayKhUO1du"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 748,
+          "like_count": 1055,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 2167
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235488,
+          "following_count": 1068,
+          "like_count": 9635,
+          "listed_count": 8793,
+          "media_count": 47988,
+          "tweet_count": 55138
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

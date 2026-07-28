@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064724663763369985"
+      ],
+      "media_source_tweet_id": [
+        "2064726204842987859"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2064729636614140391",
+    "created_at": "2026-06-10T15:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064729636614140391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1574516663935901696",
+          "start": 3,
+          "username": "wangjupaian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NHsxbiQiGx",
+          "end": 131,
+          "expanded_url": "https://x.com/wangjupaian/status/2064726204842987859/video/1",
+          "media_key": "13_2064724663763369985",
+          "start": 108,
+          "url": "https://t.co/NHsxbiQiGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064729636614140391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064726204842987859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wangjupaian: 【朝鲜《新闻联播》播出习近平访朝完整版，罕见画面曝光】6月10日，朝鲜版《新闻联播》播出习近平访朝实况完整版，其中出现不少央视未公开播出的画面，包括习近平戴眼镜观看演出等名场面。… https://t.co/NHsxbiQiGx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1280139,
+        "height": 720,
+        "media_key": "13_2064724663763369985",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064724663763369985/img/gDHRIbkI1oUEa3W7.jpg",
+        "public_metrics": {
+          "view_count": 249
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064724663763369985/vid/avc1/480x270/LshO-Znw6wO8zQkL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064724663763369985/vid/avc1/640x360/gPt4UgbOL11p_hwq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064724663763369985/vid/avc1/1280x720/BxSvhbGsMM_IlJ10.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064724663763369985/pl/RxiCUjWJWeP_JaZR.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064724663763369985"
+          ],
+          "media_source_tweet_id": [
+            "2064726204842987859"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2064729636614140391",
+        "created_at": "2026-06-10T15:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064729636614140391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1574516663935901696",
+              "start": 3,
+              "username": "wangjupaian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHsxbiQiGx",
+              "end": 131,
+              "expanded_url": "https://x.com/wangjupaian/status/2064726204842987859/video/1",
+              "media_key": "13_2064724663763369985",
+              "start": 108,
+              "url": "https://t.co/NHsxbiQiGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064729636614140391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064726204842987859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wangjupaian: 【朝鲜《新闻联播》播出习近平访朝完整版，罕见画面曝光】6月10日，朝鲜版《新闻联播》播出习近平访朝实况完整版，其中出现不少央视未公开播出的画面，包括习近平戴眼镜观看演出等名场面。… https://t.co/NHsxbiQiGx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064724663763369985"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2064726204842987859",
+        "created_at": "2026-06-10T15:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064726204842987859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHsxbiQiGx",
+              "end": 113,
+              "expanded_url": "https://x.com/wangjupaian/status/2064726204842987859/video/1",
+              "media_key": "13_2064724663763369985",
+              "start": 90,
+              "url": "https://t.co/NHsxbiQiGx"
+            },
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2064338790366531742",
+              "start": 114,
+              "url": "https://t.co/HBQ7XRrRsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064726204842987859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【朝鲜《新闻联播》播出习近平访朝完整版，罕见画面曝光】6月10日，朝鲜版《新闻联播》播出习近平访朝实况完整版，其中出现不少央视未公开播出的画面，包括习近平戴眼镜观看演出等名场面。\n\n节目由朝鲜最知名主播、有“朝鲜国宝级播音员”之称的李春姬配音播报。李春姬长期负责朝鲜重大政治新闻播报，包括金日成、金正日逝世，以及历次核试验和导弹试射成功等重大消息发布，是朝鲜最具代表性的新闻主播之一。\n\n此次朝鲜版访朝报道时长明显超过央视公开内容，也展现出朝方对于习近平此次访问的高度重视。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1350,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064338790366531742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【朝鲜《新闻联播》播出习近平访朝完整版，罕见画面曝光】6月10日，朝鲜版《新闻联播》播出习近平访朝实况完整版，其中出现不少央视未公开播出的画面，包括习近平戴眼镜观看演出等名场面。 https://t.co/NHsxbiQiGx https://t.co/HBQ7XRrRsL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 791,
+          "like_count": 1282,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 2485
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jXuer"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149059,
+          "following_count": 346,
+          "like_count": 364,
+          "listed_count": 419,
+          "media_count": 7553,
+          "tweet_count": 8320
+        },
+        "url": "https://t.co/FWdZ3jXuer",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

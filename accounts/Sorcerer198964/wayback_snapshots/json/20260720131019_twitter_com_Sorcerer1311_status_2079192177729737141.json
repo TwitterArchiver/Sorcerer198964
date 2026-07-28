@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2079192177729737141",
+    "created_at": "2026-07-20T13:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079192177729737141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1504295723277631489",
+          "start": 3,
+          "username": "dongxiaojie99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/C",
+          "end": 139,
+          "start": 125,
+          "url": "https://t.co/C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079192177729737141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078836044297080878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dongxiaojie99: 现在沉默也不行了？\n​\n给阿妈的情书的女主角李思潼，因为揭阳虐狗案是发生在她的家乡，不少网友以她是揭阳本地人为由，要求李思潼就家乡虐狗事件公开发声。但是她并未为这件事情发声，品牌方迫于压力，于是他的代言被撤销了 https://t.co/C…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1543,
+        "media_key": "3_2078836024952930304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmCWb2awAA9LCl.jpg",
+        "width": 1077
+      },
+      {
+        "height": 1134,
+        "media_key": "3_2078836038139822081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmCXM-awAEoaXP.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2079192177729737141",
+        "created_at": "2026-07-20T13:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079192177729737141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1504295723277631489",
+              "start": 3,
+              "username": "dongxiaojie99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/C",
+              "end": 139,
+              "start": 125,
+              "url": "https://t.co/C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079192177729737141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078836044297080878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dongxiaojie99: 现在沉默也不行了？\n​\n给阿妈的情书的女主角李思潼，因为揭阳虐狗案是发生在她的家乡，不少网友以她是揭阳本地人为由，要求李思潼就家乡虐狗事件公开发声。但是她并未为这件事情发声，品牌方迫于压力，于是他的代言被撤销了 https://t.co/C…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078836024952930304",
+            "3_2078836038139822081"
+          ]
+        },
+        "author_id": "1504295723277631489",
+        "conversation_id": "2078836044297080878",
+        "created_at": "2026-07-19T13:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078836044297080878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7xkRxZCKS",
+              "end": 129,
+              "expanded_url": "https://x.com/dongxiaojie99/status/2078836044297080878/photo/1",
+              "media_key": "3_2078836024952930304",
+              "start": 106,
+              "url": "https://t.co/C7xkRxZCKS"
+            },
+            {
+              "display_url": "pic.x.com/C7xkRxZCKS",
+              "end": 129,
+              "expanded_url": "https://x.com/dongxiaojie99/status/2078836044297080878/photo/1",
+              "media_key": "3_2078836038139822081",
+              "start": 106,
+              "url": "https://t.co/C7xkRxZCKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078836044297080878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 278961,
+          "like_count": 598,
+          "quote_count": 13,
+          "reply_count": 456,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "现在沉默也不行了？\n​\n给阿妈的情书的女主角李思潼，因为揭阳虐狗案是发生在她的家乡，不少网友以她是揭阳本地人为由，要求李思潼就家乡虐狗事件公开发声。但是她并未为这件事情发声，品牌方迫于压力，于是他的代言被撤销了 https://t.co/C7xkRxZCKS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 923,
+          "like_count": 1757,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 2981
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T03:17:55.000Z",
+        "description": "杭州人\n\n小号 @dongfupo773\n\n广告真假自辩哦！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "dongfupo773"
+              }
+            ]
+          }
+        },
+        "id": "1504295723277631489",
+        "name": "董小姐的日常",
+        "pinned_tweet_id": "2066482031908069712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504297795658072067/U_UpJL-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243606,
+          "following_count": 33,
+          "like_count": 14415,
+          "listed_count": 309,
+          "media_count": 2907,
+          "tweet_count": 14525
+        },
+        "url": "",
+        "username": "dongxiaojie99",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

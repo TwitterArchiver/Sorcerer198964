@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072987469235326976",
+        "3_2072987469176553472"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2072987486402629814",
+    "created_at": "2026-07-03T10:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072987486402629814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lkzEtFkPQO",
+          "end": 26,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2072987486402629814/photo/1",
+          "media_key": "3_2072987469235326976",
+          "start": 3,
+          "url": "https://t.co/lkzEtFkPQO"
+        },
+        {
+          "display_url": "pic.x.com/lkzEtFkPQO",
+          "end": 26,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2072987486402629814/photo/1",
+          "media_key": "3_2072987469176553472",
+          "start": 3,
+          "url": "https://t.co/lkzEtFkPQO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072987486402629814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "牛！ https://t.co/lkzEtFkPQO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_2072987469235326976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMS7Hr-bkAATY1d.jpg",
+        "width": 1073
+      },
+      {
+        "height": 942,
+        "media_key": "3_2072987469176553472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMS7HrwawAAjlRK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072987469235326976",
+            "3_2072987469176553472"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2072987486402629814",
+        "created_at": "2026-07-03T10:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072987486402629814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lkzEtFkPQO",
+              "end": 26,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2072987486402629814/photo/1",
+              "media_key": "3_2072987469235326976",
+              "start": 3,
+              "url": "https://t.co/lkzEtFkPQO"
+            },
+            {
+              "display_url": "pic.x.com/lkzEtFkPQO",
+              "end": 26,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2072987486402629814/photo/1",
+              "media_key": "3_2072987469176553472",
+              "start": 3,
+              "url": "https://t.co/lkzEtFkPQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072987486402629814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛！ https://t.co/lkzEtFkPQO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 872,
+          "like_count": 1585,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 2806
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

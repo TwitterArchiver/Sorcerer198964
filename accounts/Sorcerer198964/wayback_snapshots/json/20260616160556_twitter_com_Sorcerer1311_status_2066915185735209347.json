@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2066900952024859059",
+    "created_at": "2026-06-16T16:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066915185735209347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1926444025478778880",
+          "start": 0,
+          "username": "morikawayuu160c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066915185735209347",
+    "in_reply_to_user_id": "1926444025478778880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066904858628907184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@morikawayuu160c 感觉是吃的久了，我之前凝胶一天两尺才60"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2066900952024859059",
+        "created_at": "2026-06-16T16:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066915185735209347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1926444025478778880",
+              "start": 0,
+              "username": "morikawayuu160c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066915185735209347",
+        "in_reply_to_user_id": "1926444025478778880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066904858628907184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@morikawayuu160c 感觉是吃的久了，我之前凝胶一天两尺才60"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926444025478778880",
+        "conversation_id": "2066900952024859059",
+        "created_at": "2026-06-16T15:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066904858628907184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066904858628907184",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066900952024859059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 我口含2mg10小时后只有90+了😨咋你们都代谢这么慢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 831,
+          "like_count": 1440,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T01:03:54.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥🦊🐾 MtF/MtX? | she/they | Transles/T4T | HRT:20250813 | Furry | 持证含糖 | 已出柜 | 不烟不酒不od不割手不键政",
+        "id": "1926444025478778880",
+        "name": "Phạm Ngọc Hân 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2053834838659219695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055125979102851072/wJl30LEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 915,
+          "like_count": 8041,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1641
+        },
+        "username": "morikawayuu160c",
+        "verified": false
+      }
+    ]
+  }
+}

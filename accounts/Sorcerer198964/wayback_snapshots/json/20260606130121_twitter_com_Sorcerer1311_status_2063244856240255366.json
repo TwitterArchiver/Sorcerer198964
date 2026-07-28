@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2063086291659702547",
+    "created_at": "2026-06-06T13:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063244856240255366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684411421256466432",
+          "start": 0,
+          "username": "xiaomeinuya_GST"
+        },
+        {
+          "end": 26,
+          "id": "2045003683340107776",
+          "start": 17,
+          "username": "Juziln0z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063244856240255366",
+    "in_reply_to_user_id": "1684411421256466432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063244401145786392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomeinuya_GST @Juziln0z 因为各平台价格不同，最便宜就美团外卖的17元了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2063086291659702547",
+        "created_at": "2026-06-06T13:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063244856240255366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684411421256466432",
+              "start": 0,
+              "username": "xiaomeinuya_GST"
+            },
+            {
+              "end": 26,
+              "id": "2045003683340107776",
+              "start": 17,
+              "username": "Juziln0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063244856240255366",
+        "in_reply_to_user_id": "1684411421256466432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063244401145786392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomeinuya_GST @Juziln0z 因为各平台价格不同，最便宜就美团外卖的17元了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684411421256466432",
+        "conversation_id": "2063086291659702547",
+        "created_at": "2026-06-06T12:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063244401145786392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045003683340107776",
+              "start": 0,
+              "username": "Juziln0z"
+            },
+            {
+              "end": 23,
+              "id": "2041449281677045760",
+              "start": 10,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063244401145786392",
+        "in_reply_to_user_id": "2045003683340107776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063238965264781529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Juziln0z @Sorcerer1311 不是为啥pdd的一盒22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 756,
+          "like_count": 1073,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 2198
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T03:52:44.000Z",
+        "description": "无证含糖🍥/双性恋/抑郁/焦虑/阳痿/制造日期2007.12.13/170cm 60kg 39码/INFP/hrt2026.02.10/家里蹲好无聊想认识更多朋友😭小男娘小药娘来互fo😭",
+        "id": "1684411421256466432",
+        "name": "🍥顾诗钿.🏳️‍⚧️",
+        "pinned_tweet_id": "2052064351717359647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052666153844027398/wuqocx2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 79,
+          "like_count": 17685,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1609
+        },
+        "username": "xiaomeinuya_GST",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T04:58:53.000Z",
+        "description": "2026｜5｜25🍥｜INFP｜",
+        "id": "2045003683340107776",
+        "name": "牢桔qwq🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059148912313925632/mS8NXwXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 74,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "username": "Juziln0z",
+        "verified": false
+      }
+    ]
+  }
+}

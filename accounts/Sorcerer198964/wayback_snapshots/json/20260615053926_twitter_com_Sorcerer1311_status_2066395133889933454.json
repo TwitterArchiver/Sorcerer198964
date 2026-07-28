@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066394845770547200"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2066395133889933454",
+    "created_at": "2026-06-15T05:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066395133889933454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/61xdVYJypF",
+          "end": 80,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2066395133889933454/photo/1",
+          "media_key": "3_2066394845770547200",
+          "start": 57,
+          "url": "https://t.co/61xdVYJypF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066395133889933454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烧仙草因卖屁股是否应该先用后付类比pdd商业模式在我拿出财报反驳后怒而破防禁言并宣称自己刚去过东莞洗脚城，望周知 https://t.co/61xdVYJypF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1041,
+        "media_key": "3_2066394845770547200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1PKfvaAAAFb0R.jpg",
+        "width": 1948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066394845770547200"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2066395133889933454",
+        "created_at": "2026-06-15T05:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066395133889933454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/61xdVYJypF",
+              "end": 80,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2066395133889933454/photo/1",
+              "media_key": "3_2066394845770547200",
+              "start": 57,
+              "url": "https://t.co/61xdVYJypF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066395133889933454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烧仙草因卖屁股是否应该先用后付类比pdd商业模式在我拿出财报反驳后怒而破防禁言并宣称自己刚去过东莞洗脚城，望周知 https://t.co/61xdVYJypF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 812,
+          "like_count": 1399,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 2596
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

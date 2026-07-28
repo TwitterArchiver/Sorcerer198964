@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066414540276092928"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2066378764913975796",
+    "created_at": "2026-06-15T06:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T07:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066414548366893464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1457364958841225222",
+          "start": 0,
+          "username": "u7ed2x2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YKZXEizJbT",
+          "end": 35,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2066414548366893464/photo/1",
+          "media_key": "3_2066414540276092928",
+          "start": 12,
+          "url": "https://t.co/YKZXEizJbT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066414548366893464",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066378764913975796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@u7ed2x2 是的 https://t.co/YKZXEizJbT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066414540276092928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1hE3fb0AAN3Ob.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066414540276092928"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2066378764913975796",
+        "created_at": "2026-06-15T06:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066414548366893464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YKZXEizJbT",
+              "end": 35,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2066414548366893464/photo/1",
+              "media_key": "3_2066414540276092928",
+              "start": 12,
+              "url": "https://t.co/YKZXEizJbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066414548366893464",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066378764913975796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 是的 https://t.co/YKZXEizJbT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2066378764913975796",
+        "created_at": "2026-06-15T04:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066378764913975796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066378764913975796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "喜茶今天有回归品，那先不喝麦记了\n过去看看x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 812,
+          "like_count": 1401,
+          "listed_count": 2,
+          "media_count": 360,
+          "tweet_count": 2599
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 1065,
+          "like_count": 1188,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 904
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

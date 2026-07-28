@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "The animal rights movement, sometimes called the animal liberation movement, animal personhood, or animal advocacy movement, is a social movement which seeks an end to the rigid moral and legal distinction drawn between human and non-human animals, an end to the status of animals as property, and an end to their use in the research, food, clothing, and entertainment industries",
+          "id": "913399929548152833",
+          "name": "Animal Rights Movement"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Social causes",
+          "id": "1074751614123008000",
+          "name": "Social causes"
+        }
+      }
+    ],
+    "conversation_id": "2080887387249389982",
+    "created_at": "2026-07-25T05:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080887387249389982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/forthedogs_/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/forthedogs_/status/2080552695111565756",
+          "start": 18,
+          "url": "https://t.co/FopwHnBfk3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080887387249389982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080552695111565756",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "旺旺变成禾烧狗的时候他们还在说好香 https://t.co/FopwHnBfk3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 688,
+        "media_key": "3_2080552689289805824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-bpc2aQAAO1RT.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The animal rights movement, sometimes called the animal liberation movement, animal personhood, or animal advocacy movement, is a social movement which seeks an end to the rigid moral and legal distinction drawn between human and non-human animals, an end to the status of animals as property, and an end to their use in the research, food, clothing, and entertainment industries",
+              "id": "913399929548152833",
+              "name": "Animal Rights Movement"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Social causes",
+              "id": "1074751614123008000",
+              "name": "Social causes"
+            }
+          }
+        ],
+        "conversation_id": "2080887387249389982",
+        "created_at": "2026-07-25T05:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080887387249389982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/forthedogs_/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/forthedogs_/status/2080552695111565756",
+              "start": 18,
+              "url": "https://t.co/FopwHnBfk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080887387249389982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080552695111565756",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "旺旺变成禾烧狗的时候他们还在说好香 https://t.co/FopwHnBfk3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080552689289805824"
+          ]
+        },
+        "author_id": "2077364293155323904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The animal rights movement, sometimes called the animal liberation movement, animal personhood, or animal advocacy movement, is a social movement which seeks an end to the rigid moral and legal distinction drawn between human and non-human animals, an end to the status of animals as property, and an end to their use in the research, food, clothing, and entertainment industries",
+              "id": "913399929548152833",
+              "name": "Animal Rights Movement"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Social causes",
+              "id": "1074751614123008000",
+              "name": "Social causes"
+            }
+          }
+        ],
+        "conversation_id": "2080552695111565756",
+        "created_at": "2026-07-24T07:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080552695111565756"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "中国"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "動物虐待"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "旺旺"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PKL8WTOZ5x",
+              "end": 103,
+              "expanded_url": "https://x.com/forthedogs_/status/2080552695111565756/photo/1",
+              "media_key": "3_2080552689289805824",
+              "start": 80,
+              "url": "https://t.co/PKL8WTOZ5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080552695111565756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7432,
+          "like_count": 616,
+          "quote_count": 9,
+          "reply_count": 27,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "旺旺の最後に、「こいつなかなか死なねーな」と殴りながら言ったそうですね。\nクソガキ。てめーらが死ね。キチガイブサイク共が。\n\n #中国  #動物虐待  #旺旺 https://t.co/PKL8WTOZ5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 934,
+          "like_count": 1847,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 3059
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T12:12:20.000Z",
+        "description": "旺旺事件を忘れない。\n犬猫への虐待をなくしたい。\n中国での動物愛護法の整備と、動物虐待への適正な処罰を願い、情報発信・共有をしています。\n小さな命を守るために、自分にできることを。",
+        "id": "2077364293155323904",
+        "location": "日本",
+        "name": "毛琥",
+        "pinned_tweet_id": "2080587536561504271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077366428177682432/2jdJVHlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 170,
+          "like_count": 2181,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "forthedogs_",
+        "verified": true
+      }
+    ]
+  }
+}

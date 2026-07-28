@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2064723635798188397",
+    "created_at": "2026-06-10T14:57:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064723635798188397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nana_naiiiiiii…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2064701095570821601",
+          "start": 48,
+          "url": "https://t.co/ulRMqQ37NZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064723635798188397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064701095570821601",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "云面大壳啊嗯\n麻辣烫有点死鬼了而且吃了口渴科技含量高\n我喜欢弄几个高汤块或者关东煮汤块烫蔬菜吃 https://t.co/ulRMqQ37NZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064701007263911937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdKoHlbUAEPTAa.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2064723635798188397",
+        "created_at": "2026-06-10T14:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064723635798188397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nana_naiiiiiii…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2064701095570821601",
+              "start": 48,
+              "url": "https://t.co/ulRMqQ37NZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064723635798188397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064701095570821601",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "云面大壳啊嗯\n麻辣烫有点死鬼了而且吃了口渴科技含量高\n我喜欢弄几个高汤块或者关东煮汤块烫蔬菜吃 https://t.co/ulRMqQ37NZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064701007263911937"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064701095570821601",
+        "created_at": "2026-06-10T13:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064701095570821601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBDFakPOmV",
+              "end": 32,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2064701095570821601/photo/1",
+              "media_key": "3_2064701007263911937",
+              "start": 9,
+              "url": "https://t.co/XBDFakPOmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064701095570821601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 482,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蒽想吃麻辣烫了！ https://t.co/XBDFakPOmV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 790,
+          "like_count": 1276,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 2476
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 273,
+          "like_count": 18241,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1368
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

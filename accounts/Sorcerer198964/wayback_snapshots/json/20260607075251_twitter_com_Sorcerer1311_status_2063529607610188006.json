@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2063456235480109136",
+    "created_at": "2026-06-07T07:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063529607610188006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1968300138222215168",
+          "start": 0,
+          "username": "wafuunai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063529607610188006",
+    "in_reply_to_user_id": "1968300138222215168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063456235480109136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wafuunai 好强的英语"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2063456227548626944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLegZyagAAq8x3.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2063456235480109136",
+        "created_at": "2026-06-07T07:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063529607610188006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1968300138222215168",
+              "start": 0,
+              "username": "wafuunai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063529607610188006",
+        "in_reply_to_user_id": "1968300138222215168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063456235480109136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wafuunai 好强的英语"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063456227548626944"
+          ]
+        },
+        "author_id": "1968300138222215168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063456235480109136",
+        "created_at": "2026-06-07T03:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063456235480109136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNGvnq2toq",
+              "end": 38,
+              "expanded_url": "https://x.com/wafuunai/status/2063456235480109136/photo/1",
+              "media_key": "3_2063456227548626944",
+              "start": 15,
+              "url": "https://t.co/FNGvnq2toq"
+            },
+            {
+              "display_url": "x.com/kevinyang0803/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/kevinyang0803/status/2063177127009321058",
+              "start": 39,
+              "url": "https://t.co/HCrmogf8zD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063456235480109136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2827,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063177127009321058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁懂我收到短信时多想笑….. https://t.co/FNGvnq2toq https://t.co/HCrmogf8zD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 763,
+          "like_count": 1114,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2241
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T13:05:04.000Z",
+        "description": "UTC +8｜the invisible at @UMichECE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "UMichECE"
+              }
+            ]
+          }
+        },
+        "id": "1968300138222215168",
+        "name": "水无清奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968300496143220736/_PytA9lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 103,
+          "like_count": 10070,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1272
+        },
+        "username": "wafuunai",
+        "verified": false
+      }
+    ]
+  }
+}

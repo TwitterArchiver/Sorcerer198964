@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2080576280026914872",
+    "created_at": "2026-07-24T08:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080576280026914872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wujizhuzhu/sta…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/wujizhuzhu/status/2080507184518152234",
+          "start": 26,
+          "url": "https://t.co/rNcgo7xdPc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080576280026914872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080507184518152234",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "纯jb吹牛，模型开源的情况下算力基建哪来这么高利润 https://t.co/rNcgo7xdPc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2080576280026914872",
+        "created_at": "2026-07-24T08:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080576280026914872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wujizhuzhu/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/wujizhuzhu/status/2080507184518152234",
+              "start": 26,
+              "url": "https://t.co/rNcgo7xdPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080576280026914872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080507184518152234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纯jb吹牛，模型开源的情况下算力基建哪来这么高利润 https://t.co/rNcgo7xdPc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "761100642282713089",
+        "conversation_id": "2080507184518152234",
+        "created_at": "2026-07-24T04:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080507184518152234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080507184518152234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "梁文锋非常自信，他几乎自曝了商业秘密，把现在DeepSeek最赚钱的生意公之于众。\n\nDeepSeek的API调用生意，10个月左右就可以回本，可以产生6倍利润。\n\n年化120％收益，这无疑是当今最暴利，最好的生意。\n\n比之前的房地产更暴利，甚至比FD都更暴利。\n\n这个怎么理解呢？\n\n就是DeepSeek花钱买GPU，再用DeepSeek的开源模型给客户提供API接口，10个月就能收回成本。\n\n这批GPU可以使用3-5年，在这段时间内，这批GPU产生的利润，可以达到投入成本的6倍。\n\n当年的房地产，都没有这么赚钱。\n\n梁文锋把这个商业秘密公之于众，但他一点也不担心别人做，因为他绝对自信。\n\nDeepSeek的团队有能力做好成本优化，别人再怎么做，成本都会是DeepSeek的20倍，所以即使自曝商业秘密，别人也抢不走他的生意，也打不过他。\n\n这就是AI时代最有意思的地方，一大堆手握重金的老登，他们有钱不知道投什么生意，即使知道搞算力卖Tokens很赚钱，但他们也没有能力赚到这个钱，因为赚这钱的门槛太高了。\n\n想想以前老登们搞房地产，门槛多低啊，有钱有关系就能搞，都能赚大钱。\n\n时代真不一样了，蒙眼狂奔粗放赚钱的时代一去不复返了，高精尖真正搞科技的人赚大钱的时代来临了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 34620,
+          "like_count": 169,
+          "quote_count": 5,
+          "reply_count": 29,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "梁文锋非常自信，他几乎自曝了商业秘密，把现在DeepSeek最赚钱的生意公之于众。\n\nDeepSeek的API调用生意，10个月左右就可以回本，可以产生6倍利润。\n\n年化120％收益，这无疑是当今最暴利，最好的生意。\n\n比之前的房地产更暴利，甚至比FD都更暴利。\n\n这个怎么理解呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 928,
+          "like_count": 1815,
+          "listed_count": 5,
+          "media_count": 421,
+          "tweet_count": 3039
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-04T07:25:08.000Z",
+        "description": "美股丨纳指定投指南丨人生操作系统OS | 一人公司 | 终身学习者|跑步🏃| Z-library Points北京站|利物浦球迷 |",
+        "id": "761100642282713089",
+        "location": "North Region, Singapore",
+        "name": "朱无忌无忌",
+        "pinned_tweet_id": "2079005931686490458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972613352091484160/eZq8Ek1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19437,
+          "following_count": 2323,
+          "like_count": 9791,
+          "listed_count": 119,
+          "media_count": 531,
+          "tweet_count": 9330
+        },
+        "url": "",
+        "username": "Wujizhuzhu",
+        "verified": true
+      }
+    ]
+  }
+}

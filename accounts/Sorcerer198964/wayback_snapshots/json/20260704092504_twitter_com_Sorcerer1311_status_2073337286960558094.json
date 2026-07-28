@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2073337286960558094",
+    "created_at": "2026-07-04T09:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T10:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073337286960558094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuwenmewo/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/yuwenmewo/status/2073334581751951860",
+          "start": 24,
+          "url": "https://t.co/4L5SLEKiEt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073337286960558094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073334581751951860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样的，很多海外产品都可以和客服直接沟通购买 https://t.co/4L5SLEKiEt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2073337286960558094",
+        "created_at": "2026-07-04T09:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073337286960558094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuwenmewo/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yuwenmewo/status/2073334581751951860",
+              "start": 24,
+              "url": "https://t.co/4L5SLEKiEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073337286960558094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073334581751951860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样的，很多海外产品都可以和客服直接沟通购买 https://t.co/4L5SLEKiEt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2073334581751951860",
+        "created_at": "2026-07-04T09:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073334581751951860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liwanmiaohy/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/liwanmiaohy/status/2073332947902763334",
+              "start": 8,
+              "url": "https://t.co/3wpsAASZF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073334581751951860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073332947902763334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简直是活佛来的 https://t.co/3wpsAASZF7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 879,
+          "like_count": 1592,
+          "listed_count": 2,
+          "media_count": 385,
+          "tweet_count": 2815
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2072961052191686875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 50,
+          "like_count": 165,
+          "listed_count": 5,
+          "media_count": 537,
+          "tweet_count": 1364
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

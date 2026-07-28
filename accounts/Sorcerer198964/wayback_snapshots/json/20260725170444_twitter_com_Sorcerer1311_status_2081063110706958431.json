@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2081063110706958431",
+    "created_at": "2026-07-25T17:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081063110706958431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ashasw114514/s…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/ashasw114514/status/2081059430356168837",
+          "start": 26,
+          "url": "https://t.co/WL0dv4WKdV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081063110706958431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081059430356168837",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "理性讨论，有一说一\n碳烤qsy与禾烧旺旺哪个更香？ https://t.co/WL0dv4WKdV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2081063110706958431",
+        "created_at": "2026-07-25T17:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081063110706958431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2081059430356168837",
+              "start": 26,
+              "url": "https://t.co/WL0dv4WKdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081063110706958431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081059430356168837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理性讨论，有一说一\n碳烤qsy与禾烧旺旺哪个更香？ https://t.co/WL0dv4WKdV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2081059430356168837",
+        "created_at": "2026-07-25T16:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081059430356168837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081059430356168837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直都是反对悲剧娱乐化的，应该对逝去的生命存有敬畏之心。邱少云你随便拿来开玩笑倒无所谓，但是旺旺真的很可怜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 931,
+          "like_count": 1857,
+          "listed_count": 4,
+          "media_count": 422,
+          "tweet_count": 3070
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5374,
+          "following_count": 3797,
+          "like_count": 9354,
+          "listed_count": 14,
+          "media_count": 774,
+          "tweet_count": 6728
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": false
+      }
+    ]
+  }
+}

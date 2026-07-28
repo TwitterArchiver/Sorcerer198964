@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Ethereum Cryptocurrency",
+          "id": "1007361429752594432",
+          "name": "Ethereum cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Ethereum Cryptocurrency",
+          "id": "1007361429752594432",
+          "name": "Ethereum cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2071949251706552469",
+    "created_at": "2026-06-30T17:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072003500733788617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1495253346311020545",
+          "start": 0,
+          "username": "0xBTCZhangSir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072003500733788617",
+    "in_reply_to_user_id": "1495253346311020545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071949251706552469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xBTCZhangSir 买的ETH😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 638,
+        "media_key": "3_2071948605351419904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEKR2bWYAAD5Kt.png",
+        "width": 466
+      },
+      {
+        "height": 444,
+        "media_key": "3_2071948605364031490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEKR2eW0AITxC5.png",
+        "width": 614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2071949251706552469",
+        "created_at": "2026-06-30T17:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072003500733788617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1495253346311020545",
+              "start": 0,
+              "username": "0xBTCZhangSir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072003500733788617",
+        "in_reply_to_user_id": "1495253346311020545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071949251706552469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xBTCZhangSir 买的ETH😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071948605351419904",
+            "3_2071948605364031490"
+          ]
+        },
+        "author_id": "1495253346311020545",
+        "conversation_id": "2071949251706552469",
+        "created_at": "2026-06-30T13:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071949251706552469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGg4BT7avZ",
+              "end": 163,
+              "expanded_url": "https://x.com/0xBTCZhangSir/status/2071949251706552469/photo/1",
+              "media_key": "3_2071948605351419904",
+              "start": 140,
+              "url": "https://t.co/vGg4BT7avZ"
+            },
+            {
+              "display_url": "pic.x.com/vGg4BT7avZ",
+              "end": 163,
+              "expanded_url": "https://x.com/0xBTCZhangSir/status/2071949251706552469/photo/1",
+              "media_key": "3_2071948605364031490",
+              "start": 140,
+              "url": "https://t.co/vGg4BT7avZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071949251706552469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 193,
+                "id": "1745200474360340480",
+                "start": 177,
+                "username": "PepecoinNetwork"
+              },
+              {
+                "end": 209,
+                "id": "1992927955719499776",
+                "start": 200,
+                "username": "Qiqi3971"
+              }
+            ]
+          },
+          "text": "字节出来的都能搞三千万？\n三千万兄弟有点勇啊，刚毕业就贷款40个被清零\n还能继续贷\n所以，他的这三千万的本金不是字节工资给的？\n而这个字节300万兄弟，反而还亏钱了\n买的是ETF，也能亏成狗，这兄弟\n估计买的不是纳斯达克指数ETF基金\n钱从市场中来，再去市场中\n这就是市场的奥义\n这两货都不是可以学习的榜样\n祝他们回归市场吧\n\n本帖由 Pepecoin\n@PepecoinNetwork\n社区志愿者\n@Qiqi3971\n赞助  投资有风险 请自行研究！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 732,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "字节出来的都能搞三千万？\n三千万兄弟有点勇啊，刚毕业就贷款40个被清零\n还能继续贷\n所以，他的这三千万的本金不是字节工资给的？\n而这个字节300万兄弟，反而还亏钱了\n买的是ETF，也能亏成狗，这兄弟\n估计买的不是纳斯达克指数ETF基金\n钱从市场中来，再去市场中\n这就是市场的奥义 https://t.co/vGg4BT7avZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 871,
+          "like_count": 1575,
+          "listed_count": 2,
+          "media_count": 378,
+          "tweet_count": 2784
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T04:26:16.000Z",
+        "description": "左手大饼 | 右手纳指 | 中间主流山寨 😈 精通缠论 · 大周期交易 · 二逼分析师 话唠抽象艺术家 · 一人公司日记(失业表演流水账) 不靠谱音乐制作人 · 容易破防的天蝎 🥲 表面bad guy，其实最韭菜那个",
+        "id": "1495253346311020545",
+        "name": "BTC张Sir🅱️",
+        "pinned_tweet_id": "2053413402140385601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036235955619897346/MlDTIrBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12050,
+          "following_count": 11900,
+          "like_count": 46467,
+          "listed_count": 54,
+          "media_count": 2130,
+          "tweet_count": 43969
+        },
+        "url": "",
+        "username": "0xBTCZhangSir",
+        "verified": true
+      }
+    ]
+  }
+}

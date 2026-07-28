@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067574136147185664",
+        "3_2067574136151420928",
+        "3_2067574136386330624",
+        "3_2067574136361136128"
+      ],
+      "media_source_tweet_id": [
+        "2067574138324086906",
+        "2067574138324086906",
+        "2067574138324086906",
+        "2067574138324086906"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2067593868288344553",
+    "created_at": "2026-06-18T13:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067593868288344553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239457591417171973",
+          "start": 3,
+          "username": "GFWfrog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cSK73YMYB5",
+          "end": 133,
+          "expanded_url": "https://x.com/GFWfrog/status/2067574138324086906/photo/1",
+          "media_key": "3_2067574136147185664",
+          "start": 110,
+          "url": "https://t.co/cSK73YMYB5"
+        },
+        {
+          "display_url": "pic.x.com/cSK73YMYB5",
+          "end": 133,
+          "expanded_url": "https://x.com/GFWfrog/status/2067574138324086906/photo/1",
+          "media_key": "3_2067574136151420928",
+          "start": 110,
+          "url": "https://t.co/cSK73YMYB5"
+        },
+        {
+          "display_url": "pic.x.com/cSK73YMYB5",
+          "end": 133,
+          "expanded_url": "https://x.com/GFWfrog/status/2067574138324086906/photo/1",
+          "media_key": "3_2067574136386330624",
+          "start": 110,
+          "url": "https://t.co/cSK73YMYB5"
+        },
+        {
+          "display_url": "pic.x.com/cSK73YMYB5",
+          "end": 133,
+          "expanded_url": "https://x.com/GFWfrog/status/2067574138324086906/photo/1",
+          "media_key": "3_2067574136361136128",
+          "start": 110,
+          "url": "https://t.co/cSK73YMYB5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067593868288344553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067574138324086906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GFWfrog: 毒尿布新闻爆出后，资深老粉红、《无限恐怖》作者zhtttyzhttty才发现自己不到三个月的孩子一直红屁股的原因，恍如大梦初醒，发现中国的国标根本就是个屁。果然铁拳治百病😅😅😅\n\n😎 匿名投稿 https://t.co/cSK73YMYB5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2067574136147185664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF_uOvWkAABSSj.jpg",
+        "width": 634
+      },
+      {
+        "height": 787,
+        "media_key": "3_2067574136151420928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF_uOwXMAAzzEF.jpg",
+        "width": 640
+      },
+      {
+        "height": 613,
+        "media_key": "3_2067574136386330624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF_uPoXoAAJkTN.jpg",
+        "width": 640
+      },
+      {
+        "height": 790,
+        "media_key": "3_2067574136361136128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF_uPiXMAALcrl.jpg",
+        "width": 637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067574136147185664",
+            "3_2067574136151420928",
+            "3_2067574136386330624",
+            "3_2067574136361136128"
+          ],
+          "media_source_tweet_id": [
+            "2067574138324086906",
+            "2067574138324086906",
+            "2067574138324086906",
+            "2067574138324086906"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2067593868288344553",
+        "created_at": "2026-06-18T13:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067593868288344553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239457591417171973",
+              "start": 3,
+              "username": "GFWfrog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSK73YMYB5",
+              "end": 133,
+              "expanded_url": "https://x.com/GFWfrog/status/2067574138324086906/photo/1",
+              "media_key": "3_2067574136147185664",
+              "start": 110,
+              "url": "https://t.co/cSK73YMYB5"
+            },
+            {
+              "display_url": "pic.x.com/cSK73YMYB5",
+              "end": 133,
+              "expanded_url": "https://x.com/GFWfrog/status/2067574138324086906/photo/1",
+              "media_key": "3_2067574136151420928",
+              "start": 110,
+              "url": "https://t.co/cSK73YMYB5"
+            },
+            {
+              "display_url": "pic.x.com/cSK73YMYB5",
+              "end": 133,
+              "expanded_url": "https://x.com/GFWfrog/status/2067574138324086906/photo/1",
+              "media_key": "3_2067574136386330624",
+              "start": 110,
+              "url": "https://t.co/cSK73YMYB5"
+            },
+            {
+              "display_url": "pic.x.com/cSK73YMYB5",
+              "end": 133,
+              "expanded_url": "https://x.com/GFWfrog/status/2067574138324086906/photo/1",
+              "media_key": "3_2067574136361136128",
+              "start": 110,
+              "url": "https://t.co/cSK73YMYB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067593868288344553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067574138324086906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GFWfrog: 毒尿布新闻爆出后，资深老粉红、《无限恐怖》作者zhtttyzhttty才发现自己不到三个月的孩子一直红屁股的原因，恍如大梦初醒，发现中国的国标根本就是个屁。果然铁拳治百病😅😅😅\n\n😎 匿名投稿 https://t.co/cSK73YMYB5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067574136147185664",
+            "3_2067574136151420928",
+            "3_2067574136386330624",
+            "3_2067574136361136128"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "conversation_id": "2067574138324086906",
+        "created_at": "2026-06-18T11:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067574138324086906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSK73YMYB5",
+              "end": 120,
+              "expanded_url": "https://x.com/GFWfrog/status/2067574138324086906/photo/1",
+              "media_key": "3_2067574136147185664",
+              "start": 97,
+              "url": "https://t.co/cSK73YMYB5"
+            },
+            {
+              "display_url": "pic.x.com/cSK73YMYB5",
+              "end": 120,
+              "expanded_url": "https://x.com/GFWfrog/status/2067574138324086906/photo/1",
+              "media_key": "3_2067574136151420928",
+              "start": 97,
+              "url": "https://t.co/cSK73YMYB5"
+            },
+            {
+              "display_url": "pic.x.com/cSK73YMYB5",
+              "end": 120,
+              "expanded_url": "https://x.com/GFWfrog/status/2067574138324086906/photo/1",
+              "media_key": "3_2067574136386330624",
+              "start": 97,
+              "url": "https://t.co/cSK73YMYB5"
+            },
+            {
+              "display_url": "pic.x.com/cSK73YMYB5",
+              "end": 120,
+              "expanded_url": "https://x.com/GFWfrog/status/2067574138324086906/photo/1",
+              "media_key": "3_2067574136361136128",
+              "start": 97,
+              "url": "https://t.co/cSK73YMYB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067574138324086906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 6090,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "毒尿布新闻爆出后，资深老粉红、《无限恐怖》作者zhtttyzhttty才发现自己不到三个月的孩子一直红屁股的原因，恍如大梦初醒，发现中国的国标根本就是个屁。果然铁拳治百病😅😅😅\n\n😎 匿名投稿 https://t.co/cSK73YMYB5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 839,
+          "like_count": 1479,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 2669
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/aVPvX0T16B 网页投稿 150岁爷习近平粉丝群：https://t.co/tzbqdA1XzO\n电报频道：https://t.co/Evu48wn45r \n#习近平150岁倒计时 #大自爆运动 #大冲塔运动 #大躺平运动 #不正确记忆\n邮箱：gfwfrog@gmail.com 🐸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 105,
+                "tag": "习近平150岁倒计时"
+              },
+              {
+                "end": 123,
+                "start": 117,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 130,
+                "start": 124,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "大躺平运动"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "不正确记忆"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gfwbao.com",
+                "end": 33,
+                "expanded_url": "http://gfwbao.com",
+                "start": 10,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 74,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 51,
+                "url": "https://t.co/tzbqdA1XzO"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 103,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 80,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2058872944034558054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050371764165767168/HypsUXGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264867,
+          "following_count": 2546,
+          "like_count": 128794,
+          "listed_count": 916,
+          "media_count": 7548,
+          "tweet_count": 14283
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

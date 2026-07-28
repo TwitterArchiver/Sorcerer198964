@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2063811562570473872",
+    "created_at": "2026-06-08T02:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063811562570473872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer1311"
+        },
+        {
+          "end": 29,
+          "id": "1572069646316052481",
+          "start": 18,
+          "username": "nyanfox123"
+        },
+        {
+          "end": 43,
+          "id": "1258361136841457664",
+          "start": 30,
+          "username": "ShiauPa46QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063811562570473872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063811511492223356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer1311: @nyanfox123 @ShiauPa46QwQ 我在美国的朋友也说是用的螺内酯，但是据他说原因是开不到色普龙，比卡鲁胺的社群数据也很少，CPA可以直接检测睾酮判断hrt效果的特性也使得控制比较容易\n所以欧美那边放弃色普龙而选用螺内酯是有什…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2063811562570473872",
+        "created_at": "2026-06-08T02:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063811562570473872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer1311"
+            },
+            {
+              "end": 29,
+              "id": "1572069646316052481",
+              "start": 18,
+              "username": "nyanfox123"
+            },
+            {
+              "end": 43,
+              "id": "1258361136841457664",
+              "start": 30,
+              "username": "ShiauPa46QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063811562570473872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063811511492223356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer1311: @nyanfox123 @ShiauPa46QwQ 我在美国的朋友也说是用的螺内酯，但是据他说原因是开不到色普龙，比卡鲁胺的社群数据也很少，CPA可以直接检测睾酮判断hrt效果的特性也使得控制比较容易\n所以欧美那边放弃色普龙而选用螺内酯是有什…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2063632387108737256",
+        "created_at": "2026-06-08T02:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063811511492223356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1572069646316052481",
+              "start": 0,
+              "username": "nyanfox123"
+            },
+            {
+              "end": 25,
+              "id": "1258361136841457664",
+              "start": 12,
+              "username": "ShiauPa46QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063811511492223356",
+        "in_reply_to_user_id": "1572069646316052481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063786692499382681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanfox123 @ShiauPa46QwQ 我在美国的朋友也说是用的螺内酯，但是据他说原因是开不到色普龙，比卡鲁胺的社群数据也很少，CPA可以直接检测睾酮判断hrt效果的特性也使得控制比较容易\n所以欧美那边放弃色普龙而选用螺内酯是有什么数据或者文献支持吗？有没有比较权威的综述呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 773,
+          "like_count": 1136,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2264
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T03:46:38.000Z",
+        "description": "坐标北京｜03年8月MtF🏳️‍⚧️｜🍥HRT2023.10.15｜平时的爱好是收藏轻小说和漫画｜百合小甜文suki｜最近在补番｜正在学习cfa",
+        "id": "1572069646316052481",
+        "name": "雪之狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733696878905323520/S9E5hyM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 676,
+          "like_count": 16579,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 627
+        },
+        "username": "nyanfox123",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-07T11:41:21.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️|2007年生|二次元正太控|漢語○ English△ にほんご△|亞文化大手子|曾经是语言学爱好者和Conlanger|希望和大家交朋友！\n|前世:@ShiauPa0746|无涩里推@ShiauPa_elo\n|Bluesky: https://t.co/i23vE9weHf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "ShiauPa0746"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "ShiauPa_elo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shiaup…",
+                "end": 147,
+                "expanded_url": "http://bsky.app/profile/shiaupa.t",
+                "start": 124,
+                "url": "https://t.co/i23vE9weHf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiaupa.top",
+                "end": 23,
+                "expanded_url": "http://shiaupa.top",
+                "start": 0,
+                "url": "https://t.co/ckdLtAYPqm"
+              }
+            ]
+          }
+        },
+        "id": "1258361136841457664",
+        "location": "Earth",
+        "name": "晓怕ShiauPa（互关寻回中😿）",
+        "pinned_tweet_id": "2061733153858109459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060354946793635841/Bz1Lrhw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 277,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/ckdLtAYPqm",
+        "username": "ShiauPa46QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

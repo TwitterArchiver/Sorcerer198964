@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2067894970380644825",
+    "created_at": "2026-06-19T08:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067894970380644825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1068552921392930817",
+          "start": 3,
+          "username": "alpha_argon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067894970380644825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067833810474168550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alpha_argon: 操你妈的微软死妈傻逼玩意狗日杀千刀 Outlook 部门就是婊子养的不知道丢了我多少封邮件没见过那么成事不足败事有余吃干饭混吃等死的死马部门瞎几把搞真他妈还不如用 QQ 邮箱了妈了个巴子逼我每天翻垃圾箱再用 Outlook 我他妈就是傻逼整个微…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 709,
+        "media_key": "3_2067833797182382080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJr4feaYAAEKpS.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2067894970380644825",
+        "created_at": "2026-06-19T08:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067894970380644825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1068552921392930817",
+              "start": 3,
+              "username": "alpha_argon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067894970380644825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067833810474168550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alpha_argon: 操你妈的微软死妈傻逼玩意狗日杀千刀 Outlook 部门就是婊子养的不知道丢了我多少封邮件没见过那么成事不足败事有余吃干饭混吃等死的死马部门瞎几把搞真他妈还不如用 QQ 邮箱了妈了个巴子逼我每天翻垃圾箱再用 Outlook 我他妈就是傻逼整个微…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067833797182382080"
+          ]
+        },
+        "author_id": "1068552921392930817",
+        "conversation_id": "2067833810474168550",
+        "created_at": "2026-06-19T04:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067833810474168550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0URL2gz7xM",
+              "end": 155,
+              "expanded_url": "https://x.com/alpha_argon/status/2067833810474168550/photo/1",
+              "media_key": "3_2067833797182382080",
+              "start": 132,
+              "url": "https://t.co/0URL2gz7xM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067833810474168550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 25694,
+          "like_count": 108,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈的微软死妈傻逼玩意狗日杀千刀 Outlook 部门就是婊子养的不知道丢了我多少封邮件没见过那么成事不足败事有余吃干饭混吃等死的死马部门瞎几把搞真他妈还不如用 QQ 邮箱了妈了个巴子逼我每天翻垃圾箱再用 Outlook 我他妈就是傻逼整个微软都烂透了赶紧倒闭 https://t.co/0URL2gz7xM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 846,
+          "like_count": 1501,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 2688
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-30T17:10:44.000Z",
+        "description": "Kinda a type/graphics designer, vibeless macOS/web developer, and homo guy.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "argon.red",
+                "end": 23,
+                "expanded_url": "https://argon.red",
+                "start": 0,
+                "url": "https://t.co/pQ2tOVPhq1"
+              }
+            ]
+          }
+        },
+        "id": "1068552921392930817",
+        "name": "Alpha Argon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984634401414922242/H09lbeOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 104,
+          "like_count": 491,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/pQ2tOVPhq1",
+        "username": "alpha_argon",
+        "verified": false
+      }
+    ]
+  }
+}

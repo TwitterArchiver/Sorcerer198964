@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2072951696976969967",
+    "created_at": "2026-07-03T07:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072951696976969967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nanwhju/status…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/nanwhju/status/2072875936144560291",
+          "start": 12,
+          "url": "https://t.co/jaEVp3g99b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072951696976969967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072875936144560291",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阿片戒断腹泻很常见的… https://t.co/jaEVp3g99b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2072951696976969967",
+        "created_at": "2026-07-03T07:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072951696976969967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanwhju/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/nanwhju/status/2072875936144560291",
+              "start": 12,
+              "url": "https://t.co/jaEVp3g99b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072951696976969967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072875936144560291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿片戒断腹泻很常见的… https://t.co/jaEVp3g99b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052994836266196992",
+        "conversation_id": "2072875936144560291",
+        "created_at": "2026-07-03T02:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072875936144560291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yls69979546/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/yls69979546/status/2072655468636582236",
+              "start": 19,
+              "url": "https://t.co/aOqr2SMBZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072875936144560291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072655468636582236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿片类早点戒掉，真的戒断反应千奇百怪 https://t.co/aOqr2SMBZI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 872,
+          "like_count": 1585,
+          "listed_count": 2,
+          "media_count": 381,
+          "tweet_count": 2802
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T06:11:46.000Z",
+        "description": "楠教授三世：https://t.co/RgOC6C06xC\n\n飞机✈️客服专人回复，推特私信无人回复",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 29,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 6,
+                "url": "https://t.co/RgOC6C06xC"
+              }
+            ]
+          }
+        },
+        "id": "2052994836266196992",
+        "location": "专注一款产品",
+        "name": "分享4-ho-met不好体验//jiel全网倡议禁止阿片类",
+        "pinned_tweet_id": "2057661451872125082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053016318086201344/0a8jdtk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 321,
+          "like_count": 925,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "Nanwhju",
+        "verified": false
+      }
+    ]
+  }
+}

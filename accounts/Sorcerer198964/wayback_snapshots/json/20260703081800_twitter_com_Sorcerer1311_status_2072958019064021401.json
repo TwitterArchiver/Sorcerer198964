@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2072958019064021401",
+    "created_at": "2026-07-03T08:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072958019064021401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/daniela6071959…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/daniela6071959/status/2072708169751502882",
+          "start": 12,
+          "url": "https://t.co/NEJuUzN7h0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072958019064021401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072708169751502882",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骑行台也能这样玩就好了 https://t.co/NEJuUzN7h0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29466,
+        "height": 1280,
+        "media_key": "7_2072659890154164224",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2072659890154164224/pu/img/ZqfOZSmZ0RgJCU1N.jpg",
+        "public_metrics": {
+          "view_count": 140588
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072659890154164224/pu/vid/avc1/320x568/ghyvhm8Mt5aHeE22.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072659890154164224/pu/vid/avc1/480x852/O4sviCjJGL84tvUU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072659890154164224/pu/vid/avc1/720x1280/HWeXgEUzP8ftUk77.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2072659890154164224/pu/pl/7bKhenx9bP9ghVLX.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2072958019064021401",
+        "created_at": "2026-07-03T08:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072958019064021401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daniela6071959…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/daniela6071959/status/2072708169751502882",
+              "start": 12,
+              "url": "https://t.co/NEJuUzN7h0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072958019064021401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072708169751502882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骑行台也能这样玩就好了 https://t.co/NEJuUzN7h0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2072659890154164224"
+          ]
+        },
+        "author_id": "1987846339196297216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072708169751502882",
+        "created_at": "2026-07-02T15:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072708169751502882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xr5BEm9eod",
+              "end": 135,
+              "expanded_url": "https://x.com/Daniela6071959/status/2072708169751502882/video/1",
+              "media_key": "7_2072659890154164224",
+              "start": 112,
+              "url": "https://t.co/xr5BEm9eod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072708169751502882",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 398,
+          "impression_count": 358353,
+          "like_count": 2009,
+          "quote_count": 24,
+          "reply_count": 19,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "A mãe só queria que ela pedalasse um pouquinho…\nAgora ela pergunta todo dia se pode “entrar no jogo” de novo. 😂 https://t.co/xr5BEm9eod"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 872,
+          "like_count": 1585,
+          "listed_count": 2,
+          "media_count": 381,
+          "tweet_count": 2803
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T11:34:59.000Z",
+        "description": "Estudante 📚amo viajar ✈️faço Thread horas vagas 🤗😍",
+        "id": "1987846339196297216",
+        "name": "Dani",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056088403167281152/UyCz1cOa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4932,
+          "following_count": 162,
+          "like_count": 2715,
+          "listed_count": 15,
+          "media_count": 945,
+          "tweet_count": 2164
+        },
+        "url": "",
+        "username": "Daniela6071959",
+        "verified": false
+      }
+    ]
+  }
+}

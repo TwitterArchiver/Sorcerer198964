@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2073490439144095889",
+    "created_at": "2026-07-04T19:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T20:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073490439144095889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quanlujun/stat…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/quanlujun/status/2073088074649907214",
+          "start": 23,
+          "url": "https://t.co/P5IbgNh7ex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073490439144095889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073088074649907214",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到底是想要自己的国家，还是想要国家是自己的？ https://t.co/P5IbgNh7ex"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 77321,
+        "height": 376,
+        "media_key": "13_2073087315350802433",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073087315350802433/img/KW_HlaUee2qGoPs8.jpg",
+        "public_metrics": {
+          "view_count": 49632
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073087315350802433/vid/avc1/458x270/78IJ4fdUB7b289iH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073087315350802433/vid/avc1/640x376/ShDTwEwqvwZp46uN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073087315350802433/pl/XRynEQr_F0VqZp3R.m3u8?v=cfc"
+          }
+        ],
+        "width": 640
+      },
+      {
+        "height": 1070,
+        "media_key": "3_2073087315338199040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUV7fsaAAAwknw.jpg",
+        "width": 1070
+      },
+      {
+        "height": 1461,
+        "media_key": "3_2073087315313115136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUV7fmbQAA0nEX.jpg",
+        "width": 1320
+      },
+      {
+        "height": 480,
+        "media_key": "3_2073087315321499649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUV7fobMAED5Y3.jpg",
+        "width": 380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2073490439144095889",
+        "created_at": "2026-07-04T19:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073490439144095889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quanlujun/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/quanlujun/status/2073088074649907214",
+              "start": 23,
+              "url": "https://t.co/P5IbgNh7ex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073490439144095889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073088074649907214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底是想要自己的国家，还是想要国家是自己的？ https://t.co/P5IbgNh7ex"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073087315350802433",
+            "3_2073087315338199040",
+            "3_2073087315313115136",
+            "3_2073087315321499649"
+          ]
+        },
+        "author_id": "1653278595719081986",
+        "conversation_id": "2073088074649907214",
+        "created_at": "2026-07-03T16:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073088074649907214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/724Q5NQajV",
+              "end": 116,
+              "expanded_url": "https://x.com/QuanLujun/status/2073088074649907214/video/1",
+              "media_key": "13_2073087315350802433",
+              "start": 93,
+              "url": "https://t.co/724Q5NQajV"
+            },
+            {
+              "display_url": "pic.x.com/724Q5NQajV",
+              "end": 116,
+              "expanded_url": "https://x.com/QuanLujun/status/2073088074649907214/video/1",
+              "media_key": "3_2073087315338199040",
+              "start": 93,
+              "url": "https://t.co/724Q5NQajV"
+            },
+            {
+              "display_url": "pic.x.com/724Q5NQajV",
+              "end": 116,
+              "expanded_url": "https://x.com/QuanLujun/status/2073088074649907214/video/1",
+              "media_key": "3_2073087315313115136",
+              "start": 93,
+              "url": "https://t.co/724Q5NQajV"
+            },
+            {
+              "display_url": "pic.x.com/724Q5NQajV",
+              "end": 116,
+              "expanded_url": "https://x.com/QuanLujun/status/2073088074649907214/video/1",
+              "media_key": "3_2073087315321499649",
+              "start": 93,
+              "url": "https://t.co/724Q5NQajV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073088074649907214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 97233,
+          "like_count": 636,
+          "quote_count": 10,
+          "reply_count": 153,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "「不要为我而哀悼。我们真正需要哀悼的，是我们失去了自己的国家。也不要停留在哀伤中，如果真的要哀伤，我请你们每一个人都去为图伯特的事业而战！」\n-- 洛嘎然赞 Lobga Rangzen https://t.co/724Q5NQajV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 882,
+          "like_count": 1593,
+          "listed_count": 2,
+          "media_count": 385,
+          "tweet_count": 2820
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T06:02:43.000Z",
+        "description": "台湾就是台湾；守护民主自由就是守护普世价值与人类的底线未来，对邪恶中共说不！结束习近平中共恐怖主义独裁纳粹暴政祸害世界；「世界需要真实的声音」 ！🔥【欢迎加入反共电报群https://t.co/xxJHoK3DNT】基督✝️文明世界必将战胜邪恶撒旦；守护民主自由/荣耀基督联盟 Luke-权录军",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+_MojCr8soxMyN…",
+                "end": 107,
+                "expanded_url": "https://t.me/+_MojCr8soxMyNGEx",
+                "start": 84,
+                "url": "https://t.co/xxJHoK3DNT"
+              }
+            ]
+          }
+        },
+        "id": "1653278595719081986",
+        "location": "California, USA",
+        "name": "LuJun Quan",
+        "pinned_tweet_id": "2069514459455078543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780063090182365184/OY7ky_fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23596,
+          "following_count": 8625,
+          "like_count": 37881,
+          "listed_count": 121,
+          "media_count": 3055,
+          "tweet_count": 19978
+        },
+        "url": "",
+        "username": "QuanLujun",
+        "verified": true
+      }
+    ]
+  }
+}

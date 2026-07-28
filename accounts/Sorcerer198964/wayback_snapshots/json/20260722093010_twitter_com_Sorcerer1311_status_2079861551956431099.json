@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2079861551956431099",
+    "created_at": "2026-07-22T09:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T10:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079861551956431099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2079843892422213958",
+          "start": 25,
+          "url": "https://t.co/5a7kSPUJAp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079861551956431099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079843892422213958",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还不如吃了…\n狗肉没有全国统一的犬类屠宰检疫规程 https://t.co/5a7kSPUJAp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 307,
+        "media_key": "3_2079745671197061120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNy9q0LbcAAQ9OH.png",
+        "width": 711
+      },
+      {
+        "height": 1314,
+        "media_key": "3_2079745706500427776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNy9s3saEAA1bTq.jpg",
+        "width": 1135
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2079861551956431099",
+        "created_at": "2026-07-22T09:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079861551956431099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2079843892422213958",
+              "start": 25,
+              "url": "https://t.co/5a7kSPUJAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079861551956431099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079843892422213958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还不如吃了…\n狗肉没有全国统一的犬类屠宰检疫规程 https://t.co/5a7kSPUJAp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079745671197061120",
+            "3_2079745706500427776"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2079843892422213958",
+        "created_at": "2026-07-22T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079843892422213958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PuZqBe9M9j",
+              "end": 101,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2079843892422213958/photo/1",
+              "media_key": "3_2079745671197061120",
+              "start": 78,
+              "url": "https://t.co/PuZqBe9M9j"
+            },
+            {
+              "display_url": "pic.x.com/PuZqBe9M9j",
+              "end": 101,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2079843892422213958/photo/1",
+              "media_key": "3_2079745706500427776",
+              "start": 78,
+              "url": "https://t.co/PuZqBe9M9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079843892422213958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "7月21日，广西玉林“狗车被拦后失踪”事件出现后续。\n\n据参与追车的志愿者称，这辆满载犬只的货车离开玉林后，被一路追踪至广东湛江雷州，并于当地再次被截停。\n\n志愿者估计，车辆最初装有500余只犬只，其中包括戴有项圈的柴犬、秋田犬等宠物犬，经过长时间高温运输，已有部分犬只因缺水、挤压和摔落死亡。\n\n目前，车辆及剩余犬只已由雷州市农业农村部门接管。\n志愿者称，因犬只没有检疫手续，相关部门拟交由第三方机构进行“无害化处理”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 14189,
+          "like_count": 103,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "7月21日，广西玉林“狗车被拦后失踪”事件出现后续。\n\n据参与追车的志愿者称，这辆满载犬只的货车离开玉林后，被一路追踪至广东湛江雷州，并于当地再次被截停。 https://t.co/PuZqBe9M9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 925,
+          "like_count": 1770,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 2991
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2078717699849630025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243192,
+          "following_count": 1079,
+          "like_count": 9805,
+          "listed_count": 8830,
+          "media_count": 50850,
+          "tweet_count": 58069
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

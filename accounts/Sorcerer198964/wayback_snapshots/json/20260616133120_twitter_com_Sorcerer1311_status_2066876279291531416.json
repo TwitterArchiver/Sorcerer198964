@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066862481990172672"
+      ],
+      "media_source_tweet_id": [
+        "2066862489292480654"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066876279291531416",
+    "created_at": "2026-06-16T13:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066876279291531416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748688710307115008",
+          "start": 3,
+          "username": "nine_and_9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V5UJVgaivv",
+          "end": 47,
+          "expanded_url": "https://x.com/nine_and_9/status/2066862489292480654/photo/1",
+          "media_key": "3_2066862481990172672",
+          "start": 24,
+          "url": "https://t.co/V5UJVgaivv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066876279291531416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066862489292480654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nine_and_9: 华工神秘小团体 https://t.co/V5UJVgaivv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2066862481990172672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK74egabQAAHx6x.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066862481990172672"
+          ],
+          "media_source_tweet_id": [
+            "2066862489292480654"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066876279291531416",
+        "created_at": "2026-06-16T13:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066876279291531416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748688710307115008",
+              "start": 3,
+              "username": "nine_and_9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V5UJVgaivv",
+              "end": 47,
+              "expanded_url": "https://x.com/nine_and_9/status/2066862489292480654/photo/1",
+              "media_key": "3_2066862481990172672",
+              "start": 24,
+              "url": "https://t.co/V5UJVgaivv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066876279291531416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066862489292480654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nine_and_9: 华工神秘小团体 https://t.co/V5UJVgaivv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066862481990172672"
+          ]
+        },
+        "author_id": "1748688710307115008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066862489292480654",
+        "created_at": "2026-06-16T12:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066862489292480654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V5UJVgaivv",
+              "end": 31,
+              "expanded_url": "https://x.com/nine_and_9/status/2066862489292480654/photo/1",
+              "media_key": "3_2066862481990172672",
+              "start": 8,
+              "url": "https://t.co/V5UJVgaivv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066862489292480654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "华工神秘小团体 https://t.co/V5UJVgaivv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 825,
+          "like_count": 1435,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 2621
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T12:47:43.000Z",
+        "description": "",
+        "id": "1748688710307115008",
+        "name": "九某人",
+        "pinned_tweet_id": "2040311755105255633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748689466552942592/cN2J5xLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 220,
+          "like_count": 1960,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1270
+        },
+        "username": "nine_and_9",
+        "verified": true
+      }
+    ]
+  }
+}

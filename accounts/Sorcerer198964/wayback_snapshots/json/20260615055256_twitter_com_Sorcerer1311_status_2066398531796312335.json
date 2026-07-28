@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2066398531796312335",
+    "created_at": "2026-06-15T05:52:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066398531796312335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaohu/status/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/xiaohu/status/2066373174816825629",
+          "start": 10,
+          "url": "https://t.co/Dc4kWujeGq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066398531796312335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066373174816825629",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？？？？？？这也行 https://t.co/Dc4kWujeGq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1382,
+        "media_key": "3_2066373166067564544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK07ckjbQAA3DNO.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2066398531796312335",
+        "created_at": "2026-06-15T05:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066398531796312335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaohu/status/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/xiaohu/status/2066373174816825629",
+              "start": 10,
+              "url": "https://t.co/Dc4kWujeGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066398531796312335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066373174816825629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？？？？？这也行 https://t.co/Dc4kWujeGq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066373166067564544"
+          ]
+        },
+        "author_id": "1764818331822182400",
+        "conversation_id": "2066373174816825629",
+        "created_at": "2026-06-15T04:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066373174816825629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ft2xS6YHaa",
+              "end": 62,
+              "expanded_url": "https://x.com/xiaohu/status/2066373174816825629/photo/1",
+              "media_key": "3_2066373166067564544",
+              "start": 39,
+              "url": "https://t.co/ft2xS6YHaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066373174816825629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 28761,
+          "like_count": 121,
+          "quote_count": 8,
+          "reply_count": 43,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "溜溜梅开盘暴涨 189%\n\n溜溜梅简称 LLM\n\n正宗的 AI 大模型概念股 https://t.co/ft2xS6YHaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 812,
+          "like_count": 1399,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 2598
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:01:23.000Z",
+        "description": "带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xiaohu.ai",
+                "end": 57,
+                "expanded_url": "http://xiaohu.ai",
+                "start": 34,
+                "url": "https://t.co/4PVaHEr5r3"
+              },
+              {
+                "display_url": "xiaohu.ai/c/xiaohu-ai/xi…",
+                "end": 96,
+                "expanded_url": "https://www.xiaohu.ai/c/xiaohu-ai/xiaohu-ai-e5aae9",
+                "start": 73,
+                "url": "https://t.co/LIEXfWUHv1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaohu.ai",
+                "end": 23,
+                "expanded_url": "http://xiaohu.ai",
+                "start": 0,
+                "url": "https://t.co/4PVaHEr5r3"
+              }
+            ]
+          }
+        },
+        "id": "1764818331822182400",
+        "location": "Mars",
+        "name": "小互",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109161,
+          "following_count": 1669,
+          "like_count": 2266,
+          "listed_count": 1636,
+          "media_count": 6415,
+          "tweet_count": 10235
+        },
+        "url": "https://t.co/4PVaHEr5r3",
+        "username": "xiaohu",
+        "verified": true
+      }
+    ]
+  }
+}

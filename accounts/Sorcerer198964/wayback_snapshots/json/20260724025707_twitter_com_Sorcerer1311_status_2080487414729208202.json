@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080487404537069568"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027310982",
+          "name": "Wells Fargo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "2080487414729208202",
+    "created_at": "2026-07-24T02:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T03:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080487414729208202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ekwAurvQGl",
+          "end": 60,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2080487414729208202/photo/1",
+          "media_key": "3_2080487404537069568",
+          "start": 37,
+          "url": "https://t.co/ekwAurvQGl"
+        },
+        {
+          "display_url": "x.com/xiaomusg/statu…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/xiaomusg/status/2080195163658522812",
+          "start": 61,
+          "url": "https://t.co/IjkyzZpHkU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080487414729208202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080195163658522812",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哥们15年吹的牛皮你打算什么时候回收？\n别忘了tsla最大回撤是75 ％ https://t.co/ekwAurvQGl https://t.co/IjkyzZpHkU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1916,
+        "media_key": "3_2080487404537069568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9gRYMbQAADmIh.jpg",
+        "width": 1107
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080487404537069568"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027310982",
+              "name": "Wells Fargo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2080487414729208202",
+        "created_at": "2026-07-24T02:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080487414729208202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ekwAurvQGl",
+              "end": 60,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2080487414729208202/photo/1",
+              "media_key": "3_2080487404537069568",
+              "start": 37,
+              "url": "https://t.co/ekwAurvQGl"
+            },
+            {
+              "display_url": "x.com/xiaomusg/statu…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/xiaomusg/status/2080195163658522812",
+              "start": 61,
+              "url": "https://t.co/IjkyzZpHkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080487414729208202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080195163658522812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哥们15年吹的牛皮你打算什么时候回收？\n别忘了tsla最大回撤是75 ％ https://t.co/ekwAurvQGl https://t.co/IjkyzZpHkU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726108109486129152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027310982",
+              "name": "Wells Fargo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2080195163658522812",
+        "created_at": "2026-07-23T07:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080195163658522812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080195163658522812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "承认吧，你真的不会交易美股。\n\n特斯拉EPS miss了34%，我反而觉得该买了。\n\n财报之后，推特上全在骂特斯拉。\n\n\"利润崩了\"\"每台车赚的钱越来越少\"\"Wells Fargo $130目标价要应验了\"。\n\n盘后跌了4%，评论区已经在办丧事了。\n\n但你把数据拆开看看。\n\n营收$282.6亿，超预期，同比+26%。交付48万台，创纪录，能源储存业务13.5GWh，翻倍增长。营收和交付量全部在加速。\n\nEPS为什么miss？不是因为车卖不动了，是因为特斯拉在疯狂花钱，建Robotaxi的产线、造Optimus机器人、扩Megapack储能产能。这笔钱吃掉了短期利润。\n\n听起来是不是很耳熟？\n\n跟谷歌的故事一模一样，营收暴增但资本开支更猛，赚了钱全花掉了。\n\n谷歌花$2050亿搞AI基建，市场叫它\"军备竞赛\"，特斯拉花几十亿搞Robotaxi和机器人，市场叫它\"利润崩了\"，同样的行为，不同的叙事，只是因为一个叫AI一个叫电动车。\n\n但特斯拉现在做的事跟AI高度重叠，FSD就是AI，Robotaxi就是AI落地，Optimus就是物理AI，马斯克自己说过Optimus最终占特斯拉80%的价值。\n\n一家公司利润短期miss但营收在加速，花掉的钱全砸在三年后可能爆发的业务上，你是看这个季度的$0.33，还是看三年后Robotaxi和机器人量产之后的利润？\n\nWells Fargo给$130我尊重但不认同。如果特斯拉只是一家卖车的公司，$130可能是对的。\n\n但如果它是一家AI公司碰巧也卖车，那现在$370的价格可能是三年里最便宜的时候。\n\n这个判断很可能被骂，没关系，有些判断就是要等子弹飞一会。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 24110,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 63,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "承认吧，你真的不会交易美股。\n\n特斯拉EPS miss了34%，我反而觉得该买了。\n\n财报之后，推特上全在骂特斯拉。\n\n\"利润崩了\"\"每台车赚的钱越来越少\"\"Wells Fargo $130目标价要应验了\"。\n\n盘后跌了4%，评论区已经在办丧事了。\n\n但你把数据拆开看看。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 928,
+          "like_count": 1803,
+          "listed_count": 4,
+          "media_count": 419,
+          "tweet_count": 3030
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T05:20:34.000Z",
+        "description": "前沿科技爱好者 🤖 | 美股基本面分析 | 加密周期与大宗商品入门\n本推为：投研笔记与实盘记录。用数据说话，拒绝 Fomo",
+        "id": "1726108109486129152",
+        "name": "小牧 SG 🇸🇬",
+        "pinned_tweet_id": "2056659988735803764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037171723540586500/JiDrQAiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9173,
+          "following_count": 1215,
+          "like_count": 5861,
+          "listed_count": 26,
+          "media_count": 401,
+          "tweet_count": 4675
+        },
+        "url": "",
+        "username": "xiaomusg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2064275421462720728",
+    "created_at": "2026-06-09T09:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064275421462720728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuwenmewo/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/yuwenmewo/status/2064259367181189154",
+          "start": 3,
+          "url": "https://t.co/XXkvkMgF5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064275421462720728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064259367181189154",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "炒作 https://t.co/XXkvkMgF5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1880,
+        "media_key": "3_2064259235559649280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW41nvaMAAXEvN.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2064259280526848000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW44PQbMAAqSR8.jpg",
+        "width": 1880
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2064259314395865088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW46NbbYAAzIS4.jpg",
+        "width": 1880
+      },
+      {
+        "height": 1880,
+        "media_key": "3_2064259340647997440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW47vObIAAKQq1.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2064275421462720728",
+        "created_at": "2026-06-09T09:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064275421462720728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuwenmewo/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/yuwenmewo/status/2064259367181189154",
+              "start": 3,
+              "url": "https://t.co/XXkvkMgF5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064275421462720728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064259367181189154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "炒作 https://t.co/XXkvkMgF5x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064259235559649280",
+            "3_2064259280526848000",
+            "3_2064259314395865088",
+            "3_2064259340647997440"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064259367181189154",
+        "created_at": "2026-06-09T08:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064259367181189154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7LiEy5Wtu",
+              "end": 34,
+              "expanded_url": "https://x.com/YuwenMewo/status/2064259367181189154/photo/1",
+              "media_key": "3_2064259235559649280",
+              "start": 11,
+              "url": "https://t.co/m7LiEy5Wtu"
+            },
+            {
+              "display_url": "pic.x.com/m7LiEy5Wtu",
+              "end": 34,
+              "expanded_url": "https://x.com/YuwenMewo/status/2064259367181189154/photo/1",
+              "media_key": "3_2064259280526848000",
+              "start": 11,
+              "url": "https://t.co/m7LiEy5Wtu"
+            },
+            {
+              "display_url": "pic.x.com/m7LiEy5Wtu",
+              "end": 34,
+              "expanded_url": "https://x.com/YuwenMewo/status/2064259367181189154/photo/1",
+              "media_key": "3_2064259314395865088",
+              "start": 11,
+              "url": "https://t.co/m7LiEy5Wtu"
+            },
+            {
+              "display_url": "pic.x.com/m7LiEy5Wtu",
+              "end": 34,
+              "expanded_url": "https://x.com/YuwenMewo/status/2064259367181189154/photo/1",
+              "media_key": "3_2064259340647997440",
+              "start": 11,
+              "url": "https://t.co/m7LiEy5Wtu"
+            },
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2064030106792927363",
+              "start": 35,
+              "url": "https://t.co/BJGOESuxZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064259367181189154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 528,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064030106792927363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哥，我错了，别吓我😭 https://t.co/m7LiEy5Wtu https://t.co/BJGOESuxZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 782,
+          "like_count": 1190,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2344
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2064262526381244511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 11,
+          "like_count": 19,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 92
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

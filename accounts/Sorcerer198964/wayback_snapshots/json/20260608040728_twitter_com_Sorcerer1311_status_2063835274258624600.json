@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2063835274258624600",
+    "created_at": "2026-06-08T04:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063835274258624600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1965979248046518281",
+          "start": 3,
+          "username": "MindnightEvil"
+        },
+        {
+          "end": 32,
+          "id": "2041449281677045760",
+          "start": 19,
+          "username": "Sorcerer1311"
+        },
+        {
+          "end": 42,
+          "id": "1947191458173501441",
+          "start": 33,
+          "username": "kujo3727"
+        },
+        {
+          "end": 58,
+          "id": "1804357917505916929",
+          "start": 43,
+          "username": "KaiserDeng1978"
+        },
+        {
+          "end": 68,
+          "id": "156961481",
+          "start": 59,
+          "username": "ouchaiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063835274258624600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063834816643297421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MindnightEvil: @Sorcerer1311 @kujo3727 @KaiserDeng1978 @ouchaiya 他这哪是比烂，他这是自取其辱，国民党的烂谁知道是不是土共宣传夸大的，毕竟成王败寇嘛，现在中国还有给商纣王、隋炀帝翻案的呢。就算国民党烂，外忧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2063835274258624600",
+        "created_at": "2026-06-08T04:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063835274258624600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1965979248046518281",
+              "start": 3,
+              "username": "MindnightEvil"
+            },
+            {
+              "end": 32,
+              "id": "2041449281677045760",
+              "start": 19,
+              "username": "Sorcerer1311"
+            },
+            {
+              "end": 42,
+              "id": "1947191458173501441",
+              "start": 33,
+              "username": "kujo3727"
+            },
+            {
+              "end": 58,
+              "id": "1804357917505916929",
+              "start": 43,
+              "username": "KaiserDeng1978"
+            },
+            {
+              "end": 68,
+              "id": "156961481",
+              "start": 59,
+              "username": "ouchaiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063835274258624600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063834816643297421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MindnightEvil: @Sorcerer1311 @kujo3727 @KaiserDeng1978 @ouchaiya 他这哪是比烂，他这是自取其辱，国民党的烂谁知道是不是土共宣传夸大的，毕竟成王败寇嘛，现在中国还有给商纣王、隋炀帝翻案的呢。就算国民党烂，外忧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965979248046518281",
+        "conversation_id": "2063126682148753521",
+        "created_at": "2026-06-08T04:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063834816643297421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            },
+            {
+              "end": 23,
+              "id": "1947191458173501441",
+              "start": 14,
+              "username": "kujo3727"
+            },
+            {
+              "end": 39,
+              "id": "1804357917505916929",
+              "start": 24,
+              "username": "KaiserDeng1978"
+            },
+            {
+              "end": 49,
+              "id": "156961481",
+              "start": 40,
+              "username": "ouchaiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063834816643297421",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063573584812114217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 @kujo3727 @KaiserDeng1978 @ouchaiya 他这哪是比烂，他这是自取其辱，国民党的烂谁知道是不是土共宣传夸大的，毕竟成王败寇嘛，现在中国还有给商纣王、隋炀帝翻案的呢。就算国民党烂，外忧内患解决了之后也不排除人家会变好，台湾不就是例子吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 778,
+          "like_count": 1144,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2271
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T03:23:07.000Z",
+        "description": "",
+        "id": "1965979248046518281",
+        "name": "Evil Em",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965979390820687872/yvEOaiTx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 86,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1238
+        },
+        "username": "MindnightEvil",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T07:06:50.000Z",
+        "description": "如果你想撒气就自己滚去找🐔🦆自慰",
+        "id": "1947191458173501441",
+        "location": "我来自地狱",
+        "name": "珍宝_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061808276875223041/BWOs6gSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 49,
+          "like_count": 1217,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 73
+        },
+        "username": "kujo3727",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T03:37:12.000Z",
+        "description": "中国人",
+        "id": "1804357917505916929",
+        "location": "罗马帝国 君士坦丁堡",
+        "name": "然_ הָגִ'ימִי大蒂🌾",
+        "pinned_tweet_id": "2019044787832430735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036383410638462976/KRCjOgV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 886,
+          "like_count": 1294,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 1151
+        },
+        "username": "KaiserDeng1978",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-18T12:30:43.000Z",
+        "description": "毒舌。杠精。喜欢说尖酸刻薄的话。总是忍不住想要吐槽。无恶意，纯娱乐，别太当真，开心就好。正在学习日语中。\n日本語勉強中。たまに日本語でポスト（呟き）するけど、変な日本語だったら突っ込んでね！繋がれると嬉しいです 📌",
+        "id": "156961481",
+        "location": "Tokyo, Japan",
+        "name": "毒舌評論家",
+        "pinned_tweet_id": "2028783007835070613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021866135596232704/LEYZQ2zm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 1007,
+          "like_count": 1466,
+          "listed_count": 7,
+          "media_count": 216,
+          "tweet_count": 100836
+        },
+        "username": "ouchaiya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065447147978493952",
+        "3_2065447147970142208",
+        "3_2065447147961733120"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2065447191184072896",
+    "created_at": "2026-06-12T14:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065447191184072896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GiXQ4cP9Q1",
+          "end": 90,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2065447191184072896/photo/1",
+          "media_key": "3_2065447147978493952",
+          "start": 67,
+          "url": "https://t.co/GiXQ4cP9Q1"
+        },
+        {
+          "display_url": "pic.x.com/GiXQ4cP9Q1",
+          "end": 90,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2065447191184072896/photo/1",
+          "media_key": "3_2065447147970142208",
+          "start": 67,
+          "url": "https://t.co/GiXQ4cP9Q1"
+        },
+        {
+          "display_url": "pic.x.com/GiXQ4cP9Q1",
+          "end": 90,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2065447191184072896/photo/1",
+          "media_key": "3_2065447147961733120",
+          "start": 67,
+          "url": "https://t.co/GiXQ4cP9Q1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065447191184072896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "潮汕菜\n呃呃极度不推荐，不只是这一家而是整个菜系\n生腌很咸而且根本不惊艳，还要冒着肠胃炎风险\n蚝仔烙特别油腻\n就这个粥还超级升血糖… https://t.co/GiXQ4cP9Q1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065447147978493952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnxPOWaEAAXCsw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065447147970142208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnxPOUaoAAYQA5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065447147961733120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnxPOSaUAALD5b.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065447147978493952",
+            "3_2065447147970142208",
+            "3_2065447147961733120"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065447191184072896",
+        "created_at": "2026-06-12T14:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065447191184072896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GiXQ4cP9Q1",
+              "end": 90,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2065447191184072896/photo/1",
+              "media_key": "3_2065447147978493952",
+              "start": 67,
+              "url": "https://t.co/GiXQ4cP9Q1"
+            },
+            {
+              "display_url": "pic.x.com/GiXQ4cP9Q1",
+              "end": 90,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2065447191184072896/photo/1",
+              "media_key": "3_2065447147970142208",
+              "start": 67,
+              "url": "https://t.co/GiXQ4cP9Q1"
+            },
+            {
+              "display_url": "pic.x.com/GiXQ4cP9Q1",
+              "end": 90,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2065447191184072896/photo/1",
+              "media_key": "3_2065447147961733120",
+              "start": 67,
+              "url": "https://t.co/GiXQ4cP9Q1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065447191184072896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "潮汕菜\n呃呃极度不推荐，不只是这一家而是整个菜系\n生腌很咸而且根本不惊艳，还要冒着肠胃炎风险\n蚝仔烙特别油腻\n就这个粥还超级升血糖… https://t.co/GiXQ4cP9Q1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 804,
+          "like_count": 1345,
+          "listed_count": 2,
+          "media_count": 353,
+          "tweet_count": 2556
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

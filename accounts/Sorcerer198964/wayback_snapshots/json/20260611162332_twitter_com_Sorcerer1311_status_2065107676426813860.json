@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2065107676426813860",
+    "created_at": "2026-06-11T16:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065107676426813860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1602320477347000325",
+          "start": 3,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065107676426813860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064943711428166052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @landiantech: 真是个小机灵鬼！有黑客在恶意代码顶部增加生物武器合成和核武器设计提示词，让安全研究员使用 AI 扫描时触发安全策略而终止。\n\n大部分 AI 模型内置的安全对齐策略都会阻止用户咨询可能危害公共安全的问题，黑客的思路就是反向利用 AI 安全策略，让…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2064925557830381568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgW2roa8AA3eU1.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1040,
+        "media_key": "3_2064925557863890944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgW2rwaQAAIxRD.jpg",
+        "width": 1882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2065107676426813860",
+        "created_at": "2026-06-11T16:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065107676426813860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1602320477347000325",
+              "start": 3,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065107676426813860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064943711428166052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @landiantech: 真是个小机灵鬼！有黑客在恶意代码顶部增加生物武器合成和核武器设计提示词，让安全研究员使用 AI 扫描时触发安全策略而终止。\n\n大部分 AI 模型内置的安全对齐策略都会阻止用户咨询可能危害公共安全的问题，黑客的思路就是反向利用 AI 安全策略，让…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064925557830381568",
+            "3_2064925557863890944"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "conversation_id": "2064943711428166052",
+        "created_at": "2026-06-11T05:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064943711428166052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07OJl8OPNE",
+              "end": 149,
+              "expanded_url": "https://x.com/landiantech/status/2064943711428166052/photo/1",
+              "media_key": "3_2064925557830381568",
+              "start": 126,
+              "url": "https://t.co/07OJl8OPNE"
+            },
+            {
+              "display_url": "pic.x.com/07OJl8OPNE",
+              "end": 149,
+              "expanded_url": "https://x.com/landiantech/status/2064943711428166052/photo/1",
+              "media_key": "3_2064925557863890944",
+              "start": 126,
+              "url": "https://t.co/07OJl8OPNE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064943711428166052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ourl.co/113436?x",
+                "end": 183,
+                "expanded_url": "https://ourl.co/113436?x",
+                "start": 160,
+                "url": "https://t.co/zadHVnAn1K"
+              }
+            ]
+          },
+          "text": "真是个小机灵鬼！有黑客在恶意代码顶部增加生物武器合成和核武器设计提示词，让安全研究员使用 AI 扫描时触发安全策略而终止。\n\n大部分 AI 模型内置的安全对齐策略都会阻止用户咨询可能危害公共安全的问题，黑客的思路就是反向利用 AI 安全策略，让 AI 智能体在进行自动化扫描时忽略带有相关提示词的恶意代码。\n\n查看详情：https://t.co/zadHVnAn1K"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 12573,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "真是个小机灵鬼！有黑客在恶意代码顶部增加生物武器合成和核武器设计提示词，让安全研究员使用 AI 扫描时触发安全策略而终止。\n\n大部分 AI 模型内置的安全对齐策略都会阻止用户咨询可能危害公共安全的问题，黑客的思路就是反向利用 AI 安全策略，让 AI https://t.co/07OJl8OPNE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 793,
+          "like_count": 1306,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 2525
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2061311181663715671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35821,
+          "following_count": 735,
+          "like_count": 4982,
+          "listed_count": 279,
+          "media_count": 5768,
+          "tweet_count": 15834
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2063898594172944845",
+    "created_at": "2026-06-08T08:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063898594172944845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tomorrowomg/st…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/tomorrowomg/status/2063864647946821780",
+          "start": 44,
+          "url": "https://t.co/1fgT6lOIQq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063898594172944845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063864647946821780",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所谓的锐评被当排行榜真是让人觉得跨圈真要完了\n其实上面这些立刻销号跑路跨圈都能安稳得多 https://t.co/1fgT6lOIQq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "3_2063864587032956928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRR6DabkAAxDQN.jpg",
+        "width": 1024
+      },
+      {
+        "height": 466,
+        "media_key": "3_2063864645052665856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRR9bjaEAATWab.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2063898594172944845",
+        "created_at": "2026-06-08T08:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063898594172944845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tomorrowomg/st…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/tomorrowomg/status/2063864647946821780",
+              "start": 44,
+              "url": "https://t.co/1fgT6lOIQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063898594172944845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063864647946821780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所谓的锐评被当排行榜真是让人觉得跨圈真要完了\n其实上面这些立刻销号跑路跨圈都能安稳得多 https://t.co/1fgT6lOIQq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063864587032956928",
+            "3_2063864645052665856"
+          ]
+        },
+        "author_id": "2063085390668689408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063864647946821780",
+        "created_at": "2026-06-08T06:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063864647946821780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0T9MEZjLCP",
+              "end": 61,
+              "expanded_url": "https://x.com/tomorrowomg/status/2063864647946821780/photo/1",
+              "media_key": "3_2063864587032956928",
+              "start": 38,
+              "url": "https://t.co/0T9MEZjLCP"
+            },
+            {
+              "display_url": "pic.x.com/0T9MEZjLCP",
+              "end": 61,
+              "expanded_url": "https://x.com/tomorrowomg/status/2063864647946821780/photo/1",
+              "media_key": "3_2063864645052665856",
+              "start": 38,
+              "url": "https://t.co/0T9MEZjLCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063864647946821780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐毓文的作品从夯到拉看似锐评，实则跨圈排行榜，我直接全fo了，也算集齐了吧 https://t.co/0T9MEZjLCP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 782,
+          "like_count": 1156,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2281
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T02:28:39.000Z",
+        "description": "INFJ/户外/摄影风光/山地车/CD/06/广州天河/评论互fo/币圈/烂番茄小说作者/cs饰品\n\n剪輯萌新+player 一枚\n球球諸位點點讚吧",
+        "id": "2063085390668689408",
+        "location": "Hong Kong",
+        "name": "水清歡🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063616314292449281/EwJxOWco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 57,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 20
+        },
+        "username": "tomorrowomg",
+        "verified": true
+      }
+    ]
+  }
+}

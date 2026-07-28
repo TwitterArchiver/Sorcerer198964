@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2071997572521283995",
+    "created_at": "2026-06-30T16:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071997572521283995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1276794185425670144",
+          "start": 3,
+          "username": "AnakLolina2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071997572521283995",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 504
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071819276269613281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnakLolina2: Kejadiannya sudah bbrpa hari namun masih terus jadi perdebatan di berbagai media sosial.\n\nKejadian di India.\nSeorang Pende…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76486,
+        "height": 612,
+        "media_key": "7_2071818941307985920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071818941307985920/pu/img/ON8Qx78jPZZRM43L.jpg",
+        "public_metrics": {
+          "view_count": 1142008
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071818941307985920/pu/vid/avc1/320x408/VeJW-BEeCjqsWIYC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071818941307985920/pu/vid/avc1/480x612/hMORmV3am2gX5gso.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071818941307985920/pu/pl/27aCIEckvDQD5JnG.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2071997572521283995",
+        "created_at": "2026-06-30T16:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071997572521283995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1276794185425670144",
+              "start": 3,
+              "username": "AnakLolina2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071997572521283995",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 504
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071819276269613281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnakLolina2: Kejadiannya sudah bbrpa hari namun masih terus jadi perdebatan di berbagai media sosial.\n\nKejadian di India.\nSeorang Pende…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2071818941307985920"
+          ]
+        },
+        "author_id": "1276794185425670144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2071819276269613281",
+        "created_at": "2026-06-30T04:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071819276269613281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gf6RMndcHv",
+              "end": 302,
+              "expanded_url": "https://x.com/AnakLolina2/status/2071819276269613281/video/1",
+              "media_key": "7_2071818941307985920",
+              "start": 279,
+              "url": "https://t.co/gf6RMndcHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071819276269613281",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {},
+          "text": "Kejadiannya sudah bbrpa hari namun masih terus jadi perdebatan di berbagai media sosial.\n\nKejadian di India.\nSeorang Pendeta di Andha Pradesh India mengaku bisa terbang ke langit dengan kekuatan Ilahi.\n\nBelum sempat mengepakkan melakukan aksinya, dia sudah tergelincir dan jatuh dari puncak ke bawah, seketika itu juga meninggoy di tempat."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1573,
+          "impression_count": 1794185,
+          "like_count": 6022,
+          "quote_count": 148,
+          "reply_count": 931,
+          "retweet_count": 505
+        },
+        "reply_settings": "everyone",
+        "text": "Kejadiannya sudah bbrpa hari namun masih terus jadi perdebatan di berbagai media sosial.\n\nKejadian di India.\nSeorang Pendeta di Andha Pradesh India mengaku bisa terbang ke langit dengan kekuatan Ilahi.\n\nBelum sempat mengepakkan melakukan aksinya, dia sudah tergelincir dan jatuh https://t.co/gf6RMndcHv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 871,
+          "like_count": 1575,
+          "listed_count": 2,
+          "media_count": 378,
+          "tweet_count": 2782
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-27T08:27:34.000Z",
+        "description": "Akun @AnakLolina masih cuci otak... Masih seperti yg dulu Chelsea fans, Pancasilais anti makluk GURUN.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "AnakLolina"
+              }
+            ]
+          }
+        },
+        "id": "1276794185425670144",
+        "name": "August",
+        "pinned_tweet_id": "1891409860027146361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606652176226717696/EHJblqjs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24228,
+          "following_count": 7786,
+          "like_count": 30954,
+          "listed_count": 13,
+          "media_count": 8038,
+          "tweet_count": 243285
+        },
+        "url": "",
+        "username": "AnakLolina2",
+        "verified": true
+      }
+    ]
+  }
+}

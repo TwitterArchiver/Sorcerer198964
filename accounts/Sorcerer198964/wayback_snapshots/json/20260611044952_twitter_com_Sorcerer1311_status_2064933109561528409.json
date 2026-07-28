@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064864692288602112"
+      ],
+      "media_source_tweet_id": [
+        "2064864743823908967"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2064933109561528409",
+    "created_at": "2026-06-11T04:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064933109561528409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1354198454541688833",
+          "start": 3,
+          "username": "realCaigu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n4Yzg6qqU6",
+          "end": 79,
+          "expanded_url": "https://x.com/realCaigu/status/2064864743823908967/video/1",
+          "media_key": "13_2064864692288602112",
+          "start": 56,
+          "url": "https://t.co/n4Yzg6qqU6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064933109561528409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064864743823908967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realCaigu: Reddit 上有人制作了一个游戏，你可以在任何一家公司的股票走势图上开摩托车。 https://t.co/n4Yzg6qqU6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25516,
+        "height": 1616,
+        "media_key": "13_2064864692288602112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064864692288602112/img/dMztwd7Yklpm4o4A.jpg",
+        "public_metrics": {
+          "view_count": 16211
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064864692288602112/vid/avc1/476x270/ifgAhFdBjXn2W0SI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064864692288602112/vid/avc1/634x360/wV1Msp2IK7hZQGli.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064864692288602112/vid/avc1/1270x720/S86FFwS9S4pC7HT9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064864692288602112/pl/gI_Ifpee6TWcSNuP.m3u8?tag=14"
+          }
+        ],
+        "width": 2854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064864692288602112"
+          ],
+          "media_source_tweet_id": [
+            "2064864743823908967"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2064933109561528409",
+        "created_at": "2026-06-11T04:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064933109561528409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1354198454541688833",
+              "start": 3,
+              "username": "realCaigu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4Yzg6qqU6",
+              "end": 79,
+              "expanded_url": "https://x.com/realCaigu/status/2064864743823908967/video/1",
+              "media_key": "13_2064864692288602112",
+              "start": 56,
+              "url": "https://t.co/n4Yzg6qqU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064933109561528409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064864743823908967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realCaigu: Reddit 上有人制作了一个游戏，你可以在任何一家公司的股票走势图上开摩托车。 https://t.co/n4Yzg6qqU6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064864692288602112"
+          ]
+        },
+        "author_id": "1354198454541688833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2064864743823908967",
+        "created_at": "2026-06-11T00:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064864743823908967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4Yzg6qqU6",
+              "end": 64,
+              "expanded_url": "https://x.com/realCaigu/status/2064864743823908967/video/1",
+              "media_key": "13_2064864692288602112",
+              "start": 41,
+              "url": "https://t.co/n4Yzg6qqU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064864743823908967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 39565,
+          "like_count": 375,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "Reddit 上有人制作了一个游戏，你可以在任何一家公司的股票走势图上开摩托车。 https://t.co/n4Yzg6qqU6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 792,
+          "like_count": 1283,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 2503
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T22:45:04.000Z",
+        "description": "00 后 INTJ | Web3 万倍，实盘 A8, 后归零负债 | 喜欢读书的，看名人认知、商业新闻、美股深度研究、AI 最新动态、社会观察（乐子为主）的同学，关注我就对了！\n\n摆在眼前的就是两个风口：AI ➕ 推特，年轻人你还不冲吗！！！\n\n朋友➕🛰️SaitaniPS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "berrycode.codes",
+                "end": 23,
+                "expanded_url": "http://berrycode.codes",
+                "start": 0,
+                "url": "https://t.co/ukNP33mBky"
+              }
+            ]
+          }
+        },
+        "id": "1354198454541688833",
+        "location": "纯血 GPTPro&CCMAX 中转站👉",
+        "name": "才谷 | 哪吒商业评论",
+        "pinned_tweet_id": "2059215501428203939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003737836701220864/1Ka4aB81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7268,
+          "following_count": 644,
+          "like_count": 2534,
+          "listed_count": 39,
+          "media_count": 918,
+          "tweet_count": 3080
+        },
+        "url": "https://t.co/ukNP33mBky",
+        "username": "realCaigu",
+        "verified": true
+      }
+    ]
+  }
+}

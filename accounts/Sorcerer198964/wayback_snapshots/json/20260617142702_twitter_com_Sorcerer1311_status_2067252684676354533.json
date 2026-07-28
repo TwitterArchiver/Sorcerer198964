@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2066923378305560636",
+    "created_at": "2026-06-17T14:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067252684676354533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2036431003158454277",
+          "start": 0,
+          "username": "realimmort"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067252684676354533",
+    "in_reply_to_user_id": "2036431003158454277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067247958421332120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realimmort 至少比工科强"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2067247958421332120].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2067247958421332120",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2067247958421332120"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2066923378305560636",
+        "created_at": "2026-06-17T14:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067252684676354533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2036431003158454277",
+              "start": 0,
+              "username": "realimmort"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067252684676354533",
+        "in_reply_to_user_id": "2036431003158454277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067247958421332120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realimmort 至少比工科强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 836,
+          "like_count": 1462,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 2653
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T13:13:04.000Z",
+        "description": "双相，深柜无证🍬木桶饭可互佛喵🚪50，纯绿,文",
+        "id": "2036431003158454277",
+        "location": "天国寰宇",
+        "name": "Immort🍥🏳️‍⚧️极度限流版",
+        "pinned_tweet_id": "2059998339853328844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048768609061851136/YVu9Mxau_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 36,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 474
+        },
+        "username": "realimmort",
+        "verified": false
+      }
+    ]
+  }
+}

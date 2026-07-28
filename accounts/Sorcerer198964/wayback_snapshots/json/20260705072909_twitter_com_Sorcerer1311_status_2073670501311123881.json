@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2073625007574425879",
+    "created_at": "2026-07-05T07:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073670501311123881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "39941478",
+          "start": 0,
+          "username": "zaobaosg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073670501311123881",
+    "in_reply_to_user_id": "39941478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073625007574425879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaobaosg 王力宏不是跑台湾去了吗怎么还能来大陆开演唱会？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2073625004957138944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMb-9JnWgAAOcRm.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2073625007574425879",
+        "created_at": "2026-07-05T07:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073670501311123881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "39941478",
+              "start": 0,
+              "username": "zaobaosg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073670501311123881",
+        "in_reply_to_user_id": "39941478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073625007574425879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaobaosg 王力宏不是跑台湾去了吗怎么还能来大陆开演唱会？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073625004957138944"
+          ]
+        },
+        "author_id": "39941478",
+        "conversation_id": "2073625007574425879",
+        "created_at": "2026-07-05T04:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073625007574425879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "（综合讯）金曲歌王王力宏7月4日晚在成都举办演唱会，现场涌入四万粉丝朝圣。不过，当他在演唱《天地龙鳞》时，却发生惊悚意外。王力宏不慎遭地上的钢丝绊倒，整个人重摔，头部重击金属舞台边缘，不巧的是，撞击点恰好是戴着坚硬入耳式监听耳机（IEM）的左耳，强大撞击力导致王力宏外耳软骨当场被撞碎，左脸也被划伤，现场直接“大爆血”，吓坏台下粉丝。",
+              "display_url": "zaobao.com.sg/entertainment/…",
+              "end": 142,
+              "expanded_url": "https://www.zaobao.com.sg/entertainment/story20260705-9315273?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1783224707",
+              "start": 119,
+              "status": 200,
+              "title": "王力宏演唱会重摔 左耳脸颊大爆血 急送医缝39针",
+              "unwound_url": "https://www.zaobao.com.sg/entertainment/story20260705-9315273?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1783224707",
+              "url": "https://t.co/dmmWzgJvvY"
+            },
+            {
+              "display_url": "pic.x.com/NuhAIfddQa",
+              "end": 166,
+              "expanded_url": "https://x.com/zaobaosg/status/2073625007574425879/photo/1",
+              "media_key": "3_2073625004957138944",
+              "start": 143,
+              "url": "https://t.co/NuhAIfddQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073625007574425879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 19767,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（综合讯）金曲歌王王力宏昨7月4日晚在成都举办演唱会，现场涌入四万粉丝朝圣。不过，当他在演唱《天地龙鳞》时，却发生惊悚意外。王力宏不慎遭地上的钢丝绊倒，整个人重摔，头部重击金属舞台边缘，不巧的是，撞击点恰好是戴着坚硬入耳式监听耳机... https://t.co/dmmWzgJvvY https://t.co/NuhAIfddQa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 883,
+          "like_count": 1594,
+          "listed_count": 2,
+          "media_count": 385,
+          "tweet_count": 2821
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-14T06:18:48.000Z",
+        "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36EdQU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zaobaosg",
+                "end": 90,
+                "expanded_url": "http://t.me/zaobaosg",
+                "start": 67,
+                "url": "https://t.co/kHH36EdQU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zaobao.sg",
+                "end": 23,
+                "expanded_url": "http://www.zaobao.sg",
+                "start": 0,
+                "url": "https://t.co/SFQSIIL8zo"
+              }
+            ]
+          }
+        },
+        "id": "39941478",
+        "location": "Singapore",
+        "name": "联合早报 Lianhe Zaobao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784336,
+          "following_count": 6,
+          "like_count": 22,
+          "listed_count": 6255,
+          "media_count": 10543,
+          "tweet_count": 182006
+        },
+        "url": "https://t.co/SFQSIIL8zo",
+        "username": "zaobaosg",
+        "verified": true
+      }
+    ]
+  }
+}

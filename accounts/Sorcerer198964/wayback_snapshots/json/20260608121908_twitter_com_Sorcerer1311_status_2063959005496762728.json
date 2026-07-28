@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2063918653603766523",
+    "created_at": "2026-06-08T12:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063959005496762728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "158092941",
+          "start": 0,
+          "username": "kimzooh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063959005496762728",
+    "in_reply_to_user_id": "158092941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063918653603766523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kimzooh 碳水大餐\n中式早餐是最没有营养的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063918627217440768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSDDmybgAAPv-E.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2063918653603766523",
+        "created_at": "2026-06-08T12:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063959005496762728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "158092941",
+              "start": 0,
+              "username": "kimzooh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063959005496762728",
+        "in_reply_to_user_id": "158092941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063918653603766523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kimzooh 碳水大餐\n中式早餐是最没有营养的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063918627217440768"
+          ]
+        },
+        "author_id": "158092941",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Chinese Cuisine",
+              "id": "860136866950950912",
+              "name": "Chinese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chinese Cuisine",
+              "id": "860136866950950912",
+              "name": "Chinese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1193991001892745216",
+              "name": "Cuisines"
+            }
+          }
+        ],
+        "conversation_id": "2063918653603766523",
+        "created_at": "2026-06-08T09:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063918653603766523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jx46Vtx6hX",
+              "end": 44,
+              "expanded_url": "https://x.com/kimzooh/status/2063918653603766523/photo/1",
+              "media_key": "3_2063918627217440768",
+              "start": 21,
+              "url": "https://t.co/jx46Vtx6hX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063918653603766523",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3661,
+          "like_count": 70,
+          "quote_count": 4,
+          "reply_count": 60,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "중국요리 최고의 아침밥은 창펀 아닐까 https://t.co/jx46Vtx6hX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 785,
+          "like_count": 1162,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2286
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-21T19:22:13.000Z",
+        "description": "무대디자이너 | 善意",
+        "id": "158092941",
+        "location": "랜더링 지옥",
+        "name": "박주현",
+        "pinned_tweet_id": "2031364121283932457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717164046674472960/yd87uzMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3379,
+          "following_count": 129,
+          "like_count": 20,
+          "listed_count": 50,
+          "media_count": 1119,
+          "tweet_count": 23241
+        },
+        "username": "kimzooh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070528220022366208",
+        "3_2070528220047560704",
+        "3_2070528220018212864"
+      ],
+      "media_source_tweet_id": [
+        "2070529936700633446",
+        "2070529936700633446",
+        "2070529936700633446"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2070773663008493598",
+    "created_at": "2026-06-27T07:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070773663008493598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1636262401405329408",
+          "start": 3,
+          "username": "BridgetRod36234"
+        },
+        {
+          "end": 36,
+          "id": "1260553941714186241",
+          "start": 21,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IERnICZfTw",
+          "end": 114,
+          "expanded_url": "https://x.com/BridgetRod36234/status/2070529936700633446/photo/1",
+          "media_key": "3_2070528220022366208",
+          "start": 91,
+          "url": "https://t.co/IERnICZfTw"
+        },
+        {
+          "display_url": "pic.x.com/IERnICZfTw",
+          "end": 114,
+          "expanded_url": "https://x.com/BridgetRod36234/status/2070529936700633446/photo/1",
+          "media_key": "3_2070528220047560704",
+          "start": 91,
+          "url": "https://t.co/IERnICZfTw"
+        },
+        {
+          "display_url": "pic.x.com/IERnICZfTw",
+          "end": 114,
+          "expanded_url": "https://x.com/BridgetRod36234/status/2070529936700633446/photo/1",
+          "media_key": "3_2070528220018212864",
+          "start": 91,
+          "url": "https://t.co/IERnICZfTw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070773663008493598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070529936700633446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BridgetRod36234: @whyyoutouzhele 乱喂流浪猫不做绝育，显得自己很有爱心😅。李龟头你把关注点全部放在这只猫上面，被猫抓伤的业主你是丝毫不在意。 https://t.co/IERnICZfTw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2070528220022366208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv-civa4AAl_by.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1399,
+        "media_key": "3_2070528220047560704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv-ci1bUAAGd8J.jpg",
+        "width": 1439
+      },
+      {
+        "height": 724,
+        "media_key": "3_2070528220018212864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv-ciubgAALbkq.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070528220022366208",
+            "3_2070528220047560704",
+            "3_2070528220018212864"
+          ],
+          "media_source_tweet_id": [
+            "2070529936700633446",
+            "2070529936700633446",
+            "2070529936700633446"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2070773663008493598",
+        "created_at": "2026-06-27T07:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070773663008493598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1636262401405329408",
+              "start": 3,
+              "username": "BridgetRod36234"
+            },
+            {
+              "end": 36,
+              "id": "1260553941714186241",
+              "start": 21,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IERnICZfTw",
+              "end": 114,
+              "expanded_url": "https://x.com/BridgetRod36234/status/2070529936700633446/photo/1",
+              "media_key": "3_2070528220022366208",
+              "start": 91,
+              "url": "https://t.co/IERnICZfTw"
+            },
+            {
+              "display_url": "pic.x.com/IERnICZfTw",
+              "end": 114,
+              "expanded_url": "https://x.com/BridgetRod36234/status/2070529936700633446/photo/1",
+              "media_key": "3_2070528220047560704",
+              "start": 91,
+              "url": "https://t.co/IERnICZfTw"
+            },
+            {
+              "display_url": "pic.x.com/IERnICZfTw",
+              "end": 114,
+              "expanded_url": "https://x.com/BridgetRod36234/status/2070529936700633446/photo/1",
+              "media_key": "3_2070528220018212864",
+              "start": 91,
+              "url": "https://t.co/IERnICZfTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070773663008493598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070529936700633446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BridgetRod36234: @whyyoutouzhele 乱喂流浪猫不做绝育，显得自己很有爱心😅。李龟头你把关注点全部放在这只猫上面，被猫抓伤的业主你是丝毫不在意。 https://t.co/IERnICZfTw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070528220022366208",
+            "3_2070528220047560704",
+            "3_2070528220018212864"
+          ]
+        },
+        "author_id": "1636262401405329408",
+        "conversation_id": "2070472139459944788",
+        "created_at": "2026-06-26T15:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070529936700633446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IERnICZfTw",
+              "end": 93,
+              "expanded_url": "https://x.com/BridgetRod36234/status/2070529936700633446/photo/1",
+              "media_key": "3_2070528220022366208",
+              "start": 70,
+              "url": "https://t.co/IERnICZfTw"
+            },
+            {
+              "display_url": "pic.x.com/IERnICZfTw",
+              "end": 93,
+              "expanded_url": "https://x.com/BridgetRod36234/status/2070529936700633446/photo/1",
+              "media_key": "3_2070528220047560704",
+              "start": 70,
+              "url": "https://t.co/IERnICZfTw"
+            },
+            {
+              "display_url": "pic.x.com/IERnICZfTw",
+              "end": 93,
+              "expanded_url": "https://x.com/BridgetRod36234/status/2070529936700633446/photo/1",
+              "media_key": "3_2070528220018212864",
+              "start": 70,
+              "url": "https://t.co/IERnICZfTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070529936700633446",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1690,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070472139459944788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 乱喂流浪猫不做绝育，显得自己很有爱心😅。李龟头你把关注点全部放在这只猫上面，被猫抓伤的业主你是丝毫不在意。 https://t.co/IERnICZfTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 855,
+          "like_count": 1543,
+          "listed_count": 2,
+          "media_count": 373,
+          "tweet_count": 2752
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T07:05:55.000Z",
+        "description": "不开源的安全保护、隐私保护都是耍流氓",
+        "id": "1636262401405329408",
+        "name": "王志安卓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971579217583427584/_9vVv45b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 26,
+          "like_count": 3508,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "BridgetRod36234",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239988,
+          "following_count": 1072,
+          "like_count": 9746,
+          "listed_count": 8801,
+          "media_count": 49339,
+          "tweet_count": 56515
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

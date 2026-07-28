@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2066843157808271504",
+    "created_at": "2026-06-17T01:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T02:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067059036365914119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2043582506272747520",
+          "start": 0,
+          "username": "PRGarn"
+        },
+        {
+          "end": 19,
+          "id": "2047476335220793344",
+          "start": 8,
+          "username": "86parsee86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067059036365914119",
+    "in_reply_to_user_id": "2043582506272747520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066878298135970153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRGarn @86parsee86 宝宝你什么时候雌堕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2066843157808271504",
+        "created_at": "2026-06-17T01:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067059036365914119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2043582506272747520",
+              "start": 0,
+              "username": "PRGarn"
+            },
+            {
+              "end": 19,
+              "id": "2047476335220793344",
+              "start": 8,
+              "username": "86parsee86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067059036365914119",
+        "in_reply_to_user_id": "2043582506272747520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066878298135970153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRGarn @86parsee86 宝宝你什么时候雌堕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043582506272747520",
+        "conversation_id": "2066843157808271504",
+        "created_at": "2026-06-16T13:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066878298135970153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047476335220793344",
+              "start": 0,
+              "username": "86parsee86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066878298135970153",
+        "in_reply_to_user_id": "2047476335220793344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066843157808271504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@86parsee86 我是加恩，立志在每只跨÷的评论区捣乱😂🔥🏳️‍⚧️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 834,
+          "like_count": 1444,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 2638
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T06:50:35.000Z",
+        "description": "反同反跨，新教徒，法西斯党徒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35468860614268…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3546886061426833",
+                "start": 0,
+                "url": "https://t.co/dg8eIZSaqO"
+              }
+            ]
+          }
+        },
+        "id": "2043582506272747520",
+        "location": "加恩格勒",
+        "name": "✝︎Garn✝︎",
+        "pinned_tweet_id": "2043961753902690452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043582603211517952/3pP3eBkA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 3,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/dg8eIZSaqO",
+        "username": "PRGarn",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T00:44:32.000Z",
+        "description": "05.3出厂/mtf/双相/hrt25.8.6/轻微od/还在努力中/chunithm/到处羡慕人的柠檬精/软件在读/什么都不会/想要互fo🥺",
+        "id": "2047476335220793344",
+        "location": "Stockholm, Sweden",
+        "name": "🏳️‍⚧️柠檬香精Parsee🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047477230100779008/io5uiFPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 33,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 152
+        },
+        "username": "86parsee86",
+        "verified": false
+      }
+    ]
+  }
+}

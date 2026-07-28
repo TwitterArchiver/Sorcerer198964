@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2078476200457224439",
+    "created_at": "2026-07-18T13:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078476200457224439"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078476200457224439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "AI八荣八耻\n以臆猜接口为耻，以查档求证为荣\n以模糊开工为耻，以对齐需求为荣\n以脑补业务为耻，以请示规则为荣\n以新增冗余为耻，以复用存量为荣\n以省略校验为耻，以完备测例为荣\n以乱改架构为耻，以恪守规范为荣\n以不懂装懂为耻，以坦诚存疑为荣\n以批量乱改为耻，以分步迭代为荣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2078476200457224439",
+        "created_at": "2026-07-18T13:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078476200457224439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078476200457224439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "AI八荣八耻\n以臆猜接口为耻，以查档求证为荣\n以模糊开工为耻，以对齐需求为荣\n以脑补业务为耻，以请示规则为荣\n以新增冗余为耻，以复用存量为荣\n以省略校验为耻，以完备测例为荣\n以乱改架构为耻，以恪守规范为荣\n以不懂装懂为耻，以坦诚存疑为荣\n以批量乱改为耻，以分步迭代为荣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 914,
+          "like_count": 1736,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 2944
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

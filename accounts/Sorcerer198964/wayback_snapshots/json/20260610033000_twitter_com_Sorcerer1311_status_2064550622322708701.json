@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2064550622322708701",
+    "created_at": "2026-06-10T03:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064550622322708701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0427smtieshou/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/0427smtieshou/status/2064505323075862745",
+          "start": 32,
+          "url": "https://t.co/gn4nUtw2wc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064550622322708701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064505323075862745",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说的很明白了\n狗是财产不是受保护的主体\n搞反虐待动物法纯属招笑 https://t.co/gn4nUtw2wc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 161982,
+        "height": 1920,
+        "media_key": "13_2064479441267326976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064479441267326976/img/8vKjvfYZaETs0dS-.jpg",
+        "public_metrics": {
+          "view_count": 9737
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064479441267326976/vid/avc1/320x568/84g4IHLgAm6WrQrC.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064479441267326976/vid/avc1/1080x1920/m9loPMLCrCWJhKSu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064479441267326976/vid/avc1/720x1280/mMQSHLiJv-3C44mo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064479441267326976/pl/Toq0BKtPYPR5JQV5.m3u8?v=443"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064479441267326976/vid/avc1/480x852/7mDTolLGD5Bl9dHL.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 853,
+        "media_key": "3_2064479851751366656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKaBfLGXYAA9xLc.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2064550622322708701",
+        "created_at": "2026-06-10T03:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064550622322708701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0427smtieshou/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/0427smtieshou/status/2064505323075862745",
+              "start": 32,
+              "url": "https://t.co/gn4nUtw2wc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064550622322708701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064505323075862745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说的很明白了\n狗是财产不是受保护的主体\n搞反虐待动物法纯属招笑 https://t.co/gn4nUtw2wc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064479441267326976",
+            "3_2064479851751366656"
+          ]
+        },
+        "author_id": "1239436070292320257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064505323075862745",
+        "created_at": "2026-06-10T00:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064505323075862745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8CTmSoppj",
+              "end": 145,
+              "expanded_url": "https://x.com/0427SMtieshou/status/2064505323075862745/video/1",
+              "media_key": "13_2064479441267326976",
+              "start": 122,
+              "url": "https://t.co/N8CTmSoppj"
+            },
+            {
+              "display_url": "pic.x.com/N8CTmSoppj",
+              "end": 145,
+              "expanded_url": "https://x.com/0427SMtieshou/status/2064505323075862745/video/1",
+              "media_key": "3_2064479851751366656",
+              "start": 122,
+              "url": "https://t.co/N8CTmSoppj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064505323075862745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "轰动全球的中国网红狗锄头，被一夫妇盗走贩卖并宰杀吃肉一事有了最新进展。\n\n狗主人表示，对方曾找熟人说情，但被拒绝。\n\n狗主人提供了详实的证据，证明狗本身价值。超过一万元，且具有巨大的商业价值。\n\n已经被公安机关采信。偷狗贼夫妇已经被刑事立案。\n\n中国的刑事判决罪名成立概率非常之高，这对偷狗贼几乎可以明确，即将面临10年以上的刑期。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 18257,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "轰动全球的中国网红狗锄头，被一夫妇盗走贩卖并宰杀吃肉一事有了最新进展。\n\n狗主人表示，对方曾找熟人说情，但被拒绝。\n\n狗主人提供了详实的证据，证明狗本身价值。超过一万元，且具有巨大的商业价值。\n\n已经被公安机关采信。偷狗贼夫妇已经被刑事立案。 https://t.co/N8CTmSoppj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 790,
+          "like_count": 1248,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 2403
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T06:19:34.000Z",
+        "description": "每天分析过去24小时内中推热帖\n每晚8点半发表\n掌握中推流量密码\n关注铁手\n勾选小铃铛",
+        "id": "1239436070292320257",
+        "name": "铁手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052880484473217024/W7AIOFFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76314,
+          "following_count": 1827,
+          "like_count": 22217,
+          "listed_count": 421,
+          "media_count": 1912,
+          "tweet_count": 11173
+        },
+        "username": "0427SMtieshou",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2063824520910401729",
+    "created_at": "2026-06-08T03:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063824520910401729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/szc055555/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/szc055555/status/2063671457264377871",
+          "start": 6,
+          "url": "https://t.co/8c8JDC7bhF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063824520910401729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063671457264377871",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "z药大手子 https://t.co/8c8JDC7bhF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2063824520910401729",
+        "created_at": "2026-06-08T03:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063824520910401729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/szc055555/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/szc055555/status/2063671457264377871",
+              "start": 6,
+              "url": "https://t.co/8c8JDC7bhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063824520910401729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063671457264377871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "z药大手子 https://t.co/8c8JDC7bhF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569987131178885120",
+        "conversation_id": "2063671457264377871",
+        "created_at": "2026-06-07T17:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063671457264377871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063671457264377871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1012,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么5片思诺思会兴奋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 776,
+          "like_count": 1141,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2270
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T09:51:26.000Z",
+        "description": "",
+        "id": "1569987131178885120",
+        "name": "林格晓晓",
+        "pinned_tweet_id": "1950427007495417950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900561371332554752/RLwb2kLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 425,
+          "like_count": 25151,
+          "listed_count": 5,
+          "media_count": 655,
+          "tweet_count": 10269
+        },
+        "username": "szc055555",
+        "verified": false
+      }
+    ]
+  }
+}

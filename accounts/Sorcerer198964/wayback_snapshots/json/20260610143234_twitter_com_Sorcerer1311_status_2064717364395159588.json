@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2064717364395159588",
+    "created_at": "2026-06-10T14:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064717364395159588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1728656771735273472",
+          "start": 3,
+          "username": "amiercreer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064717364395159588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064553500390859130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amiercreer: 四、底层逻辑…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2064717364395159588",
+        "created_at": "2026-06-10T14:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064717364395159588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1728656771735273472",
+              "start": 3,
+              "username": "amiercreer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064717364395159588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064553500390859130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amiercreer: 四、底层逻辑…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728656771735273472",
+        "conversation_id": "2064552395141443983",
+        "created_at": "2026-06-10T03:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064553500390859130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064553500390859130",
+        "in_reply_to_user_id": "1728656771735273472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "四、底层逻辑\n为什么不入刑？法学界的标准答案有两个：法益理论和刑法谦抑。刑法保护的是法益，而法益传统上以人的利益为中心，动物的痛苦如果不能还原为某个人的财产损失或某种公共秩序的破坏，就不构成刑法意义上的法益侵害。刑法谦抑则主张刑罚是最后手段，道德问题应该留给道德。这两个理由在教义学内部是自洽的，但它们解释不了一个问题：德国、日本、英国的刑法同样讲法益、同样讲谦抑，为什么都完成了入刑？\n\n所以真正的解释要到教义学之外去找。我认为至少有四层。\n\n第一层是国家治理的可辨识性问题。国家管理它能够“看见”的东西，而看见需要分类、登记、清单。野生动物有物种名录，畜禽有遗传资源目录，宠物有狂犬疫苗登记。这些清单服务的目的分别是资源管理、产业管理、防疫管理。\n\n“动物的痛苦”无法被做成一张清单，它不对应任何一个现成的管理部门，不产生任何可统计的指标。一个找不到主管部门的法益，在中国的立法流程里几乎注定搁浅：反虐待动物法该归农业农村部、公安部还是林草局？十六年来这个问题没有答案，因为每个部门看见的都只是自己清单上的动物。\n\n第二层是产业的重量。中国有全世界规模最大的畜牧业、皮草业、实验动物产业，以及若干地方的犬肉经济。任何一部反虐待动物法，无论把“虐待”定义得多么狭窄，都会被这些产业解读为楔子的尖端：今天禁止虐杀宠物，明天是不是要管屠宰方式，后天是不是要管养殖密度。立法者面对的不是“该不该保护猫狗”这个具体问题，而是“要不要打开动物福利这个潘多拉盒子”这个体系性问题。而维持目前的空白是成本最低的选择。\n\n第三层是意识形态的警惕。动物权利话语在官方认知里带有进口标签，与环保NGO、国际动保组织、乃至更广泛的西方价值话语捆绑在一起。立法等于承认这套话语的正当性，等于给相关的社会动员提供法律抓手。观察近年的舆论管理可以发现一个耐人寻味的模式：网信部门会在“清朗”行动中打击虐杀视频的传播，但打击的名义是网络生态治理，而不是动物保护。国家愿意清除虐杀的“图像”，不愿意承认虐杀的“对象”。痛苦的影像是污染物，痛苦的承受者不是受害者。\n\n第四层，也是我作为社会学学生最想说：倡议者的污名。在公共话语里，关心动物的人被建构为一种特定形象，情绪化的、城市中产的、以女性为主的、“猫狗比人重要”的。这个形象的污名化使得动物保护议题在进入立法讨论之前就已经被降格为一种“情绪”，而情绪在中国的立法话语里没有席位。重庆事件里有一个细节与此形成残忍的镜像：施害者伪装成女性去骗取领养。他懂得救助网络的信任结构，懂得“女性”在这个网络里意味着可托付。性别在这里同时是信任的通货和污名的载体，救助者因为被想象为感性的女人而不被立法者倾听，施害者因为扮演感性的女人而畅通无阻。\n\n3/n"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 956,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064552793797500992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "四、底层逻辑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 790,
+          "like_count": 1275,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 2471
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T06:07:58.000Z",
+        "description": "你既怕又何必想，你既想又何必怕@yannan74713我的幕后",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "yannan74713"
+              }
+            ]
+          }
+        },
+        "id": "1728656771735273472",
+        "name": "Hermaphroditus🎀",
+        "pinned_tweet_id": "1765721690301219061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893501220620509186/59T8Mbft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4069,
+          "following_count": 418,
+          "like_count": 14687,
+          "listed_count": 9,
+          "media_count": 835,
+          "tweet_count": 6493
+        },
+        "username": "amiercreer",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2080832270785765822",
+    "created_at": "2026-07-25T02:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080844294458601572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2041687695424950273",
+          "start": 0,
+          "username": "ccshuile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080844294458601572",
+    "in_reply_to_user_id": "2041687695424950273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080832270785765822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccshuile 四百够买巴比妥了…\n别吃亚盐好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2080832270785765822",
+        "created_at": "2026-07-25T02:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080844294458601572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2041687695424950273",
+              "start": 0,
+              "username": "ccshuile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080844294458601572",
+        "in_reply_to_user_id": "2041687695424950273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080832270785765822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccshuile 四百够买巴比妥了…\n别吃亚盐好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041687695424950273",
+        "conversation_id": "2080832270785765822",
+        "created_at": "2026-07-25T01:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080832270785765822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080832270785765822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求一个亚硝酸钠，用两盒泰补换"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 931,
+          "like_count": 1837,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 3053
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T01:21:03.000Z",
+        "description": "我不要再喜欢任何人了",
+        "id": "2041687695424950273",
+        "name": "cc🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041688275296120832/e5yGXjI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 32,
+          "like_count": 2298,
+          "listed_count": 7,
+          "media_count": 58,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "ccshuile",
+        "verified": true
+      }
+    ]
+  }
+}

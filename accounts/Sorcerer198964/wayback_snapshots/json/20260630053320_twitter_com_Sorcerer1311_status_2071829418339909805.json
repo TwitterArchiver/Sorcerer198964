@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2071829418339909805",
+    "created_at": "2026-06-30T05:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071829418339909805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1327094858",
+          "start": 3,
+          "username": "lidaye1967"
+        },
+        {
+          "end": 28,
+          "id": "1811888010088316932",
+          "start": 16,
+          "username": "cuichenghao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071829418339909805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071809309336563800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lidaye1967: @cuichenghao 摩托车到了年限都可以强制报废，为什么国家主席不能？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2071829418339909805",
+        "created_at": "2026-06-30T05:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071829418339909805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1327094858",
+              "start": 3,
+              "username": "lidaye1967"
+            },
+            {
+              "end": 28,
+              "id": "1811888010088316932",
+              "start": 16,
+              "username": "cuichenghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071829418339909805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071809309336563800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lidaye1967: @cuichenghao 摩托车到了年限都可以强制报废，为什么国家主席不能？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327094858",
+        "conversation_id": "2071794411944698254",
+        "created_at": "2026-06-30T04:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071809309336563800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071809309336563800",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2188,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071794411944698254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao 摩托车到了年限都可以强制报废，为什么国家主席不能？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 868,
+          "like_count": 1574,
+          "listed_count": 2,
+          "media_count": 378,
+          "tweet_count": 2781
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-04T14:42:25.000Z",
+        "description": "一个在大陆生活多年的台湾人。为防开盒，我在X上写的关于我的所有信息都是假的。连我加入推特的日期都是假的。假的假的全是假的，没有一个是真的。",
+        "id": "1327094858",
+        "location": "Saint-Usage, France",
+        "name": "李大爷讲话理不偏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973770397658001408/jLCcS5Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 2163,
+          "like_count": 10877,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 18352
+        },
+        "url": "",
+        "username": "lidaye1967",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112224,
+          "following_count": 767,
+          "like_count": 8902,
+          "listed_count": 356,
+          "media_count": 5145,
+          "tweet_count": 5405
+        },
+        "url": "",
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

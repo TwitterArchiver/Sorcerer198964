@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2067784134106509661",
+    "created_at": "2026-06-19T05:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067843568258236598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "786662054",
+          "start": 0,
+          "username": "aiqiang888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067843568258236598",
+    "in_reply_to_user_id": "786662054",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067784134106509661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiqiang888 喵喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 767,
+        "media_key": "3_2067784122429571072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLI-tCmbgAA7eCC.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2067784134106509661",
+        "created_at": "2026-06-19T05:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067843568258236598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "786662054",
+              "start": 0,
+              "username": "aiqiang888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067843568258236598",
+        "in_reply_to_user_id": "786662054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067784134106509661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiqiang888 喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067784122429571072"
+          ]
+        },
+        "author_id": "786662054",
+        "conversation_id": "2067784134106509661",
+        "created_at": "2026-06-19T01:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067784134106509661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zOSFxTVoen",
+              "end": 141,
+              "expanded_url": "https://x.com/aiqiang888/status/2067784134106509661/photo/1",
+              "media_key": "3_2067784122429571072",
+              "start": 118,
+              "url": "https://t.co/zOSFxTVoen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067784134106509661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10263,
+          "like_count": 227,
+          "quote_count": 0,
+          "reply_count": 353,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "爱强在这里祝大家端午节安康🫶\n\n这期工资打算抽奖做福利给大家\n\n抽奖 1 个年费premium\n抽奖 5*10U\n\n年费会员仅限非蓝V参与，预测工资最准者得\n\n抽奖的就没有什么要求，大家随意评论就好\n\n不用关注，不用转发，抽到就是缘分 https://t.co/zOSFxTVoen"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 846,
+          "like_count": 1494,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 2684
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-28T09:58:29.000Z",
+        "description": "我是撸毛小白，我有两只小狗，一只叫多多，一只叫元宝。 \n商务合作       TG: kas_silver      #蓝鸟会 #灯塔",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "蓝鸟会"
+              },
+              {
+                "end": 67,
+                "start": 64,
+                "tag": "灯塔"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aiqiang888.com",
+                "end": 23,
+                "expanded_url": "https://aiqiang888.com/",
+                "start": 0,
+                "url": "https://t.co/9s3yqxEtzG"
+              }
+            ]
+          }
+        },
+        "id": "786662054",
+        "location": "个人网站👉",
+        "name": "记得爱强",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973882737632391168/37cVOJSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14433,
+          "following_count": 3533,
+          "like_count": 16894,
+          "listed_count": 108,
+          "media_count": 873,
+          "tweet_count": 25672
+        },
+        "url": "https://t.co/9s3yqxEtzG",
+        "username": "aiqiang888",
+        "verified": true
+      }
+    ]
+  }
+}

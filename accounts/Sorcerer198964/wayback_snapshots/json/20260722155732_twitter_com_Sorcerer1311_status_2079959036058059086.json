@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2079948268637913346",
+    "created_at": "2026-07-22T15:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079959036058059086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1825819885857026048",
+          "start": 0,
+          "username": "ChenXi_Cloud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079959036058059086",
+    "in_reply_to_user_id": "1825819885857026048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079958588857229523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenXi_Cloud 暨大附属第一医院"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2079958575083106305",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HN1_Tc9bMAE_KIj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HN1_Tc9bMAE_KIj.mp4"
+          }
+        ],
+        "width": 260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2079948268637913346",
+        "created_at": "2026-07-22T15:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079959036058059086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1825819885857026048",
+              "start": 0,
+              "username": "ChenXi_Cloud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079959036058059086",
+        "in_reply_to_user_id": "1825819885857026048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079958588857229523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenXi_Cloud 暨大附属第一医院"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2079958575083106305"
+          ]
+        },
+        "author_id": "1825819885857026048",
+        "conversation_id": "2079948268637913346",
+        "created_at": "2026-07-22T15:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079958588857229523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKyBKtYakw",
+              "end": 54,
+              "expanded_url": "https://x.com/ChenXi_Cloud/status/2079958588857229523/photo/1",
+              "media_key": "16_2079958575083106305",
+              "start": 31,
+              "url": "https://t.co/WKyBKtYakw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079958588857229523",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079948268637913346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 这哪个医院哇 正好我该续点药去了 https://t.co/WKyBKtYakw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 927,
+          "like_count": 1775,
+          "listed_count": 4,
+          "media_count": 416,
+          "tweet_count": 3001
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T08:59:27.000Z",
+        "description": "178/65/80b | 北京 | 无证含糖2025.9.20 | 接援交 | 🚪88 |",
+        "id": "1825819885857026048",
+        "location": "停尸房",
+        "name": "尘曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074907688673439744/ktkF1tAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 787,
+          "like_count": 486,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "ChenXi_Cloud",
+        "verified": false
+      }
+    ]
+  }
+}

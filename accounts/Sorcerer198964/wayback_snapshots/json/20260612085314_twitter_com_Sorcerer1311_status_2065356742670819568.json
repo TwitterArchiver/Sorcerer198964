@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2065337007224840289",
+    "created_at": "2026-06-12T08:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T09:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065356742670819568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893984432270475264",
+          "start": 0,
+          "username": "bailixing114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065356742670819568",
+    "in_reply_to_user_id": "1893984432270475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065337007224840289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bailixing114514 是这样的，试剂都这价\n买生物公司的吧，不过可能得加助剂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2065336995631816704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmNDg4bYAA5eH9.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065336995614978048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmNDg0acAAPpzm.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2065337007224840289",
+        "created_at": "2026-06-12T08:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065356742670819568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893984432270475264",
+              "start": 0,
+              "username": "bailixing114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065356742670819568",
+        "in_reply_to_user_id": "1893984432270475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065337007224840289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bailixing114514 是这样的，试剂都这价\n买生物公司的吧，不过可能得加助剂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065336995631816704",
+            "3_2065336995614978048"
+          ]
+        },
+        "author_id": "1893984432270475264",
+        "conversation_id": "2065337007224840289",
+        "created_at": "2026-06-12T07:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065337007224840289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6aB0gbGfY",
+              "end": 28,
+              "expanded_url": "https://x.com/bailixing114514/status/2065337007224840289/photo/1",
+              "media_key": "3_2065336995631816704",
+              "start": 5,
+              "url": "https://t.co/P6aB0gbGfY"
+            },
+            {
+              "display_url": "pic.x.com/P6aB0gbGfY",
+              "end": 28,
+              "expanded_url": "https://x.com/bailixing114514/status/2065337007224840289/photo/1",
+              "media_key": "3_2065336995614978048",
+              "start": 5,
+              "url": "https://t.co/P6aB0gbGfY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065337007224840289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么贵? https://t.co/P6aB0gbGfY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 804,
+          "like_count": 1336,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 2549
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T11:20:59.000Z",
+        "description": "鬼知道大号 @baizhouzi520 怎么封了😅|小证含糖家长党🍥|hrt日期2024.12.11|双相边缘纯正精神病|自残嗑药正宗地雷女|did成员有白洲，黎星，诗遥，haku……|术力口重度依赖|同类欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "baizhouzi520"
+              }
+            ]
+          }
+        },
+        "id": "1893984432270475264",
+        "location": "浦島トンネル",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊（二代目）",
+        "pinned_tweet_id": "2017032358017532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428712932913152/44JwCgoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 118,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 124
+        },
+        "username": "bailixing114514",
+        "verified": false
+      }
+    ]
+  }
+}

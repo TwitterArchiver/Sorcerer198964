@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2067416154948464766",
+    "created_at": "2026-06-18T05:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067479485428232562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1650461989",
+          "start": 0,
+          "username": "lhyTHU"
+        },
+        {
+          "end": 21,
+          "id": "368205513",
+          "start": 8,
+          "username": "macrotradecn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067479485428232562",
+    "in_reply_to_user_id": "1650461989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067447141992161331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lhyTHU @macrotradecn 问题是要烂尾了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2067416154948464766",
+        "created_at": "2026-06-18T05:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067479485428232562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650461989",
+              "start": 0,
+              "username": "lhyTHU"
+            },
+            {
+              "end": 21,
+              "id": "368205513",
+              "start": 8,
+              "username": "macrotradecn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067479485428232562",
+        "in_reply_to_user_id": "1650461989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067447141992161331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lhyTHU @macrotradecn 问题是要烂尾了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650461989",
+        "conversation_id": "2067416154948464766",
+        "created_at": "2026-06-18T03:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067447141992161331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "368205513",
+              "start": 0,
+              "username": "macrotradecn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067447141992161331",
+        "in_reply_to_user_id": "368205513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1411,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067416154948464766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@macrotradecn 但是特朗普让海军造特朗普级战列舰，只能说老佛爷之间亦有差距"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 839,
+          "like_count": 1475,
+          "listed_count": 2,
+          "media_count": 367,
+          "tweet_count": 2664
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-06T14:12:55.000Z",
+        "description": "X is for meme. @subsysdev, @MIT_CSAIL, @TsinghuaNLP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "subsysdev"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "MIT_CSAIL"
+              },
+              {
+                "end": 51,
+                "start": 39,
+                "username": "TsinghuaNLP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "luohongyin.github.io",
+                "end": 23,
+                "expanded_url": "https://luohongyin.github.io",
+                "start": 0,
+                "url": "https://t.co/3aebF6BpaN"
+              }
+            ]
+          }
+        },
+        "id": "1650461989",
+        "name": "Hongyin Luo",
+        "pinned_tweet_id": "2062542176085520517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993897770436947968/_-9qxCpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 503,
+          "like_count": 420,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/3aebF6BpaN",
+        "username": "lhyTHU",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-05T07:55:43.000Z",
+        "description": "",
+        "id": "368205513",
+        "location": "Singapore",
+        "name": "杰克船长宏观策略",
+        "pinned_tweet_id": "2066800087041556868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054549683134230528/e9ds5_1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156017,
+          "following_count": 99,
+          "like_count": 809,
+          "listed_count": 1503,
+          "media_count": 12215,
+          "tweet_count": 20528
+        },
+        "url": "",
+        "username": "macrotradecn",
+        "verified": true
+      }
+    ]
+  }
+}

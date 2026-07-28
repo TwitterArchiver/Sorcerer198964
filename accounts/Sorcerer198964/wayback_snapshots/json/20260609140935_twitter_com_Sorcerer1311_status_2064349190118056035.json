@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2064349190118056035",
+    "created_at": "2026-06-09T14:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064349190118056035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/smiroyama/status/2064280357747511507",
+          "start": 11,
+          "url": "https://t.co/BgUUw70ir3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064349190118056035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064280357747511507",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的想学医呜呜呜呜 https://t.co/BgUUw70ir3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1371,
+        "media_key": "3_2064280348247392256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXMCiobAAAZ43K.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2064349190118056035",
+        "created_at": "2026-06-09T14:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064349190118056035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/smiroyama/status/2064280357747511507",
+              "start": 11,
+              "url": "https://t.co/BgUUw70ir3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064349190118056035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064280357747511507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的想学医呜呜呜呜 https://t.co/BgUUw70ir3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064280348247392256"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2064280357747511507",
+        "created_at": "2026-06-09T09:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064280357747511507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yu1b973zb5",
+              "end": 35,
+              "expanded_url": "https://x.com/smiroyama/status/2064280357747511507/photo/1",
+              "media_key": "3_2064280348247392256",
+              "start": 12,
+              "url": "https://t.co/yu1b973zb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064280357747511507",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2506,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考公上岸然后裸辞学医👍 https://t.co/yu1b973zb5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 785,
+          "like_count": 1203,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 2365
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Developing https://t.co/pJ9VtduSxe | 好姐姐 🥰: @qianxunchan | friends: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 34,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 11,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062932840699084800/9M3agsOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6523,
+          "following_count": 2373,
+          "like_count": 12871,
+          "listed_count": 21,
+          "media_count": 2044,
+          "tweet_count": 7618
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

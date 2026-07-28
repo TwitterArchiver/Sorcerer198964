@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2065327887004410342",
+    "created_at": "2026-06-12T06:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065327887004410342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2023210361764360192",
+          "start": 3,
+          "username": "NanakoLumkung"
+        }
+      ],
+      "urls": [
+        {
+          "description": "欢迎大家来到 RLE.wiki. 这是一份给跨性别者与性别多元群体的 RLE 指南。更多帮助正在路上，敬请期待……",
+          "display_url": "rle.wiki",
+          "end": 136,
+          "expanded_url": "http://rle.wiki",
+          "start": 113,
+          "status": 200,
+          "title": "RLE.wiki",
+          "unwound_url": "https://rle.wiki/",
+          "url": "https://t.co/Di78VKzJNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065327887004410342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064551177728246168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NanakoLumkung: 高考完了，又有一批xyn要填报志愿了\n不要来SCUT！！！不要来SCUT！！！不要来SCUT！！！不要来SCUT！！！不要来SCUT！！！不要来SCUT！！！\n这是个反跨学校！！！详情参见https://t.co/Di78VKzJNO中关于…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2065327887004410342",
+        "created_at": "2026-06-12T06:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065327887004410342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2023210361764360192",
+              "start": 3,
+              "username": "NanakoLumkung"
+            }
+          ],
+          "urls": [
+            {
+              "description": "欢迎大家来到 RLE.wiki. 这是一份给跨性别者与性别多元群体的 RLE 指南。更多帮助正在路上，敬请期待……",
+              "display_url": "rle.wiki",
+              "end": 136,
+              "expanded_url": "http://rle.wiki",
+              "start": 113,
+              "status": 200,
+              "title": "RLE.wiki",
+              "unwound_url": "https://rle.wiki/",
+              "url": "https://t.co/Di78VKzJNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065327887004410342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064551177728246168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NanakoLumkung: 高考完了，又有一批xyn要填报志愿了\n不要来SCUT！！！不要来SCUT！！！不要来SCUT！！！不要来SCUT！！！不要来SCUT！！！不要来SCUT！！！\n这是个反跨学校！！！详情参见https://t.co/Di78VKzJNO中关于…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023210361764360192",
+        "conversation_id": "2064551177728246168",
+        "created_at": "2026-06-10T03:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064551177728246168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "欢迎大家来到 RLE.wiki. 这是一份给跨性别者与性别多元群体的 RLE 指南。更多帮助正在路上，敬请期待……",
+              "display_url": "rle.wiki",
+              "end": 117,
+              "expanded_url": "http://rle.wiki",
+              "start": 94,
+              "status": 200,
+              "title": "RLE.wiki",
+              "unwound_url": "https://rle.wiki/",
+              "url": "https://t.co/Di78VKzJNO"
+            },
+            {
+              "display_url": "x.com/sorcerer1311/s…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/sorcerer1311/status/2064346984086204503",
+              "start": 142,
+              "url": "https://t.co/DxsfJjL8Qf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064551177728246168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064346984086204503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高考完了，又有一批xyn要填报志愿了\n不要来SCUT！！！不要来SCUT！！！不要来SCUT！！！不要来SCUT！！！不要来SCUT！！！不要来SCUT！！！\n这是个反跨学校！！！详情参见https://t.co/Di78VKzJNO中关于SCUT的描述！\n总之不要来SCUT！！！ https://t.co/DxsfJjL8Qf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 3,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 349,
+          "tweet_count": 2539
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T01:38:50.000Z",
+        "description": "Freut mich, dich kennenzulernen — willkommen im Hintergarten von @SuzukiHnnn｜現在，HRTは一時中断しています｜My Redemption @HappyHejsDay @Liunian_a @NagiExpress｜E9スクール在学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "SuzukiHnnn"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "NagiExpress"
+              }
+            ]
+          }
+        },
+        "id": "2023210361764360192",
+        "location": "Basilica Sancti Petri",
+        "name": "𝓝·𝓪·𝓷·𝓪·𝓴·𝓸·𝓢·𝓽·𝓻·𝓪·𝔀·𝓫·𝓮·𝓻·𝓻·𝔂",
+        "pinned_tweet_id": "2063140200415633580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032659428667961344/NopHtjOo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 79,
+          "like_count": 1060,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 490
+        },
+        "username": "NanakoLumkung",
+        "verified": false
+      }
+    ]
+  }
+}

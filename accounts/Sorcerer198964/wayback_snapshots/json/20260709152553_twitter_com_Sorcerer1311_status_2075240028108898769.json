@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2075240028108898769",
+    "created_at": "2026-07-09T15:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075240028108898769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yamayat/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/yamayat/status/2074992814027583569",
+          "start": 8,
+          "url": "https://t.co/9vfuDvaLoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075240028108898769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074992814027583569",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种是真想吃了 https://t.co/9vfuDvaLoj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43189,
+        "height": 960,
+        "media_key": "13_2074992671740014592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074992671740014592/img/okvF6T0BLJCjHc9w.jpg",
+        "public_metrics": {
+          "view_count": 57686
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074992671740014592/vid/avc1/320x568/JekXG7dm2j0w7ffc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074992671740014592/vid/avc1/480x852/Moz37kU4FZLd8rdO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074992671740014592/vid/avc1/540x960/t4VpHSFfrMVN5OpQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074992671740014592/pl/4-gNEJt5qrhOSGXf.m3u8?v=87b"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2075240028108898769",
+        "created_at": "2026-07-09T15:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075240028108898769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamayat/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yamayat/status/2074992814027583569",
+              "start": 8,
+              "url": "https://t.co/9vfuDvaLoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075240028108898769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074992814027583569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种是真想吃了 https://t.co/9vfuDvaLoj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074992671740014592"
+          ]
+        },
+        "author_id": "134716312",
+        "conversation_id": "2074992814027583569",
+        "created_at": "2026-07-08T23:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074992814027583569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d1a1ynVsSN",
+              "end": 48,
+              "expanded_url": "https://x.com/YamayaT/status/2074992814027583569/video/1",
+              "media_key": "13_2074992671740014592",
+              "start": 25,
+              "url": "https://t.co/d1a1ynVsSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074992814027583569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 127313,
+          "like_count": 1224,
+          "quote_count": 31,
+          "reply_count": 63,
+          "retweet_count": 232
+        },
+        "reply_settings": "everyone",
+        "text": "中国の豆腐動画は癒される・・・\n今日市場で買うか https://t.co/d1a1ynVsSN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 890,
+          "like_count": 1624,
+          "listed_count": 2,
+          "media_count": 386,
+          "tweet_count": 2852
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-19T07:12:50.000Z",
+        "description": "2002年よりライターやってます。中国IT系トレンド系紹介の連載ほか『異国飯100倍お楽しみマニュアル』『中国のインターネット史（共に星海社）』など本数冊出版。記事は #山谷剛史記事 。Huawei,36krのTWの中の人。お仕事依頼は dtgoshi@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "山谷剛史記事"
+              }
+            ]
+          }
+        },
+        "id": "134716312",
+        "location": "雲南省🐘→日本",
+        "name": "山谷剛史　アジア中国ITライター＆異国飯",
+        "pinned_tweet_id": "2074309167607886303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050721744193978368/P33ZCDly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50771,
+          "following_count": 994,
+          "like_count": 54928,
+          "listed_count": 1016,
+          "media_count": 62033,
+          "tweet_count": 346153
+        },
+        "url": "",
+        "username": "YamayaT",
+        "verified": true
+      }
+    ]
+  }
+}

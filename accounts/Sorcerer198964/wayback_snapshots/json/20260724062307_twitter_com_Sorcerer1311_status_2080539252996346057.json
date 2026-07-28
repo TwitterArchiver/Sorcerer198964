@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2080539252996346057",
+    "created_at": "2026-07-24T06:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T07:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080539252996346057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2080498203682603262",
+          "start": 2,
+          "url": "https://t.co/JH01Z0oC4d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080539252996346057",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080498203682603262",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😎 https://t.co/JH01Z0oC4d"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7894,
+        "height": 720,
+        "media_key": "13_2080363959916597248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080363959916597248/img/e0Di9UBlOQwrHK4U.jpg",
+        "public_metrics": {
+          "view_count": 87757
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080363959916597248/vid/avc1/360x270/iwsBk-iDjOjFc1uR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080363959916597248/vid/avc1/480x360/rnY6B7MgTCmiSuAz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080363959916597248/vid/avc1/960x720/6uJz9vjPAV4PilQu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080363959916597248/pl/TYhzIzSDPRPSTux_.m3u8"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 930,
+        "media_key": "3_2080363959912374272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7v_9IaIAAmBOg.jpg",
+        "width": 1200
+      },
+      {
+        "height": 817,
+        "media_key": "3_2080363959904022528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7v_9GasAAsXAD.jpg",
+        "width": 778
+      },
+      {
+        "height": 1736,
+        "media_key": "3_2080363645327048704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7vtpNbAAAHqD-.jpg",
+        "width": 2520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2080539252996346057",
+        "created_at": "2026-07-24T06:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080539252996346057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2080498203682603262",
+              "start": 2,
+              "url": "https://t.co/JH01Z0oC4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080539252996346057",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080498203682603262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😎 https://t.co/JH01Z0oC4d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080363959916597248",
+            "3_2080363959912374272",
+            "3_2080363959904022528",
+            "3_2080363645327048704"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2080498203682603262",
+        "created_at": "2026-07-24T03:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080498203682603262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L0MczzQ1WJ",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2080498203682603262/video/1",
+              "media_key": "13_2080363959916597248",
+              "start": 104,
+              "url": "https://t.co/L0MczzQ1WJ"
+            },
+            {
+              "display_url": "pic.x.com/L0MczzQ1WJ",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2080498203682603262/video/1",
+              "media_key": "3_2080363959912374272",
+              "start": 104,
+              "url": "https://t.co/L0MczzQ1WJ"
+            },
+            {
+              "display_url": "pic.x.com/L0MczzQ1WJ",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2080498203682603262/video/1",
+              "media_key": "3_2080363959904022528",
+              "start": 104,
+              "url": "https://t.co/L0MczzQ1WJ"
+            },
+            {
+              "display_url": "pic.x.com/L0MczzQ1WJ",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2080498203682603262/video/1",
+              "media_key": "3_2080363645327048704",
+              "start": 104,
+              "url": "https://t.co/L0MczzQ1WJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080498203682603262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "7月23日，一段习近平身穿蓝色花衬衫、端碗饮用当地饮品的视频再次在网络流传。\n\n视频来自2014年11月习近平访问斐济期间。当时他参加当地传统欢迎仪式，穿着斐济传统“布拉衫”，饮用由洋格纳树根制成的卡瓦汁。\n\n时隔近12年，这段旧视频因其罕见造型再次被网友翻出，引发调侃：“这件花衬衫也太宝藏了。”“十人十色魔法老头战士来袭”“穿花衣服的猪在喝水”“镜头给到一班中共高官，那个神态太搞笑了”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 117515,
+          "like_count": 439,
+          "quote_count": 6,
+          "reply_count": 98,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "7月23日，一段习近平身穿蓝色花衬衫、端碗饮用当地饮品的视频再次在网络流传。\n\n视频来自2014年11月习近平访问斐济期间。当时他参加当地传统欢迎仪式，穿着斐济传统“布拉衫”，饮用由洋格纳树根制成的卡瓦汁。 https://t.co/L0MczzQ1WJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 928,
+          "like_count": 1809,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 3037
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2078717699849630025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243699,
+          "following_count": 1080,
+          "like_count": 9807,
+          "listed_count": 8834,
+          "media_count": 50962,
+          "tweet_count": 58182
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

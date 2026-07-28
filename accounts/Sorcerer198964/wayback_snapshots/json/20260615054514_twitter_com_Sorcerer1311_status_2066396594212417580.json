@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2066396594212417580",
+    "created_at": "2026-06-15T05:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066396594212417580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_ropu/status/2…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/_ropu/status/2066215843847954502",
+          "start": 21,
+          "url": "https://t.co/010Xp8Ko3w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066396594212417580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066215843847954502",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以不以死亡为目的的自杀行为是不可接受的 https://t.co/010Xp8Ko3w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 651,
+        "media_key": "3_2066176134195421184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyIPzoboAApWdX.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2066396594212417580",
+        "created_at": "2026-06-15T05:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066396594212417580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_ropu/status/2…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/_ropu/status/2066215843847954502",
+              "start": 21,
+              "url": "https://t.co/010Xp8Ko3w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066396594212417580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066215843847954502",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以不以死亡为目的的自杀行为是不可接受的 https://t.co/010Xp8Ko3w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066176134195421184"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2066215843847954502",
+        "created_at": "2026-06-14T17:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066215843847954502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yH9PcfbRHW",
+              "end": 28,
+              "expanded_url": "https://x.com/_ropu/status/2066215843847954502/photo/1",
+              "media_key": "3_2066176134195421184",
+              "start": 5,
+              "url": "https://t.co/yH9PcfbRHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066215843847954502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1423,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢这个 https://t.co/yH9PcfbRHW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 812,
+          "like_count": 1399,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 2597
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん @Cchang3243 || CN/JP/EN ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu || 是吗 Bot ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ,,ᗜ - ᗜ,,",
+        "pinned_tweet_id": "2065825622069477682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31228,
+          "following_count": 4391,
+          "like_count": 16074,
+          "listed_count": 32,
+          "media_count": 4760,
+          "tweet_count": 35148
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

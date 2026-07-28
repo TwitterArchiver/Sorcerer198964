@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2065351115974283676",
+    "created_at": "2026-06-12T13:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065425325606191524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1625030759395524608",
+          "start": 0,
+          "username": "xinhaiying521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065425325606191524",
+    "in_reply_to_user_id": "1625030759395524608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065425028825698750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinhaiying521 这种不用读大学直接干教培了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2065351115974283676",
+        "created_at": "2026-06-12T13:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065425325606191524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1625030759395524608",
+              "start": 0,
+              "username": "xinhaiying521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065425325606191524",
+        "in_reply_to_user_id": "1625030759395524608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065425028825698750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinhaiying521 这种不用读大学直接干教培了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625030759395524608",
+        "conversation_id": "2065351115974283676",
+        "created_at": "2026-06-12T13:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065425028825698750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065425028825698750",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065351115974283676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 这一行确实来钱很快，咱高中同学当地认识很多人，自己办补课班，一个暑假挣了几十w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 804,
+          "like_count": 1343,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 2555
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T07:15:16.000Z",
+        "description": "⭐/05出厂(˵¯͒〰¯͒˵)🌈//本科CS在读///睡觉中毒 //rock//兴趣点广泛//只聊风月不谈政治//清水推一枚/Shanghai🎈喜欢一切可爱的东西~ /💧🐟。o 〇@Romanorum_ Wish You Were Here",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "Romanorum_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xinhaiying520",
+                "end": 23,
+                "expanded_url": "https://t.me/xinhaiying520",
+                "start": 0,
+                "url": "https://t.co/hA3izuibx9"
+              }
+            ]
+          }
+        },
+        "id": "1625030759395524608",
+        "location": "距离你200m",
+        "name": "神樂坂🌸心海",
+        "pinned_tweet_id": "2025465733115986160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997670357936001024/LnXCj7hM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 810,
+          "like_count": 10745,
+          "listed_count": 5,
+          "media_count": 625,
+          "tweet_count": 3783
+        },
+        "url": "https://t.co/hA3izuibx9",
+        "username": "xinhaiying521",
+        "verified": false
+      }
+    ]
+  }
+}

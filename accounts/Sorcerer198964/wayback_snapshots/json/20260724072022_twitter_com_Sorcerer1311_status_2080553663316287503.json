@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2080446210565927003",
+    "created_at": "2026-07-24T07:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080553663316287503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "989412204863787010",
+          "start": 0,
+          "username": "5xyxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080553663316287503",
+    "in_reply_to_user_id": "989412204863787010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080446210565927003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5xyxh 又没有禁止自己做"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15308,
+        "height": 1732,
+        "media_key": "13_2080434028927488000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080434028927488000/img/uHSPmdJf9kMNAZqx.jpg",
+        "public_metrics": {
+          "view_count": 52248
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080434028927488000/pl/dI8YdIpVNcDytZ6c.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080434028927488000/vid/avc1/480x726/7uhQfcCFWlC29ydM.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080434028927488000/vid/avc1/320x484/EL3TZC0ZrksSrKT-.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080434028927488000/vid/avc1/1144x1732/yoMhM0BRtz3f2jls.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080434028927488000/vid/avc1/720x1090/ZPb4u6ttkpQHMr6Z.mp4"
+          }
+        ],
+        "width": 1144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2080446210565927003",
+        "created_at": "2026-07-24T07:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080553663316287503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "989412204863787010",
+              "start": 0,
+              "username": "5xyxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080553663316287503",
+        "in_reply_to_user_id": "989412204863787010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080446210565927003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5xyxh 又没有禁止自己做"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080434028927488000"
+          ],
+          "media_source_tweet_id": [
+            "2080434104366243931"
+          ]
+        },
+        "author_id": "989412204863787010",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2080446210565927003",
+        "created_at": "2026-07-24T00:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080446210565927003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1TavTmxXq0",
+              "end": 77,
+              "expanded_url": "https://x.com/h5LPyKL7TP6jjop/status/2080434104366243931/video/1",
+              "media_key": "13_2080434028927488000",
+              "start": 54,
+              "url": "https://t.co/1TavTmxXq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080446210565927003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 78127,
+          "like_count": 308,
+          "quote_count": 8,
+          "reply_count": 260,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "大食堂时代要来了。近几年来，习近 平通过各种手段试探民意底线，如果不出现大面积反弹，他就会将中国拉回毛时代。https://t.co/1TavTmxXq0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 928,
+          "like_count": 1811,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 3038
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-26T07:53:46.000Z",
+        "description": "作家、时事评论员\n新高地原创文章，希望与各大众媒体合作！欢迎蓝Ｖ互关。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "globalleadernews.com",
+                "end": 23,
+                "expanded_url": "https://globalleadernews.com/",
+                "start": 0,
+                "url": "https://t.co/RBdc78V1fl"
+              }
+            ]
+          }
+        },
+        "id": "989412204863787010",
+        "location": "美国",
+        "name": "新高地",
+        "pinned_tweet_id": "2080253513016242296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950158573352226816/JNlLt394_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133293,
+          "following_count": 64164,
+          "like_count": 42484,
+          "listed_count": 412,
+          "media_count": 4735,
+          "tweet_count": 47215
+        },
+        "url": "https://t.co/RBdc78V1fl",
+        "username": "5xyxh",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2073337370930511967",
+    "created_at": "2026-07-04T09:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T10:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073337370930511967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/4yoyCZlz",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/4yoyCZlz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073337370930511967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073336513610534945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 7月1日，贵州某“户外拓展基地”，一名青少年被要求背上特制的“水泥砖书包”，跪倒在水泥地上给家长磕头，孩子面容痛苦，一直流泪。\n发布视频的抖音账号上写着“小孩管不住的，六盘水，兴义，都有基地”。 https://t.co/4yoyCZlz…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19133,
+        "height": 1920,
+        "media_key": "13_2073261127895855104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073261127895855104/img/0RetCH6TY3sVqL53.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073261127895855104/vid/avc1/1080x1920/vXz1XUYvYZuHmfLM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073261127895855104/pl/r9h8FyEwOTOOND9z.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073261127895855104/vid/avc1/720x1280/-at5GNChRf__WbF1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073261127895855104/vid/avc1/480x852/X18D_t6Mhdt2SrRW.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073261127895855104/vid/avc1/320x568/nYpCO-sZpaNiQuf_.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2073337370930511967",
+        "created_at": "2026-07-04T09:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073337370930511967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/4yoyCZlz",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/4yoyCZlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073337370930511967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073336513610534945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 7月1日，贵州某“户外拓展基地”，一名青少年被要求背上特制的“水泥砖书包”，跪倒在水泥地上给家长磕头，孩子面容痛苦，一直流泪。\n发布视频的抖音账号上写着“小孩管不住的，六盘水，兴义，都有基地”。 https://t.co/4yoyCZlz…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073261127895855104"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2073336513610534945",
+        "created_at": "2026-07-04T09:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073336513610534945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yoyCZlzH4",
+              "end": 121,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2073336513610534945/video/1",
+              "media_key": "13_2073261127895855104",
+              "start": 98,
+              "url": "https://t.co/4yoyCZlzH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073336513610534945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2097,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "7月1日，贵州某“户外拓展基地”，一名青少年被要求背上特制的“水泥砖书包”，跪倒在水泥地上给家长磕头，孩子面容痛苦，一直流泪。\n发布视频的抖音账号上写着“小孩管不住的，六盘水，兴义，都有基地”。 https://t.co/4yoyCZlzH4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 879,
+          "like_count": 1593,
+          "listed_count": 2,
+          "media_count": 385,
+          "tweet_count": 2816
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243429,
+          "following_count": 1071,
+          "like_count": 9772,
+          "listed_count": 8812,
+          "media_count": 49773,
+          "tweet_count": 56970
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

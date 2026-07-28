@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2064537262432690299",
+    "created_at": "2026-06-10T02:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064537262432690299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Oyama_Mihari01…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Oyama_Mihari01/status/2064491833242313113",
+          "start": 4,
+          "url": "https://t.co/6AjZenlA8v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064537262432690299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064491833242313113",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对话！ https://t.co/6AjZenlA8v"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56005,
+        "height": 720,
+        "media_key": "13_2064491709178986496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064491709178986496/img/wiL0XTpYycMEFr39.jpg",
+        "public_metrics": {
+          "view_count": 2132
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064491709178986496/vid/avc1/480x270/Bfvu6e82c3xSlE8W.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064491709178986496/vid/avc1/640x360/_Tu-_8Qf69HsirHc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064491709178986496/vid/avc1/1280x720/Ao-Ctv5CMXNNlKrB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064491709178986496/pl/uWCSKcbNqqViSYkx.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2064537262432690299",
+        "created_at": "2026-06-10T02:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064537262432690299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oyama_Mihari01…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Oyama_Mihari01/status/2064491833242313113",
+              "start": 4,
+              "url": "https://t.co/6AjZenlA8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064537262432690299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064491833242313113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对话！ https://t.co/6AjZenlA8v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064491709178986496"
+          ]
+        },
+        "author_id": "2015624869665456129",
+        "conversation_id": "2064491833242313113",
+        "created_at": "2026-06-09T23:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064491833242313113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEcmND4cBl",
+              "end": 44,
+              "expanded_url": "https://x.com/Oyama_Mihari01/status/2064491833242313113/video/1",
+              "media_key": "13_2064491709178986496",
+              "start": 21,
+              "url": "https://t.co/nEcmND4cBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064491833242313113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4217,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "2026年6月10日凌晨我拍下了这段视频 https://t.co/nEcmND4cBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 789,
+          "like_count": 1232,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 2391
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "•女子高生のゆるい日常～☆ ͜ \n\n•🌈Bi♀.写真家.クリア系.社会学.LGBTQフレンドリー\n\n•旅してきた軌跡と、これから叶える夢。#SciComm\n\n•🚪52💖フォローありがとう～！みはるんは永遠にみんなを愛してるよ！✨\n\n•他のSNSやGitHubはリンクから",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 69,
+                "tag": "SciComm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Kingyosama",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Kingyosama",
+                "start": 0,
+                "url": "https://t.co/A5JnYGZ3B4"
+              }
+            ]
+          }
+        },
+        "id": "2015624869665456129",
+        "location": "Wubba lubba dub dub！",
+        "name": "OyamaMihari🌈",
+        "pinned_tweet_id": "2060703266305192121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059949776414842880/igOrD6AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 508,
+          "like_count": 1088,
+          "listed_count": 6,
+          "media_count": 100,
+          "tweet_count": 1330
+        },
+        "url": "https://t.co/A5JnYGZ3B4",
+        "username": "Oyama_Mihari01",
+        "verified": false
+      }
+    ]
+  }
+}

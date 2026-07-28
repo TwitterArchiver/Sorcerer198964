@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2078477066086031368",
+    "created_at": "2026-07-19T11:51:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078809940198854729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "745607352355721217",
+          "start": 0,
+          "username": "WilliamPAIvanov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078809940198854729",
+    "in_reply_to_user_id": "745607352355721217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078809124494573708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WilliamPAIvanov 不然呢，要赔误工费的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2078477066086031368",
+        "created_at": "2026-07-19T11:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078809940198854729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "745607352355721217",
+              "start": 0,
+              "username": "WilliamPAIvanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078809940198854729",
+        "in_reply_to_user_id": "745607352355721217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078809124494573708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WilliamPAIvanov 不然呢，要赔误工费的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "745607352355721217",
+        "conversation_id": "2078477066086031368",
+        "created_at": "2026-07-19T11:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078809124494573708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078809124494573708",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078808895133524147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 那这也太野蛮了，怎么能管动物叫财产……\n按这个逻辑的话，我殴打虐待几名工人难道也要给工厂老板赔偿财产损失……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 919,
+          "like_count": 1743,
+          "listed_count": 4,
+          "media_count": 406,
+          "tweet_count": 2954
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-22T13:20:20.000Z",
+        "description": "国民大会主要整活师｜国家一级退堂鼓表演艺术家｜著名抬杠运动员｜世界划水锦标赛冠军｜历届摸鱼大赛种子选手｜四字一等恩封躺平不起公世袭罔替｜吃光阁内大臣｜私聊🚪€2999的私人精神导师｜向日葵听完都不发光的过气负能量老干部｜满洲特务头子｜只为权贵说真话不给牛马唱赞歌｜习近平最敬最爱的亲阿玛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/GurunPartae",
+                "end": 23,
+                "expanded_url": "https://afdian.net/a/GurunPartae",
+                "start": 0,
+                "url": "https://t.co/aCvhudEwTA"
+              }
+            ]
+          }
+        },
+        "id": "745607352355721217",
+        "location": "Italy",
+        "name": "William P. A. da H. Ivanenko （原Ivanov，已纠正）🟦⬜️⬛️",
+        "pinned_tweet_id": "2078186072903659559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796731073038090241/qB450jx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2240,
+          "following_count": 2154,
+          "like_count": 272022,
+          "listed_count": 15,
+          "media_count": 372,
+          "tweet_count": 40911
+        },
+        "url": "https://t.co/aCvhudEwTA",
+        "username": "WilliamPAIvanov",
+        "verified": true
+      }
+    ]
+  }
+}

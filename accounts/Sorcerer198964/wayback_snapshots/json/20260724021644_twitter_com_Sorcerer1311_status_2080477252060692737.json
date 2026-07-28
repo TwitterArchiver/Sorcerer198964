@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2080477252060692737",
+    "created_at": "2026-07-24T02:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T03:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080477252060692737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wujizhuzhu/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/wujizhuzhu/status/2080151741799276817",
+          "start": 29,
+          "url": "https://t.co/VXlZoYQ03w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080477252060692737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080151741799276817",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这位连工厂都卖了还能拿到融资…\n忽悠人的技术一流中的一流 https://t.co/VXlZoYQ03w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2080477252060692737",
+        "created_at": "2026-07-24T02:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080477252060692737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wujizhuzhu/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/wujizhuzhu/status/2080151741799276817",
+              "start": 29,
+              "url": "https://t.co/VXlZoYQ03w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080477252060692737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080151741799276817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这位连工厂都卖了还能拿到融资…\n忽悠人的技术一流中的一流 https://t.co/VXlZoYQ03w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "761100642282713089",
+        "conversation_id": "2080151741799276817",
+        "created_at": "2026-07-23T04:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080151741799276817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080151741799276817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哈哈，这几年跟着贾跃亭投资法拉第未来的，都被割麻了。\n\n最近，法拉第未来股价跌到0.06美元，长期跌破0.1美元，很快就要被退市。\n\n为了不被退市，留住这个上市融资平台，贾跃亭提出按150：1反向拆股。\n\n什么意思呢？\n\n就是把150股合并成1股，市值不变，股本减少，把股价提高150倍，变成9美元，这样就高于1美元，又可以苟活一段时间了。\n\n这不是贾跃亭第一次这么干了，2023年8月80股合成一股，2024年3股合成一股，2024年8月40股合成1股，这次反向拆股完成的话，总的合并倍数是144万倍。\n\n也就是说，2023年8月之前，假如你买入140万股法拉第未来股票，要花22万美元（约150万人民币），这次反向拆股之后，140万股变成1股，股价9美元，折合人民币60元左右。\n\n三年前相信贾跃亭，投入150万，现在只值60元，这简直就是杀猪盘。\n\n真的，但凡相信贾跃亭的人，最后都被割得遍体鳞伤。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 59527,
+          "like_count": 144,
+          "quote_count": 2,
+          "reply_count": 102,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈，这几年跟着贾跃亭投资法拉第未来的，都被割麻了。\n\n最近，法拉第未来股价跌到0.06美元，长期跌破0.1美元，很快就要被退市。\n\n为了不被退市，留住这个上市融资平台，贾跃亭提出按150：1反向拆股。\n\n什么意思呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 927,
+          "like_count": 1799,
+          "listed_count": 4,
+          "media_count": 418,
+          "tweet_count": 3021
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-04T07:25:08.000Z",
+        "description": "美股丨纳指定投指南丨人生操作系统OS | 一人公司 | 终身学习者|跑步🏃| Z-library Points北京站|利物浦球迷 |",
+        "id": "761100642282713089",
+        "location": "North Region, Singapore",
+        "name": "朱无忌无忌",
+        "pinned_tweet_id": "2079005931686490458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972613352091484160/eZq8Ek1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19428,
+          "following_count": 2323,
+          "like_count": 9789,
+          "listed_count": 120,
+          "media_count": 531,
+          "tweet_count": 9313
+        },
+        "url": "",
+        "username": "Wujizhuzhu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2062904223625625723",
+    "created_at": "2026-06-05T14:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062904223625625723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xynMTFxyn/stat…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/xynMTFxyn/status/2062897998951330174",
+          "start": 31,
+          "url": "https://t.co/x1gG001eJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062904223625625723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062897998951330174",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就说这俩是同一个人，吃点死不了的药闹麻了\n找骂呢这是，纯M https://t.co/x1gG001eJ9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2062904223625625723",
+        "created_at": "2026-06-05T14:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062904223625625723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xynMTFxyn/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/xynMTFxyn/status/2062897998951330174",
+              "start": 31,
+              "url": "https://t.co/x1gG001eJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062904223625625723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062897998951330174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就说这俩是同一个人，吃点死不了的药闹麻了\n找骂呢这是，纯M https://t.co/x1gG001eJ9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028321716049743872",
+        "conversation_id": "2062897998951330174",
+        "created_at": "2026-06-05T14:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062897998951330174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062897998951330174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "15t TXA \n5t Salb \n20t QTP \n还有一些不知道是什么的药💊qwq\n晚安各位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 738,
+          "like_count": 1034,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 2148
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T04:14:51.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| 摄影📹| LGBT 🏳️‍🌈 | 私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 | 非常helpful的南盺 | 小南 | 舍友@TransYuwen｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 141,
+                "username": "TransYuwen"
+              }
+            ]
+          }
+        },
+        "id": "2028321716049743872",
+        "name": "南盺酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2062897998951330174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028373556783153152/usYeYRCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 109,
+          "like_count": 169,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 777
+        },
+        "username": "xynMTFxyn",
+        "verified": false
+      }
+    ]
+  }
+}

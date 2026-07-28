@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "id": "1376630920141172737",
+          "name": "Japan National Diet "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1376630920141172737",
+          "name": "Japan National Diet "
+        }
+      }
+    ],
+    "conversation_id": "2068168419107819675",
+    "created_at": "2026-06-20T03:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T04:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068168419107819675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2065321543538991104",
+          "start": 3,
+          "username": "Sekihei5i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068168419107819675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068096042424488190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sekihei5i: 如果硬要说，因为热爱楚国而抵抗秦王之天下统一的屈原是爱国主义者的话，那些因为热爱台湾而坚决阻止中国统一野心的台湾人，就是台湾的爱国主义者。他们同屈原一样的可爱，一样的值得尊敬。反正，作为日本的一个国会议员，我坚决支持台湾的“台独份子”，坚决与他们打…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1376630920141172737",
+              "name": "Japan National Diet "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1376630920141172737",
+              "name": "Japan National Diet "
+            }
+          }
+        ],
+        "conversation_id": "2068168419107819675",
+        "created_at": "2026-06-20T03:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068168419107819675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2065321543538991104",
+              "start": 3,
+              "username": "Sekihei5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068168419107819675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068096042424488190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sekihei5i: 如果硬要说，因为热爱楚国而抵抗秦王之天下统一的屈原是爱国主义者的话，那些因为热爱台湾而坚决阻止中国统一野心的台湾人，就是台湾的爱国主义者。他们同屈原一样的可爱，一样的值得尊敬。反正，作为日本的一个国会议员，我坚决支持台湾的“台独份子”，坚决与他们打…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065321543538991104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1376630920141172737",
+              "name": "Japan National Diet "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1376630920141172737",
+              "name": "Japan National Diet "
+            }
+          }
+        ],
+        "conversation_id": "2068096042424488190",
+        "created_at": "2026-06-19T22:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T23:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068096042424488190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sekihei5i/stat…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/sekihei5i/status/2068093588425310370",
+              "start": 129,
+              "url": "https://t.co/NFASlJq2DI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068096042424488190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11022,
+          "like_count": 300,
+          "quote_count": 5,
+          "reply_count": 79,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068093588425310370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果硬要说，因为热爱楚国而抵抗秦王之天下统一的屈原是爱国主义者的话，那些因为热爱台湾而坚决阻止中国统一野心的台湾人，就是台湾的爱国主义者。他们同屈原一样的可爱，一样的值得尊敬。反正，作为日本的一个国会议员，我坚决支持台湾的“台独份子”，坚决与他们打成一片。 https://t.co/NFASlJq2DI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 849,
+          "like_count": 1513,
+          "listed_count": 2,
+          "media_count": 370,
+          "tweet_count": 2708
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T06:35:12.000Z",
+        "description": "汉奸石平有感有言",
+        "id": "2065321543538991104",
+        "name": "日本参议员石平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773579400945664/Kg3XJmUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22158,
+          "following_count": 28,
+          "like_count": 1,
+          "listed_count": 43,
+          "media_count": 10,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "Sekihei5i",
+        "verified": false
+      }
+    ]
+  }
+}

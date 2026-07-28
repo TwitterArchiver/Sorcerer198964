@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067151111052730368",
+        "3_2067151111069618176",
+        "3_2067151111065395200",
+        "3_2067151111124025344"
+      ],
+      "media_source_tweet_id": [
+        "2067151117822403043",
+        "2067151117822403043",
+        "2067151117822403043",
+        "2067151117822403043"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2067174569170112986",
+    "created_at": "2026-06-17T09:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067174569170112986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1730247812489867264",
+          "start": 3,
+          "username": "nx2125"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LM5SEqGTaT",
+          "end": 56,
+          "expanded_url": "https://x.com/nx2125/status/2067151117822403043/photo/1",
+          "media_key": "3_2067151111052730368",
+          "start": 33,
+          "url": "https://t.co/LM5SEqGTaT"
+        },
+        {
+          "display_url": "pic.x.com/LM5SEqGTaT",
+          "end": 56,
+          "expanded_url": "https://x.com/nx2125/status/2067151117822403043/photo/1",
+          "media_key": "3_2067151111069618176",
+          "start": 33,
+          "url": "https://t.co/LM5SEqGTaT"
+        },
+        {
+          "display_url": "pic.x.com/LM5SEqGTaT",
+          "end": 56,
+          "expanded_url": "https://x.com/nx2125/status/2067151117822403043/photo/1",
+          "media_key": "3_2067151111065395200",
+          "start": 33,
+          "url": "https://t.co/LM5SEqGTaT"
+        },
+        {
+          "display_url": "pic.x.com/LM5SEqGTaT",
+          "end": 56,
+          "expanded_url": "https://x.com/nx2125/status/2067151117822403043/photo/1",
+          "media_key": "3_2067151111124025344",
+          "start": 33,
+          "url": "https://t.co/LM5SEqGTaT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067174569170112986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067151117822403043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nx2125: XDM警惕新骗术！\n一条发不下，分两条了 https://t.co/LM5SEqGTaT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1593,
+        "media_key": "3_2067151111052730368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_--7daIAA3CjO.jpg",
+        "width": 871
+      },
+      {
+        "height": 1069,
+        "media_key": "3_2067151111069618176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_--7hb0AAO_sD.jpg",
+        "width": 888
+      },
+      {
+        "height": 737,
+        "media_key": "3_2067151111065395200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_--7gbYAAf95v.jpg",
+        "width": 874
+      },
+      {
+        "height": 1541,
+        "media_key": "3_2067151111124025344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_--7uaAAA7DYm.jpg",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067151111052730368",
+            "3_2067151111069618176",
+            "3_2067151111065395200",
+            "3_2067151111124025344"
+          ],
+          "media_source_tweet_id": [
+            "2067151117822403043",
+            "2067151117822403043",
+            "2067151117822403043",
+            "2067151117822403043"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2067174569170112986",
+        "created_at": "2026-06-17T09:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067174569170112986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1730247812489867264",
+              "start": 3,
+              "username": "nx2125"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LM5SEqGTaT",
+              "end": 56,
+              "expanded_url": "https://x.com/nx2125/status/2067151117822403043/photo/1",
+              "media_key": "3_2067151111052730368",
+              "start": 33,
+              "url": "https://t.co/LM5SEqGTaT"
+            },
+            {
+              "display_url": "pic.x.com/LM5SEqGTaT",
+              "end": 56,
+              "expanded_url": "https://x.com/nx2125/status/2067151117822403043/photo/1",
+              "media_key": "3_2067151111069618176",
+              "start": 33,
+              "url": "https://t.co/LM5SEqGTaT"
+            },
+            {
+              "display_url": "pic.x.com/LM5SEqGTaT",
+              "end": 56,
+              "expanded_url": "https://x.com/nx2125/status/2067151117822403043/photo/1",
+              "media_key": "3_2067151111065395200",
+              "start": 33,
+              "url": "https://t.co/LM5SEqGTaT"
+            },
+            {
+              "display_url": "pic.x.com/LM5SEqGTaT",
+              "end": 56,
+              "expanded_url": "https://x.com/nx2125/status/2067151117822403043/photo/1",
+              "media_key": "3_2067151111124025344",
+              "start": 33,
+              "url": "https://t.co/LM5SEqGTaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067174569170112986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067151117822403043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nx2125: XDM警惕新骗术！\n一条发不下，分两条了 https://t.co/LM5SEqGTaT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067151111052730368",
+            "3_2067151111069618176",
+            "3_2067151111065395200",
+            "3_2067151111124025344"
+          ]
+        },
+        "author_id": "1730247812489867264",
+        "conversation_id": "2067151117822403043",
+        "created_at": "2026-06-17T07:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067151117822403043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LM5SEqGTaT",
+              "end": 44,
+              "expanded_url": "https://x.com/nx2125/status/2067151117822403043/photo/1",
+              "media_key": "3_2067151111052730368",
+              "start": 21,
+              "url": "https://t.co/LM5SEqGTaT"
+            },
+            {
+              "display_url": "pic.x.com/LM5SEqGTaT",
+              "end": 44,
+              "expanded_url": "https://x.com/nx2125/status/2067151117822403043/photo/1",
+              "media_key": "3_2067151111069618176",
+              "start": 21,
+              "url": "https://t.co/LM5SEqGTaT"
+            },
+            {
+              "display_url": "pic.x.com/LM5SEqGTaT",
+              "end": 44,
+              "expanded_url": "https://x.com/nx2125/status/2067151117822403043/photo/1",
+              "media_key": "3_2067151111065395200",
+              "start": 21,
+              "url": "https://t.co/LM5SEqGTaT"
+            },
+            {
+              "display_url": "pic.x.com/LM5SEqGTaT",
+              "end": 44,
+              "expanded_url": "https://x.com/nx2125/status/2067151117822403043/photo/1",
+              "media_key": "3_2067151111124025344",
+              "start": 21,
+              "url": "https://t.co/LM5SEqGTaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067151117822403043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "XDM警惕新骗术！\n一条发不下，分两条了 https://t.co/LM5SEqGTaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 837,
+          "like_count": 1457,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 2652
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:30:20.000Z",
+        "description": "",
+        "id": "1730247812489867264",
+        "name": "nt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733434494512963584/HtTakn4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "nx2125",
+        "verified": false
+      }
+    ]
+  }
+}

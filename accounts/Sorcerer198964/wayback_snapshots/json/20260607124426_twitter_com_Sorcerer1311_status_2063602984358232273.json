@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2063595611442819351",
+    "created_at": "2026-06-07T12:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063602984358232273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "830659836924694528",
+          "start": 0,
+          "username": "m26iza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063602984358232273",
+    "in_reply_to_user_id": "830659836924694528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063599657603989640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m26iza 哦牛批了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2063595611442819351",
+        "created_at": "2026-06-07T12:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063602984358232273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "830659836924694528",
+              "start": 0,
+              "username": "m26iza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063602984358232273",
+        "in_reply_to_user_id": "830659836924694528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063599657603989640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m26iza 哦牛批了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830659836924694528",
+        "conversation_id": "2063595611442819351",
+        "created_at": "2026-06-07T12:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063599657603989640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063599657603989640",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063595611442819351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 你没发现这张图有隐水印吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 765,
+          "like_count": 1126,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2254
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-12T06:08:32.000Z",
+        "description": "梧桐枝丫疯长，爱意贯穿心脏 ——《某某》",
+        "id": "830659836924694528",
+        "name": "Line.10🏳️‍⚧️",
+        "pinned_tweet_id": "2052774956845723871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060060537401298944/17a7K0uN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 937,
+          "like_count": 13757,
+          "listed_count": 10,
+          "media_count": 55,
+          "tweet_count": 1436
+        },
+        "username": "m26iza",
+        "verified": false
+      }
+    ]
+  }
+}

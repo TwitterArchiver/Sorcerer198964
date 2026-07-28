@@ -7,6 +7,10 @@ on:
         description: '是否由首次建档链式触发（true 时跑完会触发全量重试）'
         required: false
         default: 'false'
+      only_index:
+        description: '仅重建索引（true 时跳过所有抓取，只跑 build-index，用于改完置顶/资料后快速生效）'
+        required: false
+        default: 'false'
 
 jobs:
   update-html-image:
@@ -71,17 +75,33 @@ jobs:
           sed -i "s/const ACCOUNTS_HARDCODED = \[.*\]/const ACCOUNTS_HARDCODED = [${ACCOUNTS_JSON}]/" index.html || true
           echo "✅ archive.py ($(wc -l < /tmp/archive.py) 行)"
 
-      - name: fetch-cdx
+      - name: fetch-cdx + fetch-html
         if: steps.check.outputs.skip == 'false'
         run: |
+          # 账号改过 ID 时，Wayback 里新旧推文分别存在各自的 URL 前缀下，
+          # 必须每个名字都查一遍。目录名保持不变，仅作为稳定 ID。
+          # accounts/<目录>/handles.txt：一行一个曾用名（含现用名），# 开头为注释；
+          # 没有该文件则只抓目录名，与原行为一致。
+          # fetch-cdx 会覆盖 cdx_data.json，所以每抓一个名字就紧接着 fetch-html；
+          # 已下载过的由状态账本自动跳过，不会重复下载。
           while IFS= read -r U; do
             if [ -z "$U" ]; then continue; fi
             if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py fetch-cdx "$U" || true
+            HANDLES=$(sed 's/#.*//' "accounts/${U}/handles.txt" 2>/dev/null \
+                       | tr -d ' \t\r' | grep -v '^$' || true)
+            if [ -z "$HANDLES" ]; then HANDLES="$U"; fi
+            cd accounts/${U}
+            while IFS= read -r H; do
+              if [ -z "$H" ]; then continue; fi
+              echo "── ${U}：抓取名字 ${H}"
+              python3 /tmp/archive.py fetch-cdx "$H" --force || true
+              python3 /tmp/archive.py fetch-html || true
+            done <<< "$HANDLES"
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
-      - name: fetch-html
+      # 上一步已逐个名字下载过；这里保留作为失败项的重试兜底（已完成的会跳过）
+      - name: fetch-html（补漏）
         if: steps.check.outputs.skip == 'false'
         run: |
           while IFS= read -r U; do

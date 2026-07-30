@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2081877840480383346",
+    "created_at": "2026-07-28T04:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T05:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081961262251143674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "28940967",
+          "start": 0,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081961262251143674",
+    "in_reply_to_user_id": "28940967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081877840480383346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidangzzz 哪有那么简单，供应链，装修，服务，器械采买什么的水深得很，没有行业内人士指导不容易一个人干完的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2081877840480383346",
+        "created_at": "2026-07-28T04:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081961262251143674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081961262251143674",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081877840480383346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz 哪有那么简单，供应链，装修，服务，器械采买什么的水深得很，没有行业内人士指导不容易一个人干完的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28940967",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1354777483782963208",
+              "name": "Sweets & desserts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1354777483782963208",
+              "name": "Sweets & desserts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1354777483782963208",
+              "name": "Sweets & desserts"
+            }
+          }
+        ],
+        "conversation_id": "2081877840480383346",
+        "created_at": "2026-07-27T23:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081877840480383346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081877840480383346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "作为勇哥老粉丝，有一件事我非常震惊，就是这么多人30~60岁的人想干餐饮，但是基本全是烘焙、奶茶、蛋糕、咖啡，稍微跟餐饮沾边的也都是火锅、涮羊肉，\n\n甚至做个馒头铺，也要找快招加盟，叫几万块钱学几天才能蒸出来，甚至最后也没学会。\n\n就是说，这些30~60岁的人，难道全都不会做饭吗？老饭骨、 品诺王、赖皮猴、村驴、王刚这些人，随便挑个视频，看个30分钟，不就全都会了吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 48062,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "作为勇哥老粉丝，有一件事我非常震惊，就是这么多人30~60岁的人想干餐饮，但是基本全是烘焙、奶茶、蛋糕、咖啡，稍微跟餐饮沾边的也都是火锅、涮羊肉，\n\n甚至做个馒头铺，也要找快招加盟，叫几万块钱学几天才能蒸出来，甚至最后也没学会。\n\n就是说，这些30~60岁的人，难道全都不会做饭吗？老饭骨、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 935,
+          "like_count": 1883,
+          "listed_count": 3,
+          "media_count": 425,
+          "tweet_count": 3103
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC\n（不回你私信，证明你的问题已经在YouTube回答过了，自己去YouTube视频里参考）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nTEMm"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603805,
+          "following_count": 2724,
+          "like_count": 28764,
+          "listed_count": 3882,
+          "media_count": 10024,
+          "tweet_count": 47973
+        },
+        "url": "https://t.co/RcYK9nTEMm",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

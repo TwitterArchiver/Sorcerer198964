@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2081931959148986681",
+    "created_at": "2026-07-28T02:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081931959148986681"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wodanggangqian…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/wodanggangqiang/status/2081762372776235302",
+          "start": 25,
+          "url": "https://t.co/lWqFj11PGY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081931959148986681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081762372776235302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我蛆体化了，我一直在哭…\n我操…中国怎么这么坏啊 https://t.co/lWqFj11PGY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2081931959148986681",
+        "created_at": "2026-07-28T02:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081931959148986681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wodanggangqian…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/wodanggangqiang/status/2081762372776235302",
+              "start": 25,
+              "url": "https://t.co/lWqFj11PGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081931959148986681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081762372776235302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我蛆体化了，我一直在哭…\n我操…中国怎么这么坏啊 https://t.co/lWqFj11PGY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575765089030139905",
+        "conversation_id": "2081762372776235302",
+        "created_at": "2026-07-27T15:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081762372776235302"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 109,
+              "tag": "wangwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081762372776235302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5525,
+          "like_count": 400,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "应该是心脉受损太严重了，这个月已经记不清因为旺旺的事哭了多少次了，今天是28号，旺旺被虐杀一个月了，大家被捂嘴、警告、封号，好像能做的都做了，但是没办法改变那些石头做的人心，旺旺，你一定不要再投胎了，这辈子已经够苦了。#wangwang"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 933,
+          "like_count": 1877,
+          "listed_count": 3,
+          "media_count": 424,
+          "tweet_count": 3093
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30495,
+          "following_count": 600,
+          "like_count": 38388,
+          "listed_count": 90,
+          "media_count": 10473,
+          "tweet_count": 28877
+        },
+        "url": "",
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

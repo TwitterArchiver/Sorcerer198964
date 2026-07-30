@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2081946546355180012",
+    "created_at": "2026-07-28T03:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T04:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081946546355180012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1507631541303713793",
+          "start": 3,
+          "username": "xiaomustock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081946546355180012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081751480021946522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @xiaomustock: 我买到了美股百年大顶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2081946546355180012",
+        "created_at": "2026-07-28T03:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081946546355180012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1507631541303713793",
+              "start": 3,
+              "username": "xiaomustock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081946546355180012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081751480021946522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @xiaomustock: 我买到了美股百年大顶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507631541303713793",
+        "conversation_id": "2081751480021946522",
+        "created_at": "2026-07-27T14:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081751480021946522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081751480021946522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 160389,
+          "like_count": 691,
+          "quote_count": 7,
+          "reply_count": 85,
+          "retweet_count": 17
+        },
+        "reply_settings": "verified",
+        "text": "我买到了美股百年大顶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 934,
+          "like_count": 1878,
+          "listed_count": 3,
+          "media_count": 425,
+          "tweet_count": 3097
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T08:12:38.000Z",
+        "description": "一个自由的AI股票大宗期权纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不会私聊任何人不碰任何人资金-任何借我名义私聊或者推广或者收费或其他地方假借助理顾问也都是诈骗，谨防上当。 推特只用作自身投资笔记，悉知。",
+        "id": "1507631541303713793",
+        "location": "萨尔瓦多",
+        "name": "川沐｜Trumoo🐮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277943,
+          "following_count": 521,
+          "like_count": 7294,
+          "listed_count": 4754,
+          "media_count": 5630,
+          "tweet_count": 12916
+        },
+        "url": "",
+        "username": "xiaomustock",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2082306644348965330",
+    "created_at": "2026-07-29T03:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T04:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082306644348965330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyumama9968…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/xiaoyumama9968/status/2082017182708580785",
+          "start": 33,
+          "url": "https://t.co/zp5Isss0lT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082306644348965330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082017182708580785",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太神奇了全世界都在说庆丰话，而国内根本没多少人了解这个事件。。。 https://t.co/zp5Isss0lT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2082306644348965330",
+        "created_at": "2026-07-29T03:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082306644348965330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyumama9968…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/xiaoyumama9968/status/2082017182708580785",
+              "start": 33,
+              "url": "https://t.co/zp5Isss0lT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082306644348965330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082017182708580785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太神奇了全世界都在说庆丰话，而国内根本没多少人了解这个事件。。。 https://t.co/zp5Isss0lT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353694338643972097",
+        "conversation_id": "2082017182708580785",
+        "created_at": "2026-07-28T08:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082017182708580785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082017182708580785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 923208,
+          "like_count": 1054,
+          "quote_count": 5,
+          "reply_count": 538,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "太神奇了全世界都在悼念旺旺 而国内根本没多少人了解这个事件。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 933,
+          "like_count": 1913,
+          "listed_count": 3,
+          "media_count": 429,
+          "tweet_count": 3141
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T13:21:50.000Z",
+        "description": "杭州人，不搞黄色，不聊骚，广告自辨清楚！！！不会主动联系任何人！！！小号 @xiaoyumama9988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "xiaoyumama9988"
+              }
+            ]
+          }
+        },
+        "id": "1353694338643972097",
+        "name": "小宇妈妈",
+        "pinned_tweet_id": "2078828956506378723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1457902448547274755/S8Sn15qS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495054,
+          "following_count": 34,
+          "like_count": 16595,
+          "listed_count": 416,
+          "media_count": 3542,
+          "tweet_count": 34365
+        },
+        "url": "",
+        "username": "xiaoyumama9968",
+        "verified": true
+      }
+    ]
+  }
+}

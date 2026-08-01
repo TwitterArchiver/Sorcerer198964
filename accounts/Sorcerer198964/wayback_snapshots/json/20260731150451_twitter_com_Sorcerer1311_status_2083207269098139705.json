@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2083163486339916067",
+    "created_at": "2026-07-31T15:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083207269098139705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879808970162053120",
+          "start": 0,
+          "username": "isabella_mumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083207269098139705",
+    "in_reply_to_user_id": "1879808970162053120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083163486339916067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isabella_mumu 原来这么多讲究的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1883,
+        "media_key": "3_2083163475543769088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjiJNjawAA2HWM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1461,
+        "media_key": "3_2083163475497684992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjiJNYbkAAlyYh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2083163486339916067",
+        "created_at": "2026-07-31T15:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083207269098139705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879808970162053120",
+              "start": 0,
+              "username": "isabella_mumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083207269098139705",
+        "in_reply_to_user_id": "1879808970162053120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083163486339916067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isabella_mumu 原来这么多讲究的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083163475543769088",
+            "3_2083163475497684992"
+          ]
+        },
+        "author_id": "1879808970162053120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083163486339916067",
+        "created_at": "2026-07-31T12:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083163486339916067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdC90AxBof",
+              "end": 146,
+              "expanded_url": "https://x.com/isabella_mumu/status/2083163486339916067/photo/1",
+              "media_key": "3_2083163475543769088",
+              "start": 123,
+              "url": "https://t.co/YdC90AxBof"
+            },
+            {
+              "display_url": "pic.x.com/YdC90AxBof",
+              "end": 146,
+              "expanded_url": "https://x.com/isabella_mumu/status/2083163486339916067/photo/1",
+              "media_key": "3_2083163475497684992",
+              "start": 123,
+              "url": "https://t.co/YdC90AxBof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083163486339916067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1187,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "越南的法包三明治是很特殊的美食，殖民时代越南人把大米浆加到法棍的原材料里面，导致这样做出来的法棍更加松脆，里面的蔬菜是越南本土特色，萝卜丝是醋腌过的，会加入香菜提鲜，越南米粉的味道也没得说。在东京的售价大概1700一份（米粉➕三明治）吃完特别饱 https://t.co/YdC90AxBof"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 942,
+          "like_count": 1973,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 3247
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T08:32:58.000Z",
+        "description": "偶尔写诗。一个很抽象的人。",
+        "id": "1879808970162053120",
+        "name": "Isabella",
+        "pinned_tweet_id": "1973600586919719073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073785048290197504/ukl1Xo3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5205,
+          "following_count": 355,
+          "like_count": 6493,
+          "listed_count": 18,
+          "media_count": 991,
+          "tweet_count": 6836
+        },
+        "url": "",
+        "username": "isabella_mumu",
+        "verified": false
+      }
+    ]
+  }
+}

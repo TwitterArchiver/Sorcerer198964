@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1596803386909032450"
+      ],
+      "media_source_tweet_id": [
+        "1596803683706339329"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2082827461184938254",
+    "created_at": "2026-07-30T13:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082827461184938254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "847712616310898688",
+          "start": 3,
+          "username": "realEmperorPooh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QsDrIlb8up",
+          "end": 66,
+          "expanded_url": "https://x.com/realEmperorPooh/status/1596803683706339329/video/1",
+          "media_key": "7_1596803386909032450",
+          "start": 43,
+          "url": "https://t.co/QsDrIlb8up"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082827461184938254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1596803683706339329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realEmperorPooh: 华南理工大学一位学生在核酸检测点出口处演讲 https://t.co/QsDrIlb8up"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29963,
+        "height": 1228,
+        "media_key": "7_1596803386909032450",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1596803386909032450/pu/img/DOiQ2XyUwNG3PTMz.jpg",
+        "public_metrics": {
+          "view_count": 21615
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1596803386909032450/pu/vid/320x544/OWAk2iOPWdNUBHnh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1596803386909032450/pu/vid/480x818/VOcHf1FEefcVXVWT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1596803386909032450/pu/vid/720x1228/KkrDpFkHCM1lYWfB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1596803386909032450/pu/pl/F_hkF6wcSvoQfMOS.m3u8?tag=12&v=ad0"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1596803386909032450"
+          ]
+        },
+        "author_id": "847712616310898688",
+        "conversation_id": "1596803683706339329",
+        "created_at": "2022-11-27T09:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2022-11-27T10:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1596803683706339329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QsDrIlb8up",
+              "end": 45,
+              "expanded_url": "https://x.com/realEmperorPooh/status/1596803683706339329/video/1",
+              "media_key": "7_1596803386909032450",
+              "start": 22,
+              "url": "https://t.co/QsDrIlb8up"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1596803683706339329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 0,
+          "like_count": 407,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "华南理工大学一位学生在核酸检测点出口处演讲 https://t.co/QsDrIlb8up"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1596803386909032450"
+          ],
+          "media_source_tweet_id": [
+            "1596803683706339329"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2082827461184938254",
+        "created_at": "2026-07-30T13:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082827461184938254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "847712616310898688",
+              "start": 3,
+              "username": "realEmperorPooh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QsDrIlb8up",
+              "end": 66,
+              "expanded_url": "https://x.com/realEmperorPooh/status/1596803683706339329/video/1",
+              "media_key": "7_1596803386909032450",
+              "start": 43,
+              "url": "https://t.co/QsDrIlb8up"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082827461184938254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1596803683706339329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realEmperorPooh: 华南理工大学一位学生在核酸检测点出口处演讲 https://t.co/QsDrIlb8up"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 939,
+          "like_count": 1949,
+          "listed_count": 3,
+          "media_count": 431,
+          "tweet_count": 3174
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-31T07:30:12.000Z",
+        "description": "某阶段开始无条件互fo，也会回unfo。不会单向取fo，如果有误取fo/误ban还请DM我。推特每日关注数上限400多个，需要回Fo可以直接私信喔，投稿也可私信，合作伙伴@warma1026 #F4F🥳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 96,
+                "tag": "F4F"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "warma1026"
+              }
+            ]
+          }
+        },
+        "id": "847712616310898688",
+        "location": "维尼帝国",
+        "name": "维尼大帝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619740839420506113/Rcu592CO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176809,
+          "following_count": 69362,
+          "like_count": 88189,
+          "listed_count": 697,
+          "media_count": 11964,
+          "tweet_count": 23120
+        },
+        "url": "",
+        "username": "realEmperorPooh",
+        "verified": false
+      }
+    ]
+  }
+}

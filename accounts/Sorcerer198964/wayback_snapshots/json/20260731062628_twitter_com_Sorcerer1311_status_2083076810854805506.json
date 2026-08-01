@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2083032404768534837",
+    "created_at": "2026-07-31T06:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T07:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083076810854805506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083076810854805506",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083032404768534837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 白衣天使你妈，不过是临时找的社会人士穿个衣服狗仗人势罢了，连医疗资质都不用\n现在这种人没了工作是不是还希望叮咚鸡再来一次？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13792,
+        "height": 1280,
+        "media_key": "13_2082725158419324928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082725158419324928/img/4umoEz-9KZadvL9o.jpg",
+        "public_metrics": {
+          "view_count": 20942
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082725158419324928/vid/avc1/320x702/7mwsSeXTRVrRZGtV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082725158419324928/vid/avc1/480x1054/o795JUqmr08Jka4R.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082725158419324928/vid/avc1/582x1280/doUK3u654JjWSxMX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082725158419324928/pl/bwHWUIm8GmZvJ0Rs.m3u8?v=cfc"
+          }
+        ],
+        "width": 582
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2082762288617201664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd1RDyboAAa9MF.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2082762334729302016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd1TvkacAAnYXL.jpg",
+        "width": 1016
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2082762366903836672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd1Vnba4AAjdIZ.jpg",
+        "width": 881
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2083032404768534837",
+        "created_at": "2026-07-31T06:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083076810854805506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083076810854805506",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083032404768534837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 白衣天使你妈，不过是临时找的社会人士穿个衣服狗仗人势罢了，连医疗资质都不用\n现在这种人没了工作是不是还希望叮咚鸡再来一次？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082725158419324928",
+            "3_2082762288617201664",
+            "3_2082762334729302016",
+            "3_2082762366903836672"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2083032404768534837",
+        "created_at": "2026-07-31T03:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083032404768534837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hFCVnFoylL",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2083032404768534837/video/1",
+              "media_key": "13_2082725158419324928",
+              "start": 82,
+              "url": "https://t.co/hFCVnFoylL"
+            },
+            {
+              "display_url": "pic.x.com/hFCVnFoylL",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2083032404768534837/video/1",
+              "media_key": "3_2082762288617201664",
+              "start": 82,
+              "url": "https://t.co/hFCVnFoylL"
+            },
+            {
+              "display_url": "pic.x.com/hFCVnFoylL",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2083032404768534837/video/1",
+              "media_key": "3_2082762334729302016",
+              "start": 82,
+              "url": "https://t.co/hFCVnFoylL"
+            },
+            {
+              "display_url": "pic.x.com/hFCVnFoylL",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2083032404768534837/video/1",
+              "media_key": "3_2082762366903836672",
+              "start": 82,
+              "url": "https://t.co/hFCVnFoylL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083032404768534837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“当时可没嫌弃我是个大专生”\n近日，多名医学生在网络平台反映就业压力增大，称当前医疗行业招聘门槛不断提高，不少岗位要求本科及以上学历，部分专科医学生面临求职困难。\n\n有网友表示，疫情期间，许多医学生和基层医护人员积极参与防疫工作，部分学生在校期间便参与核酸检测、志愿服务等一线工作。当时他们被称为“白衣天使”，但如今就业环境变化，一些专科医学毕业生却面临岗位难寻的困境。\n\n一名网友留言称：“疫情需要我们的时候，从没嫌弃我们是大专生，那时候我们被称为‘天使’，如今不需要了，却仿佛被随意丢弃。”\n\n还有网友回忆称：“当时中专实习生也去了一线做核酸，那时候没人说我们只是学生。后来进入临床岗位，又被告知学历不够、只是学生。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 36198,
+          "like_count": 167,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "“当时可没嫌弃我是个大专生”\n近日，多名医学生在网络平台反映就业压力增大，称当前医疗行业招聘门槛不断提高，不少岗位要求本科及以上学历，部分专科医学生面临求职困难。 https://t.co/hFCVnFoylL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 942,
+          "like_count": 1964,
+          "listed_count": 3,
+          "media_count": 439,
+          "tweet_count": 3225
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244629,
+          "following_count": 1081,
+          "like_count": 9827,
+          "listed_count": 8842,
+          "media_count": 51381,
+          "tweet_count": 58617
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

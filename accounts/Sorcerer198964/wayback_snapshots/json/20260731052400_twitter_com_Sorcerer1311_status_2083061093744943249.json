@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083061058764513280"
+      ],
+      "media_source_tweet_id": [
+        "2083061066075181234"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2083061093744943249",
+    "created_at": "2026-07-31T05:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083061093744943249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer1311"
+        },
+        {
+          "end": 30,
+          "id": "1892143528140267520",
+          "start": 18,
+          "username": "fufu1367612"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DwYw3SyE8f",
+          "end": 54,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2083061066075181234/photo/1",
+          "media_key": "3_2083061058764513280",
+          "start": 31,
+          "url": "https://t.co/DwYw3SyE8f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083061093744943249",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083061066075181234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer1311: @fufu1367612 https://t.co/DwYw3SyE8f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083061058764513280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiE_xUboAAz_Uc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083061058764513280"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2082878514639098063",
+        "created_at": "2026-07-31T05:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083061066075181234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892143528140267520",
+              "start": 0,
+              "username": "fufu1367612"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DwYw3SyE8f",
+              "end": 36,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2083061066075181234/photo/1",
+              "media_key": "3_2083061058764513280",
+              "start": 13,
+              "url": "https://t.co/DwYw3SyE8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083061066075181234",
+        "in_reply_to_user_id": "1892143528140267520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082878514639098063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufu1367612 https://t.co/DwYw3SyE8f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083061058764513280"
+          ],
+          "media_source_tweet_id": [
+            "2083061066075181234"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2083061093744943249",
+        "created_at": "2026-07-31T05:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083061093744943249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer1311"
+            },
+            {
+              "end": 30,
+              "id": "1892143528140267520",
+              "start": 18,
+              "username": "fufu1367612"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DwYw3SyE8f",
+              "end": 54,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2083061066075181234/photo/1",
+              "media_key": "3_2083061058764513280",
+              "start": 31,
+              "url": "https://t.co/DwYw3SyE8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083061093744943249",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083061066075181234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer1311: @fufu1367612 https://t.co/DwYw3SyE8f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 942,
+          "like_count": 1961,
+          "listed_count": 3,
+          "media_count": 438,
+          "tweet_count": 3215
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T09:25:57.000Z",
+        "description": "我爱fufu！\n分享23岁的退休生活\n长住酒店的酒店爱好者\n全职交易员\n只会hello world的cs本\n舒适旅行专家\n电子硬件发烧友",
+        "id": "1892143528140267520",
+        "name": "0xfufu",
+        "pinned_tweet_id": "2079100574663061937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892143640912543744/-Fx-HI81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 570,
+          "like_count": 8878,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 3700
+        },
+        "url": "",
+        "username": "fufu1367612",
+        "verified": true
+      }
+    ]
+  }
+}

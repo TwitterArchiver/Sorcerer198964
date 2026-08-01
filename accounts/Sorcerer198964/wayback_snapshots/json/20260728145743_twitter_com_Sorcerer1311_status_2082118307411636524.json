@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2082118307411636524",
+    "created_at": "2026-07-28T14:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082118307411636524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zengying1107/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/zengying1107/status/2082096652920443106",
+          "start": 15,
+          "url": "https://t.co/V8y9JRyAUl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082118307411636524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082096652920443106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么时候先推动反遗弃动物法？ https://t.co/V8y9JRyAUl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37666,
+        "height": 1280,
+        "media_key": "13_2081962869672050688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081962869672050688/img/bq1qMNIz-2phH2XF.jpg",
+        "public_metrics": {
+          "view_count": 13308
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081962869672050688/vid/avc1/320x568/67bA4AShq47LZGWP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081962869672050688/vid/avc1/480x852/65prib9zNZhE8cL7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081962869672050688/vid/avc1/720x1280/aIzffoniFgZpNEUF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081962869672050688/pl/BfwNgD-EOTYvxgvw.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2082118307411636524",
+        "created_at": "2026-07-28T14:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082118307411636524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zengying1107/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/zengying1107/status/2082096652920443106",
+              "start": 15,
+              "url": "https://t.co/V8y9JRyAUl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082118307411636524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082096652920443106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么时候先推动反遗弃动物法？ https://t.co/V8y9JRyAUl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081962869672050688"
+          ],
+          "media_source_tweet_id": [
+            "2081962897828413495"
+          ]
+        },
+        "author_id": "2021393118390779904",
+        "conversation_id": "2082096652920443106",
+        "created_at": "2026-07-28T13:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082096652920443106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYJewwcB2s",
+              "end": 235,
+              "expanded_url": "https://x.com/the_whisper_1/status/2081962897828413495/video/1",
+              "media_key": "13_2081962869672050688",
+              "start": 212,
+              "url": "https://t.co/GYJewwcB2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082096652920443106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/the_whisper_1/…",
+                "end": 235,
+                "expanded_url": "https://x.com/the_whisper_1/status/2081962897828413495/video/1",
+                "start": 212,
+                "url": "https://t.co/GYJewwcB2s"
+              }
+            ]
+          },
+          "text": "广东揭阳被虐待致死的小狗旺旺，继登上美国时代广场大屏幕后，今天登上全球人流量最大的东京涩谷十字街头。\n\n这件事情怎么处理？\n动物保护法是否推行？\n全世界都在等一个答案。\n\n旺旺的维度理解不了一根干净骨头都配不上的流浪小狗，怎么能在它死后收获这么多来自陌生人类迟到的爱意和心痛。\n它只是很疼。\n\n中国大陆还有无数像旺旺一样，在街头游荡，东躲西藏、无家可归，时刻活在惊恐之中的流浪小狗。遗弃和虐待同罪！请国家推进反虐待动物法！ https://t.co/GYJewwcB2s"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3608,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "广东揭阳被虐待致死的小狗旺旺，继登上美国时代广场大屏幕后，今天登上全球人流量最大的东京涩谷十字街头。\n\n这件事情怎么处理？\n动物保护法是否推行？\n全世界都在等一个答案。\n\n旺旺的维度理解不了一根干净骨头都配不上的流浪小狗，怎么能在它死后收获这么多来自陌生人类迟到的爱意和心痛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 934,
+          "like_count": 1902,
+          "listed_count": 3,
+          "media_count": 428,
+          "tweet_count": 3126
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T01:17:42.000Z",
+        "description": "早稻田金融毕业｜TEDx演讲嘉宾｜币圈OG｜fobers u30 china｜34岁退休环游世界｜padel｜网球｜实弹射击｜潜水｜赛车｜摩托｜开船｜冰攀｜科技金融博主",
+        "id": "2021393118390779904",
+        "name": "曾颖",
+        "pinned_tweet_id": "2078168590998720885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036400185690169349/9HTtvl-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28632,
+          "following_count": 182,
+          "like_count": 881,
+          "listed_count": 73,
+          "media_count": 447,
+          "tweet_count": 1484
+        },
+        "url": "",
+        "username": "zengying1107",
+        "verified": true
+      }
+    ]
+  }
+}

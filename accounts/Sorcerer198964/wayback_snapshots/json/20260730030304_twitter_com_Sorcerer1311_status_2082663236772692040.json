@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2082490134608629872",
+    "created_at": "2026-07-30T03:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082663236772692040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2032099399585951744",
+          "start": 0,
+          "username": "submerge2779"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082663236772692040",
+    "in_reply_to_user_id": "2032099399585951744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082659202879922213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@submerge2779 这个略有点贵不过挺不错的，好喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2082490134608629872",
+        "created_at": "2026-07-30T03:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082663236772692040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2032099399585951744",
+              "start": 0,
+              "username": "submerge2779"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082663236772692040",
+        "in_reply_to_user_id": "2032099399585951744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082659202879922213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@submerge2779 这个略有点贵不过挺不错的，好喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032099399585951744",
+        "conversation_id": "2082490134608629872",
+        "created_at": "2026-07-30T02:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082659202879922213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082659202879922213",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082490134608629872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 外星人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 937,
+          "like_count": 1929,
+          "listed_count": 3,
+          "media_count": 430,
+          "tweet_count": 3158
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T14:21:33.000Z",
+        "description": "外推@stardust_13457平常会发一些生活日常~\n 09男高 交流私信 由于不方便收发快递，不换照不出任何个人物品不换鞋\n偏李宁跑鞋篮球鞋 安踏跑鞋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "stardust_13457"
+              }
+            ]
+          }
+        },
+        "id": "2032099399585951744",
+        "name": "submerge.",
+        "pinned_tweet_id": "2079002190900052400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078025503362183168/OXG_2wMY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4530,
+          "following_count": 161,
+          "like_count": 440,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "submerge2779",
+        "verified": false
+      }
+    ]
+  }
+}

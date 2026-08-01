@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2082802522293747911",
+    "created_at": "2026-07-30T12:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082804984660512777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973748660975587328",
+          "start": 0,
+          "username": "xmaa0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082804984660512777",
+    "in_reply_to_user_id": "1973748660975587328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082804485215367324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmaa0721 东莞前年进厂超过25的极少，今年超过20的都少了\n不过不要求经验"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2082802522293747911",
+        "created_at": "2026-07-30T12:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082804984660512777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973748660975587328",
+              "start": 0,
+              "username": "xmaa0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082804984660512777",
+        "in_reply_to_user_id": "1973748660975587328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082804485215367324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmaa0721 东莞前年进厂超过25的极少，今年超过20的都少了\n不过不要求经验"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973748660975587328",
+        "conversation_id": "2082802522293747911",
+        "created_at": "2026-07-30T12:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082804485215367324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082804485215367324",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082803793159483547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 但这里是广东，18一个小时也太低了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 939,
+          "like_count": 1942,
+          "listed_count": 3,
+          "media_count": 431,
+          "tweet_count": 3173
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "合约炒币输5万，大学已退学，在东莞打工，准备参加2028年高考//QQ259756720、微信Anan3ww\n\n傻逼东西别开150X杠杆乱搞",
+        "id": "1973748660975587328",
+        "name": "夏目安安",
+        "pinned_tweet_id": "2082668022574277004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082691371920699392/981M_EkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 747,
+          "like_count": 5024,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 549
+        },
+        "url": "",
+        "username": "xmaa0721",
+        "verified": false
+      }
+    ]
+  }
+}

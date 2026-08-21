@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2087598925733924962",
+    "created_at": "2026-08-12T17:55:44.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087598925733924962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/simone_luxem/s…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/simone_luxem/status/2087278162619379836",
+          "start": 110,
+          "url": "https://t.co/OG018EoPVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087598925733924962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087278162619379836",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这位感觉已经有点开团意味了\n然而比较尬的是这套理论像是在文艺复兴\n你推劳保跨理论还能上桌引起巨大争议而不是被直接骂傻逼，显得圈内整体的理论性有点过于保守\n二元跨还是太多了……\n有人给我挂清蒸了难道是觉得我太保了吗？？？ https://t.co/OG018EoPVN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2087278156311150592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeAbJ5bwAA5mzH.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2087278156273307648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPeAbJwaUAAogJs.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2087598925733924962",
+        "created_at": "2026-08-12T17:55:44.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087598925733924962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/simone_luxem/status/2087278162619379836",
+              "start": 110,
+              "url": "https://t.co/OG018EoPVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087598925733924962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087278162619379836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这位感觉已经有点开团意味了\n然而比较尬的是这套理论像是在文艺复兴\n你推劳保跨理论还能上桌引起巨大争议而不是被直接骂傻逼，显得圈内整体的理论性有点过于保守\n二元跨还是太多了……\n有人给我挂清蒸了难道是觉得我太保了吗？？？ https://t.co/OG018EoPVN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087278156311150592",
+            "3_2087278156273307648"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "2087278162619379836",
+        "created_at": "2026-08-11T20:41:08.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T21:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087278162619379836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vhaia8onvx",
+              "end": 38,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2087278162619379836/photo/1",
+              "media_key": "3_2087278156311150592",
+              "start": 15,
+              "url": "https://t.co/vhaia8onvx"
+            },
+            {
+              "display_url": "pic.x.com/vhaia8onvx",
+              "end": 38,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2087278162619379836/photo/1",
+              "media_key": "3_2087278156273307648",
+              "start": 15,
+              "url": "https://t.co/vhaia8onvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087278162619379836",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087278156311150592"
+          },
+          {
+            "media_key": "3_2087278156273307648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 843,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然你自己说自己不是跨的…？ https://t.co/vhaia8onvx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2087598925733924962",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 1005,
+          "like_count": 2316,
+          "listed_count": 4,
+          "media_count": 515,
+          "tweet_count": 3624
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2087578404770173280",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6235,
+          "following_count": 217,
+          "like_count": 24961,
+          "listed_count": 16,
+          "media_count": 1797,
+          "tweet_count": 21854
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

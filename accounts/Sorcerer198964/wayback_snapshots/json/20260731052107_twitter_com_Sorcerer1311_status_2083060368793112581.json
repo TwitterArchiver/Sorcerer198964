@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2083044727687893253",
+    "created_at": "2026-07-31T05:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083060368793112581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1993659774370758656",
+          "start": 0,
+          "username": "weiyux2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083060368793112581",
+    "in_reply_to_user_id": "1993659774370758656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083044727687893253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiyux2021 这里不是小红书…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083044691554025472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOh2HEtXQAAo84R.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083044691696594944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOh2HFPWsAAB7ZG.jpg",
+        "width": 946
+      },
+      {
+        "height": 1665,
+        "media_key": "3_2083044691600179200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOh2HE4XgAAgtKQ.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2083044727687893253",
+        "created_at": "2026-07-31T05:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083060368793112581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1993659774370758656",
+              "start": 0,
+              "username": "weiyux2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083060368793112581",
+        "in_reply_to_user_id": "1993659774370758656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083044727687893253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiyux2021 这里不是小红书…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083044691554025472",
+            "3_2083044691696594944",
+            "3_2083044691600179200"
+          ]
+        },
+        "author_id": "1993659774370758656",
+        "conversation_id": "2083044727687893253",
+        "created_at": "2026-07-31T04:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083044727687893253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TVroxR5Mtj",
+              "end": 34,
+              "expanded_url": "https://x.com/weiyux2021/status/2083044727687893253/photo/1",
+              "media_key": "3_2083044691554025472",
+              "start": 11,
+              "url": "https://t.co/TVroxR5Mtj"
+            },
+            {
+              "display_url": "pic.x.com/TVroxR5Mtj",
+              "end": 34,
+              "expanded_url": "https://x.com/weiyux2021/status/2083044727687893253/photo/1",
+              "media_key": "3_2083044691696594944",
+              "start": 11,
+              "url": "https://t.co/TVroxR5Mtj"
+            },
+            {
+              "display_url": "pic.x.com/TVroxR5Mtj",
+              "end": 34,
+              "expanded_url": "https://x.com/weiyux2021/status/2083044727687893253/photo/1",
+              "media_key": "3_2083044691600179200",
+              "start": 11,
+              "url": "https://t.co/TVroxR5Mtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083044727687893253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 893,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽！真免费送啊？！ https://t.co/TVroxR5Mtj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 942,
+          "like_count": 1960,
+          "listed_count": 3,
+          "media_count": 437,
+          "tweet_count": 3213
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T12:35:38.000Z",
+        "description": "是自由职业者，也是超级奶爸，35岁实现人生当中第一次自驾游，分享个人成长经历及搞钱经验",
+        "id": "1993659774370758656",
+        "location": "付费咨询微信：weiyux2021",
+        "name": "动物园园长",
+        "pinned_tweet_id": "2053735690353971217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993662305121574912/H9i36Qhy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70460,
+          "following_count": 658,
+          "like_count": 151,
+          "listed_count": 216,
+          "media_count": 2537,
+          "tweet_count": 12735
+        },
+        "url": "",
+        "username": "weiyux2021",
+        "verified": true
+      }
+    ]
+  }
+}

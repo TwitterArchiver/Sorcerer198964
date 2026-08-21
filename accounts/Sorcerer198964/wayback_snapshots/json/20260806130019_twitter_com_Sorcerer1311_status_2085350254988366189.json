@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2085296778694561960",
+    "created_at": "2026-08-06T13:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085350254988366189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1336576654022340608",
+          "start": 0,
+          "username": "yu_kirins"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085350254988366189",
+    "in_reply_to_user_id": "1336576654022340608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085296778694561960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_kirins 哪有200-1000，放几个冰袋的事情，方舟就算买一支也会放冰袋的\n不过确实如ai所说影响不大，我都是常温保存的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1149,
+        "media_key": "3_2085296767843885056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPB2XKqa4AA99_t.jpg",
+        "width": 1179
+      },
+      {
+        "height": 944,
+        "media_key": "3_2085296767835439104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPB2XKoaAAAiX76.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2085296778694561960",
+        "created_at": "2026-08-06T13:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085350254988366189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1336576654022340608",
+              "start": 0,
+              "username": "yu_kirins"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085350254988366189",
+        "in_reply_to_user_id": "1336576654022340608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085296778694561960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_kirins 哪有200-1000，放几个冰袋的事情，方舟就算买一支也会放冰袋的\n不过确实如ai所说影响不大，我都是常温保存的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085296767843885056",
+            "3_2085296767835439104"
+          ]
+        },
+        "author_id": "1336576654022340608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085296778694561960",
+        "created_at": "2026-08-06T09:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085296778694561960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v56Wa5bxXn",
+              "end": 32,
+              "expanded_url": "https://x.com/yu_kirins/status/2085296778694561960/photo/1",
+              "media_key": "3_2085296767843885056",
+              "start": 9,
+              "url": "https://t.co/v56Wa5bxXn"
+            },
+            {
+              "display_url": "pic.x.com/v56Wa5bxXn",
+              "end": 32,
+              "expanded_url": "https://x.com/yu_kirins/status/2085296778694561960/photo/1",
+              "media_key": "3_2085296767835439104",
+              "start": 9,
+              "url": "https://t.co/v56Wa5bxXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085296778694561960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我信你和AI一次 https://t.co/v56Wa5bxXn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 974,
+          "like_count": 2117,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 3415
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-09T07:41:57.000Z",
+        "description": "MTF|VRChat|ADHD|HRT:2025.9.16|去势:2026.7.27|DOB:2001.4.29",
+        "id": "1336576654022340608",
+        "location": "Shanghai",
+        "name": "yu_s",
+        "pinned_tweet_id": "2040955385121816857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007993844017905664/oXsuXX6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 155,
+          "like_count": 1515,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 548
+        },
+        "url": "",
+        "username": "yu_kirins",
+        "verified": true
+      }
+    ]
+  }
+}

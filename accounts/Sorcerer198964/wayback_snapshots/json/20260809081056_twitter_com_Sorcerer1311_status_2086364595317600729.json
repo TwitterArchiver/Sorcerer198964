@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2086364595317600729",
+    "created_at": "2026-08-09T08:10:56.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T09:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086364595317600729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2086090049754468719",
+          "start": 10,
+          "url": "https://t.co/oLNvbp79SM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086364595317600729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086090049754468719",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这么多人一起练功？ https://t.co/oLNvbp79SM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16066,
+        "height": 1280,
+        "media_key": "13_2085921984232476672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085921984232476672/img/Pq8Cmsab9RJpAOXn.jpg",
+        "public_metrics": {
+          "view_count": 21971
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085921984232476672/vid/avc1/768x1280/2cIsn82oiPRKKGuA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085921984232476672/vid/avc1/720x1200/6R2zfmqX2DpyZwLt.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085921984232476672/vid/avc1/320x532/gbctf3rV0i8uSDlM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085921984232476672/vid/avc1/480x800/cVg06NpThB-iDCld.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085921984232476672/pl/VYPUWWgDAfOZug0P.m3u8?v=d3c"
+          }
+        ],
+        "width": 768
+      },
+      {
+        "duration_ms": 41867,
+        "height": 1280,
+        "media_key": "13_2085922188847431680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085922188847431680/img/TAJuUg5hHww-CnNp.jpg",
+        "public_metrics": {
+          "view_count": 4800
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085922188847431680/vid/avc1/320x568/BIH-HMw8pahpbfUb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085922188847431680/vid/avc1/480x852/e7ZoWYMwky6sxPPZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085922188847431680/vid/avc1/720x1280/SqrqlnuZG7zU4fwe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085922188847431680/pl/BXfqrcG82TKHx7mV.m3u8?v=82e"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2086364595317600729",
+        "created_at": "2026-08-09T08:10:56.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086364595317600729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2086090049754468719",
+              "start": 10,
+              "url": "https://t.co/oLNvbp79SM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086364595317600729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086090049754468719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么多人一起练功？ https://t.co/oLNvbp79SM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085921984232476672",
+            "13_2085922188847431680"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086090049754468719",
+        "created_at": "2026-08-08T14:00:00.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T15:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086090049754468719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mGNy1ALOq",
+              "end": 158,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2086090049754468719/video/1",
+              "media_key": "13_2085921984232476672",
+              "start": 135,
+              "url": "https://t.co/1mGNy1ALOq"
+            },
+            {
+              "display_url": "pic.x.com/1mGNy1ALOq",
+              "end": 158,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2086090049754468719/video/1",
+              "media_key": "13_2085922188847431680",
+              "start": 135,
+              "url": "https://t.co/1mGNy1ALOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086090049754468719",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2085921984232476672"
+          },
+          {
+            "media_key": "13_2085922188847431680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 76051,
+          "like_count": 394,
+          "quote_count": 5,
+          "reply_count": 36,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "8月6日，云南宣威，乌撒大草原火把节期间发生意外，有人浑身火焰在地上翻滚，还有多名村民身上着火，现场火势迅速蔓延。\n云南宣威官方发布通报称：事故系盛有可燃液体的塑料桶意外倾倒引发燃烧，导致16人灼伤。\n此前，当地村委会负责人面对询问时曾否认发生事故，称“没有这回事”。 https://t.co/1mGNy1ALOq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2086364595317600729",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 989,
+          "like_count": 2193,
+          "listed_count": 4,
+          "media_count": 491,
+          "tweet_count": 3515
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2086361842042212600",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247286,
+          "following_count": 1081,
+          "like_count": 9841,
+          "listed_count": 8867,
+          "media_count": 51733,
+          "tweet_count": 59009
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

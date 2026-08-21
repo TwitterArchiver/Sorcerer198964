@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088621644558569472"
+      ],
+      "media_source_tweet_id": [
+        "2088622639313191396"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088627455355756811",
+    "created_at": "2026-08-15T14:02:44.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T15:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088627455355756811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cHqrHXtL5V",
+          "end": 25,
+          "expanded_url": "https://x.com/CuiMao/status/2088622639313191396/video/1",
+          "media_key": "13_2088621644558569472",
+          "start": 2,
+          "url": "https://t.co/cHqrHXtL5V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088627455355756811",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "description": "",
+        "media_key": "13_2088621644558569472",
+        "title": "紧急更新 《牛来》"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🐮 https://t.co/cHqrHXtL5V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 215063,
+        "height": 941,
+        "media_key": "13_2088621644558569472",
+        "preview_image_url": "https://pbs.twimg.com/media/HPxGrM1aUAAZqrR.jpg",
+        "public_metrics": {
+          "view_count": 737
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088621644558569472/vid/avc1/1280x720/BD3tYwZ3-BEq6aBd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088621644558569472/vid/avc1/640x360/1pkoudKo9YmOxUFi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088621644558569472/pl/knkH2nUSx6ngEs35.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088621644558569472/vid/avc1/480x270/mYRrBzE0j5snwY4R.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088621644558569472/vid/avc1/1920x1080/uNgpriBlosWAbAKk.mp4"
+          }
+        ],
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088621644558569472"
+          ],
+          "media_source_tweet_id": [
+            "2088622639313191396"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088627455355756811",
+        "created_at": "2026-08-15T14:02:44.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088627455355756811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHqrHXtL5V",
+              "end": 25,
+              "expanded_url": "https://x.com/CuiMao/status/2088622639313191396/video/1",
+              "media_key": "13_2088621644558569472",
+              "start": 2,
+              "url": "https://t.co/cHqrHXtL5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088627455355756811",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_2088621644558569472",
+            "title": "紧急更新 《牛来》"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐮 https://t.co/cHqrHXtL5V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088621644558569472"
+          ]
+        },
+        "author_id": "1558317849508122629",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088622639313191396",
+        "created_at": "2026-08-15T13:43:36.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088622639313191396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bH9mTnO0wg",
+              "end": 60,
+              "expanded_url": "https://x.com/CuiMao/status/2088622639313191396/video/1",
+              "media_key": "13_2088621644558569472",
+              "start": 37,
+              "url": "https://t.co/bH9mTnO0wg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088622639313191396",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_2088621644558569472",
+            "title": "紧急更新 《牛来》"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1527,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，紧急更新CuIMao版的《牛来》，由Seedance2.5制作。 https://t.co/bH9mTnO0wg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2088627455355756811",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 1010,
+          "like_count": 2402,
+          "listed_count": 4,
+          "media_count": 522,
+          "tweet_count": 3710
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

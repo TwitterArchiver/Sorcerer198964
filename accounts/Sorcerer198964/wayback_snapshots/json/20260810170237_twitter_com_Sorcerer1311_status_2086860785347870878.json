@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2045889078865072444",
+    "created_at": "2026-08-10T17:02:37.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086860785347870878"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086860785347870878",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045889078865072444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "提问箱暂时爆炸了\n可以私聊提问哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1514,
+        "media_key": "3_2045888904109400064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGR1HmNaoAAc2tG.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1897,
+        "media_key": "3_2045888904117755904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGR1HmPaIAAceXw.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2045888904138809344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGR1HmUbYAAVsFj.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2045889078865072444",
+        "created_at": "2026-08-10T17:02:37.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086860785347870878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086860785347870878",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045889078865072444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "提问箱暂时爆炸了\n可以私聊提问哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045888904109400064",
+            "3_2045888904117755904",
+            "3_2045888904138809344"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2045889078865072444",
+        "created_at": "2026-04-19T15:35:41.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045889078865072444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/sorcerer15803",
+              "end": 68,
+              "expanded_url": "http://ngl.link/sorcerer15803",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2059925880370278400/SSL3Nnp3?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059925880370278400/SSL3Nnp3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 45,
+              "status": 200,
+              "title": "@sorcerer: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/sorcerer15803",
+              "url": "https://t.co/yv7DMOOQO4"
+            },
+            {
+              "display_url": "pic.x.com/GhU42cYSaA",
+              "end": 108,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2045889078865072444/photo/1",
+              "media_key": "3_2045888904109400064",
+              "start": 85,
+              "url": "https://t.co/GhU42cYSaA"
+            },
+            {
+              "display_url": "pic.x.com/GhU42cYSaA",
+              "end": 108,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2045889078865072444/photo/1",
+              "media_key": "3_2045888904117755904",
+              "start": 85,
+              "url": "https://t.co/GhU42cYSaA"
+            },
+            {
+              "display_url": "pic.x.com/GhU42cYSaA",
+              "end": 108,
+              "expanded_url": "https://x.com/Sorcerer198964/status/2045889078865072444/photo/1",
+              "media_key": "3_2045888904138809344",
+              "start": 85,
+              "url": "https://t.co/GhU42cYSaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045889078865072444",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2045888904109400064"
+          },
+          {
+            "media_key": "3_2045888904117755904"
+          },
+          {
+            "media_key": "3_2045888904138809344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 23362,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你好呀!\n我是索瑟尔，一位喜欢各种稀奇东西的在读理工生，欢迎大家和我交朋友哦！\n提问箱：\nhttps://t.co/yv7DMOOQO4\n喜欢我可以请我喝一杯三倍厚抹喵 https://t.co/GhU42cYSaA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2086860785347870878",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 1003,
+          "like_count": 2258,
+          "listed_count": 4,
+          "media_count": 506,
+          "tweet_count": 3560
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

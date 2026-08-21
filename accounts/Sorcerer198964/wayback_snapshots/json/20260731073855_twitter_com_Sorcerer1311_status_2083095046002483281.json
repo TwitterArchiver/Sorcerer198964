@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2082782105675644939",
+    "created_at": "2026-07-31T07:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083095046002483281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1353169870691549184",
+          "start": 0,
+          "username": "iPaulCanada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083095046002483281",
+    "in_reply_to_user_id": "1353169870691549184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082782105675644939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iPaulCanada 不吃蔬菜真没啥问题，蔬菜那点营养吃点补剂就回来了，膳食纤维也可以用菊粉代替"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68035,
+        "height": 1920,
+        "media_key": "13_2082781963992133633",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082781963992133633/img/DdPrcUFN9jpEcRbw.jpg",
+        "public_metrics": {
+          "view_count": 135738
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082781963992133633/vid/avc1/320x568/FW4JmXp41s9rGAhC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082781963992133633/vid/avc1/480x852/hs6EME9HCpWPX02l.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082781963992133633/vid/avc1/720x1280/R07VU69AW2FJ180L.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082781963992133633/vid/avc1/1080x1920/9wRq82JzQ8ygaukd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082781963992133633/pl/_EDVmCmi2GkyqLWK.m3u8?v=ef7"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2082782105675644939",
+        "created_at": "2026-07-31T07:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083095046002483281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1353169870691549184",
+              "start": 0,
+              "username": "iPaulCanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083095046002483281",
+        "in_reply_to_user_id": "1353169870691549184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082782105675644939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iPaulCanada 不吃蔬菜真没啥问题，蔬菜那点营养吃点补剂就回来了，膳食纤维也可以用菊粉代替"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082781963992133633"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2082782105675644939",
+        "created_at": "2026-07-30T10:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082782105675644939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEzHnEBjQp",
+              "end": 69,
+              "expanded_url": "https://x.com/iPaulCanada/status/2082782105675644939/video/1",
+              "media_key": "13_2082781963992133633",
+              "start": 46,
+              "url": "https://t.co/kEzHnEBjQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082782105675644939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 259982,
+          "like_count": 432,
+          "quote_count": 7,
+          "reply_count": 322,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "亚裔网红自称：自己和老公是纯肉食者，7年不吃蔬菜，结果哮喘、痤疮都消失了，反而越来越健康… https://t.co/kEzHnEBjQp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 942,
+          "like_count": 1965,
+          "listed_count": 3,
+          "media_count": 439,
+          "tweet_count": 3231
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "the North Star",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200874,
+          "following_count": 697,
+          "like_count": 8074,
+          "listed_count": 743,
+          "media_count": 13689,
+          "tweet_count": 21885
+        },
+        "url": "",
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

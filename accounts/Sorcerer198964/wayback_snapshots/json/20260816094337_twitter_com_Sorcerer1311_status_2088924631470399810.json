@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2088833814109802748",
+    "created_at": "2026-08-16T09:43:37.000Z",
+    "display_text_range": [
+      31,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T10:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088924631470399810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060632417153503234",
+          "start": 0,
+          "username": "AsahinaShikure"
+        },
+        {
+          "end": 30,
+          "id": "2069160672672546816",
+          "start": 16,
+          "username": "BlackCrow1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088924631470399810",
+    "in_reply_to_user_id": "2060632417153503234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088833814109802748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsahinaShikure @BlackCrow1966 吃糖，药娘这两个词语都不是官方名称\n我觉得这是在打击社群化行为而非医疗途径"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 434,
+        "media_key": "3_2088833803284316161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0HRueXAAEw70v.jpg",
+        "width": 651
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2088833814109802748",
+        "created_at": "2026-08-16T09:43:37.000Z",
+        "display_text_range": [
+          31,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088924631470399810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060632417153503234",
+              "start": 0,
+              "username": "AsahinaShikure"
+            },
+            {
+              "end": 30,
+              "id": "2069160672672546816",
+              "start": 16,
+              "username": "BlackCrow1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088924631470399810",
+        "in_reply_to_user_id": "2060632417153503234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088833814109802748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure @BlackCrow1966 吃糖，药娘这两个词语都不是官方名称\n我觉得这是在打击社群化行为而非医疗途径"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088833803284316161"
+          ]
+        },
+        "author_id": "2060632417153503234",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2088833814109802748",
+        "created_at": "2026-08-16T03:42:44.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088833814109802748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bCoosIDlY",
+              "end": 169,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2088833814109802748/photo/1",
+              "media_key": "3_2088833803284316161",
+              "start": 146,
+              "url": "https://t.co/8bCoosIDlY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088833814109802748",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088833803284316161"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "当“吃糖”都成为需要躲避的词：中国大陆的跨性别者困境\n\n作为一名生活在海外的华人，我越来越难以忽视中国大陆网络空间正在发生的一种变化：对于跨性别者而言，公开谈论自己的身份、经历乃至健康问题，似乎正在变得越来越困难。\n\n最近，我看到两条来自 X 用户的自述。\n\n第一位网友表示，自己去年 10 月发布的一篇关于跨性别 MTF 的科普帖遭到退回，并怀疑近期正在出现针对所谓“药娘”群体的集中整治。\n\n另一位网友则表示，自己的 B 站账号突然连续下架了 6 个视频。这些视频内容差别很大，但标题都包含“吃糖”两个字，因此他提醒其他跨性别者以后发布视频时尽量避免使用这个词。\n\n这些都是个人用户的经历，我无法独立确认 B 站究竟依据什么规则下架这些视频，也没有看到 B 站公开宣布“禁止吃糖”或针对跨性别者的正式政策。\n\n但问题恰恰在这里。\n\n如果一个创作者甚至无法知道自己的视频究竟为什么消失，只能通过观察“哪些词会导致下架”来摸索平台的红线，那么这本身就是一种非常严重的寒蝉效应。\n\n人们会开始猜测：\n\n这个词能不能说？\n\n这个身份能不能提？\n\n这个经历能不能分享？\n\n这个科普能不能发布？\n\n最后，他们甚至会主动删除自己的表达。\n\n这比一纸明确的“禁止令”更加隐蔽。\n\n因为没有人告诉你“你不能说什么”，但所有人都开始小心翼翼地避免说任何可能引发审核的东西。\n\n更值得关注的是，这些个案并非完全孤立于更大的社会环境之外。\n\n2026 年 5—6 月，人权观察记录了多个 LGBT 相关微信公众号遭到封禁，其中包括为遭受性别暴力的 LGBT 人士提供支持的机构；6 月，小红书也被报道限制涉及跨性别题材的内容。人权观察认为，这反映出中国 LGBT 群体的公共活动空间正在进一步收窄。\n\n所以，我认为我们必须区分两个问题：\n\n“中国大陆是否已经全面禁止跨性别内容？”\n\n答案显然不是。\n\n今天在 B 站等平台仍然可以搜索到跨性别相关内容。\n\n真正的问题是：\n\n一个跨性别者还能不能安全、稳定、公开地谈论自己的生活？\n\n这才是衡量一个社会是否真正包容少数群体的标准。\n\n尤其让我感到难过的是，“吃糖”这样的网络用语本身就说明了问题。\n\n为什么一些跨性别者需要用隐晦的词语来讨论自己的经历？\n\n为什么正常的身份表达、生活经验和科普内容，需要不断寻找平台审核的缝隙？\n\n为什么一个人仅仅想告诉另一个和自己有相似经历的人“你不是一个人”，都可能变成一件需要谨慎考虑的事情？\n\n跨性别者需要的是医疗、科学知识、心理支持、家庭理解和社会尊重，而不是污名化。\n\n我尤其认同那位网友所说的一句话：\n\n“这类群体需要的是关爱而不是抵制。”\n\n这句话值得每一个社会认真思考。\n\n一个跨性别青年面对身份困惑时，最需要的不是让互联网变得更加沉默，而是能够找到可靠的信息、理解自己的人，以及能够给予支持的成年人和专业机构。\n\n把这些声音全部从公共空间中赶走，并不会让跨性别者消失。\n\n它只会让他们更加孤立。\n\n而一个更加孤立的人，反而更难获得正确的信息和真正的帮助。\n\n作为海外华人，我看到这种变化时尤其复杂。\n\n因为我并不认为批评中国大陆存在的问题，就等于否定中国人或者中国文化。\n\n恰恰相反。\n\n我希望中国能够成为一个让所有普通人都能够生活得有尊严的社会。\n\n无论一个人是跨性别者、同性恋者、顺性别者还是异性恋者，无论他来自城市还是农村，无论他的政治观点是什么——\n\n至少，他应该能够拥有讲述自己人生的权利。\n\n我也不要求所有人必须赞同跨性别议题。\n\n可以讨论，可以质疑，可以存在不同观点。\n\n但是，不同意一个人的身份，不应该意味着禁止这个人存在于公共空间。\n\n真正健康的社会，不是让所有人说一样的话。\n\n而是即使人们彼此不同，也仍然能够共存。\n\n所以，当我们看到一个视频被删除、一个账号被限制、一个科普帖被退回时，不应该只把它看成一个孤立的平台事件。\n\n我们应该问：\n\n如果今天一个跨性别者连“我是谁”都越来越难以公开讨论，那么明天，还有哪些人的声音会成为“不合适”的声音？\n\n互联网本应该让孤独的人找到彼此。\n\n而不是让他们更加孤独。\n\n作为一名海外华人，我希望中国大陆未来能够重新拥有一个更加开放、理性、包容的公共空间。\n\n不是因为跨性别者需要特殊待遇。\n\n而是因为：\n\n一个社会如何对待最容易被沉默的人，恰恰体现了这个社会真正的文明程度。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2222,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "当“吃糖”都成为需要躲避的词：中国大陆的跨性别者困境\n\n作为一名生活在海外的华人，我越来越难以忽视中国大陆网络空间正在发生的一种变化：对于跨性别者而言，公开谈论自己的身份、经历乃至健康问题，似乎正在变得越来越困难。\n\n最近，我看到两条来自 X 用户的自述。\n\n第一位网友表示，自己去年 10 https://t.co/8bCoosIDlY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2088924631470399810",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 1011,
+          "like_count": 2434,
+          "listed_count": 4,
+          "media_count": 527,
+          "tweet_count": 3758
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "She/Her 🇸🇬|中三学生|14岁|MtF🏳️‍⚧️|尚未HRT🍥| 世界计划|朝比奈まふゆ激推|语言🇹🇼🇨🇳🇺🇸🇯🇵🇫🇷🌏 |格里芬联邦共和国总统| 中国民主党人 |社会自由主义 |行政院长：@L2e_dawndream |好朋友：@Liuyue_626 |联邦政府X：@urggov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 99,
+                "username": "L2e_dawndream"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Liuyue_626"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "urggov"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/rErgygNg5a",
+                "end": 23,
+                "expanded_url": "https://discord.gg/rErgygNg5a",
+                "start": 0,
+                "url": "https://t.co/eZ2qUeHDSb"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "is_identity_verified": false,
+        "location": "Central Region, Singapore🇸🇬",
+        "most_recent_tweet_id": "2088918372738113566",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2086626578323099825",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060632417153503234/1783224715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060634013363306496/Hl6bmtdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 1422,
+          "like_count": 4933,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/eZ2qUeHDSb",
+        "username": "AsahinaShikure",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T20:50:56.000Z",
+        "description": "野草闲花逢春生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "docuchina.cn",
+                "end": 23,
+                "expanded_url": "http://www.docuchina.cn/",
+                "start": 0,
+                "url": "https://t.co/xIdrdm9lc8"
+              }
+            ]
+          }
+        },
+        "id": "2069160672672546816",
+        "is_identity_verified": false,
+        "location": "沙坪坝",
+        "most_recent_tweet_id": "2088921373540565278",
+        "name": "原乡人",
+        "pinned_tweet_id": "2083234627708506262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069160672672546816/1786630487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087905660696686592/_A6f0rb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 803,
+          "like_count": 6093,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1201
+        },
+        "url": "https://t.co/xIdrdm9lc8",
+        "username": "BlackCrow1966",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

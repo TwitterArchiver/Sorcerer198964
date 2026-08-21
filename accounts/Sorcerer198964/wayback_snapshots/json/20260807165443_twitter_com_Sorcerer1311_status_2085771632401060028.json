@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2085771632401060028",
+    "created_at": "2026-08-07T16:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085771632401060028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suifengfreedom…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/suifengfreedom/status/2085628606538195335",
+          "start": 47,
+          "url": "https://t.co/5KM9393hwZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085771632401060028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085628606538195335",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当一个国家物资丰富到可以随便免费发放的时候\n处在发展中的国家人民确实无法理解这种物质极大丰富 https://t.co/5KM9393hwZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2085628575928217600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGkI8Ga8AA4U_X.jpg",
+        "width": 1268
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085628575919824897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGkI8Ea4AEx6bc.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2085771632401060028",
+        "created_at": "2026-08-07T16:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085771632401060028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suifengfreedom…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/suifengfreedom/status/2085628606538195335",
+              "start": 47,
+              "url": "https://t.co/5KM9393hwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085771632401060028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085628606538195335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当一个国家物资丰富到可以随便免费发放的时候\n处在发展中的国家人民确实无法理解这种物质极大丰富 https://t.co/5KM9393hwZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085628575928217600",
+            "3_2085628575919824897"
+          ]
+        },
+        "author_id": "1952607565659172865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085628606538195335",
+        "created_at": "2026-08-07T07:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085628606538195335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtNSmdrYLU",
+              "end": 165,
+              "expanded_url": "https://x.com/SUIFENGfreedom/status/2085628606538195335/photo/1",
+              "media_key": "3_2085628575928217600",
+              "start": 142,
+              "url": "https://t.co/TtNSmdrYLU"
+            },
+            {
+              "display_url": "pic.x.com/TtNSmdrYLU",
+              "end": 165,
+              "expanded_url": "https://x.com/SUIFENGfreedom/status/2085628606538195335/photo/1",
+              "media_key": "3_2085628575919824897",
+              "start": 142,
+              "url": "https://t.co/TtNSmdrYLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085628606538195335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10277,
+          "like_count": 135,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "一在加中国留学生在社交平台分秀出在食品银行领取的食物  并表示中国人不能太害羞 就是要大大方方去吃 甚至还要分享零食物的方法\n\n有同在加拿大的留学生提醒他这些食物是给真正有困难的人准备的 他就对这些评论逐条进行嘲讽\n如果这些食物成为了你们炫耀的资本 那么真正有困难的留学生该怎么办？ https://t.co/TtNSmdrYLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 976,
+          "like_count": 2140,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 3456
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T05:48:27.000Z",
+        "description": "中國時事｜旅行｜日常分享｜時事評論\n気になったニュースや世界の出来事\n旅先の風景や日々の記録をゆるく投稿しています。\n🇯🇵 日本語 OK｜🇬🇧 English OK｜中文 OK\n仲良くしていただけると嬉しいです！",
+        "id": "1952607565659172865",
+        "location": "TAIPEI",
+        "name": "SUIFENG （風まかせに南へ）🇯🇵🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080680048798191616/7Od3mAPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 767,
+          "like_count": 2488,
+          "listed_count": 25,
+          "media_count": 516,
+          "tweet_count": 11406
+        },
+        "url": "",
+        "username": "SUIFENGfreedom",
+        "verified": true
+      }
+    ]
+  }
+}

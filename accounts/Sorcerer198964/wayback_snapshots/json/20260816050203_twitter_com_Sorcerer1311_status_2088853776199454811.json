@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2088853776199454811",
+    "created_at": "2026-08-16T05:02:03.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T06:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088853776199454811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1825021494805581824",
+          "start": 3,
+          "username": "lumuyuanMadoka2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088853776199454811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088852825665360287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lumuyuanMadoka2: 综上，将唐搞的「周报」视为有必要的历史记录，是荒诞可笑的\n如果唐，或者其他人，真的能做一份区别于我上述批评情况的，有价值的，真正属于社群的周报/历史，我自然也会支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2088853776199454811",
+        "created_at": "2026-08-16T05:02:03.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088853776199454811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1825021494805581824",
+              "start": 3,
+              "username": "lumuyuanMadoka2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088853776199454811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088852825665360287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lumuyuanMadoka2: 综上，将唐搞的「周报」视为有必要的历史记录，是荒诞可笑的\n如果唐，或者其他人，真的能做一份区别于我上述批评情况的，有价值的，真正属于社群的周报/历史，我自然也会支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825021494805581824",
+        "conversation_id": "2088852825665360287",
+        "created_at": "2026-08-16T04:58:17.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088852825665360287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumuyuanMadoka…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/lumuyuanMadoka2/status/2088852070548049924",
+              "start": 83,
+              "url": "https://t.co/tVwTJdYyRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088852825665360287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088852070548049924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "综上，将唐搞的「周报」视为有必要的历史记录，是荒诞可笑的\n如果唐，或者其他人，真的能做一份区别于我上述批评情况的，有价值的，真正属于社群的周报/历史，我自然也会支持 https://t.co/tVwTJdYyRY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2088853776199454811",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 1016,
+          "like_count": 2423,
+          "listed_count": 4,
+          "media_count": 525,
+          "tweet_count": 3732
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-18T04:06:54.000Z",
+        "description": "准高二丨百合豚丨🏳️‍🌈Les(泛)，MtF~X，HRT26.4.24丨日本語の学生丨in PRC，☭，爱华反修反cpc，通常不键政和对线。改名前为【鹿目圆○】             详细介绍请访问:\nhttps://t.co/eOvYAa5TSf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.otter.homes/@akizakura",
+                "end": 125,
+                "expanded_url": "https://m.otter.homes/@akizakura",
+                "start": 102,
+                "url": "https://t.co/eOvYAa5TSf"
+              }
+            ]
+          }
+        },
+        "id": "1825021494805581824",
+        "is_identity_verified": false,
+        "location": "圆环之理 ",
+        "most_recent_tweet_id": "2088853181828829349",
+        "name": "秋桜_akizakura",
+        "pinned_tweet_id": "2087385890947727698",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825021494805581824/1727490299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 686,
+          "like_count": 23269,
+          "listed_count": 11,
+          "media_count": 506,
+          "tweet_count": 7600
+        },
+        "url": "",
+        "username": "lumuyuanMadoka2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

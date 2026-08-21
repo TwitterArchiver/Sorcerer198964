@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2084197592075039125",
+    "created_at": "2026-08-03T10:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084228661801283954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1945331416528539649",
+          "start": 0,
+          "username": "bpmiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084228661801283954",
+    "in_reply_to_user_id": "1945331416528539649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084197592075039125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bpmiea 你喝过游泳池水吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2213,
+        "media_key": "3_2084197580070871042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyOqBHaYAIOEEt.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2084197592075039125",
+        "created_at": "2026-08-03T10:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084228661801283954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1945331416528539649",
+              "start": 0,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084228661801283954",
+        "in_reply_to_user_id": "1945331416528539649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084197592075039125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bpmiea 你喝过游泳池水吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084197580070871042"
+          ]
+        },
+        "author_id": "1945331416528539649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2084197592075039125",
+        "created_at": "2026-08-03T08:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084197592075039125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vAhL8SFwar",
+              "end": 72,
+              "expanded_url": "https://x.com/bpmiea/status/2084197592075039125/photo/1",
+              "media_key": "3_2084197580070871042",
+              "start": 49,
+              "url": "https://t.co/vAhL8SFwar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084197592075039125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才上化学课，看到老师桌子上摆了一瓶CuSO4溶液，我馋它好久了，忍不住买了一瓶，过几天尝尝喵， https://t.co/vAhL8SFwar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 964,
+          "like_count": 2039,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 3310
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "MtF🏳️‍⚧️ | 无证🍥2026.1已炸柜 | 2011 | 自恨党\n吸毒❌自残❌键政❌滥交❌\narch&nix | py/kotlin/nodejs\ngfwfucker | vibecoder | Vocaloid&SV\n会发一些日常和碎碎念，可能会有负面内容…\n同类互fo！\n最爱的姐姐@4rulq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 147,
+                "username": "4rulq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transky.mtf.wiki",
+                "end": 23,
+                "expanded_url": "https://transky.mtf.wiki/",
+                "start": 0,
+                "url": "https://t.co/n3Vk7Z186e"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "location": "小城市 浙江省 中国",
+        "name": "叶洛夜🍥𝓑.𝓜.//一酱重度依赖",
+        "pinned_tweet_id": "2077917279115985096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075763756723044352/VWZ-Y7B4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 713,
+          "like_count": 980,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1308
+        },
+        "url": "https://t.co/n3Vk7Z186e",
+        "username": "bpmiea",
+        "verified": true
+      }
+    ]
+  }
+}

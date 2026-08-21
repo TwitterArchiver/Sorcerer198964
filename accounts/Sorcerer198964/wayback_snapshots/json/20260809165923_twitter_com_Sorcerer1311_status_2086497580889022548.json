@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086497571506368512"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2086497580889022548",
+    "created_at": "2026-08-09T16:59:23.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T17:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086497580889022548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/86tGQhENRK",
+          "end": 30,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2086497580889022548/photo/1",
+          "media_key": "3_2086497571506368512",
+          "start": 7,
+          "url": "https://t.co/86tGQhENRK"
+        },
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2086331644911522199",
+          "start": 31,
+          "url": "https://t.co/sjM7syvdBK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086497580889022548",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086497571506368512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086331644911522199",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "声援一下旺旺 https://t.co/86tGQhENRK https://t.co/sjM7syvdBK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2086497571506368512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPS6fI5aMAAewRL.jpg",
+        "width": 730
+      },
+      {
+        "duration_ms": 13633,
+        "height": 1280,
+        "media_key": "13_2085961112944832512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085961112944832512/img/nRsbksJ3mfS1fIzk.jpg",
+        "public_metrics": {
+          "view_count": 26854
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085961112944832512/vid/avc1/320x696/8M72A-haX21_AaV3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085961112944832512/vid/avc1/480x1044/DjqE4Q8J3T8XAYyu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085961112944832512/vid/avc1/588x1280/fpM2boWBxFqzSJKY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085961112944832512/pl/nY1edLpBvosBaWWa.m3u8?v=cfc"
+          }
+        ],
+        "width": 588
+      },
+      {
+        "duration_ms": 13433,
+        "height": 1070,
+        "media_key": "13_2085961143928147968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085961143928147968/img/t2oO9-wVQcepyp0D.jpg",
+        "public_metrics": {
+          "view_count": 3541
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085961143928147968/vid/avc1/320x474/byCw4dtIGK1XNMbx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085961143928147968/vid/avc1/480x712/XJZY6iW2K2bA6vi-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085961143928147968/vid/avc1/720x1070/b5kSJtCfINiwmeA4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085961143928147968/pl/kUv5USXpzlTjp7Jv.m3u8?v=0d8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 13633,
+        "height": 1280,
+        "media_key": "13_2085961143009644545",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085961143009644545/img/MCunQo_j_1_x0kLN.jpg",
+        "public_metrics": {
+          "view_count": 1379
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085961143009644545/vid/avc1/320x696/VxYgkX0ZZUUIErwj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085961143009644545/vid/avc1/480x1044/vGGPwQvXgAvlyfDF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085961143009644545/vid/avc1/588x1280/AJRhwjTz5hHuAXTJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085961143009644545/pl/XYL1u1R-zaJsJXLQ.m3u8?v=cfc"
+          }
+        ],
+        "width": 588
+      },
+      {
+        "height": 436,
+        "media_key": "3_2085961164379607040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLSoIobUAAUAHa.jpg",
+        "width": 776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086497571506368512"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2086497580889022548",
+        "created_at": "2026-08-09T16:59:23.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086497580889022548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/86tGQhENRK",
+              "end": 30,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2086497580889022548/photo/1",
+              "media_key": "3_2086497571506368512",
+              "start": 7,
+              "url": "https://t.co/86tGQhENRK"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2086331644911522199",
+              "start": 31,
+              "url": "https://t.co/sjM7syvdBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086497580889022548",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086497571506368512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086331644911522199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "声援一下旺旺 https://t.co/86tGQhENRK https://t.co/sjM7syvdBK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085961112944832512",
+            "13_2085961143928147968",
+            "13_2085961143009644545",
+            "3_2085961164379607040"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2086331644911522199",
+        "created_at": "2026-08-09T06:00:00.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086331644911522199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZSh6PEiME",
+              "end": 116,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2086331644911522199/video/1",
+              "media_key": "13_2085961112944832512",
+              "start": 93,
+              "url": "https://t.co/wZSh6PEiME"
+            },
+            {
+              "display_url": "pic.x.com/wZSh6PEiME",
+              "end": 116,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2086331644911522199/video/1",
+              "media_key": "13_2085961143928147968",
+              "start": 93,
+              "url": "https://t.co/wZSh6PEiME"
+            },
+            {
+              "display_url": "pic.x.com/wZSh6PEiME",
+              "end": 116,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2086331644911522199/video/1",
+              "media_key": "13_2085961143009644545",
+              "start": 93,
+              "url": "https://t.co/wZSh6PEiME"
+            },
+            {
+              "display_url": "pic.x.com/wZSh6PEiME",
+              "end": 116,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2086331644911522199/video/1",
+              "media_key": "3_2085961164379607040",
+              "start": 93,
+              "url": "https://t.co/wZSh6PEiME"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2083447645683716286",
+              "start": 117,
+              "url": "https://t.co/hm2Ulmhm2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086331644911522199",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2085961112944832512"
+          },
+          {
+            "media_key": "13_2085961143928147968"
+          },
+          {
+            "media_key": "13_2085961143009644545"
+          },
+          {
+            "media_key": "3_2085961164379607040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "霸王茶姬“宠物季”声援揭阳旺旺事件，网友纷纷在社交媒体支持\n\n8月7日，有网友发现，霸王茶姬近期推出狗狗主题杯身、手提袋等宠物季物料后，小红书等平台开始出现“霸王茶姬旺旺”等相关内容。\n\n一名台湾网友晒出霸王茶姬狗狗主题包装称，“大陆饮料店霸王茶姬声援小不点”，并表示旺旺事件过去一个多月后，仍有大陆网友持续关注，“希望这件可怕的事还有分哪国哪家吗？我还是每天为旺旺一家继续发声”。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 93625,
+          "like_count": 820,
+          "quote_count": 6,
+          "reply_count": 103,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083447645683716286",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "霸王茶姬“宠物季”声援揭阳旺旺事件，网友纷纷在社交媒体支持\n\n8月7日，有网友发现，霸王茶姬近期推出狗狗主题杯身、手提袋等宠物季物料后，小红书等平台开始出现“霸王茶姬旺旺”等相关内容。 https://t.co/wZSh6PEiME https://t.co/hm2Ulmhm2O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2086497580889022548",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 992,
+          "like_count": 2207,
+          "listed_count": 4,
+          "media_count": 494,
+          "tweet_count": 3524
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2086495076046295476",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247530,
+          "following_count": 1081,
+          "like_count": 9841,
+          "listed_count": 8865,
+          "media_count": 51747,
+          "tweet_count": 59024
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086630603219173376"
+      ],
+      "media_source_tweet_id": [
+        "2086630763793981561"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086637551318974483",
+    "created_at": "2026-08-10T02:15:34.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T03:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086637551318974483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1477342523555135490",
+          "start": 3,
+          "username": "torontobigface"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BCMosggKNv",
+          "end": 63,
+          "expanded_url": "https://x.com/torontobigface/status/2086630763793981561/video/1",
+          "media_key": "13_2086630603219173376",
+          "start": 40,
+          "url": "https://t.co/BCMosggKNv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086637551318974483",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2086630603219173376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086630763793981561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @torontobigface: 在中国超市购物，真是一场酣畅淋漓的智斗 https://t.co/BCMosggKNv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 265795,
+        "height": 1280,
+        "media_key": "13_2086630603219173376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086630603219173376/img/A847MpR5_cOjPLtR.jpg",
+        "public_metrics": {
+          "view_count": 1800
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086630603219173376/vid/avc1/320x568/TC3hXwoyLVtqF6w_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086630603219173376/vid/avc1/480x852/hC_29n26VEacdVp3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086630603219173376/vid/avc1/720x1280/ZL4ZCa9njM4skMnA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086630603219173376/pl/5iUIHGU4G2wT8GRp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086630603219173376"
+          ]
+        },
+        "author_id": "1477342523555135490",
+        "conversation_id": "2086630763793981561",
+        "created_at": "2026-08-10T01:48:36.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086630763793981561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BCMosggKNv",
+              "end": 43,
+              "expanded_url": "https://x.com/torontobigface/status/2086630763793981561/video/1",
+              "media_key": "13_2086630603219173376",
+              "start": 20,
+              "url": "https://t.co/BCMosggKNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086630763793981561",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086630603219173376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4279,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "在中国超市购物，真是一场酣畅淋漓的智斗 https://t.co/BCMosggKNv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086630603219173376"
+          ],
+          "media_source_tweet_id": [
+            "2086630763793981561"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086637551318974483",
+        "created_at": "2026-08-10T02:15:34.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086637551318974483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1477342523555135490",
+              "start": 3,
+              "username": "torontobigface"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BCMosggKNv",
+              "end": 63,
+              "expanded_url": "https://x.com/torontobigface/status/2086630763793981561/video/1",
+              "media_key": "13_2086630603219173376",
+              "start": 40,
+              "url": "https://t.co/BCMosggKNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086637551318974483",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086630603219173376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086630763793981561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @torontobigface: 在中国超市购物，真是一场酣畅淋漓的智斗 https://t.co/BCMosggKNv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2086637551318974483",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 992,
+          "like_count": 2222,
+          "listed_count": 4,
+          "media_count": 496,
+          "tweet_count": 3533
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNcDSW 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2XsnFaH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNcDSW"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2XsnFaH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrn0gco"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路，多伦多",
+        "most_recent_tweet_id": "2086630763793981561",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "2085304887269888203",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1477342523555135490/1646202283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004728054199799808/7q5HpT1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798570,
+          "following_count": 251,
+          "like_count": 4779,
+          "listed_count": 2473,
+          "media_count": 6838,
+          "tweet_count": 19579
+        },
+        "url": "https://t.co/t3lSrn0gco",
+        "username": "torontobigface",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

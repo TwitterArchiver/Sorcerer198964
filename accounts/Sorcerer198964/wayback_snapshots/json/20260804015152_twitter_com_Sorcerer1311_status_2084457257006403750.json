@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2083784626372534609",
+    "created_at": "2026-08-04T01:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T02:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084457257006403750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1499250507331813381",
+          "start": 0,
+          "username": "this_is_no_id"
+        },
+        {
+          "end": 25,
+          "id": "1692347880357384192",
+          "start": 15,
+          "username": "ChouWJohn"
+        },
+        {
+          "end": 39,
+          "id": "2041159531657416704",
+          "start": 26,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084457257006403750",
+    "in_reply_to_user_id": "1499250507331813381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084451329720889685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@this_is_no_id @ChouWJohn @amber_digit2 她不在麦当劳打工就已经很匪夷所思了\n教培行业在中国收入已经是极高的了，但是在加拿大可能还不如麦当劳打工"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2083784626372534609",
+        "created_at": "2026-08-04T01:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084457257006403750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1499250507331813381",
+              "start": 0,
+              "username": "this_is_no_id"
+            },
+            {
+              "end": 25,
+              "id": "1692347880357384192",
+              "start": 15,
+              "username": "ChouWJohn"
+            },
+            {
+              "end": 39,
+              "id": "2041159531657416704",
+              "start": 26,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084457257006403750",
+        "in_reply_to_user_id": "1499250507331813381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084451329720889685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@this_is_no_id @ChouWJohn @amber_digit2 她不在麦当劳打工就已经很匪夷所思了\n教培行业在中国收入已经是极高的了，但是在加拿大可能还不如麦当劳打工"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499250507331813381",
+        "conversation_id": "2083784626372534609",
+        "created_at": "2026-08-04T01:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084451329720889685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            },
+            {
+              "end": 24,
+              "id": "1692347880357384192",
+              "start": 14,
+              "username": "ChouWJohn"
+            },
+            {
+              "end": 38,
+              "id": "2041159531657416704",
+              "start": 25,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084451329720889685",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084450886529778004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 @ChouWJohn @amber_digit2 多么可怕啊，这点钱还不如麦当劳打工"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 964,
+          "like_count": 2048,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 3318
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T05:09:21.000Z",
+        "description": "Va, pensiero, sull'ali dorate",
+        "id": "1499250507331813381",
+        "location": "安托西修之地狱/ l'enfer avec 安托西修",
+        "name": "姓名不能为空",
+        "pinned_tweet_id": "1594499237076664320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573373299584892928/FrivAb6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 70,
+          "like_count": 21651,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 10757
+        },
+        "url": "",
+        "username": "this_is_no_id",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T01:29:28.000Z",
+        "description": "",
+        "id": "1692347880357384192",
+        "location": "Snow Mexico",
+        "name": "JohnChou",
+        "pinned_tweet_id": "1892325464317870272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692348983295832064/4eDx43Hn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 528,
+          "like_count": 44335,
+          "listed_count": 3,
+          "media_count": 651,
+          "tweet_count": 5215
+        },
+        "url": "",
+        "username": "ChouWJohn",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ @wgsi / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 33,
+                "start": 17,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4470,
+          "following_count": 727,
+          "like_count": 2327,
+          "listed_count": 4,
+          "media_count": 160,
+          "tweet_count": 2041
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

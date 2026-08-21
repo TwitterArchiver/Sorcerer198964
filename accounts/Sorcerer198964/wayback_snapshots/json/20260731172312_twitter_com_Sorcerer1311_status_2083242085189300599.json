@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083055943596806144"
+      ],
+      "media_source_tweet_id": [
+        "2083056028032352318"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083242085189300599",
+    "created_at": "2026-07-31T17:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083242085189300599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1095945124188545025",
+          "start": 3,
+          "username": "JackyNotes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m3UcbCYu58",
+          "end": 82,
+          "expanded_url": "https://x.com/JackyNotes/status/2083056028032352318/video/1",
+          "media_key": "13_2083055943596806144",
+          "start": 59,
+          "url": "https://t.co/m3UcbCYu58"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083242085189300599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083056028032352318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JackyNotes: 广东视觉系精神小妹！\n海底捞二十几个人点个番茄锅，一人一碗牛肉粒番茄汤，忙死服务员😅 https://t.co/m3UcbCYu58"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11178,
+        "height": 1024,
+        "media_key": "13_2083055943596806144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083055943596806144/img/6m2anwgJNYUJs6BL.jpg",
+        "public_metrics": {
+          "view_count": 22350
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083055943596806144/vid/avc1/320x568/-kxyfpA2a6KEZTEn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083055943596806144/vid/avc1/480x852/jP1lMfEX7BDHKewd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083055943596806144/vid/avc1/576x1024/EyznnBwoC4mWJc6X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083055943596806144/pl/-BeJ4mUtQQTKK5Mf.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083055943596806144"
+          ]
+        },
+        "author_id": "1095945124188545025",
+        "conversation_id": "2083056028032352318",
+        "created_at": "2026-07-31T05:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083056028032352318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m3UcbCYu58",
+              "end": 66,
+              "expanded_url": "https://x.com/JackyNotes/status/2083056028032352318/video/1",
+              "media_key": "13_2083055943596806144",
+              "start": 43,
+              "url": "https://t.co/m3UcbCYu58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083056028032352318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 42578,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "广东视觉系精神小妹！\n海底捞二十几个人点个番茄锅，一人一碗牛肉粒番茄汤，忙死服务员😅 https://t.co/m3UcbCYu58"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083055943596806144"
+          ],
+          "media_source_tweet_id": [
+            "2083056028032352318"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083242085189300599",
+        "created_at": "2026-07-31T17:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083242085189300599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1095945124188545025",
+              "start": 3,
+              "username": "JackyNotes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m3UcbCYu58",
+              "end": 82,
+              "expanded_url": "https://x.com/JackyNotes/status/2083056028032352318/video/1",
+              "media_key": "13_2083055943596806144",
+              "start": 59,
+              "url": "https://t.co/m3UcbCYu58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083242085189300599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083056028032352318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JackyNotes: 广东视觉系精神小妹！\n海底捞二十几个人点个番茄锅，一人一碗牛肉粒番茄汤，忙死服务员😅 https://t.co/m3UcbCYu58"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 942,
+          "like_count": 1975,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 3250
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-14T07:17:34.000Z",
+        "description": "🐮01 牛马\nINTJ | 信息差玩家 | 流量猎手\n合约套牢选手  \n分享流量增长历程带你少走弯路🚀",
+        "id": "1095945124188545025",
+        "name": "Jacky 观察笔记",
+        "pinned_tweet_id": "2055876441104138590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042847468992561152/a0SB2qBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 470,
+          "like_count": 1445,
+          "listed_count": 11,
+          "media_count": 562,
+          "tweet_count": 4073
+        },
+        "url": "",
+        "username": "JackyNotes",
+        "verified": true
+      }
+    ]
+  }
+}

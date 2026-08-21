@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085711866463186944"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2085711872662364189",
+    "created_at": "2026-08-07T12:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085711872662364189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HyiwcfyT4T",
+          "end": 37,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2085711872662364189/photo/1",
+          "media_key": "3_2085711866463186944",
+          "start": 14,
+          "url": "https://t.co/HyiwcfyT4T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085711872662364189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "到了香港寿司郎还是要排队😂 https://t.co/HyiwcfyT4T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2085711866463186944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHv5Fha8AAg1mP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085711866463186944"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2085711872662364189",
+        "created_at": "2026-08-07T12:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085711872662364189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HyiwcfyT4T",
+              "end": 37,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2085711872662364189/photo/1",
+              "media_key": "3_2085711866463186944",
+              "start": 14,
+              "url": "https://t.co/HyiwcfyT4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085711872662364189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到了香港寿司郎还是要排队😂 https://t.co/HyiwcfyT4T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 976,
+          "like_count": 2135,
+          "listed_count": 3,
+          "media_count": 480,
+          "tweet_count": 3448
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

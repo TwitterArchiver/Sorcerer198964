@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2088945295472423177",
+    "created_at": "2026-08-16T17:38:48.000Z",
+    "display_text_range": [
+      26,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089044216383197661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990368873632436224",
+          "start": 0,
+          "username": "lil_tea_cpp"
+        },
+        {
+          "end": 25,
+          "id": "1165044876297134080",
+          "start": 13,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089044216383197661",
+    "in_reply_to_user_id": "1990368873632436224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089041478681325701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lil_tea_cpp @realNyarime 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2088945295472423177",
+        "created_at": "2026-08-16T17:38:48.000Z",
+        "display_text_range": [
+          26,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089044216383197661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990368873632436224",
+              "start": 0,
+              "username": "lil_tea_cpp"
+            },
+            {
+              "end": 25,
+              "id": "1165044876297134080",
+              "start": 13,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089044216383197661",
+        "in_reply_to_user_id": "1990368873632436224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089041478681325701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lil_tea_cpp @realNyarime 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990368873632436224",
+        "conversation_id": "2088945295472423177",
+        "created_at": "2026-08-16T17:27:55.000Z",
+        "display_text_range": [
+          27,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089041478681325701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            },
+            {
+              "end": 26,
+              "id": "1165044876297134080",
+              "start": 14,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089041478681325701",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089034769682284621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 @realNyarime auv, zhei 不是索老师吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2089044216383197661",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 1019,
+          "like_count": 2462,
+          "listed_count": 4,
+          "media_count": 533,
+          "tweet_count": 3791
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-17T10:38:23.000Z",
+        "description": "she/her. enfp. bipolar.\ni can read & say en & zh.\nsuper coder, 已签公司. trash rapper, 不签公司.\nemail 3h.young.tea@gmail.com , 欢迎音乐节联系.\n神啊, 让心选姐取消拉黑我吧, 只要取消拉黑就行.",
+        "id": "1990368873632436224",
+        "is_identity_verified": false,
+        "location": "long beach",
+        "most_recent_tweet_id": "2089041478681325701",
+        "name": "lil_tea",
+        "pinned_tweet_id": "2072919946846470346",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990368873632436224/1786183551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068720641801666560/k4RX6NQ-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 0,
+          "like_count": 8201,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 854
+        },
+        "url": "",
+        "username": "lil_tea_cpp",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2089040346835808460",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44117,
+          "following_count": 664,
+          "like_count": 21484,
+          "listed_count": 192,
+          "media_count": 2604,
+          "tweet_count": 17847
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2084613922011967837",
+    "created_at": "2026-08-04T23:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T00:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084778649417638025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "905786405866979328",
+          "start": 0,
+          "username": "6854hb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084778649417638025",
+    "in_reply_to_user_id": "905786405866979328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084761713635954903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6854hb 这个一片120，而且更看个人体质\n毕竟作用原理不同，优秀的药效要和色谱龙对比就失去意义了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2084613922011967837",
+        "created_at": "2026-08-04T23:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084778649417638025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "905786405866979328",
+              "start": 0,
+              "username": "6854hb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084778649417638025",
+        "in_reply_to_user_id": "905786405866979328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084761713635954903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6854hb 这个一片120，而且更看个人体质\n毕竟作用原理不同，优秀的药效要和色谱龙对比就失去意义了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "905786405866979328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          }
+        ],
+        "conversation_id": "2084613922011967837",
+        "created_at": "2026-08-04T22:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T23:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084761713635954903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084761713635954903",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084613922011967837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 grok 说 40mg 都有案例不行，也就是说一个月最低四百，减药潜力感觉不咋滴，没渠道没资料不想管"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 967,
+          "like_count": 2076,
+          "listed_count": 3,
+          "media_count": 458,
+          "tweet_count": 3351
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-07T13:34:42.000Z",
+        "description": "MTF/26岁/无证含糖24.03/宅/计算机/ 主要关注感兴趣的不一定回f/只发生活负能量",
+        "id": "905786405866979328",
+        "name": "6854号 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787861672113340416/SpVcbYZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 131,
+          "like_count": 7915,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "6854hb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2084163945175437334",
+    "created_at": "2026-08-03T06:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084163945175437334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1720665183188922368",
+          "start": 3,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/misumikaede3/s…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/misumikaede3/status/2084150683360706961",
+          "start": 86,
+          "url": "https://t.co/pq6dRW9a4l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084163945175437334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084150683360706961",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你好 @grok 根据我的推文，我是：\n- 哪位独裁者？\n- 哪位哲学家？\n- 哪位虚构人物？\n- 哪位政治家？\n- 哪位宗教人士？\n- 哪位历史人物？\n- 哪位艺术家？ https://t.co/pq6dRW9a4l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2084163945175437334",
+        "created_at": "2026-08-03T06:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084163945175437334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/misumikaede3/s…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/misumikaede3/status/2084150683360706961",
+              "start": 86,
+              "url": "https://t.co/pq6dRW9a4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084163945175437334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084150683360706961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好 @grok 根据我的推文，我是：\n- 哪位独裁者？\n- 哪位哲学家？\n- 哪位虚构人物？\n- 哪位政治家？\n- 哪位宗教人士？\n- 哪位历史人物？\n- 哪位艺术家？ https://t.co/pq6dRW9a4l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2084150683360706961",
+        "created_at": "2026-08-03T05:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084150683360706961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/russiaemperor/…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/russiaemperor/status/2084147617316151749",
+              "start": 86,
+              "url": "https://t.co/RSO6f1cZGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084150683360706961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084147617316151749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好 @grok 根据我的推文，我是：\n- 哪位独裁者？\n- 哪位哲学家？\n- 哪位虚构人物？\n- 哪位政治家？\n- 哪位宗教人士？\n- 哪位历史人物？\n- 哪位艺术家？ https://t.co/RSO6f1cZGs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 963,
+          "like_count": 2022,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 3292
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8903345,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7256,
+          "media_count": 9213302,
+          "tweet_count": 133629438
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "（百八十無常、冰川枫）20+ AuDHD🌪️ enby 🍥 2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯非常抱歉",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🏳️‍⚧️#井宿三",
+        "pinned_tweet_id": "2083826401715875931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082654973364752384/fRzyVEmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 1346,
+          "like_count": 43590,
+          "listed_count": 5,
+          "media_count": 452,
+          "tweet_count": 14085
+        },
+        "url": "",
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}

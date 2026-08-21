@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2086579754292187475",
+    "created_at": "2026-08-10T02:18:16.000Z",
+    "display_text_range": [
+      15,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T03:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086638229210775734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1236685274907906049",
+          "start": 0,
+          "username": "jiafeimao3591"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086638229210775734",
+    "in_reply_to_user_id": "1236685274907906049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086579754292187475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiafeimao3591 星巴克已经不太适合工作了，椅子高度和桌子尺寸就不适合长期坐着"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086579746218061824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUFOVjaMAAZy3W.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2086579754292187475",
+        "created_at": "2026-08-10T02:18:16.000Z",
+        "display_text_range": [
+          15,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086638229210775734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1236685274907906049",
+              "start": 0,
+              "username": "jiafeimao3591"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086638229210775734",
+        "in_reply_to_user_id": "1236685274907906049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086579754292187475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiafeimao3591 星巴克已经不太适合工作了，椅子高度和桌子尺寸就不适合长期坐着"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086579746218061824"
+          ]
+        },
+        "author_id": "1236685274907906049",
+        "conversation_id": "2086579754292187475",
+        "created_at": "2026-08-09T22:25:54.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T23:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086579754292187475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qnjxk3ABV",
+              "end": 126,
+              "expanded_url": "https://x.com/jiafeimao3591/status/2086579754292187475/photo/1",
+              "media_key": "3_2086579746218061824",
+              "start": 103,
+              "url": "https://t.co/5qnjxk3ABV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086579754292187475",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086579746218061824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "前两天突然发现星巴克店里多了美团的共享充电宝🤣🤣app说钻星会员每个月可以免费充两次30分钟。\n\n有人可能会问，星巴克到处都是电源插座，经常去办公学习的社畜打工人一般不都自备充电线的，谁会去租借充电宝呢？\n\n我只能说你不懂中国人的智慧😓😌自从星巴克被内资收购之后，你去看那种沙发配高桌的适合办公学习的座位下面的插座，10个有8个都是没电的，但是那种休闲的适合聊天的座位一般都是有电的😓😓我跟很多门店店长反应过，都跟我说过几天修，但是从来就没修好过😒"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 355,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前两天突然发现星巴克店里多了美团的共享充电宝🤣🤣app说钻星会员每个月可以免费充两次30分钟。\n\n有人可能会问，星巴克到处都是电源插座，经常去办公学习的社畜打工人一般不都自备充电线的，谁会去租借充电宝呢？ https://t.co/5qnjxk3ABV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2086638229210775734",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 992,
+          "like_count": 2223,
+          "listed_count": 4,
+          "media_count": 496,
+          "tweet_count": 3534
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-08T16:09:47.000Z",
+        "description": "🏳️‍🌈mtf/药娘/跨性别🏳️‍⚧️/无证hrt中/暂居荷兰，家在长春/曾经的化竞党，吉林省省一/JLU化学本科/欧硕打算转学ing/语言爱好者/法语学习ing/旅游，音乐/已打卡30+国家/声乐学习3年+/美剧爱好者/精神状态不稳定，经常发疯/喜欢同类，男生勿扰",
+        "id": "1236685274907906049",
+        "is_identity_verified": false,
+        "location": "The Netherlands",
+        "most_recent_tweet_id": "2086635652502941840",
+        "name": "坏猪宝宝🐷",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049379601412202496/2BRcVdsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 481,
+          "like_count": 567,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 1202
+        },
+        "url": "",
+        "username": "jiafeimao3591",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

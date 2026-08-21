@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2087141748208468040",
+    "created_at": "2026-08-11T11:39:04.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087141748208468040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/re_zaoton/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/re_zaoton/status/2087138694868471815",
+          "start": 7,
+          "url": "https://t.co/10FzSmPvmz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087141748208468040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087138694868471815",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "去当清蒸小编 https://t.co/10FzSmPvmz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_2087138688270786560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcBlC9a4AAXi9U.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2087141748208468040",
+        "created_at": "2026-08-11T11:39:04.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087141748208468040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/re_zaoton/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/re_zaoton/status/2087138694868471815",
+              "start": 7,
+              "url": "https://t.co/10FzSmPvmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087141748208468040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087138694868471815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去当清蒸小编 https://t.co/10FzSmPvmz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087138688270786560"
+          ]
+        },
+        "author_id": "1863319222765428736",
+        "conversation_id": "2087138694868471815",
+        "created_at": "2026-08-11T11:26:56.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087138694868471815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D77veTHjXG",
+              "end": 63,
+              "expanded_url": "https://x.com/Re_ZaoTon/status/2087138694868471815/photo/1",
+              "media_key": "3_2087138688270786560",
+              "start": 40,
+              "url": "https://t.co/D77veTHjXG"
+            },
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2087135073279873208",
+              "start": 64,
+              "url": "https://t.co/MW3Ss6unSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087138694868471815",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087138688270786560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087135073279873208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为这圈子的话语权都被彩虹激跨给抢走了，我们牢保跨为什么不能争取自己的话语权！ https://t.co/D77veTHjXG https://t.co/MW3Ss6unSC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2087141748208468040",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 1004,
+          "like_count": 2284,
+          "listed_count": 4,
+          "media_count": 510,
+          "tweet_count": 3589
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21（不是跨）｜小证含糖🍬｜家长不管党🍃｜性格良好✨｜河南农民🌾｜生产日期09 06 01🥳｜账号用来随便发点东西，分享自己的见解📝｜建议私信回fo｜查询跨性别相关资料请前往https://t.co/6l43xOCIK5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 121,
+                "expanded_url": "http://2345.lgbt",
+                "start": 98,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yQ-rQYyB3x7ycmzj",
+                "start": 0,
+                "url": "https://t.co/Ch5dpQ3i0Q"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "is_identity_verified": false,
+        "location": "埃迪卡拉纪",
+        "most_recent_tweet_id": "2087140006104301605",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2086812930562298141",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863319222765428736/1785402666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058420873053577216/7R8Md9U5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 353,
+          "like_count": 13316,
+          "listed_count": 5,
+          "media_count": 113,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/Ch5dpQ3i0Q",
+        "username": "Re_ZaoTon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

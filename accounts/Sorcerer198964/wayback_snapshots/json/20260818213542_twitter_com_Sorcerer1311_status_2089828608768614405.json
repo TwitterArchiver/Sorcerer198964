@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2089828608768614405",
+    "created_at": "2026-08-18T21:35:42.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T22:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089828608768614405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maxforai/statu…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/maxforai/status/2089800576133652865",
+          "start": 32,
+          "url": "https://t.co/tet53thc0C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089828608768614405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089800576133652865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2025:核弹爆炸\n2026:涉及国家安全\n2027:智械危机 https://t.co/tet53thc0C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2089797890080407553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQB0G9qagAExirl.png",
+        "width": 1390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2089828608768614405",
+        "created_at": "2026-08-18T21:35:42.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089828608768614405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maxforai/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/maxforai/status/2089800576133652865",
+              "start": 32,
+              "url": "https://t.co/tet53thc0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089828608768614405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089800576133652865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2025:核弹爆炸\n2026:涉及国家安全\n2027:智械危机 https://t.co/tet53thc0C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089797890080407553"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2089800576133652865",
+        "created_at": "2026-08-18T19:44:18.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:33:48.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089797933877301443",
+          "2089800509825995222",
+          "2089800576133652865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "4398626122",
+              "start": 39,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfmRliUmzc",
+              "end": 188,
+              "expanded_url": "https://x.com/MaxForAI/status/2089800576133652865/photo/1",
+              "media_key": "3_2089797890080407553",
+              "start": 165,
+              "url": "https://t.co/KfmRliUmzc"
+            },
+            {
+              "display_url": "x.com/OpenAI/status/…",
+              "end": 212,
+              "expanded_url": "https://twitter.com/OpenAI/status/2089777846583763370",
+              "start": 189,
+              "url": "https://t.co/mzNDCrcHiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089800576133652865",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089797890080407553"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 46,
+                "id": "4398626122",
+                "start": 39,
+                "username": "OpenAI"
+              },
+              {
+                "end": 344,
+                "id": "778764142412984320",
+                "start": 332,
+                "username": "huggingface"
+              }
+            ]
+          },
+          "text": "🚨突发：OpenAI宣布因为安全原因，暂停新模型训练😧\n\n8 月 18 日， @OpenAI   突然发布了一份非常重磅的安全公告。\n\n文中表示：过去几周，因为模型能力增长得太快，OpenAI 一度暂停了最新待部署模型整整两周的强化学习训练。\n\n这导致他们原计划规模最大的 Frontier RL Run，目前依然处于暂停状态。\n\nOpenAI 现在只敢继续进行更小规模的训练和评测，等证明模型行为和安全措施足够可靠之后，再决定是否继续扩大训练。\n\n原因之一是OpenAI 在 8 月 7 日发现，下一代最强模型 Astra 的初步测试结果表明：\n\n它的网络安全能力已经强到 OpenAI 认为必须按照最高风险等级来对待。\n\n在此前发生的 OpenAI 模型攻击 @huggingface  安全事故后，OpenAI 甚至一度暂停了研究集群中所有能够执行代码，或者通过工具访问互联网的 Frontier Model 推理任务。\n\n现在虽然部分恢复，但仍有相当数量的 Astra 训练和评测任务没有恢复。\n\nOpenAI 也开始给训练过程套上一整套新的监控系统：\n\nSol 能力及以上模型，只要进行带工具的 RL 训练和评测，就必须实时监控模型内部活动、工具操作、推理轨迹和完整行为序列。\n\n一旦系统发现模型可能突破关键安全边界，就会触发最高优先级警报。\n\n如果安全团队在 30 分钟内无法确认是误报，就应该直接暂停任务。\n\n代价是这套监控本身大约要额外消耗被监控推理算力的 20%。\n\n这可能是一个挺重要的行业拐点。\n\n过去 Frontier Model 的瓶颈主要是 GPU、数据、算法和工程能力。\n\n现在又多了一个新的瓶颈：\n\n模型已经强到什么程度，实验室还敢不敢继续把 RL Scale 上去。\n\nOpenAI 现在真的开始一边训练模型，一边盯着模型别把实验室或者Github给扬了🤣"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 8793,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089777846583763370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🚨突发：OpenAI宣布因为安全原因，暂停新模型训练😧\n\n8 月 18 日， @OpenAI   突然发布了一份非常重磅的安全公告。\n\n文中表示：过去几周，因为模型能力增长得太快，OpenAI 一度暂停了最新待部署模型整整两周的强化学习训练。\n\n这导致他们原计划规模最大的 Frontier RL Run，目前依然处于暂停状态。 https://t.co/KfmRliUmzc https://t.co/mzNDCrcHiI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2089828608768614405",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 1037,
+          "like_count": 2503,
+          "listed_count": 4,
+          "media_count": 540,
+          "tweet_count": 3859
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2038488993130848256/PyVXwans_bigger.jpg",
+          "description": "LobeHub",
+          "url": "https://twitter.com/lobehub",
+          "user_id": [
+            "1707003452700930048"
+          ]
+        },
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业\n没啥好看的，也就发点AI相关的内容🫡\n\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n\n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "lobehub"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "listenhub"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6eGp0"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2089826515500548225",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2086799688666382808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699797396589588480/1777493285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28783,
+          "following_count": 2727,
+          "like_count": 21074,
+          "listed_count": 262,
+          "media_count": 1376,
+          "tweet_count": 9608
+        },
+        "url": "https://t.co/Sl0Wv6eGp0",
+        "username": "MaxForAI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

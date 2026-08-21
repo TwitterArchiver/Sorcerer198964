@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083398600617537536",
+        "3_2083399604452876288",
+        "3_2083400107027042305",
+        "3_2083400125876244480"
+      ],
+      "media_source_tweet_id": [
+        "2083400322949755192",
+        "2083400322949755192",
+        "2083400322949755192",
+        "2083400322949755192"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2083432275140878460",
+    "created_at": "2026-08-01T05:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083432275140878460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1574516663935901696",
+          "start": 3,
+          "username": "wangjupaian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PbvE5nyECB",
+          "end": 129,
+          "expanded_url": "https://x.com/wangjupaian/status/2083400322949755192/photo/1",
+          "media_key": "3_2083398600617537536",
+          "start": 106,
+          "url": "https://t.co/PbvE5nyECB"
+        },
+        {
+          "display_url": "pic.x.com/PbvE5nyECB",
+          "end": 129,
+          "expanded_url": "https://x.com/wangjupaian/status/2083400322949755192/photo/1",
+          "media_key": "3_2083399604452876288",
+          "start": 106,
+          "url": "https://t.co/PbvE5nyECB"
+        },
+        {
+          "display_url": "pic.x.com/PbvE5nyECB",
+          "end": 129,
+          "expanded_url": "https://x.com/wangjupaian/status/2083400322949755192/photo/1",
+          "media_key": "3_2083400107027042305",
+          "start": 106,
+          "url": "https://t.co/PbvE5nyECB"
+        },
+        {
+          "display_url": "pic.x.com/PbvE5nyECB",
+          "end": 129,
+          "expanded_url": "https://x.com/wangjupaian/status/2083400322949755192/photo/1",
+          "media_key": "3_2083400125876244480",
+          "start": 106,
+          "url": "https://t.co/PbvE5nyECB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083432275140878460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083400322949755192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wangjupaian: 【李强强推出入境新规：吐槽满天飞，移民中介将变成举报前哨，到了机场才发现自己走不了】6月29日，中国国务院常务会议通过《国务院关于出境入境管理的规定》，将于9月15日起施行。… https://t.co/PbvE5nyECB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2083398600617537536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm3_StasAA2N4N.jpg",
+        "width": 2100
+      },
+      {
+        "height": 860,
+        "media_key": "3_2083399604452876288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm45uSaYAAOmxU.jpg",
+        "width": 1526
+      },
+      {
+        "height": 1274,
+        "media_key": "3_2083400107027042305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm5W-hbkAEgTww.jpg",
+        "width": 1572
+      },
+      {
+        "height": 1592,
+        "media_key": "3_2083400125876244480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm5YEvbkAAuXUX.png",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083398600617537536",
+            "3_2083399604452876288",
+            "3_2083400107027042305",
+            "3_2083400125876244480"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "conversation_id": "2083400322949755192",
+        "created_at": "2026-08-01T03:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083400322949755192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PbvE5nyECB",
+              "end": 111,
+              "expanded_url": "https://x.com/wangjupaian/status/2083400322949755192/photo/1",
+              "media_key": "3_2083398600617537536",
+              "start": 88,
+              "url": "https://t.co/PbvE5nyECB"
+            },
+            {
+              "display_url": "pic.x.com/PbvE5nyECB",
+              "end": 111,
+              "expanded_url": "https://x.com/wangjupaian/status/2083400322949755192/photo/1",
+              "media_key": "3_2083399604452876288",
+              "start": 88,
+              "url": "https://t.co/PbvE5nyECB"
+            },
+            {
+              "display_url": "pic.x.com/PbvE5nyECB",
+              "end": 111,
+              "expanded_url": "https://x.com/wangjupaian/status/2083400322949755192/photo/1",
+              "media_key": "3_2083400107027042305",
+              "start": 88,
+              "url": "https://t.co/PbvE5nyECB"
+            },
+            {
+              "display_url": "pic.x.com/PbvE5nyECB",
+              "end": 111,
+              "expanded_url": "https://x.com/wangjupaian/status/2083400322949755192/photo/1",
+              "media_key": "3_2083400125876244480",
+              "start": 88,
+              "url": "https://t.co/PbvE5nyECB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083400322949755192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【李强强推出入境新规：吐槽满天飞，移民中介将变成举报前哨，到了机场才发现自己走不了】6月29日，中国国务院常务会议通过《国务院关于出境入境管理的规定》，将于9月15日起施行。\n\n读完最直观的感觉是，出境管理的权力被进一步制度化：从风险地区“劝阻”、核验电子数据，到行政处罚结束后的禁出境，许多条款都留下了较大的解释空间。好听点说，“边控”从此更有法可依，如果被拒绝出境，但具体尺度如何掌握，很可能就在执行者的一念之间，槽点满满。\n\n目前舆论争议主要集中在六处：\n\n一、“旅行提醒”开始向“现场劝阻”移动。\n\n过去外交部发布“暂勿前往”等提醒，主要属于风险提示；新规则把提醒延伸到护照审批和出境边检，必要时由移民管理机构“劝阻”。\n\n虽然“劝阻”在法律上不等于“不准出境”，但谁属于最高风险、劝阻可以到什么程度、旅客坚持前往能否放行，条文都没有回答。\n\n这对赴日旅客尤其敏感。目前外交部仍发布有“避免前往日本”的提醒。当然，9月15日后，究竟只是口头提醒，还是可能触发更严格核验，仍要看后续执行规则，不能提前断言“去日本一定会被拦”。\n\n二、最刺眼的是“电子数据等信息”。\n\n第三条规定，移民管理机构为核实身份和申请事由，可以要求当事人提供文件、资料及“电子数据等信息”。\n\n问题在于，规定没有明确：什么情况下才能要求提供；电子数据包括聊天记录、行程订单还是资金记录；这些数据必须与出境理由有多大关联；数据如何保存、多久删除；拒绝提供又会有什么后果。\n\n当然，原文没有直接规定可以强制解锁、全面搜查手机，因此写成“以后出国可以随便查手机”属于过度解读。真正的问题，是权力范围写得很宽，边界却没有写清。\n\n三、处罚结束后，还能再禁出境三年。\n\n因骗取出入境证件、非法出入境受到行政拘留后，即使拘留已经执行完毕，仍可能再被限制出境6个月至3年。\n\n法律上可以将其解释为“预防性管理措施”，但对个人而言，实际效果很像处罚结束后又追加了一层处罚。而禁半年还是三年，条文只给出“根据违法情形和预防违法犯罪的需要”这一宽泛标准。\n\n四、“可能危害技术安全”，却没有最长期限。\n\n前两类禁止出境都明确规定为6个月至3年；但如果违反出口管制、技术进出口管理等规定，只要“可能危害国家产业安全、技术安全”，商务等部门便可以决定不准其出境。\n\n这一款没有规定最长期限、复查周期和解除条件；认定标准也不是“已经造成危害”，而是“可能危害”。这是第四条中权力弹性最大的一项。\n\n五、可能到了机场才知道自己走不了。\n\n原则上，禁出境决定应当书面告知当事人事实、理由、依据和救济途径；但如果涉及国家安全、刑事案件侦查等情形，可以不提前告知。\n\n边检执行时虽然要告诉当事人存在禁出境决定，却未必同时披露完整证据。因此，“机票已经买好，到了机场才发现自己被边控”的情况，今后仍可能发生。\n\n六、移民中介被变成监管前哨。\n\n所有收费提供出入境政策咨询、证件代办和手续办理的机构及人员，都要接受备案管理。如果发现公职人员、军队人员等“违规”办理外国国籍、境外永久居留资格或居留证件，中介不仅不得办理，还必须向监察机关等部门报告。\n\n真正值得追问的是：“等”还包括哪些人？什么叫“违规办理”？中介又凭什么判断客户是否违规？\n\n不过，条文并非规定所有公职人员咨询移民都必须被举报，前提仍然是“违规办理”；不以营利为目的的一般政策咨询，也不属于备案范围。\n\n公允地说，这份新规并不等于“以后所有人出国都要审批”，也没有直接授权边检随意翻查手机。真正让人不安的，是“电子数据”“国家利益”“可能危害”和“必要时劝阻”等措辞都具有很大的伸缩空间。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 59095,
+          "like_count": 145,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "【李强强推出入境新规：吐槽满天飞，移民中介将变成举报前哨，到了机场才发现自己走不了】6月29日，中国国务院常务会议通过《国务院关于出境入境管理的规定》，将于9月15日起施行。 https://t.co/PbvE5nyECB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083398600617537536",
+            "3_2083399604452876288",
+            "3_2083400107027042305",
+            "3_2083400125876244480"
+          ],
+          "media_source_tweet_id": [
+            "2083400322949755192",
+            "2083400322949755192",
+            "2083400322949755192",
+            "2083400322949755192"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2083432275140878460",
+        "created_at": "2026-08-01T05:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083432275140878460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1574516663935901696",
+              "start": 3,
+              "username": "wangjupaian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PbvE5nyECB",
+              "end": 129,
+              "expanded_url": "https://x.com/wangjupaian/status/2083400322949755192/photo/1",
+              "media_key": "3_2083398600617537536",
+              "start": 106,
+              "url": "https://t.co/PbvE5nyECB"
+            },
+            {
+              "display_url": "pic.x.com/PbvE5nyECB",
+              "end": 129,
+              "expanded_url": "https://x.com/wangjupaian/status/2083400322949755192/photo/1",
+              "media_key": "3_2083399604452876288",
+              "start": 106,
+              "url": "https://t.co/PbvE5nyECB"
+            },
+            {
+              "display_url": "pic.x.com/PbvE5nyECB",
+              "end": 129,
+              "expanded_url": "https://x.com/wangjupaian/status/2083400322949755192/photo/1",
+              "media_key": "3_2083400107027042305",
+              "start": 106,
+              "url": "https://t.co/PbvE5nyECB"
+            },
+            {
+              "display_url": "pic.x.com/PbvE5nyECB",
+              "end": 129,
+              "expanded_url": "https://x.com/wangjupaian/status/2083400322949755192/photo/1",
+              "media_key": "3_2083400125876244480",
+              "start": 106,
+              "url": "https://t.co/PbvE5nyECB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083432275140878460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083400322949755192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wangjupaian: 【李强强推出入境新规：吐槽满天飞，移民中介将变成举报前哨，到了机场才发现自己走不了】6月29日，中国国务院常务会议通过《国务院关于出境入境管理的规定》，将于9月15日起施行。… https://t.co/PbvE5nyECB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 943,
+          "like_count": 1988,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 3255
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jXuer"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "pinned_tweet_id": "2083423610585395508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158021,
+          "following_count": 360,
+          "like_count": 615,
+          "listed_count": 441,
+          "media_count": 8961,
+          "tweet_count": 9816
+        },
+        "url": "https://t.co/FWdZ3jXuer",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

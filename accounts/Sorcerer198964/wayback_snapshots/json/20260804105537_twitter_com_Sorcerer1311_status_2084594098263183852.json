@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2084549763962400881",
+    "created_at": "2026-08-04T10:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084594098263183852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040798583440527360",
+          "start": 0,
+          "username": "longyvling"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/sorcerer1311/s…",
+          "end": 35,
+          "expanded_url": "https://x.com/sorcerer1311/status/2081046619496280198?s=46",
+          "start": 12,
+          "url": "https://t.co/S7LNCynydc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084594098263183852",
+    "in_reply_to_user_id": "2040798583440527360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081046619496280198",
+        "type": "quoted"
+      },
+      {
+        "id": "2084592114294194525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longyvling https://t.co/S7LNCynydc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2084549763962400881",
+        "created_at": "2026-08-04T10:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084594098263183852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040798583440527360",
+              "start": 0,
+              "username": "longyvling"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sorcerer1311/s…",
+              "end": 35,
+              "expanded_url": "https://x.com/sorcerer1311/status/2081046619496280198?s=46",
+              "start": 12,
+              "url": "https://t.co/S7LNCynydc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084594098263183852",
+        "in_reply_to_user_id": "2040798583440527360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081046619496280198",
+            "type": "quoted"
+          },
+          {
+            "id": "2084592114294194525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longyvling https://t.co/S7LNCynydc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2081046619496280198",
+        "created_at": "2026-07-25T15:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081046619496280198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/520maodou/stat…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/520maodou/status/2081007311024537828",
+              "start": 59,
+              "url": "https://t.co/1Ezw1RrngG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081046619496280198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081007311024537828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的觉得这个说的没问题\n但是激素药物的副作用也没有那么大\n所以我鉴跨还是根据是否hrt为第一，是否女性化表达为第二 https://t.co/1Ezw1RrngG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040798583440527360",
+        "conversation_id": "2084549763962400881",
+        "created_at": "2026-08-04T10:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084592114294194525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084592114294194525",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084581593000362234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 没有HRT就是男的了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 967,
+          "like_count": 2056,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 3328
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "MtF | ASD | 🎂2010.1.3 | Minecraft PVP | CPhO现役 | 重庆 | 红星熄了，你还在燃。燃什么呢？只剩灰吗？ | 死亡是青年的良药，药效是永葆青春的容颜",
+        "id": "2040798583440527360",
+        "location": "长夜孤灯",
+        "name": "龙雨绫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 246,
+          "like_count": 2676,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 701
+        },
+        "url": "",
+        "username": "longyvling",
+        "verified": false
+      }
+    ]
+  }
+}

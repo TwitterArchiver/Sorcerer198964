@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045599570",
+          "name": "Interactive Brokers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "2087167054780702916",
+    "created_at": "2026-08-11T13:19:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T14:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087167054780702916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1775547255585673216",
+          "start": 3,
+          "username": "LumaoDoggie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087167054780702916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087074846798925961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LumaoDoggie: 币圈的股票代币化纯纯的就是伪需求.  \n\n1. 费用高.\n我在IBKR(盈透) 买美股SP500 ETF定投, 10万美元,手续费1美元,可以忽略不计了. \n币安和其他交易所, 每次千1左右 (虽然最近很多搞活动,0手续费).  \n\n价差:\nS…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045599570",
+              "name": "Interactive Brokers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2087167054780702916",
+        "created_at": "2026-08-11T13:19:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087167054780702916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775547255585673216",
+              "start": 3,
+              "username": "LumaoDoggie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087167054780702916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087074846798925961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LumaoDoggie: 币圈的股票代币化纯纯的就是伪需求.  \n\n1. 费用高.\n我在IBKR(盈透) 买美股SP500 ETF定投, 10万美元,手续费1美元,可以忽略不计了. \n币安和其他交易所, 每次千1左右 (虽然最近很多搞活动,0手续费).  \n\n价差:\nS…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775547255585673216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045599570",
+              "name": "Interactive Brokers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2087074846798925961",
+        "created_at": "2026-08-11T07:13:14.000Z",
+        "display_text_range": [
+          0,
+          178
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087074846798925961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087074846798925961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 508,
+                "id": "912539725071777792",
+                "start": 503,
+                "username": "Gate"
+              }
+            ]
+          },
+          "text": "币圈的股票代币化纯纯的就是伪需求.  \n\n1. 费用高.\n我在IBKR(盈透) 买美股SP500 ETF定投, 10万美元,手续费1美元,可以忽略不计了. \n币安和其他交易所, 每次千1左右 (虽然最近很多搞活动,0手续费).  \n\n价差:\nSP500 EFT 大概 700美元一股, 1股价差只差0.01美元. 对应的, 币安上 1股价差0.1-0.2, 十多倍区别. \n\n股息收益: \n中国人券商开户, 股息只扣10%的税,   \n各种股票token,股息扣30%.  \n\n管理费:  \nIB上买 SP500  ETF 管理费一年 万3.\n币安上对应的是 SPYB, 管理费每年 万9.  \n\n杠杆费用: \n如果你开3倍杠杆,  IB杠杆成本大概年化 5.2%, 币安合约资金费用10.95% .  \n币圈合约你还要担心插针, IB里这种可能性可以说为0. \n\n 2. 安全性\n\nIB之类传统券商买,都有50万美元保险, 券商也有各种强监管, 账户被盗啥的救济措施很多.  \n\n交易所的币股, 没啥好说的. 没有可比性. 我是不想一大半身家放在交易所里, 然后出了问题去塞舌尔打官司吧. (这里我没有 @Gate  的意思)   \n\nPS: 你知道出问题了后  币安,OKX, Bitget, 这些CEX, 应该给那个监管机构投诉吗?     \n\n不知道就对了, 因为我也不知道.\n\n你说币安上买不会出问题?  10.11记得吗.\n\n 3.交易时间 \n\n币圈7*24小时.\n不过非开盘时间, 你要买币圈股票磨损也会更大. 并不划算.  \n\n总结就是 \n\n不管是打算长线还是日内短线, 传统券商费用都低得多. 我能想到的适合交易所的情况只有几个:  \n\n1. 不介意高点差和低流动性,一定要 7X24小时交易的人 \n\n2. U只能留在币圈,不愿意出来换成法币.  \n\n3. 要4倍以上杠杆交易的人. \n\n4. 套利的人.(在IB买现货,交易所合约开空吃利息, 比如说前段时间的镁光,海力士) \n\n而且交易时间这个痛点, 纳斯达克年底就会改成每天23小时交易了.  \n\n就像当初什么defi吹嘘替代银行存款一样. 对大部分人和机构投资者来说,当你安全性都解决不了的时候其他都免谈. (Aave去年说要推出存款保险在欧洲和银行竞争, 这事烂尾了,有人记得不?)\n\n链上股票没有 DeFi Summer 那种 20% 存款收益去吸引人冒险，费用又高、安全性又差， 自然就只能在币圈遗老遗少自娱自乐,典型的伪需求.     \n\n还有说什么亚非拉美发展中国家贫苦用户来通过CEX买美股的, 请问这部分人群加起来才多少钱?   而且这些国家但凡上千美元投资金额也会开户走传统券商, 交易所只能赚到一群几十上百U投资人群的钱.\n\n 我预计两年以内吧, 链上股票就会像什么链上RWA房地产一样, 不会有人提了, 逻辑就说不通."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 19239,
+          "like_count": 88,
+          "quote_count": 5,
+          "reply_count": 63,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "币圈的股票代币化纯纯的就是伪需求.  \n\n1. 费用高.\n我在IBKR(盈透) 买美股SP500 ETF定投, 10万美元,手续费1美元,可以忽略不计了. \n币安和其他交易所, 每次千1左右 (虽然最近很多搞活动,0手续费).  \n\n价差:\nSP500 EFT 大概 700美元一股, 1股价差只差0.01美元. 对应的, 币安上 1股价差0.1-0.2,"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2087167054780702916",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 1005,
+          "like_count": 2293,
+          "listed_count": 4,
+          "media_count": 511,
+          "tweet_count": 3595
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2008452174083485698/WaDlss-k_bigger.jpg",
+          "description": "KITE AI",
+          "url": "https://twitter.com/GoKiteAI",
+          "user_id": [
+            "1841881477371592704"
+          ]
+        },
+        "created_at": "2024-04-03T15:33:59.000Z",
+        "description": "前大厂程序员,  Defi  | 空投 | 合约套利 | AI.  有时分享自己写的脚本和工具.",
+        "id": "1775547255585673216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087162183658709371",
+        "name": "撸毛小狗",
+        "pinned_tweet_id": "2087074846798925961",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775547255585673216/1762373084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979242885816963072/zKExLyMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17483,
+          "following_count": 381,
+          "like_count": 47047,
+          "listed_count": 391,
+          "media_count": 341,
+          "tweet_count": 5686
+        },
+        "url": "",
+        "username": "LumaoDoggie",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

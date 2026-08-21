@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2088206073002066315",
+    "created_at": "2026-08-14T10:08:19.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088206073002066315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1252463831185371136",
+          "start": 3,
+          "username": "Dadadajie01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088206073002066315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088106977629192639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dadadajie01: 法律意识淡薄，维权意识极强，最喜欢这种人了，我们学法的越来越有盼头了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2088206073002066315",
+        "created_at": "2026-08-14T10:08:19.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088206073002066315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1252463831185371136",
+              "start": 3,
+              "username": "Dadadajie01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088206073002066315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088106977629192639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dadadajie01: 法律意识淡薄，维权意识极强，最喜欢这种人了，我们学法的越来越有盼头了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252463831185371136",
+        "conversation_id": "2088106977629192639",
+        "created_at": "2026-08-14T03:34:33.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088106977629192639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ivan20221126/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/ivan20221126/status/2087968894623662210",
+              "start": 35,
+              "url": "https://t.co/gJ3RZKVchA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088106977629192639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 231,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087968894623662210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "法律意识淡薄，维权意识极强，最喜欢这种人了，我们学法的越来越有盼头了 https://t.co/gJ3RZKVchA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2088206073002066315",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 1003,
+          "like_count": 2363,
+          "listed_count": 4,
+          "media_count": 520,
+          "tweet_count": 3683
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-21T05:07:10.000Z",
+        "description": "こんにちは。私はBG4JIE、20代前半の大学生で、N2合格証明書取った、今N1に向けて勉強中、趣味はACGNとアマチュア無線とairsoftと撮影で、面白いものが好き、よろしくお願いします😸",
+        "id": "1252463831185371136",
+        "is_identity_verified": false,
+        "location": "距您1.6km",
+        "most_recent_tweet_id": "2088184879595065433",
+        "name": "Ziergaixv🐀🐂🐅🐇🐉🐍🐎🐑🐒🐓🐕🐖",
+        "pinned_tweet_id": "2055682513448718735",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252463831185371136/1757637218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809050334725353473/GTm1-qUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 2351,
+          "like_count": 43552,
+          "listed_count": 8,
+          "media_count": 1475,
+          "tweet_count": 8628
+        },
+        "url": "",
+        "username": "Dadadajie01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

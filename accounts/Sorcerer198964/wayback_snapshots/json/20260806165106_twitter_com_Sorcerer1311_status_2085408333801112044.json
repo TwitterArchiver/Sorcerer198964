@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085408324082860032"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2085408333801112044",
+    "created_at": "2026-08-06T16:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T17:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085408333801112044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TvgmioyRcI",
+          "end": 131,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2085408333801112044/photo/1",
+          "media_key": "3_2085408324082860032",
+          "start": 108,
+          "url": "https://t.co/TvgmioyRcI"
+        },
+        {
+          "display_url": "x.com/hydrogen0e7/st…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/hydrogen0e7/status/2085075999755268210",
+          "start": 132,
+          "url": "https://t.co/D65T6adsKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085408333801112044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085075999755268210",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉人类第一次发现蘸酱炸鸡的美味\n然而肯德基爷爷2022年就做了这个赛道，只是因为用料太实诚加上普及度不高而导致错失这一营销手段\n目前的肯爷爷还在没活就换个撒料的阶段，比如这次的海苔热辣脆皮鸡，像是从乐事找的灵感（ https://t.co/TvgmioyRcI https://t.co/D65T6adsKc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1511,
+        "media_key": "3_2085408324082860032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDb0mCaAAA-NS9.jpg",
+        "width": 849
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085075992163528705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-tkVKaMAETqB4.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085075992163561472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-tkVKasAAwLtC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085075992167735296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-tkVLaYAAuHGS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085408324082860032"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085408333801112044",
+        "created_at": "2026-08-06T16:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085408333801112044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TvgmioyRcI",
+              "end": 131,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2085408333801112044/photo/1",
+              "media_key": "3_2085408324082860032",
+              "start": 108,
+              "url": "https://t.co/TvgmioyRcI"
+            },
+            {
+              "display_url": "x.com/hydrogen0e7/st…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/hydrogen0e7/status/2085075999755268210",
+              "start": 132,
+              "url": "https://t.co/D65T6adsKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085408333801112044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085075999755268210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉人类第一次发现蘸酱炸鸡的美味\n然而肯德基爷爷2022年就做了这个赛道，只是因为用料太实诚加上普及度不高而导致错失这一营销手段\n目前的肯爷爷还在没活就换个撒料的阶段，比如这次的海苔热辣脆皮鸡，像是从乐事找的灵感（ https://t.co/TvgmioyRcI https://t.co/D65T6adsKc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085075992163528705",
+            "3_2085075992163561472",
+            "3_2085075992167735296"
+          ]
+        },
+        "author_id": "1529525092442865664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085075999755268210",
+        "created_at": "2026-08-05T18:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085075999755268210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8qDlORnakf",
+              "end": 40,
+              "expanded_url": "https://x.com/Hydrogen0E7/status/2085075999755268210/photo/1",
+              "media_key": "3_2085075992163528705",
+              "start": 17,
+              "url": "https://t.co/8qDlORnakf"
+            },
+            {
+              "display_url": "pic.x.com/8qDlORnakf",
+              "end": 40,
+              "expanded_url": "https://x.com/Hydrogen0E7/status/2085075999755268210/photo/1",
+              "media_key": "3_2085075992163561472",
+              "start": 17,
+              "url": "https://t.co/8qDlORnakf"
+            },
+            {
+              "display_url": "pic.x.com/8qDlORnakf",
+              "end": 40,
+              "expanded_url": "https://x.com/Hydrogen0E7/status/2085075999755268210/photo/1",
+              "media_key": "3_2085075992167735296",
+              "start": 17,
+              "url": "https://t.co/8qDlORnakf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085075999755268210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4962,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 50,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "山葵酱炸鸡荣升麦当劳夏季必吃榜！ https://t.co/8qDlORnakf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 975,
+          "like_count": 2121,
+          "listed_count": 3,
+          "media_count": 470,
+          "tweet_count": 3420
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T18:09:54.000Z",
+        "description": "Full-Stack Security Developer | CTFer in @r3kapig | ACMer | Shotacon | Avatar from @iamuu_n | Enchanting dream, frozen time, unrealized potential. Also @E7Lemon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "r3kapig"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "iamuu_n"
+              },
+              {
+                "end": 160,
+                "start": 152,
+                "username": "E7Lemon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0e7.cn",
+                "end": 23,
+                "expanded_url": "https://0e7.cn",
+                "start": 0,
+                "url": "https://t.co/e4iGNtYvNY"
+              }
+            ]
+          }
+        },
+        "id": "1529525092442865664",
+        "location": "ShangHai",
+        "name": "HydrogenE7",
+        "pinned_tweet_id": "2043498699196895731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055286176463167488/l275kNEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3664,
+          "following_count": 958,
+          "like_count": 8564,
+          "listed_count": 23,
+          "media_count": 729,
+          "tweet_count": 3639
+        },
+        "url": "https://t.co/e4iGNtYvNY",
+        "username": "Hydrogen0E7",
+        "verified": true
+      }
+    ]
+  }
+}

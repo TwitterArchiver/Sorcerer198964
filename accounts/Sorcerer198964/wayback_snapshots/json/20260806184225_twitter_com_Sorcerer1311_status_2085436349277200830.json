@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2085436349277200830",
+    "created_at": "2026-08-06T18:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085436349277200830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "918330573604524032",
+          "start": 3,
+          "username": "JiangZeNico1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085436349277200830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085304271009165466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiangZeNico1: 至于莫名其妙的精神胜利就更搞笑，乃们这种把利用动物资源强行类比成人类社会内部压迫的生态马主义本来就在主流眼里算是非常激进的右翼马蹄铁，所以我才敢引用温和派的理论嘲讽你们这种魔怔人，结果你的反驳话术就是德里达的他者伦理要比绝对伦理激进，所以四舍…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2085436349277200830",
+        "created_at": "2026-08-06T18:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085436349277200830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "918330573604524032",
+              "start": 3,
+              "username": "JiangZeNico1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085436349277200830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085304271009165466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiangZeNico1: 至于莫名其妙的精神胜利就更搞笑，乃们这种把利用动物资源强行类比成人类社会内部压迫的生态马主义本来就在主流眼里算是非常激进的右翼马蹄铁，所以我才敢引用温和派的理论嘲讽你们这种魔怔人，结果你的反驳话术就是德里达的他者伦理要比绝对伦理激进，所以四舍…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918330573604524032",
+        "conversation_id": "2085304267418812499",
+        "created_at": "2026-08-06T09:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085304271009165466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085304271009165466",
+        "in_reply_to_user_id": "918330573604524032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 297,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085304267418812499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至于莫名其妙的精神胜利就更搞笑，乃们这种把利用动物资源强行类比成人类社会内部压迫的生态马主义本来就在主流眼里算是非常激进的右翼马蹄铁，所以我才敢引用温和派的理论嘲讽你们这种魔怔人，结果你的反驳话术就是德里达的他者伦理要比绝对伦理激进，所以四舍五入等于害兽能和巴勒斯坦平民相提并论？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 975,
+          "like_count": 2126,
+          "listed_count": 3,
+          "media_count": 473,
+          "tweet_count": 3438
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-12T04:20:45.000Z",
+        "description": "天天吃肉我吃不胖，天天炼铜我身体棒，要是你不被我辉，你的心里空荡荡。\n吾殺若輩，實救若輩於世上諸苦。雖殺之，而實愛之也",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "http://www.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/f8kZM9MoFg"
+              }
+            ]
+          }
+        },
+        "id": "918330573604524032",
+        "location": "江苏, 南京大屠杀遇难同胞纪念馆",
+        "name": "江泽妮可X朱镕姬",
+        "pinned_tweet_id": "2064687300525912214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486262637864562689/Jlfxn0kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 5338,
+          "like_count": 6050,
+          "listed_count": 15,
+          "media_count": 318,
+          "tweet_count": 5212
+        },
+        "url": "https://t.co/f8kZM9MoFg",
+        "username": "JiangZeNico1",
+        "verified": false
+      }
+    ]
+  }
+}

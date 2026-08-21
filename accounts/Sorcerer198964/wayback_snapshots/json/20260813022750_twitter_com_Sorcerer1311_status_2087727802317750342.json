@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2087727802317750342",
+    "created_at": "2026-08-13T02:27:50.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T03:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087727802317750342"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rococo90933671…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/rococo90933671/status/2087691687909044287",
+          "start": 36,
+          "url": "https://t.co/Aw4pAIFkAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087727802317750342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087691687909044287",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "父权制下总不可能没有获利群体的\n只可能有获利和失去与自己认知不符的群体 https://t.co/Aw4pAIFkAv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 577108,
+        "height": 1080,
+        "media_key": "13_2087691455100035072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087691455100035072/img/uDqUlGHkWjeKwnXP.jpg",
+        "public_metrics": {
+          "view_count": 373
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087691455100035072/pl/Ta38SCiVHF9Nr_87.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087691455100035072/vid/avc1/630x360/p3OK_p-HYDpnOgrO.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087691455100035072/vid/avc1/472x270/OrXoID1rE-M7px34.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087691455100035072/vid/avc1/1890x1080/FbsABwBSmkXAjlng.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087691455100035072/vid/avc1/1260x720/A2a44KRVNMLXEF6w.mp4"
+          }
+        ],
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2087727802317750342",
+        "created_at": "2026-08-13T02:27:50.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087727802317750342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rococo90933671…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/rococo90933671/status/2087691687909044287",
+              "start": 36,
+              "url": "https://t.co/Aw4pAIFkAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087727802317750342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087691687909044287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "父权制下总不可能没有获利群体的\n只可能有获利和失去与自己认知不符的群体 https://t.co/Aw4pAIFkAv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087691455100035072"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2087691687909044287",
+        "created_at": "2026-08-13T00:04:20.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087691687909044287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dDTZbdoH2v",
+              "end": 49,
+              "expanded_url": "https://x.com/Rococo90933671/status/2087691687909044287/video/1",
+              "media_key": "13_2087691455100035072",
+              "start": 26,
+              "url": "https://t.co/dDTZbdoH2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087691687909044287",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087691455100035072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 688,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "父权制平等地残害男性和女性，所以其实不应该叫父权制 https://t.co/dDTZbdoH2v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2087727802317750342",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 1007,
+          "like_count": 2321,
+          "listed_count": 4,
+          "media_count": 515,
+          "tweet_count": 3632
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2087719273234145596",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13672,
+          "following_count": 3251,
+          "like_count": 47533,
+          "listed_count": 44,
+          "media_count": 5056,
+          "tweet_count": 25425
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

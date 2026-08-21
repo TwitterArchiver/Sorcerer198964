@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2088312526908060026",
+    "created_at": "2026-08-14T17:11:20.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T18:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088312526908060026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/forlikooo/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/forlikooo/status/2088292151587426516",
+          "start": 15,
+          "url": "https://t.co/pEYU74ErUR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088312526908060026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088292151587426516",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还好我发的照片全是原相机无p https://t.co/pEYU74ErUR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1680,
+        "media_key": "3_2088292143823736832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsao_vaUAA4meC.jpg",
+        "width": 846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2088312526908060026",
+        "created_at": "2026-08-14T17:11:20.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088312526908060026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/forlikooo/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/forlikooo/status/2088292151587426516",
+              "start": 15,
+              "url": "https://t.co/pEYU74ErUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088312526908060026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088292151587426516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还好我发的照片全是原相机无p https://t.co/pEYU74ErUR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088292143823736832"
+          ]
+        },
+        "author_id": "1622587760514158593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088292151587426516",
+        "created_at": "2026-08-14T15:50:22.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088292151587426516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/55X5ZCCkx2",
+              "end": 31,
+              "expanded_url": "https://x.com/ForlikOOO/status/2088292151587426516/photo/1",
+              "media_key": "3_2088292143823736832",
+              "start": 8,
+              "url": "https://t.co/55X5ZCCkx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088292151587426516",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088292143823736832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 695,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我朋友又出金句 https://t.co/55X5ZCCkx2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2088312526908060026",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 1007,
+          "like_count": 2382,
+          "listed_count": 4,
+          "media_count": 521,
+          "tweet_count": 3697
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-06T13:27:34.000Z",
+        "description": "我是cyclo，中文/English/Deutsch，she/her，bi。有对象感情非常好。不厌男不厌女，厌脑残。incel/terf/pinky/反lfbtq都滚。已大号互关的可以来：@smolc123 提问箱：https://t.co/WNwv3YVrJL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "smolc123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cyclo86441",
+                "end": 131,
+                "expanded_url": "https://ngl.link/cyclo86441",
+                "start": 108,
+                "url": "https://t.co/WNwv3YVrJL"
+              }
+            ]
+          }
+        },
+        "id": "1622587760514158593",
+        "is_identity_verified": false,
+        "location": "München, Bayern",
+        "most_recent_tweet_id": "2088294979823395203",
+        "name": "在雨中忧郁喂鸡",
+        "pinned_tweet_id": "2057500065078595596",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622587760514158593/1781151233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084280665114370048/f6W7GQni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 313,
+          "like_count": 57287,
+          "listed_count": 3,
+          "media_count": 694,
+          "tweet_count": 14374
+        },
+        "url": "",
+        "username": "ForlikOOO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

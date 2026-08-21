@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089039162112638976"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2089039178151625209",
+    "created_at": "2026-08-16T17:18:47.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089039178151625209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FGF7V0oyJ2",
+          "end": 56,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2089039178151625209/photo/1",
+          "media_key": "3_2089039162112638976",
+          "start": 33,
+          "url": "https://t.co/FGF7V0oyJ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089039178151625209",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089039162112638976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是都把我拉黑了怎么还能喷粪…\n把你假发薅下来，看看和尚头😅😅😅 https://t.co/FGF7V0oyJ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2089039162112638976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP3CDLuagAA89cG.jpg",
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089039162112638976"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2089039178151625209",
+        "created_at": "2026-08-16T17:18:47.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089039178151625209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGF7V0oyJ2",
+              "end": 56,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2089039178151625209/photo/1",
+              "media_key": "3_2089039162112638976",
+              "start": 33,
+              "url": "https://t.co/FGF7V0oyJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089039178151625209",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089039162112638976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是都把我拉黑了怎么还能喷粪…\n把你假发薅下来，看看和尚头😅😅😅 https://t.co/FGF7V0oyJ2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2089039178151625209",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 1018,
+          "like_count": 2459,
+          "listed_count": 4,
+          "media_count": 533,
+          "tweet_count": 3790
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

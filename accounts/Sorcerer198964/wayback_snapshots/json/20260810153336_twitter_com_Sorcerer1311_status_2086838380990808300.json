@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2086661329860051432",
+    "created_at": "2026-08-10T15:33:36.000Z",
+    "display_text_range": [
+      16,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086838380990808300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "786464617031733248",
+          "start": 0,
+          "username": "QueerMasculism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086838380990808300",
+    "in_reply_to_user_id": "786464617031733248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086661329860051432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QueerMasculism 并不是因为人没死成而责备，是因为死人看不到责备"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2086661329860051432",
+        "created_at": "2026-08-10T15:33:36.000Z",
+        "display_text_range": [
+          16,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086838380990808300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "786464617031733248",
+              "start": 0,
+              "username": "QueerMasculism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086838380990808300",
+        "in_reply_to_user_id": "786464617031733248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086661329860051432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QueerMasculism 并不是因为人没死成而责备，是因为死人看不到责备"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786464617031733248",
+        "conversation_id": "2086661329860051432",
+        "created_at": "2026-08-10T03:50:03.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086661329860051432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sorcerer1311/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Sorcerer1311/status/2086650502386012263",
+              "start": 67,
+              "url": "https://t.co/hGMudx16yg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086661329860051432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2261,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086650502386012263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "相约自杀实行仅仅是没死成的人也要责备究竟是什么鬼逻辑……感觉像是离健全人的思维已经很远了，但试图假装自己是健全人/体面人来踩头别人😓 https://t.co/hGMudx16yg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2086838380990808300",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 1002,
+          "like_count": 2253,
+          "listed_count": 4,
+          "media_count": 505,
+          "tweet_count": 3555
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-10-13T07:12:31.000Z",
+        "description": "左翼男性主义 | 酷儿男性主义 | 后女性主义 | 音羽中思想 | 实践-理论-实践 | 推翻女本位经济 | 在扬弃了女性主义的基础上走向未来 | 天然进步的amab",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/454038240",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/454038240",
+                "start": 0,
+                "url": "https://t.co/T15vXo3Mib"
+              }
+            ]
+          }
+        },
+        "id": "786464617031733248",
+        "is_identity_verified": false,
+        "location": "郑州",
+        "most_recent_tweet_id": "2086676838143971398",
+        "name": "音羽中导读（2.0）",
+        "pinned_tweet_id": "1968329547084186077",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/786464617031733248/1758120956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968328011276775424/doIwV-H7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 3055,
+          "like_count": 2139,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 864
+        },
+        "url": "https://t.co/T15vXo3Mib",
+        "username": "QueerMasculism",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

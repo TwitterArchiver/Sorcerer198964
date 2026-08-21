@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2083000749622247922",
+    "created_at": "2026-07-31T01:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083000749622247922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "28940967",
+          "start": 3,
+          "username": "lidangzzz"
+        },
+        {
+          "end": 31,
+          "id": "1957270464784408576",
+          "start": 15,
+          "username": "Jes943125191011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083000749622247922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082998542189068659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lidangzzz: @Jes943125191011 小诊所？人家农户和小诊所中医一年收入100多万，在我直播间轮着送孩子读美本，用得着你心疼？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2083000749622247922",
+        "created_at": "2026-07-31T01:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083000749622247922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "28940967",
+              "start": 3,
+              "username": "lidangzzz"
+            },
+            {
+              "end": 31,
+              "id": "1957270464784408576",
+              "start": 15,
+              "username": "Jes943125191011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083000749622247922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082998542189068659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lidangzzz: @Jes943125191011 小诊所？人家农户和小诊所中医一年收入100多万，在我直播间轮着送孩子读美本，用得着你心疼？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28940967",
+        "conversation_id": "2082991170276245875",
+        "created_at": "2026-07-31T01:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082998542189068659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1957270464784408576",
+              "start": 0,
+              "username": "Jes943125191011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082998542189068659",
+        "in_reply_to_user_id": "1957270464784408576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082995298360504731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jes943125191011 小诊所？人家农户和小诊所中医一年收入100多万，在我直播间轮着送孩子读美本，用得着你心疼？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 942,
+          "like_count": 1957,
+          "listed_count": 3,
+          "media_count": 436,
+          "tweet_count": 3196
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC\n（不回你私信，证明你的问题已经在YouTube回答过了，自己去YouTube视频里参考）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nTEMm"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603771,
+          "following_count": 2726,
+          "like_count": 28782,
+          "listed_count": 3887,
+          "media_count": 10030,
+          "tweet_count": 48058
+        },
+        "url": "https://t.co/RcYK9nTEMm",
+        "username": "lidangzzz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-18T02:37:14.000Z",
+        "description": "",
+        "id": "1957270464784408576",
+        "name": "zh jesen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959510922923331584/g1VJsHsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 149,
+          "like_count": 42,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 669
+        },
+        "url": "",
+        "username": "Jes943125191011",
+        "verified": false
+      }
+    ]
+  }
+}

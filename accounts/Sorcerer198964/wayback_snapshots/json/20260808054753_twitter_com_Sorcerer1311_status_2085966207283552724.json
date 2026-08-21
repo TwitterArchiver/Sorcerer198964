@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2085816084863815730",
+    "created_at": "2026-08-08T05:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T06:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085966207283552724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1430052755352166401",
+          "start": 0,
+          "username": "Wendy_Ai2005"
+        },
+        {
+          "end": 30,
+          "id": "1765154815678779392",
+          "start": 14,
+          "username": "NFhLWuYaiP90228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085966207283552724",
+    "in_reply_to_user_id": "1430052755352166401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085957878905786402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wendy_Ai2005 @NFhLWuYaiP90228 剂量也是两倍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2085816084863815730",
+        "created_at": "2026-08-08T05:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T06:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085966207283552724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1430052755352166401",
+              "start": 0,
+              "username": "Wendy_Ai2005"
+            },
+            {
+              "end": 30,
+              "id": "1765154815678779392",
+              "start": 14,
+              "username": "NFhLWuYaiP90228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085966207283552724",
+        "in_reply_to_user_id": "1430052755352166401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085957878905786402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wendy_Ai2005 @NFhLWuYaiP90228 剂量也是两倍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430052755352166401",
+        "conversation_id": "2085816084863815730",
+        "created_at": "2026-08-08T05:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T06:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085957878905786402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            },
+            {
+              "end": 30,
+              "id": "1765154815678779392",
+              "start": 14,
+              "username": "NFhLWuYaiP90228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085957878905786402",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085816084863815730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 @NFhLWuYaiP90228 这个不是补子两倍价格么😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 978,
+          "like_count": 2156,
+          "listed_count": 5,
+          "media_count": 488,
+          "tweet_count": 3486
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T06:22:15.000Z",
+        "description": "🇨🇳FromChina/05年184天空树🎄65kg/🏫HIE/📡BI7AWY/🟪MTX间断含糖🍥/😝说话是狗屁不通文章生成器/🏥休学8年/ASD+ADHD💊/在读机械狗一枚/全科通识考试弱智，应试教育失败品/🆗机械⚙️电气⚡️天文🔭地理🗺️医学🩺生物🧫瑟瑟🥵/❎历史🏺政治📚脑残🤪",
+        "id": "1430052755352166401",
+        "location": "距离你2.8km",
+        "name": "安雯雨🌧️🌧️Wendy_Ai🍥～🟡⚪️🟣⚫️",
+        "pinned_tweet_id": "2074525686417838329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075627645828816896/q8ZxpfQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 926,
+          "like_count": 3958,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 1722
+        },
+        "url": "",
+        "username": "Wendy_Ai2005",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-05T23:19:09.000Z",
+        "description": "🏳️‍⚧️mtf HRT：2026/3/24から | 坐标大湾区 | 高校生 | acgが好き | 已成功成为家长不管党喵  | 176长发及腰 | 不o不割不🚬不🍺 | 科瓦奇的英雄 | 🏳️‍🌈🏳️‍⚧️",
+        "id": "1765154815678779392",
+        "name": "依松佐河🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058982342295986176/g_UThJOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 618,
+          "like_count": 26144,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "NFhLWuYaiP90228",
+        "verified": false
+      }
+    ]
+  }
+}

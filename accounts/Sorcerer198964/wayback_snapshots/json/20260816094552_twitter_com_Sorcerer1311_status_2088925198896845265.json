@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2088916142622482859",
+    "created_at": "2026-08-16T09:45:52.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T10:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088925198896845265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787748911878156288",
+          "start": 0,
+          "username": "anyue_1207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088925198896845265",
+    "in_reply_to_user_id": "1787748911878156288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088916142622482859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anyue_1207 现在一般是240左右确实不如国补"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2088916142622482859",
+        "created_at": "2026-08-16T09:45:52.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088925198896845265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787748911878156288",
+              "start": 0,
+              "username": "anyue_1207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088925198896845265",
+        "in_reply_to_user_id": "1787748911878156288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088916142622482859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anyue_1207 现在一般是240左右确实不如国补"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787748911878156288",
+        "conversation_id": "2088916142622482859",
+        "created_at": "2026-08-16T09:09:53.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088916142622482859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2078872542455152922",
+              "start": 36,
+              "url": "https://t.co/t0QFa0mP06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088916142622482859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078872542455152922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正常来说，泰补应该在200左右？\n很久没买了，个人觉得这个价格比较合适 https://t.co/t0QFa0mP06"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2088925198896845265",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 1011,
+          "like_count": 2434,
+          "listed_count": 4,
+          "media_count": 527,
+          "tweet_count": 3759
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-07T07:39:01.000Z",
+        "description": "INFJ  | mtf",
+        "id": "1787748911878156288",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088916387934998584",
+        "name": "黯月",
+        "pinned_tweet_id": "2069831579757850944",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787748911878156288/1775357372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069473079647150080/82Csd9P2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 906,
+          "like_count": 4010,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "anyue_1207",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

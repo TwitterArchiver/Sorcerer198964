@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2085771632401060028",
+    "created_at": "2026-08-07T19:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T20:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085809452700340239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491368400924422149",
+          "start": 0,
+          "username": "Taffydaisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085809452700340239",
+    "in_reply_to_user_id": "1491368400924422149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085773501546594526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taffydaisuki 这让我想到发展中国家的人斥责大妈拿桶去接免费可乐…\n而只要稍微注重点生活质量和健康的人都看不起有糖可乐吧\n经历过物质的极大丰富之后是很难理解为什么要贪这点小便宜的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2085771632401060028",
+        "created_at": "2026-08-07T19:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085809452700340239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491368400924422149",
+              "start": 0,
+              "username": "Taffydaisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085809452700340239",
+        "in_reply_to_user_id": "1491368400924422149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085773501546594526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taffydaisuki 这让我想到发展中国家的人斥责大妈拿桶去接免费可乐…\n而只要稍微注重点生活质量和健康的人都看不起有糖可乐吧\n经历过物质的极大丰富之后是很难理解为什么要贪这点小便宜的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491368400924422149",
+        "conversation_id": "2085771632401060028",
+        "created_at": "2026-08-07T17:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085773501546594526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085773501546594526",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085771632401060028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 如果一個人都願意趕路加排隊花這麼多時間只是為了換點食物，說明這個人至少也不是很富裕，不懂評論區這些creatures為什麼要譴責自己的compatriots"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 976,
+          "like_count": 2146,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 3464
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T11:08:43.000Z",
+        "description": "精神台巴子🇹🇼夢想南極旅遊/漢族人妖🏳️‍⚧️來了你們聊/喜歡一切巧克力和鹹甜碳水🍰/Vtuber重度依賴主看塔蓮灰/🇯🇵廣島大四在留/ㄆㄥˊㄧㄡˇ@bakajinping @ln_fbsq @DOUDEMOII_y92z0 @lyb1007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "bakajinping"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "ln_fbsq"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "DOUDEMOII_y92z0"
+              },
+              {
+                "end": 121,
+                "start": 113,
+                "username": "lyb1007"
+              }
+            ]
+          }
+        },
+        "id": "1491368400924422149",
+        "location": "燕國/CN/JP/EN",
+        "name": "🍫空酱🍥",
+        "pinned_tweet_id": "2068595415705170165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085102860627533824/uDgXx2ct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 643,
+          "like_count": 28585,
+          "listed_count": 0,
+          "media_count": 826,
+          "tweet_count": 6622
+        },
+        "url": "",
+        "username": "Taffydaisuki",
+        "verified": false
+      }
+    ]
+  }
+}

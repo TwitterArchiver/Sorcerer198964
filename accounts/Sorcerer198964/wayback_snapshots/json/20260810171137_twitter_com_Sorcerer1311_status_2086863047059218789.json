@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086863016805781504",
+        "3_2086863016776380416"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2086863047059218789",
+    "created_at": "2026-08-10T17:11:37.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086863047059218789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/49RgqH4FcZ",
+          "end": 29,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2086863047059218789/photo/1",
+          "media_key": "3_2086863016805781504",
+          "start": 6,
+          "url": "https://t.co/49RgqH4FcZ"
+        },
+        {
+          "display_url": "pic.x.com/49RgqH4FcZ",
+          "end": 29,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2086863047059218789/photo/1",
+          "media_key": "3_2086863016776380416",
+          "start": 6,
+          "url": "https://t.co/49RgqH4FcZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086863047059218789",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086863016805781504"
+      },
+      {
+        "media_key": "3_2086863016776380416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爆锤我厚米 https://t.co/49RgqH4FcZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2086863016805781504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYG22ub0AAyfRr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086863016776380416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYG22nbMAA-rgd.jpg",
+        "width": 1927
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086863016805781504",
+            "3_2086863016776380416"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2086863047059218789",
+        "created_at": "2026-08-10T17:11:37.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086863047059218789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/49RgqH4FcZ",
+              "end": 29,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2086863047059218789/photo/1",
+              "media_key": "3_2086863016805781504",
+              "start": 6,
+              "url": "https://t.co/49RgqH4FcZ"
+            },
+            {
+              "display_url": "pic.x.com/49RgqH4FcZ",
+              "end": 29,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2086863047059218789/photo/1",
+              "media_key": "3_2086863016776380416",
+              "start": 6,
+              "url": "https://t.co/49RgqH4FcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086863047059218789",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086863016805781504"
+          },
+          {
+            "media_key": "3_2086863016776380416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爆锤我厚米 https://t.co/49RgqH4FcZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2086863047059218789",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 1003,
+          "like_count": 2261,
+          "listed_count": 4,
+          "media_count": 507,
+          "tweet_count": 3562
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

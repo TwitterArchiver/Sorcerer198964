@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087058388513640448"
+      ],
+      "media_source_tweet_id": [
+        "2087058396285685947"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2087090998703001837",
+    "created_at": "2026-08-11T08:17:25.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087090998703001837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "827513806880329732",
+          "start": 3,
+          "username": "XinHaNewsAgency"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pR55b1OV1F",
+          "end": 88,
+          "expanded_url": "https://x.com/XinHaNewsAgency/status/2087058396285685947/photo/1",
+          "media_key": "3_2087058388513640448",
+          "start": 65,
+          "url": "https://t.co/pR55b1OV1F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087090998703001837",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087058388513640448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087058396285685947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XinHaNewsAgency: 为纪念江泽民主席诞辰一百周年，中央电视台将从今日起，连续六天播出文献纪录片《江泽民》。 https://t.co/pR55b1OV1F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2087058388513640448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPa4i_Da0AA9Hir.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087058388513640448"
+          ]
+        },
+        "author_id": "827513806880329732",
+        "conversation_id": "2087058396285685947",
+        "created_at": "2026-08-11T06:07:52.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087058396285685947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pR55b1OV1F",
+              "end": 67,
+              "expanded_url": "https://x.com/XinHaNewsAgency/status/2087058396285685947/photo/1",
+              "media_key": "3_2087058388513640448",
+              "start": 44,
+              "url": "https://t.co/pR55b1OV1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087058396285685947",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087058388513640448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10559,
+          "like_count": 189,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "为纪念江泽民主席诞辰一百周年，中央电视台将从今日起，连续六天播出文献纪录片《江泽民》。 https://t.co/pR55b1OV1F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087058388513640448"
+          ],
+          "media_source_tweet_id": [
+            "2087058396285685947"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2087090998703001837",
+        "created_at": "2026-08-11T08:17:25.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087090998703001837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "827513806880329732",
+              "start": 3,
+              "username": "XinHaNewsAgency"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pR55b1OV1F",
+              "end": 88,
+              "expanded_url": "https://x.com/XinHaNewsAgency/status/2087058396285685947/photo/1",
+              "media_key": "3_2087058388513640448",
+              "start": 65,
+              "url": "https://t.co/pR55b1OV1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087090998703001837",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087058388513640448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087058396285685947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XinHaNewsAgency: 为纪念江泽民主席诞辰一百周年，中央电视台将从今日起，连续六天播出文献纪录片《江泽民》。 https://t.co/pR55b1OV1F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2087090998703001837",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 1004,
+          "like_count": 2270,
+          "listed_count": 4,
+          "media_count": 507,
+          "tweet_count": 3580
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-03T13:47:20.000Z",
+        "description": "新蛤社，让世界听到江学的声音！ 欢迎关注新蛤社。下能听取蛙声一片，中能提高姿势水平，上可学习人生经验，岂不美哉？投稿请@我或发送私信投稿 \n电报：https://t.co/xVVgQZGUDy\n#膜蛤 #膜法 #长者 #续命 #江泽民",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 97,
+                "tag": "膜蛤"
+              },
+              {
+                "end": 104,
+                "start": 101,
+                "tag": "膜法"
+              },
+              {
+                "end": 108,
+                "start": 105,
+                "tag": "长者"
+              },
+              {
+                "end": 112,
+                "start": 109,
+                "tag": "续命"
+              },
+              {
+                "end": 117,
+                "start": 113,
+                "tag": "江泽民"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/XinHaNewsAgency",
+                "end": 96,
+                "expanded_url": "http://t.me/XinHaNewsAgency",
+                "start": 73,
+                "url": "https://t.co/xVVgQZGUDy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XinHaNewsAgen…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@XinHaNewsAgency",
+                "start": 0,
+                "url": "https://t.co/p8jeIezwhr"
+              }
+            ]
+          }
+        },
+        "id": "827513806880329732",
+        "is_identity_verified": false,
+        "location": "中蛤人民共和国",
+        "most_recent_tweet_id": "2087087200123167221",
+        "name": "新蛤社",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/827513806880329732/1680799594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648128228505321478/Ph0Mps49_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88237,
+          "following_count": 32,
+          "like_count": 710,
+          "listed_count": 229,
+          "media_count": 1751,
+          "tweet_count": 2363
+        },
+        "url": "https://t.co/p8jeIezwhr",
+        "username": "XinHaNewsAgency",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

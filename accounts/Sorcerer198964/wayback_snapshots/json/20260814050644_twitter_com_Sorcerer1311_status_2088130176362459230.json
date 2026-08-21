@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088130159887126528",
+        "3_2088130159891357696"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088130176362459230",
+    "created_at": "2026-08-14T05:06:44.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T06:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088130176362459230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lre2d2aXJA",
+          "end": 110,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2088130176362459230/photo/1",
+          "media_key": "3_2088130159887126528",
+          "start": 87,
+          "url": "https://t.co/lre2d2aXJA"
+        },
+        {
+          "display_url": "pic.x.com/lre2d2aXJA",
+          "end": 110,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2088130176362459230/photo/1",
+          "media_key": "3_2088130159891357696",
+          "start": 87,
+          "url": "https://t.co/lre2d2aXJA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088130176362459230",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088130159887126528"
+      },
+      {
+        "media_key": "3_2088130159891357696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜茶新品的莓果芝士gelato和微醺黄皮葡\n芝士加入雪糕真的报吃，冷冻严重限制了芝士风味的释放\n另外为什么一杯含酒精饮料里面全是冰沙…使得原本就寡淡的风味变得完全尝不出来了 https://t.co/lre2d2aXJA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2088130159887126528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqHUSjaEAAEToL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088130159891357696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqHUSkaoAA5wPn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088130159887126528",
+            "3_2088130159891357696"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088130176362459230",
+        "created_at": "2026-08-14T05:06:44.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088130176362459230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lre2d2aXJA",
+              "end": 110,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2088130176362459230/photo/1",
+              "media_key": "3_2088130159887126528",
+              "start": 87,
+              "url": "https://t.co/lre2d2aXJA"
+            },
+            {
+              "display_url": "pic.x.com/lre2d2aXJA",
+              "end": 110,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2088130176362459230/photo/1",
+              "media_key": "3_2088130159891357696",
+              "start": 87,
+              "url": "https://t.co/lre2d2aXJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088130176362459230",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088130159887126528"
+          },
+          {
+            "media_key": "3_2088130159891357696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜茶新品的莓果芝士gelato和微醺黄皮葡\n芝士加入雪糕真的报吃，冷冻严重限制了芝士风味的释放\n另外为什么一杯含酒精饮料里面全是冰沙…使得原本就寡淡的风味变得完全尝不出来了 https://t.co/lre2d2aXJA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2088130176362459230",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 1001,
+          "like_count": 2346,
+          "listed_count": 4,
+          "media_count": 519,
+          "tweet_count": 3662
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

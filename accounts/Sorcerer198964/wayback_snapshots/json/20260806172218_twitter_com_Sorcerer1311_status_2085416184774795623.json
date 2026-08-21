@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085416165841813504"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2085416184774795623",
+    "created_at": "2026-08-06T17:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085416184774795623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wtw1Z5Wbol",
+          "end": 92,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2085416184774795623/photo/1",
+          "media_key": "3_2085416165841813504",
+          "start": 69,
+          "url": "https://t.co/wtw1Z5Wbol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085416184774795623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我见过最笑嘻的反二元跨狗哨\n以前我骂这张图造谣\n现在发现确实有人企图模仿以欺骗自己\n当然总比连番茄酱都不放然后和顺女谈笑风生月经贫困的好 https://t.co/wtw1Z5Wbol"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1508,
+        "media_key": "3_2085416165841813504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDi9C3bwAAsZFX.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085416165841813504"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2085416184774795623",
+        "created_at": "2026-08-06T17:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085416184774795623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtw1Z5Wbol",
+              "end": 92,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2085416184774795623/photo/1",
+              "media_key": "3_2085416165841813504",
+              "start": 69,
+              "url": "https://t.co/wtw1Z5Wbol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085416184774795623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我见过最笑嘻的反二元跨狗哨\n以前我骂这张图造谣\n现在发现确实有人企图模仿以欺骗自己\n当然总比连番茄酱都不放然后和顺女谈笑风生月经贫困的好 https://t.co/wtw1Z5Wbol"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 975,
+          "like_count": 2124,
+          "listed_count": 3,
+          "media_count": 472,
+          "tweet_count": 3425
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

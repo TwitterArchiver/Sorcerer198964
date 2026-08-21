@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2085810218790010930",
+    "created_at": "2026-08-08T04:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T05:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085944464972103839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1698896439206944769",
+          "start": 0,
+          "username": "combodiabestboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085944464972103839",
+    "in_reply_to_user_id": "1698896439206944769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085941637163946026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@combodiabestboy 就是拿头发挡住显脸小…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2085810218790010930",
+        "created_at": "2026-08-08T04:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T05:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085944464972103839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1698896439206944769",
+              "start": 0,
+              "username": "combodiabestboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085944464972103839",
+        "in_reply_to_user_id": "1698896439206944769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085941637163946026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@combodiabestboy 就是拿头发挡住显脸小…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698896439206944769",
+        "conversation_id": "2085810218790010930",
+        "created_at": "2026-08-08T04:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T05:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085941637163946026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085941637163946026",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085810218790010930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 都拿头发挡住了还故意用了显脸小的角度，什么也看不到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 977,
+          "like_count": 2157,
+          "listed_count": 3,
+          "media_count": 487,
+          "tweet_count": 3483
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T03:11:02.000Z",
+        "description": "@tataqwq是我们的塔司令，我们是塔卫兵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "tataqwq"
+              }
+            ]
+          }
+        },
+        "id": "1698896439206944769",
+        "location": "IP属地：猕猴星球Monpainisia",
+        "name": "塔的八宝菜（猴子猴狲）",
+        "pinned_tweet_id": "1859455386925043785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922781818702487552/OKA5P4BP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 361,
+          "like_count": 49564,
+          "listed_count": 5,
+          "media_count": 1060,
+          "tweet_count": 12709
+        },
+        "url": "",
+        "username": "combodiabestboy",
+        "verified": false
+      }
+    ]
+  }
+}

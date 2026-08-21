@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2084583104627548318",
+    "created_at": "2026-08-04T10:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084583104627548318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cryptopainter/…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/cryptopainter/status/2084481788056056162",
+          "start": 100,
+          "url": "https://t.co/WzsN7MBEXA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084583104627548318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084481788056056162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因此我其实很担心自己的寿命\n我心跳比普通人快20次每分钟（85bpm），而且运动的时候快的更多（100W功率175bpm）\n因为地贫的心率代偿\n知道自己可能活不了多久说不定真不用考虑太多未来的事情了 https://t.co/WzsN7MBEXA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2084583104627548318",
+        "created_at": "2026-08-04T10:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084583104627548318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cryptopainter/…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/cryptopainter/status/2084481788056056162",
+              "start": 100,
+              "url": "https://t.co/WzsN7MBEXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084583104627548318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084481788056056162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因此我其实很担心自己的寿命\n我心跳比普通人快20次每分钟（85bpm），而且运动的时候快的更多（100W功率175bpm）\n因为地贫的心率代偿\n知道自己可能活不了多久说不定真不用考虑太多未来的事情了 https://t.co/WzsN7MBEXA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1056818658",
+        "conversation_id": "2084481788056056162",
+        "created_at": "2026-08-04T03:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084481788056056162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084481788056056162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 32262,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗？\n\n绝大部分动物一生心跳的总次数都在10亿次左右...\n\n心跳快的，寿命短，心跳慢的，寿命长...\n\n但最神奇的还是，心跳总次数刚好都在10亿次...\n\n这还真不是什么段子，一开始我也不信...\n\n后来一差还真有这么个统计数据..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 966,
+          "like_count": 2055,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 3327
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-03T04:07:25.000Z",
+        "description": "老朋友叫我“画师”，技术\\数据分析和量化交易，提供各种刁钻角度看市场，用时间做杠杆，正在开发一款量化AI交易工具：A-Trading！\n#OKX 启程Web3：https://t.co/cTJurNgODH\n#Binance 币安一键注册：https://t.co/WfOCGl7hut",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 68,
+                "tag": "OKX"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/4iSLash",
+                "end": 103,
+                "expanded_url": "https://bit.ly/4iSLash",
+                "start": 80,
+                "url": "https://t.co/cTJurNgODH"
+              },
+              {
+                "display_url": "bit.ly/48zRqBN",
+                "end": 143,
+                "expanded_url": "https://bit.ly/48zRqBN",
+                "start": 120,
+                "url": "https://t.co/WfOCGl7hut"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZPkREzth-qJjO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZPkREzth-qJjOWE1",
+                "start": 0,
+                "url": "https://t.co/GmJX6YT5ym"
+              }
+            ]
+          }
+        },
+        "id": "1056818658",
+        "location": "电报群 TG Group → ",
+        "name": "Crypto_Painter",
+        "pinned_tweet_id": "1921354818838315294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999005830872797184/kfpmb1Mr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93786,
+          "following_count": 1844,
+          "like_count": 74286,
+          "listed_count": 1758,
+          "media_count": 6429,
+          "tweet_count": 34490
+        },
+        "url": "https://t.co/GmJX6YT5ym",
+        "username": "CryptoPainter",
+        "verified": true
+      }
+    ]
+  }
+}

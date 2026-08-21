@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2089553815167283355",
+    "created_at": "2026-08-18T06:26:34.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T07:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089599818486444120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580462850123833344",
+          "start": 0,
+          "username": "lianda_edu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089599818486444120",
+    "in_reply_to_user_id": "1580462850123833344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089579806501519555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianda_edu 可能更偏向代议制民主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2089553815167283355",
+        "created_at": "2026-08-18T06:26:34.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089599818486444120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580462850123833344",
+              "start": 0,
+              "username": "lianda_edu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089599818486444120",
+        "in_reply_to_user_id": "1580462850123833344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089579806501519555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianda_edu 可能更偏向代议制民主"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580462850123833344",
+        "conversation_id": "2089553815167283355",
+        "created_at": "2026-08-18T05:07:03.000Z",
+        "display_text_range": [
+          14,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089579806501519555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089579806501519555",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089553815167283355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 简称文彦博防农逼上桌主义：为与士大夫治天下，非与百姓治天下也。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2089599818486444120",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 1028,
+          "like_count": 2499,
+          "listed_count": 4,
+          "media_count": 536,
+          "tweet_count": 3833
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-13T07:38:08.000Z",
+        "description": "ADHDer- Übermensch\nDefi ,Fintech , EconCS\nAdrasteia Labs @UofIllinois",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "UofIllinois"
+              }
+            ]
+          }
+        },
+        "id": "1580462850123833344",
+        "is_identity_verified": false,
+        "location": "Adrasteia Labs",
+        "most_recent_tweet_id": "2089579806501519555",
+        "name": "Hayashi Heikichi",
+        "pinned_tweet_id": "2087754661885526457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580462850123833344/1759066670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972294358188920832/ByzIB2nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 1314,
+          "like_count": 24323,
+          "listed_count": 11,
+          "media_count": 1049,
+          "tweet_count": 25670
+        },
+        "url": "",
+        "username": "lianda_edu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

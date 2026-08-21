@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2089574989343408211",
+    "created_at": "2026-08-18T12:16:01.000Z",
+    "display_text_range": [
+      17,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T13:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089687760827506975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1714100357582770176",
+          "start": 0,
+          "username": "YesterdayBigcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089687760827506975",
+    "in_reply_to_user_id": "1714100357582770176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089574989343408211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayBigcat 止痛药都开不出了有点假\n止痛药只是门槛高，达到要求后给你管够的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50466,
+        "height": 1440,
+        "media_key": "13_2089574198708772864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089574198708772864/img/mvSFP6rHAs6dPkK8.jpg",
+        "public_metrics": {
+          "view_count": 65465
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089574198708772864/vid/avc1/2560x1440/s2PmyUM-wHaOXf0U.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089574198708772864/vid/avc1/480x270/aYdIqxNLnxkCokFM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089574198708772864/pl/g_oLrtesFYCwhRgB.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089574198708772864/vid/avc1/1280x720/i8Pq3v51zZOt9iim.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089574198708772864/vid/avc1/640x360/XUESAw7T0K3VsYwH.mp4"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2089574989343408211",
+        "created_at": "2026-08-18T12:16:01.000Z",
+        "display_text_range": [
+          17,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089687760827506975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714100357582770176",
+              "start": 0,
+              "username": "YesterdayBigcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089687760827506975",
+        "in_reply_to_user_id": "1714100357582770176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089574989343408211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayBigcat 止痛药都开不出了有点假\n止痛药只是门槛高，达到要求后给你管够的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089574198708772864"
+          ]
+        },
+        "author_id": "1714100357582770176",
+        "conversation_id": "2089574989343408211",
+        "created_at": "2026-08-18T04:47:54.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089574989343408211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qa6V5cYvsJ",
+              "end": 173,
+              "expanded_url": "https://x.com/YesterdayBigcat/status/2089574989343408211/video/1",
+              "media_key": "13_2089574198708772864",
+              "start": 150,
+              "url": "https://t.co/Qa6V5cYvsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089574989343408211",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089574198708772864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "「南昌癌症病人欠费200余元被医院逐出，商场内痛到晕厥（2026.08.17）」8月17日，江西省南昌市青山湖区，一名癌症病人因拖欠医院200余元费用被医院逐出。离开医院后，他进入附近的潮购购物广场，并一度因疼痛难忍而晕厥。据其自述，为治病他前后已花费上百万元，如今身无分文，被医院赶出后甚至连回家的路费都没有。现场一名商城老板见状，想给他几百元钱帮助其渡过难关，但被他拒绝。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 97204,
+          "like_count": 527,
+          "quote_count": 11,
+          "reply_count": 279,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "「南昌癌症病人欠费200余元被医院逐出，商场内痛到晕厥（2026.08.17）」8月17日，江西省南昌市青山湖区，一名癌症病人因拖欠医院200余元费用被医院逐出。离开医院后，他进入附近的潮购购物广场，并一度因疼痛难忍而晕厥。据其自述，为治病他前后已花费上百万元，如今身无分文，被医院赶出后甚至连回家 https://t.co/Qa6V5cYvsJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2089687760827506975",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 1033,
+          "like_count": 2502,
+          "listed_count": 4,
+          "media_count": 538,
+          "tweet_count": 3848
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-17T02:06:12.000Z",
+        "description": "中国集体抗争事件记录网：https://t.co/sjVzTO6fYM\n投稿邮箱：bigorangecat2023@gmail.com\nYoutube：YesterdayBigcat\nIns：yesterdaybigorangecat\nTikTok：yesterdaybigcat",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 35,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 12,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 23,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 0,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          }
+        },
+        "id": "1714100357582770176",
+        "is_identity_verified": false,
+        "location": "火星",
+        "most_recent_tweet_id": "2089575050395697640",
+        "name": "昨天",
+        "pinned_tweet_id": "2008435957826207815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1714100357582770176/1697508860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714101429500268544/Ga5TlrzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146318,
+          "following_count": 540,
+          "like_count": 1616,
+          "listed_count": 666,
+          "media_count": 3609,
+          "tweet_count": 5433
+        },
+        "url": "https://t.co/sjVzTO6fYM",
+        "username": "YesterdayBigcat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

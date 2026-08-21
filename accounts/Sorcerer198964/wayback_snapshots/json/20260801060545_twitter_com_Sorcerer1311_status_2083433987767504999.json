@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2083433987767504999",
+    "created_at": "2026-08-01T06:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083433987767504999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1277822903808032770",
+          "start": 3,
+          "username": "Anthony20211117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083433987767504999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083335285585412373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anthony20211117: 都是造谣为什么不造点喜庆的？比如：李克强复活，正联合薄熙来、张又侠、刘振立、何卫东、苗华、何宏军、宋祖英等攻打中南海。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2083433987767504999",
+        "created_at": "2026-08-01T06:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083433987767504999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1277822903808032770",
+              "start": 3,
+              "username": "Anthony20211117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083433987767504999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083335285585412373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anthony20211117: 都是造谣为什么不造点喜庆的？比如：李克强复活，正联合薄熙来、张又侠、刘振立、何卫东、苗华、何宏军、宋祖英等攻打中南海。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277822903808032770",
+        "conversation_id": "2083335285585412373",
+        "created_at": "2026-07-31T23:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T00:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083335285585412373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083335285585412373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 16006,
+          "like_count": 272,
+          "quote_count": 4,
+          "reply_count": 32,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "都是造谣为什么不造点喜庆的？比如：李克强复活，正联合薄熙来、张又侠、刘振立、何卫东、苗华、何宏军、宋祖英等攻打中南海。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 943,
+          "like_count": 1989,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 3256
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-30T04:36:14.000Z",
+        "description": "安东尼，前帽盔山小霸王，回首摸山临时小霸王，现落基山小霸王兼Catnada小霸王，九命捕鼠大元帅，罐罐研究院首席科学家，呼噜呼噜委员会主席，卡尔加里雪原的巡游者，后院与街巷的守望者，邻里畏惧的凝视者，捕鼠无声的猎影，篱笆之王，车道之主，橘白之尊，冬日风雪的行者，九命的继承者，罐头开启之声的审判者，沙发与阳台的征服者。",
+        "id": "1277822903808032770",
+        "location": "Anywhere",
+        "name": "Anthony",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796813707328229376/pBs8PrHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39238,
+          "following_count": 1599,
+          "like_count": 43575,
+          "listed_count": 99,
+          "media_count": 850,
+          "tweet_count": 4274
+        },
+        "url": "",
+        "username": "Anthony20211117",
+        "verified": false
+      }
+    ]
+  }
+}

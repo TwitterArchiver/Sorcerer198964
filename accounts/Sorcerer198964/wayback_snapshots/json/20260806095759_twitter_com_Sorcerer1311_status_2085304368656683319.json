@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2085304368656683319",
+    "created_at": "2026-08-06T09:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T10:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085304368656683319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2054197521690611712",
+          "start": 3,
+          "username": "AnnaYanamimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085304368656683319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072361294913765777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @AnnaYanamimi: 不单单是中推\n一切金钱控制大脑的博主都应该被当成过街老鼠\n挑拨离间却仍然有一大堆也自认中立 理想先进的孝子\n不要痛恨维护他的孝子 他们是这种博主的受害者\n我们不能强行剥夺孝子们的精神寄托 但应当指点出来 让这些博主的账号慢慢腐烂掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2085304368656683319",
+        "created_at": "2026-08-06T09:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085304368656683319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2054197521690611712",
+              "start": 3,
+              "username": "AnnaYanamimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085304368656683319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072361294913765777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @AnnaYanamimi: 不单单是中推\n一切金钱控制大脑的博主都应该被当成过街老鼠\n挑拨离间却仍然有一大堆也自认中立 理想先进的孝子\n不要痛恨维护他的孝子 他们是这种博主的受害者\n我们不能强行剥夺孝子们的精神寄托 但应当指点出来 让这些博主的账号慢慢腐烂掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054197521690611712",
+        "conversation_id": "2072356190898766312",
+        "created_at": "2026-07-01T16:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072361294913765777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072361294913765777",
+        "in_reply_to_user_id": "2054197521690611712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2202,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072356190898766312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "不单单是中推\n一切金钱控制大脑的博主都应该被当成过街老鼠\n挑拨离间却仍然有一大堆也自认中立 理想先进的孝子\n不要痛恨维护他的孝子 他们是这种博主的受害者\n我们不能强行剥夺孝子们的精神寄托 但应当指点出来 让这些博主的账号慢慢腐烂掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 972,
+          "like_count": 2113,
+          "listed_count": 3,
+          "media_count": 467,
+          "tweet_count": 3410
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:50:57.000Z",
+        "description": "中国几千年来是世界上头一等的强国，我们的文明、进步比各国是领先的。\n当中国顶强盛的时代，正所谓“千邦进贡，万国来朝”。那个时候，中国的文明在世界是第一的，中国是世界上头一等的强国。  ———孙中山（Sun Yat-sen）《孙中山全集·勉励国民》1924.5.30",
+        "id": "2054197521690611712",
+        "location": "中華人民共和國香港特別行政區、中華人民共和國台灣省",
+        "name": "八奈见见💜Yanamimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079807008488951808/N8_RSJiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 1574,
+          "like_count": 1134,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 672
+        },
+        "url": "",
+        "username": "AnnaYanamimi",
+        "verified": false
+      }
+    ]
+  }
+}

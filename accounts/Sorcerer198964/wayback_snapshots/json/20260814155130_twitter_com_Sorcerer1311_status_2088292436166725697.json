@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2088292436166725697",
+    "created_at": "2026-08-14T15:51:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088292436166725697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer1311"
+        },
+        {
+          "end": 30,
+          "id": "1863689264409743362",
+          "start": 18,
+          "username": "abacusabaci"
+        },
+        {
+          "end": 39,
+          "id": "2048975593405083648",
+          "start": 31,
+          "username": "Wzru74p"
+        },
+        {
+          "end": 51,
+          "id": "1753293214826848256",
+          "start": 40,
+          "username": "tatanakots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088292436166725697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088292421423771714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer1311: @abacusabaci @Wzru74p @tatanakots 傻逼\n你见过第一次出来见面就捅人的“朋友”？\n还水果刀杀不了人，即使是刀片只要割到要害部位不及时止血就很可能造成死亡\n出门带刀就没一个奔着自卫去的，他们随时都会意识到自己腰间…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2088292436166725697",
+        "created_at": "2026-08-14T15:51:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088292436166725697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer1311"
+            },
+            {
+              "end": 30,
+              "id": "1863689264409743362",
+              "start": 18,
+              "username": "abacusabaci"
+            },
+            {
+              "end": 39,
+              "id": "2048975593405083648",
+              "start": 31,
+              "username": "Wzru74p"
+            },
+            {
+              "end": 51,
+              "id": "1753293214826848256",
+              "start": 40,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088292436166725697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088292421423771714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer1311: @abacusabaci @Wzru74p @tatanakots 傻逼\n你见过第一次出来见面就捅人的“朋友”？\n还水果刀杀不了人，即使是刀片只要割到要害部位不及时止血就很可能造成死亡\n出门带刀就没一个奔着自卫去的，他们随时都会意识到自己腰间…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2087982584655741229",
+        "created_at": "2026-08-14T15:51:26.000Z",
+        "display_text_range": [
+          34,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088292421423771714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1863689264409743362",
+              "start": 0,
+              "username": "abacusabaci"
+            },
+            {
+              "end": 21,
+              "id": "2048975593405083648",
+              "start": 13,
+              "username": "Wzru74p"
+            },
+            {
+              "end": 33,
+              "id": "1753293214826848256",
+              "start": 22,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088292421423771714",
+        "in_reply_to_user_id": "1863689264409743362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088164727226564642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abacusabaci @Wzru74p @tatanakots 傻逼\n你见过第一次出来见面就捅人的“朋友”？\n还水果刀杀不了人，即使是刀片只要割到要害部位不及时止血就很可能造成死亡\n出门带刀就没一个奔着自卫去的，他们随时都会意识到自己腰间带着一把足以夺走他人性命的武器"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2088292436166725697",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 1004,
+          "like_count": 2376,
+          "listed_count": 4,
+          "media_count": 521,
+          "tweet_count": 3691
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-02T20:58:51.000Z",
+        "description": "to for me send  a anonymously mail\nPhilippa_Marie_Styles@proton.me",
+        "id": "1863689264409743362",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088164727226564642",
+        "name": "cute marie",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863689264409743362/1742663767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903495789789515776/ssJgSf7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 39,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "abacusabaci",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T04:01:01.000Z",
+        "description": "请原谅支黑的通透，请放过支鳖的没救",
+        "id": "2048975593405083648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088291386827403271",
+        "name": "血十字猎支人",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048975932896210945/DdSp19Q3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 22,
+          "like_count": 766,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 668
+        },
+        "url": "",
+        "username": "Wzru74p",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her ゴミ垢 @tatanakots_sub リア充垢 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "is_identity_verified": true,
+        "location": "Shanghai, PRC",
+        "most_recent_tweet_id": "2088286018017558605",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753293214826848256/1777655549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4025,
+          "following_count": 489,
+          "like_count": 34082,
+          "listed_count": 7,
+          "media_count": 1917,
+          "tweet_count": 15052
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

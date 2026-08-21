@@ -1,0 +1,616 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2087245503419539528",
+    "created_at": "2026-08-11T18:31:21.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T19:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087245503419539528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761861143780528128",
+          "start": 3,
+          "username": "Finding8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087245503419539528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087160856010531166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Finding8964: 深圳华强北2000余人被抓：一门20年生意的终结。华强北卖水货手机已经不是新闻，这门生意持续了二十多年。从最早的港行诺基亚，到后来的美版、日版iPhone，再到少量的谷歌Pixel，华强北就是靠着这条灰色产业链，养活了几十万人，并把货铺到了全国…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2087159508321857537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcUg7sacAEat5s.jpg",
+        "width": 720
+      },
+      {
+        "height": 450,
+        "media_key": "3_2087159995238625280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcU9RmasAAg7br.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2087245503419539528",
+        "created_at": "2026-08-11T18:31:21.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087245503419539528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761861143780528128",
+              "start": 3,
+              "username": "Finding8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087245503419539528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087160856010531166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Finding8964: 深圳华强北2000余人被抓：一门20年生意的终结。华强北卖水货手机已经不是新闻，这门生意持续了二十多年。从最早的港行诺基亚，到后来的美版、日版iPhone，再到少量的谷歌Pixel，华强北就是靠着这条灰色产业链，养活了几十万人，并把货铺到了全国…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087159508321857537",
+            "3_2087159995238625280"
+          ]
+        },
+        "author_id": "1761861143780528128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2087160856010531166",
+        "created_at": "2026-08-11T12:55:00.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087160856010531166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDLQHnOhkJ",
+              "end": 172,
+              "expanded_url": "https://x.com/Finding8964/status/2087160856010531166/photo/1",
+              "media_key": "3_2087159508321857537",
+              "start": 149,
+              "url": "https://t.co/uDLQHnOhkJ"
+            },
+            {
+              "display_url": "pic.x.com/uDLQHnOhkJ",
+              "end": 172,
+              "expanded_url": "https://x.com/Finding8964/status/2087160856010531166/photo/1",
+              "media_key": "3_2087159995238625280",
+              "start": 149,
+              "url": "https://t.co/uDLQHnOhkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087160856010531166",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087159508321857537"
+          },
+          {
+            "media_key": "3_2087159995238625280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "深圳华强北2000余人被抓：一门20年生意的终结。华强北卖水货手机已经不是新闻，这门生意持续了二十多年。从最早的港行诺基亚，到后来的美版、日版iPhone，再到少量的谷歌Pixel，华强北就是靠着这条灰色产业链，养活了几十万人，并把货铺到了全国每一个县城的手机店。所以最近的消息才让人震惊，一开始只是说不让卖外版苹果和谷歌手机，查柜台，后来风向直接就变了，据说以走私罪抓人，涉及两千多人。如果是真的，这就已经不是整治，而是定性了，性质完全变了。\n\n为什么是现在？一个存在了二十多年的行业，不可能今天才被发现，它能存在这么久，本身就是被默许的。默许的原因很简单，有需求，能就业，能交租。美版iPhone比国行便宜一两千，有消费者愿意买单，华强北几万个档口要生存，而水货带来的维修、配件、二手翻新的生意，更是撑起了整个生态。那为什么偏偏是现在要动手？其实是四个原因撞在了一起。\n\n第一个原因是国产手机不好卖了。过去两年，国内手机市场已经是绞肉机，华为强势回归，小米、OV在中低端死磕，就连苹果官方的销量都在下滑。这个时候，每一台免税进来的美版iPhone，都是在抢国行经销商的饭碗，抢国家的关税和增值税。要保国货，要保税收，就必须先砍掉水货。\n\n第二个原因是罚没本身成了一门生意。以前查水货，是行政处罚，没收货物，罚点款就过去了。现在一旦定为走私罪，逻辑就完全不一样了。按照法律规定，偷逃应缴税额五十万以上就是五年到十年，二百五十万以上就是十年以上到无期，并且可以并处没收财产。一个柜的美版iPhone货值就过千万，如果真的涉及两千多人，这背后的罚没金额将是一个天文数字。在当下的财政环境下，这笔钱的吸引力是巨大的。\n\n第三个原因是外版机本身就是一个漏洞。这次被点名的恰恰是美版苹果和原生谷歌手机，它们的共同点不是便宜，而是不可控。美版iPhone是纯eSIM，没有实体卡槽，谷歌手机原生就跑着全套谷歌服务，它们不会预装国内要求的一些框架，也无法被轻易纳入统一的管理体系。在万物皆可管的今天，一个无法被管控的硬件入口，是不能被容忍的。\n\n第四个原因是治理逻辑已经变了。以前是养鱼执法，割韭菜，抓一批罚一批放一批，让你继续养。现在是清场逻辑。从华强北之前的矿机，到美妆，再到现在的手机，路径都一模一样，先让它野蛮生长，形成规模，形成完整的证据链，然后出一个司法解释，一锅端。所以不是现在才发现你有问题，而是现在才需要你有问题。\n\n那么到底是为了图财，还是为了加高信息墙？其实这两者是同一件事的两面。从经济上看，它就是一次精准的没收。走私罪是所有经济犯罪里最容易实现人财两空的罪名。你做水货，流水可能几千万，但利润只有百分之五到八，可一旦定罪，是按货值来计算偷逃税额来罚的，罚没的金额会远超你过去二十年的总利润，你以为的资产，在追缴违法所得面前会全部清零。从政治上看，它则是为了彻底封死硬件的后门。华强北的水货网络，本质上是一个遍布全国、不经过任何官方体系的地下物流和信息网络，它今天能把一台没开封的美版iPhone从香港运到新疆，明天就能运别的东西。把这个网络打掉，把所有非国行的硬件入口堵死，信息高墙才算真正闭环。所以图财是里子，图墙是面子，一举两得。\n\n这件事最让人细思极恐的，不是华强北本身，而是它背后的规则，给所有在国内经商的人都提了个醒，那就是灰色地带是最危险的地方。在华强北，所有卖水货的人都有一套自我安慰的逻辑，认为自己不报关，被查到就认罚，自己就是做生意的，大不了关几天，他们把这叫做生意风险。但他们忘了，在中国的法律体系里，行政违法和刑事犯罪之间，只隔着一张纸，那就是司法解释。只要需要，一个会议纪要，就可以把长期、多次、大量收购、贩卖境外货物的行为，从未经许可经营解释为走私犯罪集团。于是，你的上家、下家、给你转账的老婆、给你开车的司机，全部成了共犯，两千人还只是开始。你以为的行业惯例，在卷宗里叫长期犯罪事实，你以为的交罚款就能出来，在定性之后就叫没收违法所得。\n\n这就是在中国内经商最核心的风险，你手里从来没有确定性，规则的解释权不在你手里。先默许你存在，让你把产业链做大，把把柄做实，等你肥了，需要政绩和税收的时候，再来定性收割。华强北二十年的水货史，可能真的要结束了，但它结束的方式，值得每一个还在灰色地带里讨生活的人思考，当你的生意建立在别人的默许之上时，你所谓的资产，到底是你的，还是别人账本上早已写好的罚没指标。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 404,
+          "impression_count": 103143,
+          "like_count": 668,
+          "quote_count": 12,
+          "reply_count": 227,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "深圳华强北2000余人被抓：一门20年生意的终结。华强北卖水货手机已经不是新闻，这门生意持续了二十多年。从最早的港行诺基亚，到后来的美版、日版iPhone，再到少量的谷歌Pixel，华强北就是靠着这条灰色产业链，养活了几十万人，并把货铺到了全国每一个县城的手机店。所以最近的消息才让人震惊，一开始 https://t.co/uDLQHnOhkJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2087245503419539528",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 1004,
+          "like_count": 2295,
+          "listed_count": 4,
+          "media_count": 511,
+          "tweet_count": 3599
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-25T21:10:21.000Z",
+        "description": "居落基山下，看世界变局。\n基督徒 / 保守主义者 / 独立时评人。\n经济学视角的理性观察者，\n偶作杂文与趣谈。\n欢迎投稿：finding8964@proton.me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/findingca",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/findingca",
+                "start": 0,
+                "url": "https://t.co/QoKyeAK9HW"
+              }
+            ]
+          }
+        },
+        "id": "1761861143780528128",
+        "is_identity_verified": false,
+        "location": "North American",
+        "most_recent_tweet_id": "2087244241961664674",
+        "name": "Finding🇨🇦🇺🇸",
+        "pinned_tweet_id": "2028562783235887217",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1761861143780528128/1781181482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072883597418328064/bdooq1RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30653,
+          "following_count": 5582,
+          "like_count": 65697,
+          "listed_count": 151,
+          "media_count": 1297,
+          "tweet_count": 34031
+        },
+        "url": "https://t.co/QoKyeAK9HW",
+        "username": "Finding8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

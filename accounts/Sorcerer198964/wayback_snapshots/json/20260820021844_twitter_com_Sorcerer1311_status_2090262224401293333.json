@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2090262224401293333",
+    "created_at": "2026-08-20T02:18:44.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090262224401293333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wjf110/status/…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/wjf110/status/2089982414659711324",
+          "start": 78,
+          "url": "https://t.co/Udn0rsBVvJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090262224401293333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089982414659711324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "白切鸡有的店会加黄栀子给鸡皮染色\n而且水里面也会加香料，还有葱姜蓉配花生油\n要说清淡确实是相对的，不过也没有吹的那么神，好像广东人只会抱着水煮鸡肉吃本味😄 https://t.co/Udn0rsBVvJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2090262224401293333",
+        "created_at": "2026-08-20T02:18:44.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090262224401293333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wjf110/status/…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/wjf110/status/2089982414659711324",
+              "start": 78,
+              "url": "https://t.co/Udn0rsBVvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090262224401293333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089982414659711324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "白切鸡有的店会加黄栀子给鸡皮染色\n而且水里面也会加香料，还有葱姜蓉配花生油\n要说清淡确实是相对的，不过也没有吹的那么神，好像广东人只会抱着水煮鸡肉吃本味😄 https://t.co/Udn0rsBVvJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356924709036679168",
+        "conversation_id": "2089982414659711324",
+        "created_at": "2026-08-19T07:46:52.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089982414659711324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089982414659711324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么广东人喜欢吃白切鸡？\n\n因为白切鸡无法造假，无法回炉重造，只要不新鲜了没有办法吃\n\n白切鸡有一点点原材料不新鲜，能很明显的吃出来。而且白切鸡是不用任何香料的，只要鸡坏掉了，是没有办法用香料，色素去掩盖的。\n\n吃白切鸡，能最大可能保证鸡是新鲜的，添加剂是最少的，香料是最少的。也就是说这种吃法是最健康的。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 109539,
+          "like_count": 648,
+          "quote_count": 9,
+          "reply_count": 287,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "为什么广东人喜欢吃白切鸡？\n\n因为白切鸡无法造假，无法回炉重造，只要不新鲜了没有办法吃\n\n白切鸡有一点点原材料不新鲜，能很明显的吃出来。而且白切鸡是不用任何香料的，只要鸡坏掉了，是没有办法用香料，色素去掩盖的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2090262224401293333",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 1035,
+          "like_count": 2526,
+          "listed_count": 3,
+          "media_count": 546,
+          "tweet_count": 3882
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2008452174083485698/WaDlss-k_bigger.jpg",
+          "description": "KITE AI",
+          "url": "https://twitter.com/GoKiteAI",
+          "user_id": [
+            "1841881477371592704"
+          ]
+        },
+        "created_at": "2021-02-03T11:17:24.000Z",
+        "description": "合作📩 TG: https://t.co/Jt8KmJOw3X\n\n其他社交VX QQ都是假冒",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/wjf110",
+                "end": 31,
+                "expanded_url": "https://t.me/wjf110",
+                "start": 8,
+                "url": "https://t.co/Jt8KmJOw3X"
+              }
+            ]
+          }
+        },
+        "id": "1356924709036679168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090260394640318720",
+        "name": "好家伙🦅",
+        "pinned_tweet_id": "2041829494290608269",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356924709036679168/1732765157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055179694044307456/5VUGBdE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74693,
+          "following_count": 13832,
+          "like_count": 93054,
+          "listed_count": 188,
+          "media_count": 1771,
+          "tweet_count": 51322
+        },
+        "url": "",
+        "username": "wjf110",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

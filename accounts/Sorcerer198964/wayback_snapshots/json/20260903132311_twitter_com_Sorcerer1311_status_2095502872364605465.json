@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2095502872364605465",
+    "created_at": "2026-09-03T13:23:11.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T14:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095502872364605465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "2041449281677045760",
+          "start": 9,
+          "username": "Sorcerer1311"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/wuyuandev/stat…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/wuyuandev/status/2095490611684245513",
+          "start": 53,
+          "url": "https://t.co/x4lTzuOc67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095502872364605465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095490611684245513",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的有人会把索瑟尔@Sorcerer1311 和索雷尔（Sorel），索绪尔（Saussure）搞混吗？ https://t.co/x4lTzuOc67"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2095502872364605465",
+        "created_at": "2026-09-03T13:23:11.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095502872364605465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2041449281677045760",
+              "start": 9,
+              "username": "Sorcerer1311"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/wuyuandev/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/wuyuandev/status/2095490611684245513",
+              "start": 53,
+              "url": "https://t.co/x4lTzuOc67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095502872364605465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095490611684245513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的有人会把索瑟尔@Sorcerer1311 和索雷尔（Sorel），索绪尔（Saussure）搞混吗？ https://t.co/x4lTzuOc67"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436287470207832064",
+        "conversation_id": "2095490611684245513",
+        "created_at": "2026-09-03T12:34:28.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095490611684245513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1436287470207832064",
+              "start": 10,
+              "username": "wuyuandev"
+            },
+            {
+              "end": 36,
+              "id": "2053360211948109826",
+              "start": 25,
+              "username": "axzameyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/NL8526/status/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/NL8526/status/2095430543055958077",
+              "start": 42,
+              "url": "https://t.co/iLnaa6u0YQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095490611684245513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095430543055958077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的会有人把孙悟元 @wuyuandev 和 翅膀@axzameyzed 搞混吗？ https://t.co/iLnaa6u0YQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2095502872364605465",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 1093,
+          "like_count": 2684,
+          "listed_count": 4,
+          "media_count": 600,
+          "tweet_count": 4202
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，学生，应该是猫猫。\n所以猫猫想要被你关注！\n\n私人号 @Yukizomecat ｜❤️ @tsgostar\n你看白雪人间。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "Yukizomecat"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "tsgostar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrhV1p"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "is_identity_verified": true,
+        "location": "zh-CN 🌏",
+        "most_recent_tweet_id": "2095497792613425188",
+        "name": "孙悟元",
+        "pinned_tweet_id": "2086710393263841339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436287470207832064/1785236279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234,
+          "following_count": 1238,
+          "like_count": 12320,
+          "listed_count": 10,
+          "media_count": 977,
+          "tweet_count": 4367
+        },
+        "url": "https://t.co/QRKaQrhV1p",
+        "username": "wuyuandev",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

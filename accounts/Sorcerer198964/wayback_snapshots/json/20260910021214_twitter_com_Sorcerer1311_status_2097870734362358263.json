@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097870722513420288"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2097698655448998057",
+    "created_at": "2026-09-10T02:12:14.000Z",
+    "display_text_range": [
+      38,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T03:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097870734362358263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699985068721082368",
+          "start": 0,
+          "username": "RX_Xron28390"
+        },
+        {
+          "end": 26,
+          "id": "2022874915012333568",
+          "start": 14,
+          "username": "liyfn130024"
+        },
+        {
+          "end": 37,
+          "id": "1956958284310818816",
+          "start": 27,
+          "username": "qian67068"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KjYghc8ZkS",
+          "end": 80,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2097870734362358263/photo/1",
+          "media_key": "3_2097870722513420288",
+          "start": 57,
+          "url": "https://t.co/KjYghc8ZkS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097870734362358263",
+    "in_reply_to_user_id": "1699985068721082368",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097870722513420288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097865525103591776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX_Xron28390 @liyfn130024 @qian67068 低剂量阿片效果不明显，显然就是o大了 https://t.co/KjYghc8ZkS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 727,
+        "media_key": "3_2097870722513420288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0iTqAawAAfzfK.jpg",
+        "width": 1089
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097870722513420288"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2097698655448998057",
+        "created_at": "2026-09-10T02:12:14.000Z",
+        "display_text_range": [
+          38,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097870734362358263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            },
+            {
+              "end": 26,
+              "id": "2022874915012333568",
+              "start": 14,
+              "username": "liyfn130024"
+            },
+            {
+              "end": 37,
+              "id": "1956958284310818816",
+              "start": 27,
+              "username": "qian67068"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjYghc8ZkS",
+              "end": 80,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2097870734362358263/photo/1",
+              "media_key": "3_2097870722513420288",
+              "start": 57,
+              "url": "https://t.co/KjYghc8ZkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097870734362358263",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097870722513420288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097865525103591776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 @liyfn130024 @qian67068 低剂量阿片效果不明显，显然就是o大了 https://t.co/KjYghc8ZkS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699985068721082368",
+        "conversation_id": "2097698655448998057",
+        "created_at": "2026-09-10T01:51:32.000Z",
+        "display_text_range": [
+          24,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T02:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097865525103591776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022874915012333568",
+              "start": 0,
+              "username": "liyfn130024"
+            },
+            {
+              "end": 23,
+              "id": "1956958284310818816",
+              "start": 13,
+              "username": "qian67068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097865525103591776",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097864273615585557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyfn130024 @qian67068 wtf 27倍超出常规治疗用剂量，你不死谁死啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2097870734362358263",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 1113,
+          "like_count": 2829,
+          "listed_count": 4,
+          "media_count": 616,
+          "tweet_count": 4351
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "17岁在美宾洲男高/德拉无疑是美味的😋/战雷elb🇷🇺/apex/kards/崩/舟/洲/BF/卡丘\n蓝标会回fo的，或者私信（\n鉴证打咩",
+        "id": "1699985068721082368",
+        "is_identity_verified": false,
+        "location": "凡爾登，378號高地陣地，1916",
+        "most_recent_tweet_id": "2097867514382290962",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2097866126717821066",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699985068721082368/1772490472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669969558147072/IWw1uzlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 515,
+          "like_count": 14742,
+          "listed_count": 4,
+          "media_count": 1723,
+          "tweet_count": 10687
+        },
+        "url": "",
+        "username": "RX_Xron28390",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-15T03:25:57.000Z",
+        "description": "不要再醒来了",
+        "id": "2022874915012333568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097864851473535228",
+        "name": "#dpt不好体验分享",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022874915012333568/1785722185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 95,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "liyfn130024",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "男娘，泛性戀，人稱代詞隨意\n避難所：@qian68069 \n語言：繁中/簡中/EN/日本語\n攻受可切的觸手娘😈\n髒話含量超標注意🤬\n姐姐：@QiNian1604\n\n不封鎖真人，友好任何非極端團體\n\n愛所有人，但永遠學不會愛人\n人與人永遠無法相互理解，這是每個人的不幸，卻也是人類文明的生命",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "qian68069"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "QiNian1604"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "is_identity_verified": false,
+        "location": "你的浴缸🛁",
+        "most_recent_tweet_id": "2097870285424976235",
+        "name": "Qian觸手娘小千🏳️‍🌈（上學僅週末上線）",
+        "pinned_tweet_id": "2097721188357488812",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956958284310818816/1784818334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 1494,
+          "like_count": 13458,
+          "listed_count": 2,
+          "media_count": 317,
+          "tweet_count": 4418
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

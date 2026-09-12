@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2090419859024953709",
+    "created_at": "2026-08-20T12:45:07.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090419859024953709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/idontselldrug/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/idontselldrug/status/2090116242254582016",
+          "start": 15,
+          "url": "https://t.co/SuOXP3Fh7D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090419859024953709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090116242254582016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在古战场兜售白兔有没有搞头？ https://t.co/SuOXP3Fh7D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2090116188886216705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGVmZHbMAEeHgx.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2090116201511010304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGVnIJaQAAQ7nP.jpg",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2090116216354652160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGVn_caQAAI1Xy.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2090116233073213440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGVo9ubQAARvrV.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2090419859024953709",
+        "created_at": "2026-08-20T12:45:07.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090419859024953709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/idontselldrug/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/idontselldrug/status/2090116242254582016",
+              "start": 15,
+              "url": "https://t.co/SuOXP3Fh7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090419859024953709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090116242254582016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在古战场兜售白兔有没有搞头？ https://t.co/SuOXP3Fh7D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090116188886216705",
+            "3_2090116201511010304",
+            "3_2090116216354652160",
+            "3_2090116233073213440"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090116242254582016",
+        "created_at": "2026-08-19T16:38:39.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090116242254582016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9m6jrrMS1S",
+              "end": 66,
+              "expanded_url": "https://x.com/Idontselldrug/status/2090116242254582016/photo/1",
+              "media_key": "3_2090116188886216705",
+              "start": 43,
+              "url": "https://t.co/9m6jrrMS1S"
+            },
+            {
+              "display_url": "pic.x.com/9m6jrrMS1S",
+              "end": 66,
+              "expanded_url": "https://x.com/Idontselldrug/status/2090116242254582016/photo/1",
+              "media_key": "3_2090116201511010304",
+              "start": 43,
+              "url": "https://t.co/9m6jrrMS1S"
+            },
+            {
+              "display_url": "pic.x.com/9m6jrrMS1S",
+              "end": 66,
+              "expanded_url": "https://x.com/Idontselldrug/status/2090116242254582016/photo/1",
+              "media_key": "3_2090116216354652160",
+              "start": 43,
+              "url": "https://t.co/9m6jrrMS1S"
+            },
+            {
+              "display_url": "pic.x.com/9m6jrrMS1S",
+              "end": 66,
+              "expanded_url": "https://x.com/Idontselldrug/status/2090116242254582016/photo/1",
+              "media_key": "3_2090116233073213440",
+              "start": 43,
+              "url": "https://t.co/9m6jrrMS1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090116242254582016",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090116188886216705"
+          },
+          {
+            "media_key": "3_2090116201511010304"
+          },
+          {
+            "media_key": "3_2090116216354652160"
+          },
+          {
+            "media_key": "3_2090116233073213440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 894,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "古战场\n周边又贵又难看，如果搞个p4的药瓶是真瓶子而不是塑料板我说不定还会考虑买一个 https://t.co/9m6jrrMS1S"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2090419859024953709",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 1035,
+          "like_count": 2529,
+          "listed_count": 4,
+          "media_count": 552,
+          "tweet_count": 3898
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2090374713168060703",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 329,
+          "like_count": 3356,
+          "listed_count": 0,
+          "media_count": 580,
+          "tweet_count": 3689
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

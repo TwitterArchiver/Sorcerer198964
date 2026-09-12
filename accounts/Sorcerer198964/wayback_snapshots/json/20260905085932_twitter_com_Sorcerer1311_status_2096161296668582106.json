@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2096129266597703851",
+    "created_at": "2026-09-05T08:59:32.000Z",
+    "display_text_range": [
+      16,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T09:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096161296668582106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "912623216899715072",
+          "start": 0,
+          "username": "Xianzhong_1953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096161296668582106",
+    "in_reply_to_user_id": "912623216899715072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096129266597703851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xianzhong_1953 其实是不交不行而不是想交…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2096129266597703851",
+        "created_at": "2026-09-05T08:59:32.000Z",
+        "display_text_range": [
+          16,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096161296668582106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "912623216899715072",
+              "start": 0,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096161296668582106",
+        "in_reply_to_user_id": "912623216899715072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096129266597703851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xianzhong_1953 其实是不交不行而不是想交…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "912623216899715072",
+        "conversation_id": "2096129266597703851",
+        "created_at": "2026-09-05T06:52:16.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096129266597703851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096129266597703851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2379,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当下还在积极缴纳目前全球最大庞氏骗局的墙内社保的年轻人，其实是在赌三样：\n第一，当局可以存在至少百年\n第二，未来的年轻人宁愿倾家荡产也会交社保，而且年轻人会越来越多\n第三，即便年轻人不够，社保出现严重亏空，当局也会从财政大量拨款给体制外那些交社保的人\n\n很有意思，是不是？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2096161296668582106",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 1094,
+          "like_count": 2733,
+          "listed_count": 4,
+          "media_count": 607,
+          "tweet_count": 4241
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "极度厌蠢！揭露一切反智行为！年过七旬的资深小孩子（相比150岁）。不是著名支黑哦，但是不妨碍俺盼献忠。\n大一统蛆滚远点！\n\n曾经的浙江苗族人，不是汉奸。",
+        "id": "912623216899715072",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2096129266597703851",
+        "name": "红袍猫后Penny🌊",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/912623216899715072/1644548326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109414,
+          "following_count": 775,
+          "like_count": 279363,
+          "listed_count": 360,
+          "media_count": 25354,
+          "tweet_count": 50529
+        },
+        "url": "",
+        "username": "Xianzhong_1953",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

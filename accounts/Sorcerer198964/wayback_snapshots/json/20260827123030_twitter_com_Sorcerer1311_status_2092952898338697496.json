@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092952887165132800",
+        "3_2092952887131586560"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2092952898338697496",
+    "created_at": "2026-08-27T12:30:30.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092952898338697496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dIcw5NyHT9",
+          "end": 114,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2092952898338697496/photo/1",
+          "media_key": "3_2092952887165132800",
+          "start": 91,
+          "url": "https://t.co/dIcw5NyHT9"
+        },
+        {
+          "display_url": "pic.x.com/dIcw5NyHT9",
+          "end": 114,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2092952898338697496/photo/1",
+          "media_key": "3_2092952887131586560",
+          "start": 91,
+          "url": "https://t.co/dIcw5NyHT9"
+        },
+        {
+          "display_url": "x.com/snozakisakura/…",
+          "end": 138,
+          "expanded_url": "https://twitter.com/snozakisakura/status/2092894675128766613",
+          "start": 115,
+          "url": "https://t.co/xpGDJ664x5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092952898338697496",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092952887165132800"
+      },
+      {
+        "media_key": "3_2092952887131586560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092894675128766613",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无聊，喜茶早就有的\n然而这个福利其实屁用没有，老早就有人买一份1元的黑糖啵啵小料然后兑一瓶悦鲜活平替喜茶这款产品\n结果喜茶的黑糖啵啵涨价到3元了🤣\n除了挑起男女矛盾和营销外毫无用处 https://t.co/dIcw5NyHT9 https://t.co/xpGDJ664x5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092952887165132800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQupj9sbIAAW_u6.jpg",
+        "width": 987
+      },
+      {
+        "height": 1237,
+        "media_key": "3_2092952887131586560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQupj9kbQAAibIR.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2297,
+        "media_key": "3_2092894370710294528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt0V26aEAA_T2m.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2092894431729143808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt0ZaOb0AAR1Zs.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092952887165132800",
+            "3_2092952887131586560"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2092952898338697496",
+        "created_at": "2026-08-27T12:30:30.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092952898338697496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dIcw5NyHT9",
+              "end": 114,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2092952898338697496/photo/1",
+              "media_key": "3_2092952887165132800",
+              "start": 91,
+              "url": "https://t.co/dIcw5NyHT9"
+            },
+            {
+              "display_url": "pic.x.com/dIcw5NyHT9",
+              "end": 114,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2092952898338697496/photo/1",
+              "media_key": "3_2092952887131586560",
+              "start": 91,
+              "url": "https://t.co/dIcw5NyHT9"
+            },
+            {
+              "display_url": "x.com/snozakisakura/…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/snozakisakura/status/2092894675128766613",
+              "start": 115,
+              "url": "https://t.co/xpGDJ664x5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092952898338697496",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092952887165132800"
+          },
+          {
+            "media_key": "3_2092952887131586560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092894675128766613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无聊，喜茶早就有的\n然而这个福利其实屁用没有，老早就有人买一份1元的黑糖啵啵小料然后兑一瓶悦鲜活平替喜茶这款产品\n结果喜茶的黑糖啵啵涨价到3元了🤣\n除了挑起男女矛盾和营销外毫无用处 https://t.co/dIcw5NyHT9 https://t.co/xpGDJ664x5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092894370710294528",
+            "3_2092894431729143808"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092894675128766613",
+        "created_at": "2026-08-27T08:39:09.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092894675128766613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pz5IhgnTi6",
+              "end": 54,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2092894675128766613/photo/1",
+              "media_key": "3_2092894370710294528",
+              "start": 31,
+              "url": "https://t.co/Pz5IhgnTi6"
+            },
+            {
+              "display_url": "pic.x.com/Pz5IhgnTi6",
+              "end": 54,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2092894675128766613/photo/1",
+              "media_key": "3_2092894431729143808",
+              "start": 31,
+              "url": "https://t.co/Pz5IhgnTi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092894675128766613",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092894370710294528"
+          },
+          {
+            "media_key": "3_2092894431729143808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 60294,
+          "like_count": 260,
+          "quote_count": 2,
+          "reply_count": 59,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "沪上阿姨男女区别对待...\n男生们，下次记得穿个女装去堂食😀 https://t.co/Pz5IhgnTi6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2092952898338697496",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 1066,
+          "like_count": 2625,
+          "listed_count": 4,
+          "media_count": 584,
+          "tweet_count": 4096
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "is_identity_verified": true,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2092950490493702210",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99305,
+          "following_count": 2765,
+          "like_count": 8602,
+          "listed_count": 205,
+          "media_count": 1261,
+          "tweet_count": 5544
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

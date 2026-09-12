@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091196720277516288"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2090735661053771800",
+    "created_at": "2026-08-22T16:12:07.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T17:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091196727449813026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "192114481",
+          "start": 0,
+          "username": "guansi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9DvLHKakfv",
+          "end": 37,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2091196727449813026/photo/1",
+          "media_key": "3_2091196720277516288",
+          "start": 14,
+          "url": "https://t.co/9DvLHKakfv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091196727449813026",
+    "in_reply_to_user_id": "192114481",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091196720277516288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090735661053771800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guansi 我也造一个 https://t.co/9DvLHKakfv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 617,
+        "media_key": "3_2091196720277516288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVsVmOacAAuEAG.jpg",
+        "width": 638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091196720277516288"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2090735661053771800",
+        "created_at": "2026-08-22T16:12:07.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091196727449813026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "192114481",
+              "start": 0,
+              "username": "guansi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DvLHKakfv",
+              "end": 37,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2091196727449813026/photo/1",
+              "media_key": "3_2091196720277516288",
+              "start": 14,
+              "url": "https://t.co/9DvLHKakfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091196727449813026",
+        "in_reply_to_user_id": "192114481",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091196720277516288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090735661053771800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guansi 我也造一个 https://t.co/9DvLHKakfv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "192114481",
+        "conversation_id": "2090735661053771800",
+        "created_at": "2026-08-21T09:40:00.000Z",
+        "display_text_range": [
+          0,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090735661053771800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090735661053771800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天在实验室内网，把 Qwen-3.8-27B 部署起来了。\n\n我们的环境是其实挺寒酸的V100，已经是快被淘汰的老卡了。以前上面跑的是 BF16 的 Qwen-3.6-27B，布起来很不容易，能用，但速度和体验一直差点意思。\n\n这几年开源社区确实太猛了。各种推理框架、量化方案、兼容优化不断往前拱，现在居然能想办法在 V100 上用 vLLM 跑起 FP8 模型。换成 Qwen-3.8-27B 以后，一方面模型明显更聪明了，另一方面速度至少比原来快了三倍。我甚至还没开始折腾 MTP、DFlash 这些进一步加速的方案。\n\n我们实验室因为内网限制，不能直接用外面的模型。现在把自己的 Harness 接上 Qwen-3.8-27B 以后，整个体验一下就变了。代码、文档、分析任务直接往里扔，已经不是以前那种“勉强能用”的感觉了。\n居然有种把codex接到内网环境的错觉。\n以前我们推广内网 AI，总有点像在后面抽鞭子：大家用一下啊，这东西挺先进的。\n\n今天我第一次明显感觉，这个阶段可能快过去了。\n\n当模型够聪明，速度够快，Harness 也真正接上工作流以后，AI 就不再是一个需要推广的新技术了，根本不用催，大家自己就会来抢。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 55233,
+          "like_count": 397,
+          "quote_count": 0,
+          "reply_count": 97,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "今天在实验室内网，把 Qwen-3.8-27B 部署起来了。\n\n我们的环境是其实挺寒酸的V100，已经是快被淘汰的老卡了。以前上面跑的是 BF16 的 Qwen-3.6-27B，布起来很不容易，能用，但速度和体验一直差点意思。\n\n这几年开源社区确实太猛了。各种推理框架、量化方案、兼容优化不断往前拱，现在居然能想办法在"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2091196727449813026",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 1045,
+          "like_count": 2558,
+          "listed_count": 4,
+          "media_count": 563,
+          "tweet_count": 3979
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-09-18T06:30:24.000Z",
+        "description": "前 iOS Top App 作者\nAI、Agent、科幻、FF、ACG\n沉迷数字员工和生产力革命",
+        "id": "192114481",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091168079669583931",
+        "name": "管四",
+        "pinned_tweet_id": "2090735661053771800",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/192114481/1646227679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499013646789525505/EqSYR5C0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3508,
+          "following_count": 1926,
+          "like_count": 2815,
+          "listed_count": 33,
+          "media_count": 47,
+          "tweet_count": 9190
+        },
+        "url": "",
+        "username": "guansi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

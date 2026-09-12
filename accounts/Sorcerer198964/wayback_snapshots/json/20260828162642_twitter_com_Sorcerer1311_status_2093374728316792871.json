@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jay Z",
+          "id": "867001809843269633",
+          "name": "Jay Z"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Jay Z",
+          "id": "867001809843269633",
+          "name": "Jay Z"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jay Z",
+          "id": "867001809843269633",
+          "name": "Jay Z"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "2093374728316792871",
+    "created_at": "2026-08-28T16:26:42.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T17:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093374728316792871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/silverfang88/s…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/silverfang88/status/2093267128078021053",
+          "start": 42,
+          "url": "https://t.co/H8ccQudUEQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093374728316792871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093267128078021053",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说明中国女性地位高\n说明中国女性不看重钱看重个人能力和身体素质\n说明中国独立女性多 https://t.co/H8ccQudUEQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jay Z",
+              "id": "867001809843269633",
+              "name": "Jay Z"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jay Z",
+              "id": "867001809843269633",
+              "name": "Jay Z"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jay Z",
+              "id": "867001809843269633",
+              "name": "Jay Z"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2093374728316792871",
+        "created_at": "2026-08-28T16:26:42.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T17:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093374728316792871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/silverfang88/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/silverfang88/status/2093267128078021053",
+              "start": 42,
+              "url": "https://t.co/H8ccQudUEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093374728316792871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093267128078021053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说明中国女性地位高\n说明中国女性不看重钱看重个人能力和身体素质\n说明中国独立女性多 https://t.co/H8ccQudUEQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435990322702520320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jay Z",
+              "id": "867001809843269633",
+              "name": "Jay Z"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jay Z",
+              "id": "867001809843269633",
+              "name": "Jay Z"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jay Z",
+              "id": "867001809843269633",
+              "name": "Jay Z"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2093267128078021053",
+        "created_at": "2026-08-28T09:19:09.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T10:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093267128078021053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093267128078021053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实按照孙哥的身价\n如果他但凡不是个中国人\n其实早都把西方好莱坞女明星玩麻了\n而且就算乱搞\n也不会有这么尖锐的批评\n说白了 中国女权思维烂完了\n\n小李子身家4亿美金\n孙哥的20分之一不到 \n都通关好莱坞了\n当然有一定颜值原因\n\n迈克尔·道格拉斯3亿美金\nJay-Z 20多亿美金\n\n凯尔西 6000万美金都没有\n泰勒也不到20亿美金\n\n瑞安·雷诺兹3亿\n斯皮尔伯格 估计20亿美金\n\n景甜在这群好莱坞大咖面前\n还是太不值得一提了\n\n孙哥资产是他们加起来一样多…\n\n还是咖位问题\n一直以来公众对孙哥\n都有咖位贬值视角\n这次也算正本清源了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 117422,
+          "like_count": 544,
+          "quote_count": 7,
+          "reply_count": 107,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "其实按照孙哥的身价\n如果他但凡不是个中国人\n其实早都把西方好莱坞女明星玩麻了\n而且就算乱搞\n也不会有这么尖锐的批评\n说白了 中国女权思维烂完了\n\n小李子身家4亿美金\n孙哥的20分之一不到 \n都通关好莱坞了\n当然有一定颜值原因\n\n迈克尔·道格拉斯3亿美金\nJay-Z 20多亿美金\n\n凯尔西 6000万美金都没有"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2093374728316792871",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 1075,
+          "like_count": 2635,
+          "listed_count": 4,
+          "media_count": 587,
+          "tweet_count": 4118
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1984009470628761600/g0ajJ_4j_bigger.jpg",
+          "description": "Polymarket Traders",
+          "url": "https://twitter.com/PolymarketTrade",
+          "user_id": [
+            "1965783030062022656"
+          ]
+        },
+        "created_at": "2021-09-09T15:36:07.000Z",
+        "description": "半导体爆仓2000万美金 彻底失败｜Crypto入口,OKX就够,最全交易工具,畅游130+公链,极速交易热门Meme 🔗https://t.co/2xvR6AVwtD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "okx.com",
+                "end": 84,
+                "expanded_url": "http://okx.com",
+                "start": 61,
+                "url": "https://t.co/2xvR6AVwtD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/alphat1am",
+                "end": 23,
+                "expanded_url": "https://t.me/alphat1am",
+                "start": 0,
+                "url": "https://t.co/PWhIML1zFX"
+              }
+            ]
+          }
+        },
+        "id": "1435990322702520320",
+        "is_identity_verified": false,
+        "location": "2 steps ahead",
+        "most_recent_tweet_id": "2093370380274573359",
+        "name": "子时",
+        "pinned_tweet_id": "2076557633322877355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1435990322702520320/1741165391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939972609023582210/TznrEwzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97017,
+          "following_count": 2758,
+          "like_count": 21738,
+          "listed_count": 1557,
+          "media_count": 3477,
+          "tweet_count": 19205
+        },
+        "url": "https://t.co/PWhIML1zFX",
+        "username": "silverfang88",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

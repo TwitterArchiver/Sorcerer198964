@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2090240539979551089",
+    "created_at": "2026-08-20T00:52:34.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T01:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090240539979551089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1695421723754237952",
+          "start": 3,
+          "username": "Hunzhiwange199"
+        },
+        {
+          "end": 30,
+          "id": "1936480895692869633",
+          "start": 20,
+          "username": "Leobai825"
+        },
+        {
+          "end": 40,
+          "id": "2089570197804109824",
+          "start": 31,
+          "username": "DeanHeoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090240539979551089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090135421603000341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hunzhiwange199: @Leobai825 @DeanHeoi 这条推文完全就是ai生成的，一眼假。因为我就在做跨境。。首先没说做哪个平台，现在每个平台都卷的要死，不亏钱就算不错了，其次，没有讲发货，跨境电商要备货到海外仓的，超级重资产，风险极大。最后这推文，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2090240539979551089",
+        "created_at": "2026-08-20T00:52:34.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T01:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090240539979551089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1695421723754237952",
+              "start": 3,
+              "username": "Hunzhiwange199"
+            },
+            {
+              "end": 30,
+              "id": "1936480895692869633",
+              "start": 20,
+              "username": "Leobai825"
+            },
+            {
+              "end": 40,
+              "id": "2089570197804109824",
+              "start": 31,
+              "username": "DeanHeoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090240539979551089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090135421603000341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hunzhiwange199: @Leobai825 @DeanHeoi 这条推文完全就是ai生成的，一眼假。因为我就在做跨境。。首先没说做哪个平台，现在每个平台都卷的要死，不亏钱就算不错了，其次，没有讲发货，跨境电商要备货到海外仓的，超级重资产，风险极大。最后这推文，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695421723754237952",
+        "conversation_id": "2090082252478640219",
+        "created_at": "2026-08-19T17:54:52.000Z",
+        "display_text_range": [
+          21,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090135421603000341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1936480895692869633",
+              "start": 0,
+              "username": "Leobai825"
+            },
+            {
+              "end": 20,
+              "id": "2089570197804109824",
+              "start": 11,
+              "username": "DeanHeoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090135421603000341",
+        "in_reply_to_user_id": "1936480895692869633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 612,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090082252478640219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leobai825 @DeanHeoi 这条推文完全就是ai生成的，一眼假。因为我就在做跨境。。首先没说做哪个平台，现在每个平台都卷的要死，不亏钱就算不错了，其次，没有讲发货，跨境电商要备货到海外仓的，超级重资产，风险极大。最后这推文，扯的全是虚头巴脑的东西，ai写的，完全没有做过实操。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2090240539979551089",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 1033,
+          "like_count": 2525,
+          "listed_count": 3,
+          "media_count": 546,
+          "tweet_count": 3880
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-26T13:03:55.000Z",
+        "description": "主业，汽车配件，亏麻的币圈小白",
+        "id": "1695421723754237952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090135799585255936",
+        "name": "深圳汽车配件厂",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770765220090167296/1MBI8cIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 1158,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 304
+        },
+        "url": "",
+        "username": "Hunzhiwange199",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-21T17:46:55.000Z",
+        "description": "03年连续创业者| 项目营收200w+ Base深圳(备用号@Laobai0825）💰🛠 主线：AI / 自媒体 🌏 目标：25岁前财富自由，做年轻人可复制的 0→1 路径建立者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Laobai0825"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "leobai-portfolio2.vercel.app",
+                "end": 23,
+                "expanded_url": "https://leobai-portfolio2.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/aLacNgEdtV"
+              }
+            ]
+          }
+        },
+        "id": "1936480895692869633",
+        "is_identity_verified": false,
+        "location": "业务和社群",
+        "most_recent_tweet_id": "2090151308460195930",
+        "name": "天策",
+        "pinned_tweet_id": "2084961368927617205",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1936480895692869633/1783969921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976874548655276037/UAAqORLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58643,
+          "following_count": 1221,
+          "like_count": 6216,
+          "listed_count": 314,
+          "media_count": 284,
+          "tweet_count": 5055
+        },
+        "url": "https://t.co/aLacNgEdtV",
+        "username": "Leobai825",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T04:33:17.000Z",
+        "description": "codex+跨境电商第一人\n北大ai项目合作方\nshopee 30天700w\n全流程实际操作",
+        "id": "2089570197804109824",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2090225278698332469",
+        "name": "Dean",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089570197804109824/1787106394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089585756574777344/CHyM1xUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 11,
+          "like_count": 4,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "DeanHeoi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

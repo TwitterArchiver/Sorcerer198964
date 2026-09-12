@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2096848361986945350",
+    "created_at": "2026-09-08T00:21:44.000Z",
+    "display_text_range": [
+      36,
+      149
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T01:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097118152752787795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1934279242721935360",
+          "start": 0,
+          "username": "app_le14035gg"
+        },
+        {
+          "end": 25,
+          "id": "1507001315477450757",
+          "start": 15,
+          "username": "JankoShaw"
+        },
+        {
+          "end": 35,
+          "id": "1858763452732633090",
+          "start": 26,
+          "username": "DeepKlee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097118152752787795",
+    "in_reply_to_user_id": "1934279242721935360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097113160193053036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@app_le14035gg @JankoShaw @DeepKlee 很多傻逼是喜欢既要又要顾左右而言他的，低保预算如何分配和财政支出如何分配显然是两个问题。一部分傻逼墓田看到低保分配不公就开始质疑财政为什么把更多的钱分配给公务员福利，最终都能上升到共产党有xxx问题而不肯承认自己脑子是不是有泡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2096848361986945350",
+        "created_at": "2026-09-08T00:21:44.000Z",
+        "display_text_range": [
+          36,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097118152752787795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1934279242721935360",
+              "start": 0,
+              "username": "app_le14035gg"
+            },
+            {
+              "end": 25,
+              "id": "1507001315477450757",
+              "start": 15,
+              "username": "JankoShaw"
+            },
+            {
+              "end": 35,
+              "id": "1858763452732633090",
+              "start": 26,
+              "username": "DeepKlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097118152752787795",
+        "in_reply_to_user_id": "1934279242721935360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097113160193053036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@app_le14035gg @JankoShaw @DeepKlee 很多傻逼是喜欢既要又要顾左右而言他的，低保预算如何分配和财政支出如何分配显然是两个问题。一部分傻逼墓田看到低保分配不公就开始质疑财政为什么把更多的钱分配给公务员福利，最终都能上升到共产党有xxx问题而不肯承认自己脑子是不是有泡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934279242721935360",
+        "conversation_id": "2096848361986945350",
+        "created_at": "2026-09-08T00:01:54.000Z",
+        "display_text_range": [
+          21,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097113160193053036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1507001315477450757",
+              "start": 0,
+              "username": "JankoShaw"
+            },
+            {
+              "end": 20,
+              "id": "1858763452732633090",
+              "start": 11,
+              "username": "DeepKlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097113160193053036",
+        "in_reply_to_user_id": "1507001315477450757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096980808682643793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JankoShaw @DeepKlee 因为都给公务员发退休金和特护病房了啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2097118152752787795",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1104,
+          "like_count": 2794,
+          "listed_count": 4,
+          "media_count": 610,
+          "tweet_count": 4301
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-15T15:58:20.000Z",
+        "description": "",
+        "id": "1934279242721935360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097114066955518451",
+        "name": "appLe",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934279399865761792/KjfnlrTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 468,
+          "like_count": 4976,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1565
+        },
+        "url": "",
+        "username": "app_le14035gg",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-24T14:28:13.000Z",
+        "description": "let it be",
+        "id": "1507001315477450757",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096980808682643793",
+        "name": "Janko Shaw",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507039276504133636/P4Fan5jb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 9,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 815
+        },
+        "url": "",
+        "username": "JankoShaw",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T06:45:28.000Z",
+        "description": "Existential Warrior | Ojisan-Type Tech Otaku Loli (???) | High-Performance Bishoujo | Fallen Nasdaq Cultist | Esteemed ChatGPT Pro Subscriber | MoE LLM DeepKlee",
+        "id": "1858763452732633090",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096848361986945350",
+        "name": "Klee Kawaii",
+        "pinned_tweet_id": "2053826158186447103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858763452732633090/1788606641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096152326910459904/UoTFdIyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 236,
+          "like_count": 9770,
+          "listed_count": 21,
+          "media_count": 243,
+          "tweet_count": 6066
+        },
+        "url": "",
+        "username": "DeepKlee",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

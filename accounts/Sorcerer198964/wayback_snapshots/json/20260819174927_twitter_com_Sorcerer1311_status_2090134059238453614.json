@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2089909563084681433",
+    "created_at": "2026-08-19T17:49:27.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090134059238453614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1764996733220581376",
+          "start": 0,
+          "username": "kkksleepsheep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090134059238453614",
+    "in_reply_to_user_id": "1764996733220581376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089909563084681433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkksleepsheep 可爱呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1772,
+        "media_key": "3_2089909545871249408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDZqL5akAAZx9l.jpg",
+        "width": 1063
+      },
+      {
+        "height": 1282,
+        "media_key": "3_2089909554775814144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDZqtEbcAA2pqO.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2089909563084681433",
+        "created_at": "2026-08-19T17:49:27.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090134059238453614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1764996733220581376",
+              "start": 0,
+              "username": "kkksleepsheep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090134059238453614",
+        "in_reply_to_user_id": "1764996733220581376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089909563084681433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkksleepsheep 可爱呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089909545871249408",
+            "3_2089909554775814144"
+          ]
+        },
+        "author_id": "1764996733220581376",
+        "conversation_id": "2089909563084681433",
+        "created_at": "2026-08-19T02:57:23.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089909563084681433"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "男娘"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "扩列"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N2XQgXI7Vy",
+              "end": 187,
+              "expanded_url": "https://x.com/kkksleepsheep/status/2089909563084681433/photo/1",
+              "media_key": "3_2089909545871249408",
+              "start": 164,
+              "url": "https://t.co/N2XQgXI7Vy"
+            },
+            {
+              "display_url": "pic.x.com/N2XQgXI7Vy",
+              "end": 187,
+              "expanded_url": "https://x.com/kkksleepsheep/status/2089909563084681433/photo/1",
+              "media_key": "3_2089909554775814144",
+              "start": 164,
+              "url": "https://t.co/N2XQgXI7Vy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089909563084681433",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089909545871249408"
+          },
+          {
+            "media_key": "3_2089909554775814144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 47313,
+          "like_count": 245,
+          "quote_count": 0,
+          "reply_count": 64,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条自我介绍的帖子，也兼长期找合适的对象，女生/男娘都可，对象可能会卡经济+学历+性格（养活自己，一本以上，性格稳定），好友不卡 #男娘 #扩列\n------------分割线----------\n178cm 73kg 99年社畜，中科大硕士毕业，前算法开发工程师，现vibe coding选手（大脑已上交给gpt了喵～） https://t.co/N2XQgXI7Vy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2090134059238453614",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 1027,
+          "like_count": 2518,
+          "listed_count": 3,
+          "media_count": 546,
+          "tweet_count": 3874
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-05T12:50:05.000Z",
+        "description": "kujo的互联网碎片收集地",
+        "id": "1764996733220581376",
+        "is_identity_verified": false,
+        "location": "023",
+        "most_recent_tweet_id": "2090043073782767799",
+        "name": "kujo_",
+        "pinned_tweet_id": "2089909563084681433",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764996733220581376/1786252907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086322026005098496/hDNzjIhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 226,
+          "like_count": 1019,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 403
+        },
+        "url": "",
+        "username": "kkksleepsheep",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

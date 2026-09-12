@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2090816431633936413",
+    "created_at": "2026-08-21T15:33:17.000Z",
+    "display_text_range": [
+      17,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T16:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090824567405380041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835139537418567680",
+          "start": 0,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090824567405380041",
+    "in_reply_to_user_id": "1835139537418567680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090816431633936413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WellingtonPixel 喝盐死的是自己，三角枫那种刀人麻烦就大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2090816431633936413",
+        "created_at": "2026-08-21T15:33:17.000Z",
+        "display_text_range": [
+          17,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090824567405380041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090824567405380041",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090816431633936413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel 喝盐死的是自己，三角枫那种刀人麻烦就大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835139537418567680",
+        "conversation_id": "2090816431633936413",
+        "created_at": "2026-08-21T15:00:57.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090816431633936413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sorcerer1311/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Sorcerer1311/status/2090639135115755640",
+              "start": 42,
+              "url": "https://t.co/75qpVRB7pe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090816431633936413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090639135115755640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吸毒就吸毒呗，没事的这不会造成社会问题和暴力犯罪的喵，全部国家应该放开毒品管制喵🫰 https://t.co/75qpVRB7pe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2090824567405380041",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 1040,
+          "like_count": 2546,
+          "listed_count": 4,
+          "media_count": 557,
+          "tweet_count": 3940
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "𝐈𝐧 𝐂𝐨𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐢𝐨𝐧 𝐖𝐞 𝐓𝐫𝐮𝐬𝐭 | 𝐏𝐋𝐕𝐒 𝐕𝐋𝐓𝐑𝐀\n爱人 @KUKMonarchy8964 | 猫 @AbsolutelyWP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "KUKMonarchy8964"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "AbsolutelyWP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TheRtHonWP",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TheRtHonWP",
+                "start": 0,
+                "url": "https://t.co/D6JVLpiAPZ"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "is_identity_verified": false,
+        "location": "Cisleithania",
+        "most_recent_tweet_id": "2090818452378230914",
+        "name": "𝐖𝐞𝐥𝐥𝐢𝐧𝐠𝐭𝐨𝐧 ✞ 𝐏𝐢𝐱𝐞𝐥",
+        "pinned_tweet_id": "2088335534221406502",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835139537418567680/1786772089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085602394788769792/wVhU3HuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2700,
+          "following_count": 1809,
+          "like_count": 23229,
+          "listed_count": 3,
+          "media_count": 437,
+          "tweet_count": 5146
+        },
+        "url": "https://t.co/D6JVLpiAPZ",
+        "username": "WellingtonPixel",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

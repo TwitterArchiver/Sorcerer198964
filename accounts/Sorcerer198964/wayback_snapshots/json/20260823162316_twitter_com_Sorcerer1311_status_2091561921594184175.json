@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2091161317113819449",
+    "created_at": "2026-08-23T16:23:16.000Z",
+    "display_text_range": [
+      9,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091561921594184175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1530832862093594624",
+          "start": 0,
+          "username": "whwzfyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091561921594184175",
+    "in_reply_to_user_id": "1530832862093594624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091558606194020847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whwzfyl 又不是学历决定思考能力…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2091161317113819449",
+        "created_at": "2026-08-23T16:23:16.000Z",
+        "display_text_range": [
+          9,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091561921594184175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1530832862093594624",
+              "start": 0,
+              "username": "whwzfyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091561921594184175",
+        "in_reply_to_user_id": "1530832862093594624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091558606194020847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whwzfyl 又不是学历决定思考能力…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530832862093594624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2091161317113819449",
+        "created_at": "2026-08-23T16:10:05.000Z",
+        "display_text_range": [
+          14,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091558606194020847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091558606194020847",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091161317113819449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 国防科技大学但天天发表暴论和中专生但待人友善思维逻辑尚可选一个"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2091561921594184175",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 1054,
+          "like_count": 2578,
+          "listed_count": 4,
+          "media_count": 567,
+          "tweet_count": 4019
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-29T08:46:45.000Z",
+        "description": "绝对忠诚，精干内行",
+        "id": "1530832862093594624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091561411864662161",
+        "name": "诺兰ove",
+        "pinned_tweet_id": "2089874151549161544",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1530832862093594624/1786892138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089003144974114816/asolBbTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 213,
+          "like_count": 17105,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 4997
+        },
+        "url": "",
+        "username": "whwzfyl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

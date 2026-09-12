@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Wengui Guo",
+          "id": "1140684969297076226",
+          "name": "Wengui Guo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Wengui Guo",
+          "id": "1140684969297076226",
+          "name": "Wengui Guo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Wengui Guo",
+          "id": "1140684969297076226",
+          "name": "Wengui Guo"
+        }
+      }
+    ],
+    "conversation_id": "2097533682408169673",
+    "created_at": "2026-09-09T03:52:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T04:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097533682408169673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1255397952325128193",
+          "start": 3,
+          "username": "wakeup_arrow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097533682408169673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 208
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904933470859825652",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wakeup_arrow: 中国含泪把李洪志、郭文贵、傅希秋、陈光诚、王丹、魏京生、王军涛、滕彪、蔡霞、界立建、谢万军、变态辣椒、罗玉凤、方舟子、吴建民、唐柏桥、王伟恒、桂云才、徐思远、Inty、伊利夏提、所长等数不清的顶级精英人才送给了美国……\n\n美国有说过一次感谢中…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          }
+        ],
+        "conversation_id": "2097533682408169673",
+        "created_at": "2026-09-09T03:52:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097533682408169673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1255397952325128193",
+              "start": 3,
+              "username": "wakeup_arrow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097533682408169673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 208
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904933470859825652",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wakeup_arrow: 中国含泪把李洪志、郭文贵、傅希秋、陈光诚、王丹、魏京生、王军涛、滕彪、蔡霞、界立建、谢万军、变态辣椒、罗玉凤、方舟子、吴建民、唐柏桥、王伟恒、桂云才、徐思远、Inty、伊利夏提、所长等数不清的顶级精英人才送给了美国……\n\n美国有说过一次感谢中…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1255397952325128193",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          }
+        ],
+        "conversation_id": "1904933470859825652",
+        "created_at": "2025-03-26T16:28:26.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2025-03-26T17:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904933470859825652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904933470859825652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 934978,
+          "like_count": 2656,
+          "quote_count": 47,
+          "reply_count": 355,
+          "retweet_count": 208
+        },
+        "reply_settings": "everyone",
+        "text": "中国含泪把李洪志、郭文贵、傅希秋、陈光诚、王丹、魏京生、王军涛、滕彪、蔡霞、界立建、谢万军、变态辣椒、罗玉凤、方舟子、吴建民、唐柏桥、王伟恒、桂云才、徐思远、Inty、伊利夏提、所长等数不清的顶级精英人才送给了美国……\n\n美国有说过一次感谢中国吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2097533682408169673",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 1113,
+          "like_count": 2807,
+          "listed_count": 4,
+          "media_count": 612,
+          "tweet_count": 4321
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-29T07:26:18.000Z",
+        "description": "",
+        "id": "1255397952325128193",
+        "is_identity_verified": false,
+        "location": "喵喵编辑部",
+        "most_recent_tweet_id": "2097524525084942347",
+        "name": "猫叔讲故事",
+        "pinned_tweet_id": "1904933470859825652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1255397952325128193/1717670098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076458702153121792/tG58-QOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98868,
+          "following_count": 2555,
+          "like_count": 129244,
+          "listed_count": 332,
+          "media_count": 9917,
+          "tweet_count": 62187
+        },
+        "url": "",
+        "username": "wakeup_arrow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

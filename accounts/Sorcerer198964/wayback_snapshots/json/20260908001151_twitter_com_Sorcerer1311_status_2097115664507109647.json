@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2097016967358255357",
+    "created_at": "2026-09-08T00:11:51.000Z",
+    "display_text_range": [
+      17,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T01:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097115664507109647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845607538512797696",
+          "start": 0,
+          "username": "Justice53_07_27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097115664507109647",
+    "in_reply_to_user_id": "1845607538512797696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097016967358255357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Justice53_07_27 虽然我并不喜欢老周但是赛车事故应对不当这点没得洗吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 459,
+        "media_key": "3_2097016643503464448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRoZhtwbIAAvHQ5.png",
+        "width": 611
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2097016967358255357",
+        "created_at": "2026-09-08T00:11:51.000Z",
+        "display_text_range": [
+          17,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097115664507109647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845607538512797696",
+              "start": 0,
+              "username": "Justice53_07_27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097115664507109647",
+        "in_reply_to_user_id": "1845607538512797696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097016967358255357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Justice53_07_27 虽然我并不喜欢老周但是赛车事故应对不当这点没得洗吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097016643503464448"
+          ]
+        },
+        "author_id": "1845607538512797696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hybrid and electric vehicles",
+              "id": "847528576551337984",
+              "name": "Hybrid and electric vehicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Luxury",
+              "id": "847528646185070592",
+              "name": "Luxury Cars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "2097016967358255357",
+        "created_at": "2026-09-07T17:39:40.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T18:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097016967358255357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PWWwG9MrFI",
+              "end": 169,
+              "expanded_url": "https://x.com/Justice53_07_27/status/2097016967358255357/photo/1",
+              "media_key": "3_2097016643503464448",
+              "start": 146,
+              "url": "https://t.co/PWWwG9MrFI"
+            },
+            {
+              "display_url": "x.com/laozhouhengmei…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/laozhouhengmei/status/2096615602731503825",
+              "start": 170,
+              "url": "https://t.co/VOtFwBnBEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097016967358255357",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097016643503464448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 158,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096615602731503825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些人平日装理中客，其实本质就是茅厕里的苍蝇，闻着屎味就去了\n\n一个普通的赛车事故，主办方资本没有请专业的灭火人员，到了老周的嘴里，那就成了把白皮直肠舔干净的时刻，顺便上杠上线，喷一波制度问题（这不是你白皮野爹的精神核心利益至上，极致成本么），然后中国要亡。\n\n对比一下它怎么舔Tesla: https://t.co/PWWwG9MrFI https://t.co/VOtFwBnBEV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2097115664507109647",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1104,
+          "like_count": 2792,
+          "listed_count": 4,
+          "media_count": 610,
+          "tweet_count": 4297
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-13T23:28:34.000Z",
+        "description": "Follow me and follow justice\n分享在美国的生活，事实的帮运工，专业吐槽",
+        "id": "1845607538512797696",
+        "is_identity_verified": false,
+        "location": "SoCal",
+        "most_recent_tweet_id": "2097084943365214214",
+        "name": "灯塔暗面",
+        "pinned_tweet_id": "2077449225416450129",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845607538512797696/1766178969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041199539512836096/lor_xCDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4846,
+          "following_count": 1028,
+          "like_count": 2517,
+          "listed_count": 43,
+          "media_count": 1683,
+          "tweet_count": 5879
+        },
+        "url": "",
+        "username": "Justice53_07_27",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

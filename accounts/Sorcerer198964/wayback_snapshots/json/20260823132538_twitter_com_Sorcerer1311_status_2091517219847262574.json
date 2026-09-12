@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2091517219847262574",
+    "created_at": "2026-08-23T13:25:38.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091517219847262574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tenphoenix2018…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/tenphoenix2018/status/2091065333918699800",
+          "start": 13,
+          "url": "https://t.co/P7nTwXUZko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091517219847262574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091065333918699800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你的认知确实停留在低段位 https://t.co/P7nTwXUZko"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2091517219847262574",
+        "created_at": "2026-08-23T13:25:38.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091517219847262574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tenphoenix2018…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/tenphoenix2018/status/2091065333918699800",
+              "start": 13,
+              "url": "https://t.co/P7nTwXUZko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091517219847262574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091065333918699800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的认知确实停留在低段位 https://t.co/P7nTwXUZko"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1129233275879284736",
+        "conversation_id": "2091065333918699800",
+        "created_at": "2026-08-22T07:30:00.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091065333918699800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091065333918699800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 146749,
+          "like_count": 762,
+          "quote_count": 6,
+          "reply_count": 348,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "说句得罪人的话：\n\n凡买国产电车的人，认知都还停留在低段位。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2091517219847262574",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 1049,
+          "like_count": 2572,
+          "listed_count": 4,
+          "media_count": 566,
+          "tweet_count": 4005
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-17T03:52:47.000Z",
+        "description": "人性 · 认知 · 社会 · 财富 · 自由",
+        "id": "1129233275879284736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091510779568624034",
+        "name": "Truth",
+        "pinned_tweet_id": "2085939058472112377",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1129233275879284736/1783520827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059140399063777280/2cxE5aHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6167,
+          "following_count": 3238,
+          "like_count": 1241,
+          "listed_count": 21,
+          "media_count": 544,
+          "tweet_count": 1494
+        },
+        "url": "",
+        "username": "TENPHOENIX2018",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

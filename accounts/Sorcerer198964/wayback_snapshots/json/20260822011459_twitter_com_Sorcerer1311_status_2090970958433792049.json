@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2090764650967437506",
+    "created_at": "2026-08-22T01:14:59.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T02:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090970958433792049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "796338939908894721",
+          "start": 0,
+          "username": "SnapMesh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090970958433792049",
+    "in_reply_to_user_id": "796338939908894721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090764650967437506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnapMesh 这种男的不死也当力工"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6966,
+        "height": 960,
+        "media_key": "13_2090764559317655552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090764559317655552/img/PC9eyWCkOqOxdE39.jpg",
+        "public_metrics": {
+          "view_count": 280456
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090764559317655552/vid/avc1/320x684/_S7GFapQpZMXr5Fi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090764559317655552/vid/avc1/448x960/BPci7MAr2rNIIxVq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090764559317655552/pl/xP37YtIuI3Ob0Zbb.m3u8"
+          }
+        ],
+        "width": 448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090764559300861952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPjShIaoAA0jDf.jpg",
+        "width": 184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2090764650967437506",
+        "created_at": "2026-08-22T01:14:59.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090970958433792049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "796338939908894721",
+              "start": 0,
+              "username": "SnapMesh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090970958433792049",
+        "in_reply_to_user_id": "796338939908894721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090764650967437506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnapMesh 这种男的不死也当力工"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090764559317655552",
+            "3_2090764559300861952"
+          ]
+        },
+        "author_id": "796338939908894721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090764650967437506",
+        "created_at": "2026-08-21T11:35:11.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090764650967437506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMeQyZZpC9",
+              "end": 53,
+              "expanded_url": "https://x.com/SnapMesh/status/2090764650967437506/video/1",
+              "media_key": "13_2090764559317655552",
+              "start": 30,
+              "url": "https://t.co/ZMeQyZZpC9"
+            },
+            {
+              "display_url": "pic.x.com/ZMeQyZZpC9",
+              "end": 53,
+              "expanded_url": "https://x.com/SnapMesh/status/2090764650967437506/video/1",
+              "media_key": "3_2090764559300861952",
+              "start": 30,
+              "url": "https://t.co/ZMeQyZZpC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090764650967437506",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090764559317655552"
+          },
+          {
+            "media_key": "3_2090764559300861952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 340140,
+          "like_count": 624,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "可惜了，一条鲜活的生命\n\n生活要向前看，还有很多美好的事物 https://t.co/ZMeQyZZpC9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2090970958433792049",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 1042,
+          "like_count": 2551,
+          "listed_count": 4,
+          "media_count": 559,
+          "tweet_count": 3956
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-11-09T13:09:33.000Z",
+        "description": "全栈独立开发，数字游民，好奇心驱动的人类。\n\nWEB3、AI、科技、生活随便聊。\n\n专门鉴定人间离谱，偶尔判现实一个不合格。\n\n人间疑难杂症，统一出具鉴定结果。",
+        "id": "796338939908894721",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2090963789831413780",
+        "name": "荒唐鉴定家",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089967176073793536/Ok4FJ0Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2181,
+          "following_count": 1778,
+          "like_count": 115,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 588
+        },
+        "url": "",
+        "username": "SnapMesh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2090416058075422937",
+    "created_at": "2026-08-20T12:59:30.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090423479271362854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574516663935901696",
+          "start": 0,
+          "username": "wangjupaian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090423479271362854",
+    "in_reply_to_user_id": "1574516663935901696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090416058075422937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangjupaian 铁证如山！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 455,
+        "media_key": "3_2090382957190250496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKIOWfbAAAAYyS.jpg",
+        "width": 333
+      },
+      {
+        "height": 412,
+        "media_key": "3_2090382957131485184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKIOWRaUAABOtX.jpg",
+        "width": 750
+      },
+      {
+        "height": 333,
+        "media_key": "3_2090382957144154112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKIOWUboAAqSLh.jpg",
+        "width": 500
+      },
+      {
+        "height": 525,
+        "media_key": "3_2090382957097934848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKIOWJaYAAeTf1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2090416058075422937",
+        "created_at": "2026-08-20T12:59:30.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090423479271362854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574516663935901696",
+              "start": 0,
+              "username": "wangjupaian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090423479271362854",
+        "in_reply_to_user_id": "1574516663935901696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090416058075422937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangjupaian 铁证如山！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090382957190250496",
+            "3_2090382957131485184",
+            "3_2090382957144154112",
+            "3_2090382957097934848"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "conversation_id": "2090416058075422937",
+        "created_at": "2026-08-20T12:30:00.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090416058075422937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90GNiqgJdM",
+              "end": 159,
+              "expanded_url": "https://x.com/wangjupaian/status/2090416058075422937/photo/1",
+              "media_key": "3_2090382957190250496",
+              "start": 136,
+              "url": "https://t.co/90GNiqgJdM"
+            },
+            {
+              "display_url": "pic.x.com/90GNiqgJdM",
+              "end": 159,
+              "expanded_url": "https://x.com/wangjupaian/status/2090416058075422937/photo/1",
+              "media_key": "3_2090382957131485184",
+              "start": 136,
+              "url": "https://t.co/90GNiqgJdM"
+            },
+            {
+              "display_url": "pic.x.com/90GNiqgJdM",
+              "end": 159,
+              "expanded_url": "https://x.com/wangjupaian/status/2090416058075422937/photo/1",
+              "media_key": "3_2090382957144154112",
+              "start": 136,
+              "url": "https://t.co/90GNiqgJdM"
+            },
+            {
+              "display_url": "pic.x.com/90GNiqgJdM",
+              "end": 159,
+              "expanded_url": "https://x.com/wangjupaian/status/2090416058075422937/photo/1",
+              "media_key": "3_2090382957097934848",
+              "start": 136,
+              "url": "https://t.co/90GNiqgJdM"
+            },
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2090334936800890985",
+              "start": 160,
+              "url": "https://t.co/xvQiicwisX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090416058075422937",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090382957190250496"
+          },
+          {
+            "media_key": "3_2090382957131485184"
+          },
+          {
+            "media_key": "3_2090382957144154112"
+          },
+          {
+            "media_key": "3_2090382957097934848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "【许家印“帝王式”生活往事，奢侈到细节都有人伺候】许家印被判无期后，网上又翻出不少关于他巅峰时期生活方式的爆料，三个字，真奢侈！\n\n据传，他当年坐拥3架大型私人飞机，地面出行只坐吉利号牌的加长劳斯莱斯幻影。到了外地，如果当地没有符合要求的车，甚至要提前从其他城市调过去。\n\n许家印去一次地方公司，也不是简单出个差。网传分公司往往提前两个月成立专门接待组，包楼层、改环境、运设备。几十名保镖，加上发型师、私人厨师、按摩师一路随行。\n\n吃喝更讲究。矿泉水指定法国高端品牌，水温固定，瓶身Logo都要朝着方便他拿取的方向摆放。喜欢吃日本静冈蜜瓜，据称还有专人常驻日本果园挑选，再空运回国。\n\n抽雪茄同样讲排场。网传他常年随身带古巴限量雪茄，单根数千元，一年仅这项爱好就花费数百万元。甚至有说法称，秘书有一次忘带雪茄，他直接中断会议离场。\n\n住酒店则要包下整层，总统套房只是基本配置。室温、湿度、灯光都有要求，地毯要顺着纹路刷，电梯指示灯要遮住，员工穿软底鞋。缺什么设备，就从广州总部空运。\n\n广州恒大中心41至43层据称也被整体打通，其中42层是许家印的私人区域，有独立门禁和电梯，普通员工根本进不去。\n\n最出名的还有恒大歌舞团。巅峰时期据传规模达到约200人，选拔严格，长期由恒大承担开支，主要服务于集团内部宴请和接待活动。\n\n这些细节如今在网上被重新翻出，真假混杂，很多说法并没有公开文件能够逐一证实。但放在恒大最终崩塌的结局旁边看，反差确实格外刺眼。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3845,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090334936800890985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【许家印“帝王式”生活往事，奢侈到细节都有人伺候】许家印被判无期后，网上又翻出不少关于他巅峰时期生活方式的爆料，三个字，真奢侈！\n\n据传，他当年坐拥3架大型私人飞机，地面出行只坐吉利号牌的加长劳斯莱斯幻影。到了外地，如果当地没有符合要求的车，甚至要提前从其他城市调过去。 https://t.co/90GNiqgJdM https://t.co/xvQiicwisX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2090423479271362854",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 1034,
+          "like_count": 2529,
+          "listed_count": 4,
+          "media_count": 552,
+          "tweet_count": 3902
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jXuer"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090421569797411231",
+        "name": "王局拍案",
+        "pinned_tweet_id": "2090223100495622389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1574516663935901696/1682210101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162829,
+          "following_count": 364,
+          "like_count": 691,
+          "listed_count": 460,
+          "media_count": 9433,
+          "tweet_count": 10310
+        },
+        "url": "https://t.co/FWdZ3jXuer",
+        "username": "wangjupaian",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

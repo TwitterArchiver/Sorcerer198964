@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067981742208872448",
+        "3_2067981744306049025",
+        "3_2067981744675205120"
+      ],
+      "media_source_tweet_id": [
+        "2067981747678224816",
+        "2067981747678224816",
+        "2067981747678224816"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2096613023469477938",
+    "created_at": "2026-09-06T14:54:32.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096613023469477938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1542466226563055617",
+          "start": 3,
+          "username": "CoMiBackground"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8SlAQnoiNa",
+          "end": 58,
+          "expanded_url": "https://x.com/CoMiBackground/status/2067981747678224816/photo/1",
+          "media_key": "3_2067981742208872448",
+          "start": 35,
+          "url": "https://t.co/8SlAQnoiNa"
+        },
+        {
+          "display_url": "pic.x.com/8SlAQnoiNa",
+          "end": 58,
+          "expanded_url": "https://x.com/CoMiBackground/status/2067981747678224816/photo/1",
+          "media_key": "3_2067981744306049025",
+          "start": 35,
+          "url": "https://t.co/8SlAQnoiNa"
+        },
+        {
+          "display_url": "pic.x.com/8SlAQnoiNa",
+          "end": 58,
+          "expanded_url": "https://x.com/CoMiBackground/status/2067981747678224816/photo/1",
+          "media_key": "3_2067981744675205120",
+          "start": 35,
+          "url": "https://t.co/8SlAQnoiNa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096613023469477938",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2067981742208872448"
+      },
+      {
+        "media_key": "3_2067981744306049025"
+      },
+      {
+        "media_key": "3_2067981744675205120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067981747678224816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CoMiBackground: Ciallo 狗修金sama https://t.co/8SlAQnoiNa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2012,
+        "media_key": "3_2067981742208872448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLycBpacAAZwhK.jpg",
+        "width": 1600
+      },
+      {
+        "height": 2133,
+        "media_key": "3_2067981744306049025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLycJda0AE9Ngq.jpg",
+        "width": 1600
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067981744675205120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLycK1bsAA4x7h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067981742208872448",
+            "3_2067981744306049025",
+            "3_2067981744675205120"
+          ],
+          "media_source_tweet_id": [
+            "2067981747678224816",
+            "2067981747678224816",
+            "2067981747678224816"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2096613023469477938",
+        "created_at": "2026-09-06T14:54:32.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096613023469477938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1542466226563055617",
+              "start": 3,
+              "username": "CoMiBackground"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8SlAQnoiNa",
+              "end": 58,
+              "expanded_url": "https://x.com/CoMiBackground/status/2067981747678224816/photo/1",
+              "media_key": "3_2067981742208872448",
+              "start": 35,
+              "url": "https://t.co/8SlAQnoiNa"
+            },
+            {
+              "display_url": "pic.x.com/8SlAQnoiNa",
+              "end": 58,
+              "expanded_url": "https://x.com/CoMiBackground/status/2067981747678224816/photo/1",
+              "media_key": "3_2067981744306049025",
+              "start": 35,
+              "url": "https://t.co/8SlAQnoiNa"
+            },
+            {
+              "display_url": "pic.x.com/8SlAQnoiNa",
+              "end": 58,
+              "expanded_url": "https://x.com/CoMiBackground/status/2067981747678224816/photo/1",
+              "media_key": "3_2067981744675205120",
+              "start": 35,
+              "url": "https://t.co/8SlAQnoiNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096613023469477938",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2067981742208872448"
+          },
+          {
+            "media_key": "3_2067981744306049025"
+          },
+          {
+            "media_key": "3_2067981744675205120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067981747678224816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CoMiBackground: Ciallo 狗修金sama https://t.co/8SlAQnoiNa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067981742208872448",
+            "3_2067981744306049025",
+            "3_2067981744675205120"
+          ]
+        },
+        "author_id": "1542466226563055617",
+        "conversation_id": "2067981747678224816",
+        "created_at": "2026-06-19T14:44:04.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067981747678224816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8SlAQnoiNa",
+              "end": 38,
+              "expanded_url": "https://x.com/CoMiBackground/status/2067981747678224816/photo/1",
+              "media_key": "3_2067981742208872448",
+              "start": 15,
+              "url": "https://t.co/8SlAQnoiNa"
+            },
+            {
+              "display_url": "pic.x.com/8SlAQnoiNa",
+              "end": 38,
+              "expanded_url": "https://x.com/CoMiBackground/status/2067981747678224816/photo/1",
+              "media_key": "3_2067981744306049025",
+              "start": 15,
+              "url": "https://t.co/8SlAQnoiNa"
+            },
+            {
+              "display_url": "pic.x.com/8SlAQnoiNa",
+              "end": 38,
+              "expanded_url": "https://x.com/CoMiBackground/status/2067981747678224816/photo/1",
+              "media_key": "3_2067981744675205120",
+              "start": 15,
+              "url": "https://t.co/8SlAQnoiNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067981747678224816",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2067981742208872448"
+          },
+          {
+            "media_key": "3_2067981744306049025"
+          },
+          {
+            "media_key": "3_2067981744675205120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Ciallo 狗修金sama https://t.co/8SlAQnoiNa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2096613023469477938",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 1100,
+          "like_count": 2761,
+          "listed_count": 4,
+          "media_count": 608,
+          "tweet_count": 4268
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-30T11:14:29.000Z",
+        "description": "偽娘 坐标深圳 172/55kg 🚪29 线下私我✈️\nmua 狗修金sama",
+        "id": "1542466226563055617",
+        "is_identity_verified": false,
+        "location": "深圳/香港",
+        "most_recent_tweet_id": "2096612607054753948",
+        "name": "yu牛奶好喝rn",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542466226563055617/1777231529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048483915808260096/-E_61sC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 58,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "CoMiBackground",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

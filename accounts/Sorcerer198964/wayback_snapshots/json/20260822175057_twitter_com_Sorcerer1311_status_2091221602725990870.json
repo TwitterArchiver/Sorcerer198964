@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2091218711470538784",
+    "created_at": "2026-08-22T17:50:57.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T18:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091221602725990870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735328474934706176",
+          "start": 0,
+          "username": "makinoseiran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091221602725990870",
+    "in_reply_to_user_id": "1735328474934706176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091218711470538784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makinoseiran 那你得比他还恶俗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2091218711470538784",
+        "created_at": "2026-08-22T17:50:57.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091221602725990870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735328474934706176",
+              "start": 0,
+              "username": "makinoseiran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091221602725990870",
+        "in_reply_to_user_id": "1735328474934706176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091218711470538784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makinoseiran 那你得比他还恶俗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735328474934706176",
+        "conversation_id": "2091218711470538784",
+        "created_at": "2026-08-22T17:39:28.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091218711470538784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/servalcandle/status/2091187123751915899",
+              "start": 30,
+              "url": "https://t.co/YIJYY0JhXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091218711470538784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091187123751915899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "坏了，我最近爆破的某个背刺我的人好像就是有文化的流氓，，， https://t.co/YIJYY0JhXF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2091221602725990870",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 1045,
+          "like_count": 2560,
+          "listed_count": 4,
+          "media_count": 565,
+          "tweet_count": 3984
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-14T15:58:55.000Z",
+        "description": "aka橘猫/橘猫硬件实验室主创/常驻珠三角",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MakinoSeiran",
+                "end": 23,
+                "expanded_url": "http://t.me/MakinoSeiran",
+                "start": 0,
+                "url": "https://t.co/KjfemPlYP9"
+              }
+            ]
+          }
+        },
+        "id": "1735328474934706176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091221037874827611",
+        "name": "牧野セイラン (青嵐)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1735328474934706176/1720092986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086870693875200000/cgyHI0ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 749,
+          "like_count": 26328,
+          "listed_count": 1,
+          "media_count": 571,
+          "tweet_count": 5412
+        },
+        "url": "https://t.co/KjfemPlYP9",
+        "username": "makinoseiran",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

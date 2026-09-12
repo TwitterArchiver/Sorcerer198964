@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2097023454830813243",
+    "created_at": "2026-09-07T22:56:59.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T23:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097096822007423050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1530832862093594624",
+          "start": 0,
+          "username": "whwzfyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097096822007423050",
+    "in_reply_to_user_id": "1530832862093594624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097023454830813243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whwzfyl 想被氯氮平灌胃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097023429950246912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRofsvPbEAAH9JJ.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2097023454830813243",
+        "created_at": "2026-09-07T22:56:59.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T23:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097096822007423050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1530832862093594624",
+              "start": 0,
+              "username": "whwzfyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097096822007423050",
+        "in_reply_to_user_id": "1530832862093594624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097023454830813243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whwzfyl 想被氯氮平灌胃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097023429950246912"
+          ]
+        },
+        "author_id": "1530832862093594624",
+        "conversation_id": "2097023454830813243",
+        "created_at": "2026-09-07T18:05:27.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T19:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097023454830813243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBmy1c4ICh",
+              "end": 23,
+              "expanded_url": "https://x.com/whwzfyl/status/2097023454830813243/photo/1",
+              "media_key": "3_2097023429950246912",
+              "start": 0,
+              "url": "https://t.co/XBmy1c4ICh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097023454830813243",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2097023429950246912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XBmy1c4ICh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2097096822007423050",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1104,
+          "like_count": 2792,
+          "listed_count": 4,
+          "media_count": 610,
+          "tweet_count": 4294
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-29T08:46:45.000Z",
+        "description": "绝对忠诚，精干内行",
+        "id": "1530832862093594624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097023454830813243",
+        "name": "平田一郎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1530832862093594624/1788102481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094931111315226624/4sdmjD2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 240,
+          "like_count": 18454,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 5365
+        },
+        "url": "",
+        "username": "whwzfyl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

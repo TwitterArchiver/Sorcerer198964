@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2091131013477159113",
+    "created_at": "2026-08-22T13:48:19.000Z",
+    "display_text_range": [
+      17,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T14:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091160542497198572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484231561784737792",
+          "start": 0,
+          "username": "AirdropAlchemis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091160542497198572",
+    "in_reply_to_user_id": "1484231561784737792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091131013477159113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AirdropAlchemis 陪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2091131013477159113",
+        "created_at": "2026-08-22T13:48:19.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091160542497198572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484231561784737792",
+              "start": 0,
+              "username": "AirdropAlchemis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091160542497198572",
+        "in_reply_to_user_id": "1484231561784737792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091131013477159113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AirdropAlchemis 陪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484231561784737792",
+        "conversation_id": "2091131013477159113",
+        "created_at": "2026-08-22T11:50:59.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091131013477159113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AirdropAlchemi…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/AirdropAlchemis/status/2091086527539626445",
+              "start": 58,
+              "url": "https://t.co/zYBHhXeOTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091131013477159113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8882,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 229,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091086527539626445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喝多了，没什么赚钱的机会能分享给大家我很内疚\n直接发钱给大家好了\n\n没有任何要求\n留个言明天我醒来开\n10个朋友。 https://t.co/zYBHhXeOTr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2091160542497198572",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 1044,
+          "like_count": 2554,
+          "listed_count": 4,
+          "media_count": 560,
+          "tweet_count": 3965
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-20T18:29:24.000Z",
+        "description": "纯玩抽象的不构成任何投资建议\n\nSolar member @solana_zh\n炼金弟弟 @lianjinshushu\nhttps://t.co/28LJt8RXUv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "solana_zh"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "lianjinshushu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com",
+                "end": 83,
+                "expanded_url": "http://web3.okx.com",
+                "start": 60,
+                "url": "https://t.co/28LJt8RXUv"
+              }
+            ]
+          }
+        },
+        "id": "1484231561784737792",
+        "is_identity_verified": true,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2091149328400470018",
+        "name": "炼金叔叔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484231561784737792/1784381891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821804297723764736/iKiwTO9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69868,
+          "following_count": 3933,
+          "like_count": 87900,
+          "listed_count": 922,
+          "media_count": 9941,
+          "tweet_count": 66452
+        },
+        "url": "",
+        "username": "AirdropAlchemis",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

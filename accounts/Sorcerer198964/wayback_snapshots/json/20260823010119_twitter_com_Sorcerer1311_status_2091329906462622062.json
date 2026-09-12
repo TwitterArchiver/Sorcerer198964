@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2090973472889680315",
+    "created_at": "2026-08-23T01:01:19.000Z",
+    "display_text_range": [
+      34,
+      165
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T02:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091329906462622062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1420894599531270145",
+          "start": 0,
+          "username": "zhugezichublank"
+        },
+        {
+          "end": 33,
+          "id": "1835139537418567680",
+          "start": 17,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091329906462622062",
+    "in_reply_to_user_id": "1420894599531270145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091327893897085112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhugezichublank @WellingtonPixel 这种说法其实并不是城市化的问题，而是养老国家化的问题，应该说自从普鲁士开始养老逐渐变成了一个国家为主导的纳税-补贴-养老循环，原子化也击碎了农业社会的孝文化体系而变为了直接对国家负责\n所谓的生育者不受益纯粹是中国特色，中国对生育的补贴相较于欧洲，澳洲是明显不足的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2090973472889680315",
+        "created_at": "2026-08-23T01:01:19.000Z",
+        "display_text_range": [
+          34,
+          165
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091329906462622062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1420894599531270145",
+              "start": 0,
+              "username": "zhugezichublank"
+            },
+            {
+              "end": 33,
+              "id": "1835139537418567680",
+              "start": 17,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091329906462622062",
+        "in_reply_to_user_id": "1420894599531270145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091327893897085112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhugezichublank @WellingtonPixel 这种说法其实并不是城市化的问题，而是养老国家化的问题，应该说自从普鲁士开始养老逐渐变成了一个国家为主导的纳税-补贴-养老循环，原子化也击碎了农业社会的孝文化体系而变为了直接对国家负责\n所谓的生育者不受益纯粹是中国特色，中国对生育的补贴相较于欧洲，澳洲是明显不足的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420894599531270145",
+        "conversation_id": "2090973472889680315",
+        "created_at": "2026-08-23T00:53:19.000Z",
+        "display_text_range": [
+          31,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T01:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091327893897085112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            },
+            {
+              "end": 30,
+              "id": "2041449281677045760",
+              "start": 17,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091327893897085112",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091108052938154175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel @Sorcerer1311 城市化是降低生育率的良药，关键要理清逻辑：生育是一种生产，不是一种消费。\n\n农业社会相比工业社会一个显著的特征就是，生产经营主体是家庭的，但工业社会的生产经营主体是企业的。这也就意味着在工业社会中的生育模式实际上是一种“生育者（家庭）不受益，受益者（企业）不负责”。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2091329906462622062",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 1047,
+          "like_count": 2557,
+          "listed_count": 4,
+          "media_count": 565,
+          "tweet_count": 3988
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-29T23:50:53.000Z",
+        "description": "红色的旗帜🚩便已经足够了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "newhongqi.org",
+                "end": 23,
+                "expanded_url": "https://newhongqi.org/",
+                "start": 0,
+                "url": "https://t.co/nTs5NLK2u9"
+              }
+            ]
+          }
+        },
+        "id": "1420894599531270145",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091327893897085112",
+        "name": "诸葛子楚_blank",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1420894599531270145/1627603903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551498269188325376/eaw3Q0Th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 521,
+          "like_count": 15993,
+          "listed_count": 1,
+          "media_count": 568,
+          "tweet_count": 5008
+        },
+        "url": "https://t.co/nTs5NLK2u9",
+        "username": "zhugezichublank",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "𝐈𝐧 𝐂𝐨𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐢𝐨𝐧 𝐖𝐞 𝐓𝐫𝐮𝐬𝐭 | 𝐏𝐋𝐕𝐒 𝐕𝐋𝐓𝐑𝐀 | 2011.02 | 🇳🇱·🇦🇹·🇱🇺\nLover @KUKMonarchy8964 | Cat @AbsolutelyWP | Support @LibDems",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "KUKMonarchy8964"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "AbsolutelyWP"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "LibDems"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TheRtHonWP",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TheRtHonWP",
+                "start": 0,
+                "url": "https://t.co/D6JVLpiAPZ"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "is_identity_verified": false,
+        "location": "Cisleithania",
+        "most_recent_tweet_id": "2091110342407442737",
+        "name": "𝐖𝐞𝐥𝐥𝐢𝐧𝐠𝐭𝐨𝐧 ✞ 𝐏𝐢𝐱𝐞𝐥",
+        "pinned_tweet_id": "2090348354819535349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835139537418567680/1787365729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085602394788769792/wVhU3HuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2704,
+          "following_count": 1820,
+          "like_count": 23236,
+          "listed_count": 3,
+          "media_count": 437,
+          "tweet_count": 5154
+        },
+        "url": "https://t.co/D6JVLpiAPZ",
+        "username": "WellingtonPixel",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

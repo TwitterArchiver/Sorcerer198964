@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2090604800568397934",
+    "created_at": "2026-08-21T03:05:02.000Z",
+    "display_text_range": [
+      15,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090636267214237813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "949316104144457729",
+          "start": 0,
+          "username": "wangchangfu88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090636267214237813",
+    "in_reply_to_user_id": "949316104144457729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090604800568397934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangchangfu88 跑的太快了吧，这样真能看到什么东西吗？\n不过也比我朋友圈那帮追星，追各种比赛和演唱会的好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_2090461932042252288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLQDSva8AAXBit.jpg",
+        "width": 886
+      },
+      {
+        "height": 1856,
+        "media_key": "3_2090462093304909824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLQMrfb0AA8WX2.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2090604800568397934",
+        "created_at": "2026-08-21T03:05:02.000Z",
+        "display_text_range": [
+          15,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090636267214237813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "949316104144457729",
+              "start": 0,
+              "username": "wangchangfu88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090636267214237813",
+        "in_reply_to_user_id": "949316104144457729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090604800568397934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangchangfu88 跑的太快了吧，这样真能看到什么东西吗？\n不过也比我朋友圈那帮追星，追各种比赛和演唱会的好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090461932042252288",
+            "3_2090462093304909824"
+          ]
+        },
+        "author_id": "949316104144457729",
+        "conversation_id": "2090604800568397934",
+        "created_at": "2026-08-21T01:00:00.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090604800568397934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W6CE4n9FuQ",
+              "end": 40,
+              "expanded_url": "https://x.com/wangchangfu88/status/2090604800568397934/photo/1",
+              "media_key": "3_2090461932042252288",
+              "start": 17,
+              "url": "https://t.co/W6CE4n9FuQ"
+            },
+            {
+              "display_url": "pic.x.com/W6CE4n9FuQ",
+              "end": 40,
+              "expanded_url": "https://x.com/wangchangfu88/status/2090604800568397934/photo/1",
+              "media_key": "3_2090462093304909824",
+              "start": 17,
+              "url": "https://t.co/W6CE4n9FuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090604800568397934",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090461932042252288"
+          },
+          {
+            "media_key": "3_2090462093304909824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 21864,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 126,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这样的朋友圈\n\n你会反感吗 ？？ https://t.co/W6CE4n9FuQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2090636267214237813",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 1035,
+          "like_count": 2530,
+          "listed_count": 4,
+          "media_count": 552,
+          "tweet_count": 3912
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-05T16:26:11.000Z",
+        "description": "AI + Crypto | 运营增长 | 投资理财 | 破局提升 | 互动多的我都会回关",
+        "id": "949316104144457729",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090635005571817722",
+        "name": "王长富",
+        "pinned_tweet_id": "2088416329753940424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/949316104144457729/1774779319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038198296771248128/ra3vBm-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36591,
+          "following_count": 3003,
+          "like_count": 36940,
+          "listed_count": 135,
+          "media_count": 948,
+          "tweet_count": 52825
+        },
+        "url": "",
+        "username": "wangchangfu88",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

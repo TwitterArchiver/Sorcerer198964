@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096766275020054531"
+      ],
+      "media_source_tweet_id": [
+        "2096766572257775710"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2096910295436513384",
+    "created_at": "2026-09-07T10:35:47.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096910295436513384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1734618898514001920",
+          "start": 3,
+          "username": "JZhen72937"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gomPVgOPME",
+          "end": 55,
+          "expanded_url": "https://x.com/JZhen72937/status/2096766572257775710/video/1",
+          "media_key": "13_2096766275020054531",
+          "start": 32,
+          "url": "https://t.co/gomPVgOPME"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096910295436513384",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2096766275020054531"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096766572257775710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JZhen72937: 这就是全民大学义务教育后的结果 https://t.co/gomPVgOPME"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81780,
+        "height": 720,
+        "media_key": "13_2096766275020054531",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096766275020054531/img/n2ivdNCtSR8k7Niv.jpg",
+        "public_metrics": {
+          "view_count": 147414
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096766275020054531/vid/avc1/480x270/K6nsGwcHOElDh5q0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096766275020054531/vid/avc1/640x360/Tqhv9zfnwp9VlA57.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096766275020054531/vid/avc1/1282x720/zxYmLfnmIVUA_yi3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096766275020054531/pl/DjbpUkKSaNrtLWH6.m3u8"
+          }
+        ],
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096766275020054531"
+          ],
+          "media_source_tweet_id": [
+            "2096766572257775710"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096910295436513384",
+        "created_at": "2026-09-07T10:35:47.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096910295436513384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1734618898514001920",
+              "start": 3,
+              "username": "JZhen72937"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gomPVgOPME",
+              "end": 55,
+              "expanded_url": "https://x.com/JZhen72937/status/2096766572257775710/video/1",
+              "media_key": "13_2096766275020054531",
+              "start": 32,
+              "url": "https://t.co/gomPVgOPME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096910295436513384",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096766275020054531"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096766572257775710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JZhen72937: 这就是全民大学义务教育后的结果 https://t.co/gomPVgOPME"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096766275020054531"
+          ]
+        },
+        "author_id": "1734618898514001920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2096766572257775710",
+        "created_at": "2026-09-07T01:04:41.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096766572257775710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gomPVgOPME",
+              "end": 39,
+              "expanded_url": "https://x.com/JZhen72937/status/2096766572257775710/video/1",
+              "media_key": "13_2096766275020054531",
+              "start": 16,
+              "url": "https://t.co/gomPVgOPME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096766572257775710",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096766275020054531"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 717,
+          "impression_count": 219472,
+          "like_count": 2020,
+          "quote_count": 20,
+          "reply_count": 165,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "这就是全民大学义务教育后的结果 https://t.co/gomPVgOPME"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2096910295436513384",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1102,
+          "like_count": 2781,
+          "listed_count": 4,
+          "media_count": 609,
+          "tweet_count": 4288
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-12T16:59:22.000Z",
+        "description": "每一天都是一个新的开始，让我们用微笑和勇气去迎接它！",
+        "id": "1734618898514001920",
+        "is_identity_verified": false,
+        "location": "5.28km",
+        "most_recent_tweet_id": "2096910180902416860",
+        "name": "镜月指针",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734618898514001920/1705318723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734625890523656192/8TqIgdHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89382,
+          "following_count": 10092,
+          "like_count": 111203,
+          "listed_count": 217,
+          "media_count": 8886,
+          "tweet_count": 24933
+        },
+        "url": "",
+        "username": "JZhen72937",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

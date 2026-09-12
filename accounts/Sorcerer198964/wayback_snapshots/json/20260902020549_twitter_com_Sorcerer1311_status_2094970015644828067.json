@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2094620069636735301",
+    "created_at": "2026-09-02T02:05:49.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T03:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094970015644828067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3006029466",
+          "start": 0,
+          "username": "tonghe3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094970015644828067",
+    "in_reply_to_user_id": "3006029466",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094965150537359495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tonghe3 嗯嗯打算去找高绿芬了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2094620069636735301",
+        "created_at": "2026-09-02T02:05:49.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T03:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094970015644828067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3006029466",
+              "start": 0,
+              "username": "tonghe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094970015644828067",
+        "in_reply_to_user_id": "3006029466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094965150537359495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tonghe3 嗯嗯打算去找高绿芬了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3006029466",
+        "conversation_id": "2094620069636735301",
+        "created_at": "2026-09-02T01:46:29.000Z",
+        "display_text_range": [
+          14,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T02:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094965150537359495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094965150537359495",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094811423935479928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 泌乳素非常容易因为各种原因波动，这不代表正常或者不正常，去看医生。如果担心面诊尴尬可以在好医生里找一些有跨的指导hrt的医生咨询，已知可选：潘柏林，高绿芬"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2094970015644828067",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 1088,
+          "like_count": 2668,
+          "listed_count": 4,
+          "media_count": 598,
+          "tweet_count": 4191
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-01T07:13:04.000Z",
+        "description": "懸命に前を向こうとする人は、強くで美しい",
+        "id": "3006029466",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094965150537359495",
+        "name": "泰兰德挖煤的",
+        "pinned_tweet_id": "2090296738951405575",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075581439878533120/cmAX9Kwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 59,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "tonghe3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

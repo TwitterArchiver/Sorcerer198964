@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2090791026021765244",
+    "created_at": "2026-08-21T14:34:35.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090809795305701576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574516663935901696",
+          "start": 0,
+          "username": "wangjupaian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090809795305701576",
+    "in_reply_to_user_id": "1574516663935901696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090791026021765244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangjupaian 你个日本人还挺会说中国话"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9148,
+        "height": 1080,
+        "media_key": "13_2090788730344968192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090788730344968192/img/5bHc9fbhnl0vgqtn.jpg",
+        "public_metrics": {
+          "view_count": 5765
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090788730344968192/pl/Li1zOJ2h0rbCr88e.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090788730344968192/vid/avc1/640x360/ob__8j_TTnxEzZfH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090788730344968192/vid/avc1/1920x1080/l0T37BFpXKlcbB14.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090788730344968192/vid/avc1/480x270/ryIEqa6y7KD72WKi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090788730344968192/vid/avc1/1280x720/4vHh9KRPFjBv1K9R.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 1084,
+        "media_key": "3_2090788758430068736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP5TF6asAAei92.jpg",
+        "width": 1186
+      },
+      {
+        "height": 981,
+        "media_key": "3_2090788813547405312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP5WTPagAAVIG2.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2090788813610356736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP5WTebEAA4_DS.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2090791026021765244",
+        "created_at": "2026-08-21T14:34:35.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090809795305701576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574516663935901696",
+              "start": 0,
+              "username": "wangjupaian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090809795305701576",
+        "in_reply_to_user_id": "1574516663935901696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090791026021765244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangjupaian 你个日本人还挺会说中国话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090788730344968192",
+            "3_2090788758430068736",
+            "3_2090788813547405312",
+            "3_2090788813610356736"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "conversation_id": "2090791026021765244",
+        "created_at": "2026-08-21T13:20:00.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090791026021765244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbUbHBGL0l",
+              "end": 129,
+              "expanded_url": "https://x.com/wangjupaian/status/2090791026021765244/video/1",
+              "media_key": "13_2090788730344968192",
+              "start": 106,
+              "url": "https://t.co/XbUbHBGL0l"
+            },
+            {
+              "display_url": "pic.x.com/XbUbHBGL0l",
+              "end": 129,
+              "expanded_url": "https://x.com/wangjupaian/status/2090791026021765244/video/1",
+              "media_key": "3_2090788758430068736",
+              "start": 106,
+              "url": "https://t.co/XbUbHBGL0l"
+            },
+            {
+              "display_url": "pic.x.com/XbUbHBGL0l",
+              "end": 129,
+              "expanded_url": "https://x.com/wangjupaian/status/2090791026021765244/video/1",
+              "media_key": "3_2090788813547405312",
+              "start": 106,
+              "url": "https://t.co/XbUbHBGL0l"
+            },
+            {
+              "display_url": "pic.x.com/XbUbHBGL0l",
+              "end": 129,
+              "expanded_url": "https://x.com/wangjupaian/status/2090791026021765244/video/1",
+              "media_key": "3_2090788813610356736",
+              "start": 106,
+              "url": "https://t.co/XbUbHBGL0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090791026021765244",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090788730344968192"
+          },
+          {
+            "media_key": "3_2090788758430068736"
+          },
+          {
+            "media_key": "3_2090788813547405312"
+          },
+          {
+            "media_key": "3_2090788813610356736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "【中国漫展又有人Cos枪杀安倍的凶手，日本网友愤怒】2026年8月，中国一场动漫活动上，有人Cos刺杀安倍晋三的山上彻也，还拿道具枪重现袭击场景。周围不少人举着手机拍摄，相关画面传到日本后，引发大量转发和愤怒。\n\n这也不是第一次。2023年10月，就有中国高中生模仿山上彻也袭击安倍；2024年5月，也有人在漫展Cos“日服第一男枪”山上彻也，拿着道具枪供人围观拍照。\n\n几年下来，山上彻也几乎被一些中国漫友玩成了“网络梗”。但拿真实刺杀、真实死亡当Cos素材，本质上已经不是幽默，而是把别人的死亡娱乐化。梗可以烂，底线不能一起烂。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9964,
+          "like_count": 24,
+          "quote_count": 4,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【中国漫展又有人Cos枪杀安倍的凶手，日本网友愤怒】2026年8月，中国一场动漫活动上，有人Cos刺杀安倍晋三的山上彻也，还拿道具枪重现袭击场景。周围不少人举着手机拍摄，相关画面传到日本后，引发大量转发和愤怒。 https://t.co/XbUbHBGL0l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2090809795305701576",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 1040,
+          "like_count": 2545,
+          "listed_count": 4,
+          "media_count": 557,
+          "tweet_count": 3939
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jXuer"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090805742236512696",
+        "name": "王局拍案",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1574516663935901696/1682210101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163422,
+          "following_count": 364,
+          "like_count": 692,
+          "listed_count": 460,
+          "media_count": 9476,
+          "tweet_count": 10355
+        },
+        "url": "https://t.co/FWdZ3jXuer",
+        "username": "wangjupaian",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

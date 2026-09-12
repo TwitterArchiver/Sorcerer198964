@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2096165776944476561",
+    "created_at": "2026-09-05T09:17:20.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T10:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096165776944476561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rumoreconomy/s…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/rumoreconomy/status/2095868867491033551",
+          "start": 59,
+          "url": "https://t.co/fSReA7YHNy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096165776944476561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095868867491033551",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那不然你怎么不自己去买美债？\n国内留着美元其实没啥用\n真要避险也留在手里了，或者去香港买美债然后真要用也是有汇率损失 https://t.co/fSReA7YHNy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2028,
+        "media_key": "3_2095868858104160256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYFnz8aIAAIisg.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2096165776944476561",
+        "created_at": "2026-09-05T09:17:20.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096165776944476561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rumoreconomy/s…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/rumoreconomy/status/2095868867491033551",
+              "start": 59,
+              "url": "https://t.co/fSReA7YHNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096165776944476561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095868867491033551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那不然你怎么不自己去买美债？\n国内留着美元其实没啥用\n真要避险也留在手里了，或者去香港买美债然后真要用也是有汇率损失 https://t.co/fSReA7YHNy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095868858104160256"
+          ]
+        },
+        "author_id": "2888086214",
+        "conversation_id": "2095868867491033551",
+        "created_at": "2026-09-04T13:37:32.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095868867491033551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rUWfLsOPVb",
+              "end": 69,
+              "expanded_url": "https://x.com/Rumoreconomy/status/2095868867491033551/photo/1",
+              "media_key": "3_2095868858104160256",
+              "start": 46,
+              "url": "https://t.co/rUWfLsOPVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095868867491033551",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095868858104160256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 90221,
+          "like_count": 425,
+          "quote_count": 3,
+          "reply_count": 93,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "国内银行以3%左右的利息吸收美元存款，然后转头就买5.2%的美国国债，这生意也没谁了、稳赚 https://t.co/rUWfLsOPVb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2096165776944476561",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 1094,
+          "like_count": 2734,
+          "listed_count": 4,
+          "media_count": 607,
+          "tweet_count": 4243
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-11-03T04:13:57.000Z",
+        "description": "黄金",
+        "id": "2888086214",
+        "is_identity_verified": false,
+        "location": "Huntington Beach, CA",
+        "most_recent_tweet_id": "2095957215836606847",
+        "name": "财经真相",
+        "pinned_tweet_id": "2083172907187155387",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2888086214/1693321705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759252707624603648/vNWCXYe2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936508,
+          "following_count": 267,
+          "like_count": 838,
+          "listed_count": 3445,
+          "media_count": 9044,
+          "tweet_count": 19441
+        },
+        "url": "",
+        "username": "Rumoreconomy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

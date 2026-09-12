@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2090422237044302269",
+    "created_at": "2026-08-20T13:31:51.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T14:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090431622470619451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1825819885857026048",
+          "start": 0,
+          "username": "ChenXi_Cloud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090431622470619451",
+    "in_reply_to_user_id": "1825819885857026048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090422237044302269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenXi_Cloud 没来吃上😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2090422176898023424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKr5PSbAAAqXW-.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2090422192526020609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKr6JgbUAEXQN4.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2090422209101893632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKr7HQbEAAIEd7.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2090422223849078784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKr7-MbQAApMVH.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2090422237044302269",
+        "created_at": "2026-08-20T13:31:51.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090431622470619451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1825819885857026048",
+              "start": 0,
+              "username": "ChenXi_Cloud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090431622470619451",
+        "in_reply_to_user_id": "1825819885857026048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090422237044302269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenXi_Cloud 没来吃上😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090422176898023424",
+            "3_2090422192526020609",
+            "3_2090422209101893632",
+            "3_2090422223849078784"
+          ]
+        },
+        "author_id": "1825819885857026048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090422237044302269",
+        "created_at": "2026-08-20T12:54:34.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090422237044302269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l4DylcUIrq",
+              "end": 23,
+              "expanded_url": "https://x.com/ChenXi_Cloud/status/2090422237044302269/photo/1",
+              "media_key": "3_2090422176898023424",
+              "start": 0,
+              "url": "https://t.co/l4DylcUIrq"
+            },
+            {
+              "display_url": "pic.x.com/l4DylcUIrq",
+              "end": 23,
+              "expanded_url": "https://x.com/ChenXi_Cloud/status/2090422237044302269/photo/1",
+              "media_key": "3_2090422192526020609",
+              "start": 0,
+              "url": "https://t.co/l4DylcUIrq"
+            },
+            {
+              "display_url": "pic.x.com/l4DylcUIrq",
+              "end": 23,
+              "expanded_url": "https://x.com/ChenXi_Cloud/status/2090422237044302269/photo/1",
+              "media_key": "3_2090422209101893632",
+              "start": 0,
+              "url": "https://t.co/l4DylcUIrq"
+            },
+            {
+              "display_url": "pic.x.com/l4DylcUIrq",
+              "end": 23,
+              "expanded_url": "https://x.com/ChenXi_Cloud/status/2090422237044302269/photo/1",
+              "media_key": "3_2090422223849078784",
+              "start": 0,
+              "url": "https://t.co/l4DylcUIrq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090422237044302269",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090422176898023424"
+          },
+          {
+            "media_key": "3_2090422192526020609"
+          },
+          {
+            "media_key": "3_2090422209101893632"
+          },
+          {
+            "media_key": "3_2090422223849078784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/l4DylcUIrq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2090431622470619451",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 1034,
+          "like_count": 2530,
+          "listed_count": 4,
+          "media_count": 552,
+          "tweet_count": 3903
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-20T08:59:27.000Z",
+        "description": "178/65/80b | 北京 | 无证含糖2025.9.20 | 接援交 | 🚪88 |",
+        "id": "1825819885857026048",
+        "is_identity_verified": false,
+        "location": "停尸房",
+        "most_recent_tweet_id": "2090422237044302269",
+        "name": "尘曦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825819885857026048/1724144874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074907688673439744/ktkF1tAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 796,
+          "like_count": 553,
+          "listed_count": 4,
+          "media_count": 51,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "ChenXi_Cloud",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

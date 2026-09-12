@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2092834780475965815",
+    "created_at": "2026-08-27T04:41:09.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T05:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092834780475965815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y901664/status…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/y901664/status/2092491723968807264",
+          "start": 51,
+          "url": "https://t.co/tB0jP7VL27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092834780475965815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092491723968807264",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真正该被质疑的是为什么男性不能穿裙子，而不是承认“我只有变成女性才有资格穿裙子”\n二元性别论害人不浅 https://t.co/tB0jP7VL27"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_2092491681509871616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoGGQvbEAAxG8n.jpg",
+        "width": 1755
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092491690129137664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoGGw2aoAAPtbB.jpg",
+        "width": 801
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092491701516738560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoGHbRboAAIN_L.jpg",
+        "width": 734
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092491712719699968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoGIFAbQAATAkh.jpg",
+        "width": 743
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2092834780475965815",
+        "created_at": "2026-08-27T04:41:09.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092834780475965815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y901664/status…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/y901664/status/2092491723968807264",
+              "start": 51,
+              "url": "https://t.co/tB0jP7VL27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092834780475965815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092491723968807264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真正该被质疑的是为什么男性不能穿裙子，而不是承认“我只有变成女性才有资格穿裙子”\n二元性别论害人不浅 https://t.co/tB0jP7VL27"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092491681509871616",
+            "3_2092491690129137664",
+            "3_2092491701516738560",
+            "3_2092491712719699968"
+          ]
+        },
+        "author_id": "3232647722",
+        "conversation_id": "2092491723968807264",
+        "created_at": "2026-08-26T05:57:58.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092491723968807264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AWsjEa9R0m",
+              "end": 159,
+              "expanded_url": "https://x.com/y901664/status/2092491723968807264/photo/1",
+              "media_key": "3_2092491681509871616",
+              "start": 136,
+              "url": "https://t.co/AWsjEa9R0m"
+            },
+            {
+              "display_url": "pic.x.com/AWsjEa9R0m",
+              "end": 159,
+              "expanded_url": "https://x.com/y901664/status/2092491723968807264/photo/1",
+              "media_key": "3_2092491690129137664",
+              "start": 136,
+              "url": "https://t.co/AWsjEa9R0m"
+            },
+            {
+              "display_url": "pic.x.com/AWsjEa9R0m",
+              "end": 159,
+              "expanded_url": "https://x.com/y901664/status/2092491723968807264/photo/1",
+              "media_key": "3_2092491701516738560",
+              "start": 136,
+              "url": "https://t.co/AWsjEa9R0m"
+            },
+            {
+              "display_url": "pic.x.com/AWsjEa9R0m",
+              "end": 159,
+              "expanded_url": "https://x.com/y901664/status/2092491723968807264/photo/1",
+              "media_key": "3_2092491712719699968",
+              "start": 136,
+              "url": "https://t.co/AWsjEa9R0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092491723968807264",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092491681509871616"
+          },
+          {
+            "media_key": "3_2092491690129137664"
+          },
+          {
+            "media_key": "3_2092491701516738560"
+          },
+          {
+            "media_key": "3_2092491712719699968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "有一部分男跨女追求的「女」是超級傳統上一個世代嚴重刻板印象的那種，超級奇怪\n「我從小喜歡穿裙子所以我覺得自己是女性。」\n但女生也很多不喜歡穿裙子的，男生也有很多喜歡穿裙子的。衣服應該成為性別符號嗎？但現在不是在說男性也可以穿女裝嗎？\n「喜歡化妝。」\n但男生應該也可以吧。\n難道不是「人可以成為自己想成為的樣子」嗎？\n怎麼又回到「我是女性因為那是我想成為/我認可的樣子」呢？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 14128,
+          "like_count": 408,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "有一部分男跨女追求的「女」是超級傳統上一個世代嚴重刻板印象的那種，超級奇怪\n「我從小喜歡穿裙子所以我覺得自己是女性。」\n但女生也很多不喜歡穿裙子的，男生也有很多喜歡穿裙子的。衣服應該成為性別符號嗎？但現在不是在說男性也可以穿女裝嗎？\n「喜歡化妝。」\n但男生應該也可以吧。 https://t.co/AWsjEa9R0m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2092834780475965815",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 1063,
+          "like_count": 2621,
+          "listed_count": 4,
+          "media_count": 583,
+          "tweet_count": 4093
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-01T14:10:41.000Z",
+        "description": "台灣人 支持台灣獨立",
+        "id": "3232647722",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2092834256808825132",
+        "name": "清",
+        "pinned_tweet_id": "1858893162682741063",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3232647722/1684654560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/613677755641671680/JsbBJHLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 2584,
+          "like_count": 3439,
+          "listed_count": 13,
+          "media_count": 13180,
+          "tweet_count": 652663
+        },
+        "url": "",
+        "username": "y901664",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

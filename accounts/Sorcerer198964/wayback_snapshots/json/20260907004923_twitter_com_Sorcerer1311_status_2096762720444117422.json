@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2096762720444117422",
+    "created_at": "2026-09-07T00:49:23.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T01:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096762720444117422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satireorcry1/s…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/satireorcry1/status/2096524852958024015",
+          "start": 26,
+          "url": "https://t.co/wqzs5C1rdf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096762720444117422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096524852958024015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "手表的心电图功能放脚腕上测确实示数会比手腕明显很多 https://t.co/wqzs5C1rdf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1994,
+        "media_key": "3_2096524723350028288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhaIMYaQAAjAc8.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2096762720444117422",
+        "created_at": "2026-09-07T00:49:23.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096762720444117422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2096524852958024015",
+              "start": 26,
+              "url": "https://t.co/wqzs5C1rdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096762720444117422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096524852958024015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "手表的心电图功能放脚腕上测确实示数会比手腕明显很多 https://t.co/wqzs5C1rdf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096524723350028288"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2096524852958024015",
+        "created_at": "2026-09-06T09:04:11.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096524852958024015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jIziemTGJK",
+              "end": 42,
+              "expanded_url": "https://x.com/satireorcry1/status/2096524852958024015/photo/1",
+              "media_key": "3_2096524723350028288",
+              "start": 19,
+              "url": "https://t.co/jIziemTGJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096524852958024015",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096524723350028288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 20148,
+          "like_count": 294,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "大陆网友在微博冲塔，讽刺华为孟晚舟！ https://t.co/jIziemTGJK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2096762720444117422",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1099,
+          "like_count": 2761,
+          "listed_count": 4,
+          "media_count": 608,
+          "tweet_count": 4271
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@FurinanaDF/sh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@FurinanaDF/shorts",
+                "start": 0,
+                "url": "https://t.co/DFPciNfDgf"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "is_identity_verified": false,
+        "location": "12 Millbank, London, SW1P 4QE",
+        "most_recent_tweet_id": "2096662684594794841",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2084174899216548219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1993455710274043905/1778601400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44524,
+          "following_count": 1718,
+          "like_count": 25618,
+          "listed_count": 140,
+          "media_count": 6454,
+          "tweet_count": 8521
+        },
+        "url": "https://t.co/DFPciNfDgf",
+        "username": "satireorcry1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

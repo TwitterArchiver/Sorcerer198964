@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2094075579167629598",
+    "created_at": "2026-08-31T12:16:02.000Z",
+    "display_text_range": [
+      26,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094398809292075043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1978428582100938752",
+          "start": 0,
+          "username": "q1anzhuo"
+        },
+        {
+          "end": 25,
+          "id": "1545898408858161154",
+          "start": 10,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094398809292075043",
+    "in_reply_to_user_id": "1978428582100938752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094075579167629598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q1anzhuo @D3XTR0M3TH_0w0 太抽象了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094075563585712128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-moVRaMAAz_Gq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2094075579167629598",
+        "created_at": "2026-08-31T12:16:02.000Z",
+        "display_text_range": [
+          26,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094398809292075043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1978428582100938752",
+              "start": 0,
+              "username": "q1anzhuo"
+            },
+            {
+              "end": 25,
+              "id": "1545898408858161154",
+              "start": 10,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094398809292075043",
+        "in_reply_to_user_id": "1978428582100938752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094075579167629598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q1anzhuo @D3XTR0M3TH_0w0 太抽象了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094075563585712128"
+          ]
+        },
+        "author_id": "1978428582100938752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2094075579167629598",
+        "created_at": "2026-08-30T14:51:38.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094075579167629598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Faq71xP820",
+              "end": 36,
+              "expanded_url": "https://x.com/q1anzhuo/status/2094075579167629598/photo/1",
+              "media_key": "3_2094075563585712128",
+              "start": 13,
+              "url": "https://t.co/Faq71xP820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094075579167629598",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094075563585712128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3374,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "老天保佑愈美药效全都有🙏 https://t.co/Faq71xP820"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2094398809292075043",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 1079,
+          "like_count": 2662,
+          "listed_count": 4,
+          "media_count": 593,
+          "tweet_count": 4161
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T11:52:30.000Z",
+        "description": "这里什么都没有，只有一个精神病，一个呆傻的孩子",
+        "id": "1978428582100938752",
+        "is_identity_verified": false,
+        "location": "密涅瓦的猫头鹰在黄昏时分起飞",
+        "most_recent_tweet_id": "2094378486068838698",
+        "name": "翻越比利牛斯山8964",
+        "pinned_tweet_id": "2093689509678657568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978428582100938752/1785985961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081159168669745152/4Iw5I1TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 432,
+          "like_count": 4881,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "q1anzhuo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "退役oder，锁推只是防止被推送出去！欢迎互fo\n🏳️‍🌈🏳️‍⚧️💛🤍💜🖤#drugtwt #shtwt Audhd\n万一被封逃生舱 @8964qwerty",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "8964qwerty"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "is_identity_verified": false,
+        "location": "He/They/猫",
+        "most_recent_tweet_id": "2039955080338878864",
+        "name": "🐱",
+        "pinned_tweet_id": "2045977962999332890",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545898408858161154/1778057547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051338286296387587/A6mOoIbE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 1423,
+          "like_count": 6999,
+          "listed_count": 1,
+          "media_count": 691,
+          "tweet_count": 4507
+        },
+        "url": "",
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

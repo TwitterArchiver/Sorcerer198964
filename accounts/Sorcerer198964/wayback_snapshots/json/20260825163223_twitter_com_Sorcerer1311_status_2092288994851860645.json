@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092288980477980672"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2092255439043936416",
+    "created_at": "2026-08-25T16:32:23.000Z",
+    "display_text_range": [
+      11,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T17:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092288994851860645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2060652328915701760",
+          "start": 0,
+          "username": "MEMZFuHua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l0XtddFvd2",
+          "end": 52,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2092288994851860645/photo/1",
+          "media_key": "3_2092288980477980672",
+          "start": 29,
+          "url": "https://t.co/l0XtddFvd2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092288994851860645",
+    "in_reply_to_user_id": "2060652328915701760",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092288980477980672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092255439043936416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEMZFuHua 赤兔9pro也有这个配色，挺可爱的 https://t.co/l0XtddFvd2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_2092288980477980672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQlNvgjasAA1qdW.jpg",
+        "width": 960
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092255308131311617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkvHhSXoAEUvZy.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092288980477980672"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2092255439043936416",
+        "created_at": "2026-08-25T16:32:23.000Z",
+        "display_text_range": [
+          11,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092288994851860645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060652328915701760",
+              "start": 0,
+              "username": "MEMZFuHua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l0XtddFvd2",
+              "end": 52,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2092288994851860645/photo/1",
+              "media_key": "3_2092288980477980672",
+              "start": 29,
+              "url": "https://t.co/l0XtddFvd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092288994851860645",
+        "in_reply_to_user_id": "2060652328915701760",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092288980477980672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092255439043936416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEMZFuHua 赤兔9pro也有这个配色，挺可爱的 https://t.co/l0XtddFvd2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092255308131311617"
+          ]
+        },
+        "author_id": "2060652328915701760",
+        "conversation_id": "2092255439043936416",
+        "created_at": "2026-08-25T14:19:03.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092255439043936416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YkkBS5Yj7l",
+              "end": 67,
+              "expanded_url": "https://x.com/MEMZFuHua/status/2092255439043936416/photo/1",
+              "media_key": "3_2092255308131311617",
+              "start": 44,
+              "url": "https://t.co/YkkBS5Yj7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092255439043936416",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092255308131311617"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 962,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "军训要求穿白鞋，没想到安踏居然上了一双蓝粉白配色的篮球鞋，虽然我不会打篮球但还是买了😆 https://t.co/YkkBS5Yj7l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2092288994851860645",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 1062,
+          "like_count": 2603,
+          "listed_count": 4,
+          "media_count": 580,
+          "tweet_count": 4072
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T09:20:39.000Z",
+        "description": "2010.12.27崭新下线 | HRT2026.7.4 | 理科不好 | 无证含糖 | 中度抑郁 | 同类互fo | 技术花粉 | 抖m | 不OD不割手 | 打舞萌︱小号@ZoquYlc5q384854",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "ZoquYlc5q384854"
+              }
+            ]
+          }
+        },
+        "id": "2060652328915701760",
+        "is_identity_verified": false,
+        "location": "中国 安徽",
+        "most_recent_tweet_id": "2092276684590309753",
+        "name": "MEMZ-FuHua🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2075555105970233537",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060652328915701760/1780555745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075471807206084610/ovf4uAvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 491,
+          "like_count": 378,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 667
+        },
+        "url": "",
+        "username": "MEMZFuHua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

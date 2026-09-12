@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2096486977273294958",
+    "created_at": "2026-09-06T06:33:40.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T07:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096486977273294958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929798380240465921",
+          "start": 3,
+          "username": "AacerF59616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096486977273294958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096373678267416797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AacerF59616: 稍微有点太绝对了，都说GAHT不是魔法但事实上相较于其他的性别肯定医疗措施的流程而言它的起效速度可以说是非常快了。真的，我在GAHT大概一两周之后就同比减少了接近90%的GD时长，所以说把GAHT当作一种抗GD治疗的动机也是完全可行的，而不单单…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2096486977273294958",
+        "created_at": "2026-09-06T06:33:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096486977273294958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929798380240465921",
+              "start": 3,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096486977273294958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096373678267416797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AacerF59616: 稍微有点太绝对了，都说GAHT不是魔法但事实上相较于其他的性别肯定医疗措施的流程而言它的起效速度可以说是非常快了。真的，我在GAHT大概一两周之后就同比减少了接近90%的GD时长，所以说把GAHT当作一种抗GD治疗的动机也是完全可行的，而不单单…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2096373678267416797",
+        "created_at": "2026-09-05T23:03:28.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096373678267416797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KanoYumoe/stat…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/KanoYumoe/status/2096006575785972054",
+              "start": 154,
+              "url": "https://t.co/YNeVh7qobX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096373678267416797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "稍微有点太绝对了，都说GAHT不是魔法但事实上相较于其他的性别肯定医疗措施的流程而言它的起效速度可以说是非常快了。真的，我在GAHT大概一两周之后就同比减少了接近90%的GD时长，所以说把GAHT当作一种抗GD治疗的动机也是完全可行的，而不单单是什么“以女性身份立足”或者“进行SRS”。不是说这些目标不对，而是它们太宏大了太远了，而且也隐隐约约透露着一种“不SRS就吃糖就不是真跨女”的跨性别医疗主义色彩，我挺不喜欢的。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096006575785972054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "稍微有点太绝对了，都说GAHT不是魔法但事实上相较于其他的性别肯定医疗措施的流程而言它的起效速度可以说是非常快了。真的，我在GAHT大概一两周之后就同比减少了接近90%的GD时长，所以说把GAHT当作一种抗GD治疗的动机也是完全可行的，而不单单是什么“以女性身份立足”或者“进行SRS”。不是说这些目标不对 https://t.co/YNeVh7qobX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2096486977273294958",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 1098,
+          "like_count": 2754,
+          "listed_count": 4,
+          "media_count": 608,
+          "tweet_count": 4261
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2096474385330946294",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2773,
+          "following_count": 933,
+          "like_count": 7676,
+          "listed_count": 3,
+          "media_count": 483,
+          "tweet_count": 2993
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

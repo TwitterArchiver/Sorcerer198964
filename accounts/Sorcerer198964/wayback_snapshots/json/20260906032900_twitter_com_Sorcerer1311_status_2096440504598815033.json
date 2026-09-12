@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2096284052684996932",
+    "created_at": "2026-09-06T03:29:00.000Z",
+    "display_text_range": [
+      11,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T04:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096440504598815033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2076283935051722753",
+          "start": 0,
+          "username": "Verlintas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096440504598815033",
+    "in_reply_to_user_id": "2076283935051722753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096284052684996932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Verlintas 这就是传授自杀方法啊为什么不封"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096284028320276480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd_N5ha4AAGLG2.jpg",
+        "width": 306
+      },
+      {
+        "height": 2608,
+        "media_key": "3_2096284041213509632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd_OpjaAAA0qqw.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2096284052684996932",
+        "created_at": "2026-09-06T03:29:00.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096440504598815033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2076283935051722753",
+              "start": 0,
+              "username": "Verlintas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096440504598815033",
+        "in_reply_to_user_id": "2076283935051722753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096284052684996932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verlintas 这就是传授自杀方法啊为什么不封"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096284028320276480",
+            "3_2096284041213509632"
+          ]
+        },
+        "author_id": "2076283935051722753",
+        "conversation_id": "2096284052684996932",
+        "created_at": "2026-09-05T17:07:19.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096284052684996932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NuPcLvnRS",
+              "end": 38,
+              "expanded_url": "https://x.com/Verlintas/status/2096284052684996932/photo/1",
+              "media_key": "3_2096284028320276480",
+              "start": 15,
+              "url": "https://t.co/1NuPcLvnRS"
+            },
+            {
+              "display_url": "pic.x.com/1NuPcLvnRS",
+              "end": 38,
+              "expanded_url": "https://x.com/Verlintas/status/2096284052684996932/photo/1",
+              "media_key": "3_2096284041213509632",
+              "start": 15,
+              "url": "https://t.co/1NuPcLvnRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096284052684996932",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096284028320276480"
+          },
+          {
+            "media_key": "3_2096284041213509632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2319,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，出生🐴🐲啊，讣告给封了 https://t.co/1NuPcLvnRS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2096440504598815033",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 1099,
+          "like_count": 2749,
+          "listed_count": 4,
+          "media_count": 608,
+          "tweet_count": 4256
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-12T12:34:38.000Z",
+        "description": "2010年崭新出厂│🏳️‍🌈 🏳️‍⚧️ Bi│INTP-T│183cm 62kg│来人就互fo│MtF│暂时不吃糖喵🍥（真的吗？）\n小号 @LasFish777\n技术小白🤓点击下方链接品鉴我做的大份😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "LasFish777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Verlintas",
+                "end": 23,
+                "expanded_url": "https://github.com/Verlintas",
+                "start": 0,
+                "url": "https://t.co/WHRQoXALsl"
+              }
+            ]
+          }
+        },
+        "id": "2076283935051722753",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2096419641371570185",
+        "name": "Verlintas🏳️‍⚧️",
+        "pinned_tweet_id": "2094099961227227417",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076283935051722753/1787478986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076284387554136064/7VlRz1UI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 665,
+          "like_count": 785,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/WHRQoXALsl",
+        "username": "Verlintas",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

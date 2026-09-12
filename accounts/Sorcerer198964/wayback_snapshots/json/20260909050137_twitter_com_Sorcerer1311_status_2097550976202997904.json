@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1515022068500160514",
+          "name": "Australia government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1515024874648989697",
+          "name": "Australia politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1516133585912152066",
+          "name": "Centrelink Australia"
+        }
+      }
+    ],
+    "conversation_id": "2097550976202997904",
+    "created_at": "2026-09-09T05:01:37.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T06:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097550976202997904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reflectier/sta…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/reflectier/status/2097520966553534761",
+          "start": 51,
+          "url": "https://t.co/IpEXStZMZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097550976202997904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097520966553534761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "显然这就是保障水平和保障模式的不同\n低保相当于一个有条件现金转移契约\n你认同不完善的制度也是制度吗？ https://t.co/IpEXStZMZZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1515022068500160514",
+              "name": "Australia government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1515024874648989697",
+              "name": "Australia politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516133585912152066",
+              "name": "Centrelink Australia"
+            }
+          }
+        ],
+        "conversation_id": "2097550976202997904",
+        "created_at": "2026-09-09T05:01:37.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097550976202997904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reflectier/sta…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/reflectier/status/2097520966553534761",
+              "start": 51,
+              "url": "https://t.co/IpEXStZMZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097550976202997904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097520966553534761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "显然这就是保障水平和保障模式的不同\n低保相当于一个有条件现金转移契约\n你认同不完善的制度也是制度吗？ https://t.co/IpEXStZMZZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2842549538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1515022068500160514",
+              "name": "Australia government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1515024874648989697",
+              "name": "Australia politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516133585912152066",
+              "name": "Centrelink Australia"
+            }
+          }
+        ],
+        "conversation_id": "2097520966553534761",
+        "created_at": "2026-09-09T03:02:23.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097520966553534761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Reflectier/sta…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/Reflectier/status/2097510949121089841",
+              "start": 120,
+              "url": "https://t.co/sAM0rQtpgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097520966553534761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 862,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097510949121089841",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前租我房子的一对澳洲夫妻，因为要照顾重病的妈妈影响工作，每个月从centrelink领2500刀的carer payment，那按照中国的逻辑，你凭什么来租月租2000多刀的别墅，你就应该租几百刀的群租房，这样子最省钱最有个穷人的样子。 https://t.co/sAM0rQtpgS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2097550976202997904",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 1113,
+          "like_count": 2808,
+          "listed_count": 4,
+          "media_count": 612,
+          "tweet_count": 4324
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-06T17:18:11.000Z",
+        "description": "夜撫でるネコたち\n无孩爱猫男。日常向，但混杂键政内容，但在努力不键政中，谨慎关注\n粉红和男拳师会直接拉黑，所以欢迎一击脱离",
+        "id": "2842549538",
+        "is_identity_verified": false,
+        "location": "Victoria, Australia",
+        "most_recent_tweet_id": "2097533279674970412",
+        "name": "森絵",
+        "pinned_tweet_id": "1932021028630471065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2842549538/1726035866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008429721395359750/rSe6FYnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 923,
+          "like_count": 48374,
+          "listed_count": 12,
+          "media_count": 1599,
+          "tweet_count": 26520
+        },
+        "url": "",
+        "username": "Reflectier",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

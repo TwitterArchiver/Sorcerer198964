@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2091149572869665135",
+    "created_at": "2026-08-22T13:04:44.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T14:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091149572869665135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seaskyfor/stat…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/seaskyfor/status/2091120835541287131",
+          "start": 23,
+          "url": "https://t.co/MNQ9kfMoOk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091149572869665135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091120835541287131",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老资历我敬你\n什么时候肉身成圣飞升氯硝星球？ https://t.co/MNQ9kfMoOk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2091149572869665135",
+        "created_at": "2026-08-22T13:04:44.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091149572869665135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seaskyfor/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/seaskyfor/status/2091120835541287131",
+              "start": 23,
+              "url": "https://t.co/MNQ9kfMoOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091149572869665135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091120835541287131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老资历我敬你\n什么时候肉身成圣飞升氯硝星球？ https://t.co/MNQ9kfMoOk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075187156268773376",
+        "conversation_id": "2091120835541287131",
+        "created_at": "2026-08-22T11:10:32.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091120835541287131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091120835541287131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1002,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我敢说整个跨圈   没有人打过的副本比我更多\n包括 N55 冰棍 unk 等等 \n\n如果你发现还有隐藏关卡跟我讲  我去干"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2091149572869665135",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 1044,
+          "like_count": 2554,
+          "listed_count": 4,
+          "media_count": 560,
+          "tweet_count": 3963
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T11:57:07.000Z",
+        "description": "原号又被封禁了 /永远的南京城 /永远的illusion /许你岁岁平安/ 不像男生不是女生/ 故里蓝鸢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "https://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/gXd2q9b752"
+              }
+            ]
+          }
+        },
+        "id": "2075187156268773376",
+        "is_identity_verified": false,
+        "location": "南京医科大学江宁校区",
+        "most_recent_tweet_id": "2091133876509020238",
+        "name": "ill skysea",
+        "pinned_tweet_id": "2090228053733777908",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089971410626347008/CBvV8wvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 143,
+          "like_count": 41,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 47
+        },
+        "url": "https://t.co/gXd2q9b752",
+        "username": "seaskyfor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

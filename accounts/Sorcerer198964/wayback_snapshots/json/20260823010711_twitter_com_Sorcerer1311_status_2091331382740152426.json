@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2091230292711465388",
+    "created_at": "2026-08-23T01:07:11.000Z",
+    "display_text_range": [
+      41,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T02:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091331382740152426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "950782339432423424",
+          "start": 0,
+          "username": "P3MoDc6lShSo3d0"
+        },
+        {
+          "end": 24,
+          "id": "532302737",
+          "start": 17,
+          "username": "1uokxr"
+        },
+        {
+          "end": 40,
+          "id": "912623216899715072",
+          "start": 25,
+          "username": "Xianzhong_1953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091331382740152426",
+    "in_reply_to_user_id": "950782339432423424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091329108282339610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@P3MoDc6lShSo3d0 @1uokxr @Xianzhong_1953 并非没坐，实则根本没上车，铁路部门也说了没上车的默认作废"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2091230292711465388",
+        "created_at": "2026-08-23T01:07:11.000Z",
+        "display_text_range": [
+          41,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091331382740152426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "950782339432423424",
+              "start": 0,
+              "username": "P3MoDc6lShSo3d0"
+            },
+            {
+              "end": 24,
+              "id": "532302737",
+              "start": 17,
+              "username": "1uokxr"
+            },
+            {
+              "end": 40,
+              "id": "912623216899715072",
+              "start": 25,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091331382740152426",
+        "in_reply_to_user_id": "950782339432423424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091329108282339610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P3MoDc6lShSo3d0 @1uokxr @Xianzhong_1953 并非没坐，实则根本没上车，铁路部门也说了没上车的默认作废"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "950782339432423424",
+        "conversation_id": "2091230292711465388",
+        "created_at": "2026-08-23T00:58:09.000Z",
+        "display_text_range": [
+          24,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T01:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091329108282339610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "532302737",
+              "start": 0,
+              "username": "1uokxr"
+            },
+            {
+              "end": 23,
+              "id": "912623216899715072",
+              "start": 8,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091329108282339610",
+        "in_reply_to_user_id": "532302737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091314504726663596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1uokxr @Xianzhong_1953 她妈妈买了但是没坐啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2091331382740152426",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 1047,
+          "like_count": 2558,
+          "listed_count": 4,
+          "media_count": 565,
+          "tweet_count": 3990
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-09T17:32:29.000Z",
+        "description": "Hello",
+        "id": "950782339432423424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091329108282339610",
+        "name": "人见人爱",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490614547501109248/S-aXjsY7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 149,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "P3MoDc6lShSo3d0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-03-21T15:12:46.000Z",
+        "description": "爱叨逼的大多数，爱走的路是回头路。",
+        "id": "532302737",
+        "is_identity_verified": false,
+        "location": "Australia",
+        "most_recent_tweet_id": "2091320087655690415",
+        "name": "老路",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/532302737/1769082400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014300796683177984/0MKlfIoc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 418,
+          "like_count": 1716,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 2349
+        },
+        "url": "",
+        "username": "1uokxr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "极度厌蠢！揭露一切反智行为！年过七旬的资深小孩子（相比150岁）。不是著名支黑哦，但是不妨碍俺盼献忠。\n大一统蛆滚远点！\n\n曾经的浙江苗族人，不是汉奸。",
+        "id": "912623216899715072",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2091230292711465388",
+        "name": "红袍猫后Penny🌊",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/912623216899715072/1644548326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109297,
+          "following_count": 777,
+          "like_count": 278513,
+          "listed_count": 360,
+          "media_count": 25253,
+          "tweet_count": 50265
+        },
+        "url": "",
+        "username": "Xianzhong_1953",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

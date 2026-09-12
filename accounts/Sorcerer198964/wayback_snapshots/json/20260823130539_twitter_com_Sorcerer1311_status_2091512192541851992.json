@@ -1,0 +1,571 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "NHK",
+          "id": "1034881250840915968",
+          "name": "NHK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NHK",
+          "id": "1034881250840915968",
+          "name": "NHK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "2091512192541851992",
+    "created_at": "2026-08-23T13:05:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091512192541851992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "204245399",
+          "start": 3,
+          "username": "nhk_news"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091512192541851992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091133214849146992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nhk_news: 「つらくなっちゃったから、飲む」\n「つらい、助けて」\n\nいま、かぜ薬やせき止め薬などの市販薬を過量に摂取する「オーバードーズ」が、若者の間で急速に広がっています\n\nことし5月に販売規制が強化される中、なぜ若者たちはオーバードーズ（OD）をするのか 取…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13589,
+        "height": 1920,
+        "media_key": "7_2091133190887129088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2091133190887129088/pu/img/9aPhkaCToDpUvAJN.jpg",
+        "public_metrics": {
+          "view_count": 25183
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2091133190887129088/pu/vid/avc1/320x568/2dxAmUeGVlCwAsCh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2091133190887129088/pu/vid/avc1/480x852/2Gpjg8yONnGrl_mt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2091133190887129088/pu/vid/avc1/720x1280/HetcGQmK0x0FSCaO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2091133190887129088/pu/pl/o7XS831J0V0hk7iK.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2091512192541851992",
+        "created_at": "2026-08-23T13:05:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091512192541851992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "204245399",
+              "start": 3,
+              "username": "nhk_news"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091512192541851992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091133214849146992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nhk_news: 「つらくなっちゃったから、飲む」\n「つらい、助けて」\n\nいま、かぜ薬やせき止め薬などの市販薬を過量に摂取する「オーバードーズ」が、若者の間で急速に広がっています\n\nことし5月に販売規制が強化される中、なぜ若者たちはオーバードーズ（OD）をするのか 取…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2091133190887129088"
+          ]
+        },
+        "author_id": "204245399",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          }
+        ],
+        "conversation_id": "2091133214849146992",
+        "created_at": "2026-08-22T11:59:44.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091133214849146992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "【NHK】「つらくなっちゃったから、飲む」 「つらい、助けて」 こうした言葉とともにSNSに投稿された、錠剤や、薬の空き瓶やシート。 いま、かぜ薬やせき止め薬などの市販薬を過量に摂取する「オーバードーズ」が",
+              "display_url": "news.web.nhk/newsweb/na/nd-…",
+              "end": 154,
+              "expanded_url": "https://news.web.nhk/newsweb/na/nd-20260820de45214",
+              "start": 131,
+              "status": 200,
+              "title": "オーバードーズ それでも、なぜ 依存・死亡のリスクも | NHKニュース",
+              "unwound_url": "https://news.web.nhk/newsweb/na/nd-20260820de45214",
+              "url": "https://t.co/giJIfGhpSM"
+            },
+            {
+              "display_url": "pic.x.com/orvI2rPdAB",
+              "end": 178,
+              "expanded_url": "https://x.com/nhk_news/status/2091133214849146992/video/1",
+              "media_key": "7_2091133190887129088",
+              "start": 155,
+              "url": "https://t.co/orvI2rPdAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091133214849146992",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_2091133190887129088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 98371,
+          "like_count": 236,
+          "quote_count": 85,
+          "reply_count": 17,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "「つらくなっちゃったから、飲む」\n「つらい、助けて」\n\nいま、かぜ薬やせき止め薬などの市販薬を過量に摂取する「オーバードーズ」が、若者の間で急速に広がっています\n\nことし5月に販売規制が強化される中、なぜ若者たちはオーバードーズ（OD）をするのか 取材しました\nhttps://t.co/giJIfGhpSM https://t.co/orvI2rPdAB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2091512192541851992",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 1047,
+          "like_count": 2568,
+          "listed_count": 4,
+          "media_count": 565,
+          "tweet_count": 4000
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-18T08:15:29.000Z",
+        "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nhk.jp/rules",
+                "end": 65,
+                "expanded_url": "http://nhk.jp/rules",
+                "start": 42,
+                "url": "https://t.co/X9ExoZ8ao6"
+              },
+              {
+                "display_url": "nhk.or.jp/css/",
+                "end": 109,
+                "expanded_url": "http://www.nhk.or.jp/css/",
+                "start": 86,
+                "url": "https://t.co/fMCPIt2S57"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nhk.jp/news",
+                "end": 23,
+                "expanded_url": "http://nhk.jp/news",
+                "start": 0,
+                "url": "https://t.co/bM6wmxNKVo"
+              }
+            ]
+          }
+        },
+        "id": "204245399",
+        "is_identity_verified": false,
+        "location": "東京都渋谷区神南2-2-1",
+        "most_recent_tweet_id": "2091501124679618656",
+        "name": "NHKニュース",
+        "pinned_tweet_id": "895196466859450368",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3464977,
+          "following_count": 19,
+          "like_count": 6,
+          "listed_count": 66272,
+          "media_count": 21071,
+          "tweet_count": 740335
+        },
+        "url": "https://t.co/bM6wmxNKVo",
+        "username": "nhk_news",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

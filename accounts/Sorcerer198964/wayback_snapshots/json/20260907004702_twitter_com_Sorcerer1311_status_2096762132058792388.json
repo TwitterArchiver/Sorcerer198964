@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2096762132058792388",
+    "created_at": "2026-09-07T00:47:02.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T01:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096762132058792388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangxiaolong18…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/wangxiaolong188/status/2096528833608610110",
+          "start": 107,
+          "url": "https://t.co/3L1M6iEHs2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096762132058792388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096528833608610110",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "飞韩国的武汉人有一个人感染，于是根据这一小概率事件进行计算然后显然会算出一个吓死人的数字\n当然我们可以认为数据置信度低和估测误差极大的情况下，算出来的数据仍然有参考意义，而且考虑误差后感染人数很可能比计算的还要高 https://t.co/3L1M6iEHs2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2096479419489783808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgw7KWbEAATHia.jpg",
+        "width": 538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2096762132058792388",
+        "created_at": "2026-09-07T00:47:02.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096762132058792388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangxiaolong18…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/wangxiaolong188/status/2096528833608610110",
+              "start": 107,
+              "url": "https://t.co/3L1M6iEHs2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096762132058792388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096528833608610110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "飞韩国的武汉人有一个人感染，于是根据这一小概率事件进行计算然后显然会算出一个吓死人的数字\n当然我们可以认为数据置信度低和估测误差极大的情况下，算出来的数据仍然有参考意义，而且考虑误差后感染人数很可能比计算的还要高 https://t.co/3L1M6iEHs2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096479419489783808"
+          ]
+        },
+        "author_id": "1861422868984406019",
+        "conversation_id": "2096528833608610110",
+        "created_at": "2026-09-06T09:20:00.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096528833608610110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqhNaeCroF",
+              "end": 42,
+              "expanded_url": "https://x.com/wangxiaolong188/status/2096528833608610110/photo/1",
+              "media_key": "3_2096479419489783808",
+              "start": 19,
+              "url": "https://t.co/zqhNaeCroF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096528833608610110",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096479419489783808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 402,
+          "impression_count": 361563,
+          "like_count": 757,
+          "quote_count": 2,
+          "reply_count": 100,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽 ！\n\n信息分析能力堪比情报系统 https://t.co/zqhNaeCroF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2096762132058792388",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1099,
+          "like_count": 2760,
+          "listed_count": 4,
+          "media_count": 608,
+          "tweet_count": 4270
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-26T14:52:56.000Z",
+        "description": "26岁账户第一次七位数，什么也没买\n不买房，不买车，不结婚，只买自由",
+        "id": "1861422868984406019",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096758916185256214",
+        "name": "王小龙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1861422868984406019/1784181179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073042528937619456/G7A7kd5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8258,
+          "following_count": 2202,
+          "like_count": 37334,
+          "listed_count": 12,
+          "media_count": 304,
+          "tweet_count": 11117
+        },
+        "url": "",
+        "username": "wangxiaolong188",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

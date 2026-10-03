@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103839634186960896",
+        "3_2103839634182836224",
+        "3_2103839634170208256",
+        "3_2103839634694475776"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2103839704500338897",
+    "created_at": "2026-09-26T13:30:47.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T14:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103839704500338897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WuiQJXcZfx",
+          "end": 29,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2103839704500338897/photo/1",
+          "media_key": "3_2103839634186960896",
+          "start": 6,
+          "url": "https://t.co/WuiQJXcZfx"
+        },
+        {
+          "display_url": "pic.x.com/WuiQJXcZfx",
+          "end": 29,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2103839704500338897/photo/1",
+          "media_key": "3_2103839634182836224",
+          "start": 6,
+          "url": "https://t.co/WuiQJXcZfx"
+        },
+        {
+          "display_url": "pic.x.com/WuiQJXcZfx",
+          "end": 29,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2103839704500338897/photo/1",
+          "media_key": "3_2103839634170208256",
+          "start": 6,
+          "url": "https://t.co/WuiQJXcZfx"
+        },
+        {
+          "display_url": "pic.x.com/WuiQJXcZfx",
+          "end": 29,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2103839704500338897/photo/1",
+          "media_key": "3_2103839634694475776",
+          "start": 6,
+          "url": "https://t.co/WuiQJXcZfx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103839704500338897",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103839634186960896"
+      },
+      {
+        "media_key": "3_2103839634182836224"
+      },
+      {
+        "media_key": "3_2103839634170208256"
+      },
+      {
+        "media_key": "3_2103839634694475776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "香港大学游 https://t.co/WuiQJXcZfx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2103839634186960896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJXACwaAAAgksP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1445,
+        "media_key": "3_2103839634182836224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJXACvbEAAhMbd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103839634170208256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJXACsaYAALxbq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1418,
+        "media_key": "3_2103839634694475776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJXAEpaEAAuyhK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103839634186960896",
+            "3_2103839634182836224",
+            "3_2103839634170208256",
+            "3_2103839634694475776"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2103839704500338897",
+        "created_at": "2026-09-26T13:30:47.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103839704500338897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuiQJXcZfx",
+              "end": 29,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2103839704500338897/photo/1",
+              "media_key": "3_2103839634186960896",
+              "start": 6,
+              "url": "https://t.co/WuiQJXcZfx"
+            },
+            {
+              "display_url": "pic.x.com/WuiQJXcZfx",
+              "end": 29,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2103839704500338897/photo/1",
+              "media_key": "3_2103839634182836224",
+              "start": 6,
+              "url": "https://t.co/WuiQJXcZfx"
+            },
+            {
+              "display_url": "pic.x.com/WuiQJXcZfx",
+              "end": 29,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2103839704500338897/photo/1",
+              "media_key": "3_2103839634170208256",
+              "start": 6,
+              "url": "https://t.co/WuiQJXcZfx"
+            },
+            {
+              "display_url": "pic.x.com/WuiQJXcZfx",
+              "end": 29,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2103839704500338897/photo/1",
+              "media_key": "3_2103839634694475776",
+              "start": 6,
+              "url": "https://t.co/WuiQJXcZfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103839704500338897",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103839634186960896"
+          },
+          {
+            "media_key": "3_2103839634182836224"
+          },
+          {
+            "media_key": "3_2103839634170208256"
+          },
+          {
+            "media_key": "3_2103839634694475776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香港大学游 https://t.co/WuiQJXcZfx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2103839704500338897",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 1155,
+          "like_count": 3173,
+          "listed_count": 4,
+          "media_count": 662,
+          "tweet_count": 4681
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

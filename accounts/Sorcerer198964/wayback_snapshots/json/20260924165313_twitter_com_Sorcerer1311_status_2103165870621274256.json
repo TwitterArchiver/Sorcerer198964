@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2103165870621274256",
+    "created_at": "2026-09-24T16:53:13.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T17:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103165870621274256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720665183188922368",
+          "start": 4,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/whwzfyl/status…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/whwzfyl/status/2103152823672480071",
+          "start": 109,
+          "url": "https://t.co/COMFaY5lOf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103165870621274256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103152823672480071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘿  \n@grok\n\n• 我最左翼的观点是什么？  \n• 我最右翼的观点是什么？  \n• 我最威权主义的观点是什么？  \n• 我最自由主义的观点是什么？  \n• 我最“觉醒”的观点是什么？  \n\n请为每个观点解释原因 https://t.co/COMFaY5lOf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2103165870621274256",
+        "created_at": "2026-09-24T16:53:13.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103165870621274256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720665183188922368",
+              "start": 4,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/whwzfyl/status…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/whwzfyl/status/2103152823672480071",
+              "start": 109,
+              "url": "https://t.co/COMFaY5lOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103165870621274256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103152823672480071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘿  \n@grok\n\n• 我最左翼的观点是什么？  \n• 我最右翼的观点是什么？  \n• 我最威权主义的观点是什么？  \n• 我最自由主义的观点是什么？  \n• 我最“觉醒”的观点是什么？  \n\n请为每个观点解释原因 https://t.co/COMFaY5lOf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530832862093594624",
+        "conversation_id": "2103152823672480071",
+        "created_at": "2026-09-24T16:01:22.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103152823672480071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720665183188922368",
+              "start": 4,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103152823672480071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿  \n@grok\n\n• 我最左翼的观点是什么？  \n• 我最右翼的观点是什么？  \n• 我最威权主义的观点是什么？  \n• 我最自由主义的观点是什么？  \n• 我最“觉醒”的观点是什么？  \n\n请为每个观点解释原因"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2103165870621274256",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 1151,
+          "like_count": 3137,
+          "listed_count": 4,
+          "media_count": 654,
+          "tweet_count": 4644
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-29T08:46:45.000Z",
+        "description": "绝对忠诚，精干内行\n不忘初心，牢记使命\n永远忠于习主席誓死保卫党中央🏳️‍🌈🏳️‍⚧️🎌🇹🇼",
+        "id": "1530832862093594624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103163795640377437",
+        "name": "平田中尉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1530832862093594624/1789308373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094931111315226624/4sdmjD2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 261,
+          "like_count": 19582,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 5907
+        },
+        "url": "",
+        "username": "whwzfyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103165886655869041",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9097357,
+          "following_count": 4,
+          "like_count": 141,
+          "listed_count": 7676,
+          "media_count": 3956738,
+          "tweet_count": 136902303
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

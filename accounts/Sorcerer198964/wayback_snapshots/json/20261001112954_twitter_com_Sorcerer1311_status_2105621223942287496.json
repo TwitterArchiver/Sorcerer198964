@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2105592724380369398",
+    "created_at": "2026-10-01T11:29:54.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T12:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105621223942287496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239457591417171973",
+          "start": 0,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105621223942287496",
+    "in_reply_to_user_id": "1239457591417171973",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105593546438783331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GFWfrog 面包喂狗了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2105592724380369398",
+        "created_at": "2026-10-01T11:29:54.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T12:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105621223942287496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105621223942287496",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105593546438783331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog 面包喂狗了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239457591417171973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2105592724380369398",
+        "created_at": "2026-10-01T09:39:56.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105593546438783331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "1239457591417171973",
+              "start": 41,
+              "username": "GFWfrog"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can view and join @CyberXiJinPing right away.",
+              "display_url": "t.me/CyberXiJinPing",
+              "end": 151,
+              "expanded_url": "https://t.me/CyberXiJinPing",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2105593553917276161/zQziCtii?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105593553917276161/zQziCtii?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 128,
+              "status": 200,
+              "title": "逗包AI(ChatXiPT)",
+              "unwound_url": "https://t.me/CyberXiJinPing",
+              "url": "https://t.co/28HkIkzKPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105593546438783331",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1289,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105592724380369398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们欢迎各位金主爸爸金主妈妈投资，习核心思想广告位也长期招租，具体合作详情请私信 @GFWfrog 🐸\n\nChatXiPT项目USDT（tron链）赞助地址👇\nTVyJBokJLFaR2fuDtW8KV7dw5HXZQ4ns4d\n\n立即入群调戏习近平🐻👇\nhttps://t.co/28HkIkzKPi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜交易员｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2105621223942287496",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 1171,
+          "like_count": 3267,
+          "listed_count": 3,
+          "media_count": 678,
+          "tweet_count": 4767
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "赛博习近平🤖又名ChatXiPT/逗包AI👉https://t.co/hq2fAhMJLs\n\n欢迎私信 或 https://t.co/aVPvX0T16B 网页投稿🐸 邮箱：gfwfrog@gmail.com \n电报频道：https://t.co/Evu48wn45r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/CyberXiJinPing",
+                "end": 45,
+                "expanded_url": "https://t.me/CyberXiJinPing",
+                "start": 22,
+                "url": "https://t.co/hq2fAhMJLs"
+              },
+              {
+                "display_url": "gfwbao.com",
+                "end": 77,
+                "expanded_url": "http://gfwbao.com",
+                "start": 54,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 134,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 111,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "is_identity_verified": false,
+        "location": "墙国",
+        "most_recent_tweet_id": "2105615352675602841",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2105592724380369398",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239457591417171973/1764695865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050371764165767168/HypsUXGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271499,
+          "following_count": 2555,
+          "like_count": 133204,
+          "listed_count": 947,
+          "media_count": 8006,
+          "tweet_count": 14877
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

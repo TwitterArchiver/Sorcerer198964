@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2098606856692453495",
+    "created_at": "2026-09-12T02:57:19.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T03:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098606856692453495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Noe1017_Monad/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Noe1017_Monad/status/2097908388701274446",
+          "start": 20,
+          "url": "https://t.co/AGFmOAHRTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098606856692453495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097908388701274446",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种逻辑真是搞笑\n你只能怪他钱给的不够 https://t.co/AGFmOAHRTR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2098606856692453495",
+        "created_at": "2026-09-12T02:57:19.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T03:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098606856692453495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Noe1017_Monad/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Noe1017_Monad/status/2097908388701274446",
+              "start": 20,
+              "url": "https://t.co/AGFmOAHRTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098606856692453495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097908388701274446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种逻辑真是搞笑\n你只能怪他钱给的不够 https://t.co/AGFmOAHRTR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702177500565274624",
+        "conversation_id": "2097908388701274446",
+        "created_at": "2026-09-10T04:41:51.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097908388701274446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097908388701274446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“几百块你玩什么命啊”这句台词，其实是有非常深刻的内在逻辑支撑的。\n\n 你把一件非常重大任务交给外包，同时只给对方一丢丢薪资，于是你就会触发一个非常欢乐的场景：到了需要人扛起重大责任的时候，外包当场辞职，转身就走。 \n\n这时候你就会发现，你没有任何任何手段制约TA。 解雇？人家承担的风险远大于收益，被解雇这时候反而是最优解； 追责？\n\n人家现场辞职，不干了。 刑事责任？\n\n只要发生一次，以后甚至连外包都找不到。\n\n说到底，当你降本增效时，你降低的，不光是你的用人成本，也是对方的沉没成本——一份月薪上万的工作，辞起来是会犹豫的。\n\n但一份日结60的工作，辞起来但凡有一丝犹豫都是对自己的不尊重。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 110227,
+          "like_count": 1121,
+          "quote_count": 5,
+          "reply_count": 150,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "“几百块你玩什么命啊”这句台词，其实是有非常深刻的内在逻辑支撑的。\n\n 你把一件非常重大任务交给外包，同时只给对方一丢丢薪资，于是你就会触发一个非常欢乐的场景：到了需要人扛起重大责任的时候，外包当场辞职，转身就走。 \n\n这时候你就会发现，你没有任何任何手段制约TA。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2098606856692453495",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 1120,
+          "like_count": 2874,
+          "listed_count": 4,
+          "media_count": 620,
+          "tweet_count": 4406
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-14T04:28:40.000Z",
+        "description": "关注我，价值投资不迷路 | 格雷厄姆布道者| 蓝V互关不取关",
+        "id": "1702177500565274624",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2098584641473323318",
+        "name": "Noe1017",
+        "pinned_tweet_id": "2098399840413848038",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1702177500565274624/1770296751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047333871000371200/0apezDGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6141,
+          "following_count": 2870,
+          "like_count": 1009,
+          "listed_count": 8,
+          "media_count": 240,
+          "tweet_count": 1245
+        },
+        "url": "",
+        "username": "Noe1017_Monad",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

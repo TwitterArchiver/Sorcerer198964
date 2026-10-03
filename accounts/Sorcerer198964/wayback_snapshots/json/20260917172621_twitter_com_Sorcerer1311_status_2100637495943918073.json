@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2100633821141959041",
+    "created_at": "2026-09-17T17:26:21.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T18:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100637495943918073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1570319690869899266",
+          "start": 0,
+          "username": "Yuko0Ruuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100637495943918073",
+    "in_reply_to_user_id": "1570319690869899266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100633821141959041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuko0Ruuu 同款\n在意干嘛…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100633817803259904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbzU-FWAAAT9AQ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2100633821141959041",
+        "created_at": "2026-09-17T17:26:21.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T18:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100637495943918073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570319690869899266",
+              "start": 0,
+              "username": "Yuko0Ruuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100637495943918073",
+        "in_reply_to_user_id": "1570319690869899266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100633821141959041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuko0Ruuu 同款\n在意干嘛…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100633817803259904"
+          ]
+        },
+        "author_id": "1570319690869899266",
+        "conversation_id": "2100633821141959041",
+        "created_at": "2026-09-17T17:11:45.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T18:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100633821141959041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OEhYnLDzg",
+              "end": 28,
+              "expanded_url": "https://x.com/Yuko0Ruuu/status/2100633821141959041/photo/1",
+              "media_key": "3_2100633817803259904",
+              "start": 5,
+              "url": "https://t.co/6OEhYnLDzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100633821141959041",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100633817803259904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么… https://t.co/6OEhYnLDzg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2100637495943918073",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 1139,
+          "like_count": 2987,
+          "listed_count": 4,
+          "media_count": 632,
+          "tweet_count": 4507
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-15T07:52:55.000Z",
+        "description": "—/ @tongzikin 那我们到底是谁啊 @catower233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "tongzikin"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "catower233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuko.hk",
+                "end": 23,
+                "expanded_url": "http://yuko.hk",
+                "start": 0,
+                "url": "https://t.co/gkVRocnSxQ"
+              }
+            ]
+          }
+        },
+        "id": "1570319690869899266",
+        "is_identity_verified": false,
+        "location": "39°58'30.0\"N 116°19'00.0\"E",
+        "most_recent_tweet_id": "2100633821141959041",
+        "name": "Yukoの残余物",
+        "pinned_tweet_id": "2099758616903340347",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068972324272087040/7mW3wwal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 159,
+          "like_count": 10555,
+          "listed_count": 3,
+          "media_count": 583,
+          "tweet_count": 7044
+        },
+        "url": "https://t.co/gkVRocnSxQ",
+        "username": "Yuko0Ruuu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102265320790724608"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2102257231580585986",
+    "created_at": "2026-09-22T05:14:48.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T06:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102265334736830512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910937639269888000",
+          "start": 0,
+          "username": "NJMPUydvf294498"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JG4evBDQXL",
+          "end": 47,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2102265334736830512/photo/1",
+          "media_key": "3_2102265320790724608",
+          "start": 24,
+          "url": "https://t.co/JG4evBDQXL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102265334736830512",
+    "in_reply_to_user_id": "1910937639269888000",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102265320790724608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102257231580585986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NJMPUydvf294498 主页三连刷到 https://t.co/JG4evBDQXL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102265320790724608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSy_K8VakAAr7n1.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102257216984363008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSy3zPTasAAei0i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102265320790724608"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2102257231580585986",
+        "created_at": "2026-09-22T05:14:48.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T06:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102265334736830512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910937639269888000",
+              "start": 0,
+              "username": "NJMPUydvf294498"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JG4evBDQXL",
+              "end": 47,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2102265334736830512/photo/1",
+              "media_key": "3_2102265320790724608",
+              "start": 24,
+              "url": "https://t.co/JG4evBDQXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102265334736830512",
+        "in_reply_to_user_id": "1910937639269888000",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102265320790724608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102257231580585986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NJMPUydvf294498 主页三连刷到 https://t.co/JG4evBDQXL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102257216984363008"
+          ]
+        },
+        "author_id": "1910937639269888000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2102257231580585986",
+        "created_at": "2026-09-22T04:42:36.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102257231580585986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39J9pJGFjZ",
+              "end": 32,
+              "expanded_url": "https://x.com/NJMPUydvf294498/status/2102257231580585986/photo/1",
+              "media_key": "3_2102257216984363008",
+              "start": 9,
+              "url": "https://t.co/39J9pJGFjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102257231580585986",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102257216984363008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁分得清，不看碗 https://t.co/39J9pJGFjZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2102265334736830512",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 1149,
+          "like_count": 3105,
+          "listed_count": 4,
+          "media_count": 651,
+          "tweet_count": 4608
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-12T06:07:14.000Z",
+        "description": "hrt:2026.8.24｜168cm 60kg｜BMI22 体脂14.6%｜指派男性 认同女性｜GAHT：2026.9.8｜缺安全感｜🎂阴历04.9.17／证05.6.6｜称呼随意",
+        "id": "1910937639269888000",
+        "is_identity_verified": false,
+        "location": "楠娘岛",
+        "most_recent_tweet_id": "2102264258394546271",
+        "name": "要期待未来啊🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2101573839482392864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910937639269888000/1785835057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087189162810355712/NWJ9xOc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 954,
+          "like_count": 1606,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 1526
+        },
+        "url": "",
+        "username": "NJMPUydvf294498",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

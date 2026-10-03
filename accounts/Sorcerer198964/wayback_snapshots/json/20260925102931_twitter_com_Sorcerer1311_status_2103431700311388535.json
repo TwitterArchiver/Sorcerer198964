@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2103431700311388535",
+    "created_at": "2026-09-25T10:29:31.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T11:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103431700311388535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1716793662510940160",
+          "start": 3,
+          "username": "TekeLili222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103431700311388535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103265381901292013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TekeLili222: 我养过的动物不是很多\n\n猫有三只，狗有五条\n\n领养过，救助过，也买过\n\n参与动物保护的契机也只是家里买的泰迪被偷了\n\n后来才在不断的动物保护活动中逐渐理解动物保护的意义\n\n正因如此，我才更会反对私刑\n\n使用私刑是底层逻辑上的自我矛盾\n\n这些在网…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 478,
+        "media_key": "3_2103265355368181760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTBMsncbMAAC4hp.jpg",
+        "width": 1264
+      },
+      {
+        "height": 965,
+        "media_key": "3_2103265360606826496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTBMs69akAAVd5K.jpg",
+        "width": 1263
+      },
+      {
+        "height": 2387,
+        "media_key": "3_2103265367468744704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTBMtUhbIAAqPgv.jpg",
+        "width": 1261
+      },
+      {
+        "height": 1890,
+        "media_key": "3_2103265375035293696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTBMtwtbgAALggP.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2103431700311388535",
+        "created_at": "2026-09-25T10:29:31.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103431700311388535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1716793662510940160",
+              "start": 3,
+              "username": "TekeLili222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103431700311388535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103265381901292013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TekeLili222: 我养过的动物不是很多\n\n猫有三只，狗有五条\n\n领养过，救助过，也买过\n\n参与动物保护的契机也只是家里买的泰迪被偷了\n\n后来才在不断的动物保护活动中逐渐理解动物保护的意义\n\n正因如此，我才更会反对私刑\n\n使用私刑是底层逻辑上的自我矛盾\n\n这些在网…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103265355368181760",
+            "3_2103265360606826496",
+            "3_2103265367468744704",
+            "3_2103265375035293696"
+          ]
+        },
+        "author_id": "1716793662510940160",
+        "conversation_id": "2103265381901292013",
+        "created_at": "2026-09-24T23:28:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T00:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103265381901292013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/flf774oH4w",
+              "end": 164,
+              "expanded_url": "https://x.com/TekeLili222/status/2103265381901292013/photo/1",
+              "media_key": "3_2103265355368181760",
+              "start": 141,
+              "url": "https://t.co/flf774oH4w"
+            },
+            {
+              "display_url": "pic.x.com/flf774oH4w",
+              "end": 164,
+              "expanded_url": "https://x.com/TekeLili222/status/2103265381901292013/photo/1",
+              "media_key": "3_2103265360606826496",
+              "start": 141,
+              "url": "https://t.co/flf774oH4w"
+            },
+            {
+              "display_url": "pic.x.com/flf774oH4w",
+              "end": 164,
+              "expanded_url": "https://x.com/TekeLili222/status/2103265381901292013/photo/1",
+              "media_key": "3_2103265367468744704",
+              "start": 141,
+              "url": "https://t.co/flf774oH4w"
+            },
+            {
+              "display_url": "pic.x.com/flf774oH4w",
+              "end": 164,
+              "expanded_url": "https://x.com/TekeLili222/status/2103265381901292013/photo/1",
+              "media_key": "3_2103265375035293696",
+              "start": 141,
+              "url": "https://t.co/flf774oH4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103265381901292013",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103265355368181760"
+          },
+          {
+            "media_key": "3_2103265360606826496"
+          },
+          {
+            "media_key": "3_2103265367468744704"
+          },
+          {
+            "media_key": "3_2103265375035293696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我养过的动物不是很多\n\n猫有三只，狗有五条\n\n领养过，救助过，也买过\n\n参与动物保护的契机也只是家里买的泰迪被偷了\n\n后来才在不断的动物保护活动中逐渐理解动物保护的意义\n\n正因如此，我才更会反对私刑\n\n使用私刑是底层逻辑上的自我矛盾\n\n这些在网上喊打喊杀的人\n\n声势浩大，行事极端\n\n倒是让我第一次出现“原来动保人手这么多”的错觉\n\n绝大多数的TNR团队长期缺人\n\n多几个弃养的傻逼，前面的努力又要白费\n\n也不知道这些在网上扣字动保的人有没有经历过但凡一次在半夜巡笼\n\n要是这些人能去真实投入到动保活动，哪怕一半，动保都不会像如今这样难以推进\n\n毕竟借着“动保”话题扣两个字体现一下你们的妒恶如仇以后\n\n“动保”对于你们来说便不再有价值了\n\n反倒是“动保”被你们不断污名化成为了某种“极端暴力”的代名词\n\n在我眼里，你们跟虐猫蛆同样可恨"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 777,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我养过的动物不是很多\n\n猫有三只，狗有五条\n\n领养过，救助过，也买过\n\n参与动物保护的契机也只是家里买的泰迪被偷了\n\n后来才在不断的动物保护活动中逐渐理解动物保护的意义\n\n正因如此，我才更会反对私刑\n\n使用私刑是底层逻辑上的自我矛盾\n\n这些在网上喊打喊杀的人\n\n声势浩大，行事极端 https://t.co/flf774oH4w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2103431700311388535",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 1147,
+          "like_count": 3147,
+          "listed_count": 4,
+          "media_count": 656,
+          "tweet_count": 4668
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-24T12:28:08.000Z",
+        "description": "生活需要笑容，气笑了也是笑了",
+        "id": "1716793662510940160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103427187580010927",
+        "name": "AAA饼干打孔污师傅",
+        "pinned_tweet_id": "2103265381901292013",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062435608862314496/sZA3daqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 213,
+          "like_count": 681,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 2447
+        },
+        "url": "",
+        "username": "TekeLili222",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

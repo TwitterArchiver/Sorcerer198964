@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2101652067840643206",
+    "created_at": "2026-09-20T19:29:59.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T20:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101755771038081513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1854921049990643712",
+          "start": 0,
+          "username": "QanQan77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101755771038081513",
+    "in_reply_to_user_id": "1854921049990643712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101739075002839405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QanQan77 这就是粉的啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2101652067840643206",
+        "created_at": "2026-09-20T19:29:59.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T20:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101755771038081513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1854921049990643712",
+              "start": 0,
+              "username": "QanQan77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101755771038081513",
+        "in_reply_to_user_id": "1854921049990643712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101739075002839405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QanQan77 这就是粉的啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854921049990643712",
+        "conversation_id": "2101652067840643206",
+        "created_at": "2026-09-20T18:23:38.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T19:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101739075002839405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101739075002839405",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101652067840643206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 不是粉魔爪扣分"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2101755771038081513",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 1146,
+          "like_count": 3061,
+          "listed_count": 4,
+          "media_count": 644,
+          "tweet_count": 4567
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-08T16:17:05.000Z",
+        "description": "带证含糖🍥/同类互fo喵/中科院某所硕士在读大模型方向/现货+永续合约/控梦/多意识体(四位)/性瘾/双相/",
+        "id": "1854921049990643712",
+        "is_identity_verified": false,
+        "location": "London, England",
+        "most_recent_tweet_id": "2101749016140960020",
+        "name": "蛋挞喵🍥🏳‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084165169987600384/fNQKSoHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 461,
+          "like_count": 180,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "QanQan77",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

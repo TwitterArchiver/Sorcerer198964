@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2102035523208614309",
+    "created_at": "2026-09-21T14:01:37.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T15:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102035523208614309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813768883540725760",
+          "start": 3,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102035523208614309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101994876095336471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ye_and_yae: 第一次，跟xyn面基…大家都好可爱…\n我好紧张😰\n女生聚会混进去一个男生的感觉那种…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2102035523208614309",
+        "created_at": "2026-09-21T14:01:37.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102035523208614309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813768883540725760",
+              "start": 3,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102035523208614309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101994876095336471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ye_and_yae: 第一次，跟xyn面基…大家都好可爱…\n我好紧张😰\n女生聚会混进去一个男生的感觉那种…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813768883540725760",
+        "conversation_id": "2101994876095336471",
+        "created_at": "2026-09-21T11:20:06.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T12:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101994876095336471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101994876095336471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1453,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一次，跟xyn面基…大家都好可爱…\n我好紧张😰\n女生聚会混进去一个男生的感觉那种…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2102035523208614309",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 1148,
+          "like_count": 3092,
+          "listed_count": 4,
+          "media_count": 646,
+          "tweet_count": 4589
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "0126\n170/55\n不可爱的男娘\n啥也不会画的画家\n不懂航天的星舰爱好者\n一句日语也不会说的日语学习者\n最最最最最好的朋友 @guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/cd2rHaLqOI"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2102033129552880038",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2099339418234736908",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2184,
+          "following_count": 1503,
+          "like_count": 14025,
+          "listed_count": 3,
+          "media_count": 728,
+          "tweet_count": 5934
+        },
+        "url": "https://t.co/cd2rHaLqOI",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

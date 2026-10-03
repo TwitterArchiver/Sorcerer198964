@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2101629867401826798",
+    "created_at": "2026-09-20T12:56:33.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T13:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101656763351335401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1076746882494263297",
+          "start": 0,
+          "username": "jiejinghua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101656763351335401",
+    "in_reply_to_user_id": "1076746882494263297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101629867401826798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiejinghua 又偷浪友文案"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2101629867401826798",
+        "created_at": "2026-09-20T12:56:33.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101656763351335401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1076746882494263297",
+              "start": 0,
+              "username": "jiejinghua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101656763351335401",
+        "in_reply_to_user_id": "1076746882494263297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101629867401826798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiejinghua 又偷浪友文案"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1076746882494263297",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2101629867401826798",
+        "created_at": "2026-09-20T11:09:41.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101629867401826798"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101629867401826798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药圈资历，你让人着魔！\n每每看到药圈老资历们用着我看不懂的术语谈笑风生时 我钻破脑袋都想加入进去 看到疑似味很大的o友时我都要再三确认这不是老资历反串才敢心里窃喜的打出标记这两个字 每每你们发着各种化学原料 各种不同的药品我都羞愧的不敢发一句话 我好恨自己不是药圈老资历！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2101656763351335401",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 1143,
+          "like_count": 3049,
+          "listed_count": 4,
+          "media_count": 643,
+          "tweet_count": 4557
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-23T07:50:36.000Z",
+        "description": "欢迎互fo，小众亚文化论坛，科普与论坛一体，支持药物旅程可视化工具。请勿滥用药物。免费提供用药科普请DM。交朋友私信，关注结晶化谢谢喵\n\n长期寻找广告合作有意私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "https://www.crystallize.club",
+                "start": 0,
+                "url": "https://t.co/VMFYr9sSC9"
+              }
+            ]
+          }
+        },
+        "id": "1076746882494263297",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101629867401826798",
+        "name": "结晶化 - 亚文化论坛",
+        "pinned_tweet_id": "2098619586694316423",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076746882494263297/1786694370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087952398765711361/6XBstVGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 196,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/VMFYr9sSC9",
+        "username": "jiejinghua",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

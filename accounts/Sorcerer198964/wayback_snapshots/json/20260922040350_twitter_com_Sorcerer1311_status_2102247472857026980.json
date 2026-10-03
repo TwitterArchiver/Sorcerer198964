@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2102247472857026980",
+    "created_at": "2026-09-22T04:03:50.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T05:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102247472857026980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1908894436169502720",
+          "start": 3,
+          "username": "Magkyusejinki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102247472857026980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101693787101946122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Magkyusejinki: 咱其实一直有点抵触性行为呢，不愿意做出包括自慰在内的事，只有在无法压制时才会进行自慰喵(碎碎念喵)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2102247472857026980",
+        "created_at": "2026-09-22T04:03:50.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102247472857026980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1908894436169502720",
+              "start": 3,
+              "username": "Magkyusejinki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102247472857026980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101693787101946122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Magkyusejinki: 咱其实一直有点抵触性行为呢，不愿意做出包括自慰在内的事，只有在无法压制时才会进行自慰喵(碎碎念喵)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908894436169502720",
+        "conversation_id": "2101693787101946122",
+        "created_at": "2026-09-20T15:23:41.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101693787101946122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101693787101946122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5220,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "咱其实一直有点抵触性行为呢，不愿意做出包括自慰在内的事，只有在无法压制时才会进行自慰喵(碎碎念喵)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2102247472857026980",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 1150,
+          "like_count": 3101,
+          "listed_count": 4,
+          "media_count": 650,
+          "tweet_count": 4605
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T14:48:27.000Z",
+        "description": "｜出生:2009.04.16｜HRT：——｜无证含糖(已中断)｜喜欢听音乐，喜欢养植物，喜欢Undertale&AUs｜od｜头像来源：@suisei_1121｜闺蜜：@ansiyao520｜姐姐：@KanoYumoe｜QQ：3783134292｜咱有时候会发一些莫名其妙的东西，无视掉就好喵｜咱的私信用不了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "suisei_1121"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "ansiyao520"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "KanoYumoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Magkyusejinki",
+                "end": 23,
+                "expanded_url": "http://t.me/Magkyusejinki",
+                "start": 0,
+                "url": "https://t.co/GrGm5xzoxk"
+              }
+            ]
+          }
+        },
+        "id": "1908894436169502720",
+        "is_identity_verified": false,
+        "location": "索科特拉岛",
+        "most_recent_tweet_id": "2102242491185688805",
+        "name": "枫糖MapleSugar🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2092929377764098311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908894436169502720/1777559950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067853075789086720/EIVz5v3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 791,
+          "like_count": 10445,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1155
+        },
+        "url": "https://t.co/GrGm5xzoxk",
+        "username": "Magkyusejinki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

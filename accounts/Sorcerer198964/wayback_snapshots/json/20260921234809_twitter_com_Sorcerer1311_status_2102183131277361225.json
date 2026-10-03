@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2102057317357490657",
+    "created_at": "2026-09-21T23:48:09.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T00:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102183131277361225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2036431003158454277",
+          "start": 0,
+          "username": "realimmort"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102183131277361225",
+    "in_reply_to_user_id": "2036431003158454277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102171035890237860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realimmort 十一左右南京上海"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2102057317357490657",
+        "created_at": "2026-09-21T23:48:09.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T00:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102183131277361225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2036431003158454277",
+              "start": 0,
+              "username": "realimmort"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102183131277361225",
+        "in_reply_to_user_id": "2036431003158454277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102171035890237860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realimmort 十一左右南京上海"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036431003158454277",
+        "conversation_id": "2102057317357490657",
+        "created_at": "2026-09-21T23:00:06.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T00:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102171035890237860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102171035890237860",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102057317357490657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 什么时候北上"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2102183131277361225",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 1148,
+          "like_count": 3096,
+          "listed_count": 4,
+          "media_count": 647,
+          "tweet_count": 4597
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-24T13:13:04.000Z",
+        "description": "双相，精神近乎崩溃中，情绪控制力弱，精神敏感脆弱，深柜无证🍬，极度封建且迷信家庭，超地狱开局。木桶饭可互fo喵，如果感到青睐，可以叫我阿月\n🚪52，老牌魔法少女，全国可✈️",
+        "id": "2036431003158454277",
+        "is_identity_verified": false,
+        "location": "天国寰宇",
+        "most_recent_tweet_id": "2102182829610455342",
+        "name": "Immort🍥🏳️‍⚧️极度限流版",
+        "pinned_tweet_id": "2099190435642229231",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036431003158454277/1775569026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098067884761399296/c7ZfONGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 69,
+          "like_count": 1049,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 972
+        },
+        "url": "",
+        "username": "realimmort",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

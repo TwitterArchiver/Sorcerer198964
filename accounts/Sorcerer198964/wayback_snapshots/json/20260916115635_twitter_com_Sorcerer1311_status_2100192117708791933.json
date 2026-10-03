@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2100192117708791933",
+    "created_at": "2026-09-16T11:56:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T12:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100192117708791933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2801561021",
+          "start": 3,
+          "username": "QimoHK300311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100192117708791933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100190654475141219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QimoHK300311: 今天面基了面条和索瑟尔\n我现在看到精神药品四个字我是真ptsd了，虽然说昨天精神失常到我现在都快忘掉昨天的所有经历了，但是我当时在医院洗胃的那个感觉是真难受以后真不敢了\n连用NDRI和BZD并超医嘱使用，一个抑制剂一个再摄取抑制剂，一个拮抗受…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2100190505451601920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVgIy4XQAAQquy.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2100192117708791933",
+        "created_at": "2026-09-16T11:56:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100192117708791933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2801561021",
+              "start": 3,
+              "username": "QimoHK300311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100192117708791933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100190654475141219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QimoHK300311: 今天面基了面条和索瑟尔\n我现在看到精神药品四个字我是真ptsd了，虽然说昨天精神失常到我现在都快忘掉昨天的所有经历了，但是我当时在医院洗胃的那个感觉是真难受以后真不敢了\n连用NDRI和BZD并超医嘱使用，一个抑制剂一个再摄取抑制剂，一个拮抗受…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100190505451601920"
+          ]
+        },
+        "author_id": "2801561021",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100190654475141219",
+        "created_at": "2026-09-16T11:50:46.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100190654475141219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xoVNxdoCMA",
+              "end": 171,
+              "expanded_url": "https://x.com/QimoHK300311/status/2100190654475141219/photo/1",
+              "media_key": "3_2100190505451601920",
+              "start": 148,
+              "url": "https://t.co/xoVNxdoCMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100190654475141219",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100190505451601920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天面基了面条和索瑟尔\n我现在看到精神药品四个字我是真ptsd了，虽然说昨天精神失常到我现在都快忘掉昨天的所有经历了，但是我当时在医院洗胃的那个感觉是真难受以后真不敢了\n连用NDRI和BZD并超医嘱使用，一个抑制剂一个再摄取抑制剂，一个拮抗受体一个增加血药浓度\n说直白一点我昨天就是在左右脑互搏 https://t.co/xoVNxdoCMA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2100192117708791933",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1134,
+          "like_count": 2979,
+          "listed_count": 4,
+          "media_count": 632,
+          "tweet_count": 4499
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-03T07:53:19.000Z",
+        "description": "我爱你们，每一天都要明天再见哦mua～\n生产年月2011.05/可以叫我齐墨/常驻广东佛山(广州随机出没)/已出柜+半家长党(？,小证含🍥)/hrt:2025.05.09/高一住校/业余无线电爱好者(BG7MUW)/状态焦虑抑郁/一代目@HKQimo300311\n生来夏花，死时秋叶 --《飞鸟集》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "HKQimo300311"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BG7MUW-Not-Website.com",
+                "end": 23,
+                "expanded_url": "http://BG7MUW-Not-Website.com",
+                "start": 0,
+                "url": "https://t.co/LBSe4QLkeW"
+              }
+            ]
+          }
+        },
+        "id": "2801561021",
+        "is_identity_verified": false,
+        "location": "跨性别小药娘大学舞萌专业",
+        "most_recent_tweet_id": "2100192065841700985",
+        "name": "HK_本人qimo丶🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2094078281301520788",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2801561021/1789235243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086507922842886144/E22iiww__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 216,
+          "like_count": 692,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/LBSe4QLkeW",
+        "username": "QimoHK300311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2104167071412293811",
+    "created_at": "2026-09-27T13:12:53.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T14:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104197587050123684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1565591413282476033",
+          "start": 0,
+          "username": "sakanadesu0449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104197587050123684",
+    "in_reply_to_user_id": "1565591413282476033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104167071412293811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakanadesu0449 已笑嘻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2100,
+        "media_key": "3_2104167003602993152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOAvc3awAA0ZMa.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2104167071412293811",
+        "created_at": "2026-09-27T13:12:53.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104197587050123684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1565591413282476033",
+              "start": 0,
+              "username": "sakanadesu0449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104197587050123684",
+        "in_reply_to_user_id": "1565591413282476033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104167071412293811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakanadesu0449 已笑嘻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104167003602993152"
+          ]
+        },
+        "author_id": "1565591413282476033",
+        "conversation_id": "2104167071412293811",
+        "created_at": "2026-09-27T11:11:38.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104167071412293811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fcP6kbIGo4",
+              "end": 29,
+              "expanded_url": "https://x.com/sakanadesu0449/status/2104167071412293811/photo/1",
+              "media_key": "3_2104167003602993152",
+              "start": 6,
+              "url": "https://t.co/fcP6kbIGo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104167071412293811",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104167003602993152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1612,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请输入文本 https://t.co/fcP6kbIGo4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜交易员｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2104197587050123684",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 1157,
+          "like_count": 3192,
+          "listed_count": 4,
+          "media_count": 665,
+          "tweet_count": 4698
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-02T06:44:26.000Z",
+        "description": "誰より太陽を嫌うあたしはシーラカンス      \n比任何人都讨厌太阳的我是空棘鱼",
+        "id": "1565591413282476033",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104193268632473848",
+        "name": "魚",
+        "pinned_tweet_id": "2039984023238545866",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565591413282476033/1724876178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779263333759385600/G6OBkG5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 2535,
+          "like_count": 22204,
+          "listed_count": 6,
+          "media_count": 3030,
+          "tweet_count": 22571
+        },
+        "url": "",
+        "username": "sakanadesu0449",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2100926094098727220",
+    "created_at": "2026-09-18T17:42:32.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T18:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101003957946687949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "919628976208752640",
+          "start": 0,
+          "username": "BaitangToubao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101003957946687949",
+    "in_reply_to_user_id": "919628976208752640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100989937982022035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaitangToubao 刚提的今天就撞了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2100926094098727220",
+        "created_at": "2026-09-18T17:42:32.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101003957946687949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "919628976208752640",
+              "start": 0,
+              "username": "BaitangToubao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101003957946687949",
+        "in_reply_to_user_id": "919628976208752640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100989937982022035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaitangToubao 刚提的今天就撞了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "919628976208752640",
+        "conversation_id": "2100926094098727220",
+        "created_at": "2026-09-18T16:46:50.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100989937982022035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100989937982022035",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100926094098727220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 哇哦，小辣堡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2101003957946687949",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 1142,
+          "like_count": 3001,
+          "listed_count": 4,
+          "media_count": 636,
+          "tweet_count": 4523
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2017-10-15T18:20:08.000Z",
+        "description": "BPD AuDHD积极治疗｜瑾瑾@K66cheng｜暖男、良人、正人君子@Leaf_Fallfield｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "K66cheng"
+              },
+              {
+                "end": 51,
+                "start": 36,
+                "username": "Leaf_Fallfield"
+              }
+            ]
+          }
+        },
+        "id": "919628976208752640",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100989937982022035",
+        "name": "白糖豆包🍥🏳️‍🌈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/919628976208752640/1772584867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028994061185728512/oDlbqhBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 679,
+          "like_count": 38927,
+          "listed_count": 3,
+          "media_count": 770,
+          "tweet_count": 8908
+        },
+        "url": "",
+        "username": "BaitangToubao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

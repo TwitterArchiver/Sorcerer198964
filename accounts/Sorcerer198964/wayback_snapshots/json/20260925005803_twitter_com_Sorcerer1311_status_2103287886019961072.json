@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2103089014404522028",
+    "created_at": "2026-09-25T00:58:03.000Z",
+    "display_text_range": [
+      13,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T01:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103287886019961072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836742777637601280",
+          "start": 0,
+          "username": "CarrotJuicc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103287886019961072",
+    "in_reply_to_user_id": "1836742777637601280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103284057278919154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarrotJuicc 包是假新闻的，但是不妨仍有一堆支持者\n就如“有关贫困生能不能喝咖啡的大讨论”一样\n这只是议题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2103089014404522028",
+        "created_at": "2026-09-25T00:58:03.000Z",
+        "display_text_range": [
+          13,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T01:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103287886019961072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836742777637601280",
+              "start": 0,
+              "username": "CarrotJuicc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103287886019961072",
+        "in_reply_to_user_id": "1836742777637601280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103284057278919154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarrotJuicc 包是假新闻的，但是不妨仍有一堆支持者\n就如“有关贫困生能不能喝咖啡的大讨论”一样\n这只是议题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836742777637601280",
+        "conversation_id": "2103089014404522028",
+        "created_at": "2026-09-25T00:42:51.000Z",
+        "display_text_range": [
+          14,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T01:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103284057278919154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103284057278919154",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103089014404522028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 首先，这是假新闻，你会发现没有任何路人目击旁观也没有任何公告"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2103287886019961072",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 1153,
+          "like_count": 3138,
+          "listed_count": 4,
+          "media_count": 654,
+          "tweet_count": 4646
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-19T12:23:14.000Z",
+        "description": "I'm still thinking about my crickets  \neach and every one of them full of loyalty and affection",
+        "id": "1836742777637601280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103286059446775890",
+        "name": "Char &",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836742777637601280/1734301041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043744590042411009/3SiubICb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 319,
+          "like_count": 1427,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "CarrotJuicc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

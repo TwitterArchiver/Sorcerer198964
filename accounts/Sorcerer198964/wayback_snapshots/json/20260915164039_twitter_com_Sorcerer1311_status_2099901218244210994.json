@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2099899171482579098",
+    "created_at": "2026-09-15T16:40:39.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099901218244210994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748688710307115008",
+          "start": 0,
+          "username": "nine_and_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099901218244210994",
+    "in_reply_to_user_id": "1748688710307115008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099899171482579098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nine_and_9 早点睡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2099899171482579098",
+        "created_at": "2026-09-15T16:40:39.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099901218244210994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748688710307115008",
+              "start": 0,
+              "username": "nine_and_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099901218244210994",
+        "in_reply_to_user_id": "1748688710307115008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099899171482579098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nine_and_9 早点睡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748688710307115008",
+        "conversation_id": "2099899171482579098",
+        "created_at": "2026-09-15T16:32:31.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099899171482579098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099899171482579098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "寂しくて"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2099901218244210994",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 1134,
+          "like_count": 2950,
+          "listed_count": 4,
+          "media_count": 629,
+          "tweet_count": 4485
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T12:47:43.000Z",
+        "description": "",
+        "id": "1748688710307115008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099899171482579098",
+        "name": "九某人",
+        "pinned_tweet_id": "2040311755105255633",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748688710307115008/1714200338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748689466552942592/cN2J5xLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 222,
+          "like_count": 2198,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1602
+        },
+        "url": "",
+        "username": "nine_and_9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

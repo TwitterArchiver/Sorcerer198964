@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2099901994605687192",
+    "created_at": "2026-09-15T16:43:44.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T17:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099901994605687192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2099865823703605476",
+          "start": 60,
+          "url": "https://t.co/2C1DSCMSEa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099901994605687192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099865823703605476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了你不喝有的是人喝\n奶茶店员都没双休了还需要为你这个道德需求去消费有双休的企业产品是吗\n那还真是损不足以奉有余呢 https://t.co/2C1DSCMSEa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 444833,
+        "height": 480,
+        "media_key": "13_2099795514695057408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099795514695057408/img/pddsZ9ymQMuDQ7pw.jpg",
+        "public_metrics": {
+          "view_count": 19428
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099795514695057408/vid/avc1/478x270/gKoxomg_-ZUDxLeE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099795514695057408/vid/avc1/638x360/nh9k9Y0An5rg_veH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099795514695057408/vid/avc1/852x480/4XiNnhci-apmLw1j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099795514695057408/pl/MS29vPnXii9EkcDL.m3u8?v=1cc"
+          }
+        ],
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2099901994605687192",
+        "created_at": "2026-09-15T16:43:44.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T17:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099901994605687192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2099865823703605476",
+              "start": 60,
+              "url": "https://t.co/2C1DSCMSEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099901994605687192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099865823703605476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了你不喝有的是人喝\n奶茶店员都没双休了还需要为你这个道德需求去消费有双休的企业产品是吗\n那还真是损不足以奉有余呢 https://t.co/2C1DSCMSEa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099795514695057408"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099865823703605476",
+        "created_at": "2026-09-15T14:20:00.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099865823703605476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3CzqYA8CMz",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2099865823703605476/video/1",
+              "media_key": "13_2099795514695057408",
+              "start": 112,
+              "url": "https://t.co/3CzqYA8CMz"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2099498408247492870",
+              "start": 136,
+              "url": "https://t.co/xar7fDChPn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099865823703605476",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099795514695057408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "9月11日，一博主发布视频《抱歉，不遵守劳动法的奶茶我不喝😡！》，连续走访多家奶茶及甜品门店，询问员工每天排班多久、每月休息几天。\n\n多名店员口述每天排班约9至10.5小时，有人称每月仅休3至4天，或一个月需要上班26天。\n\n直到最后一家门店，店员称有较短班次，时薪为23元，作者认为劳动条件相对较好，才选择在那里消费，并追问门店是否招人。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 56612,
+          "like_count": 214,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099498408247492870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "9月11日，一博主发布视频《抱歉，不遵守劳动法的奶茶我不喝😡！》，连续走访多家奶茶及甜品门店，询问员工每天排班多久、每月休息几天。\n\n多名店员口述每天排班约9至10.5小时，有人称每月仅休3至4天，或一个月需要上班26天。 https://t.co/3CzqYA8CMz https://t.co/xar7fDChPn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2099901994605687192",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 1134,
+          "like_count": 2950,
+          "listed_count": 4,
+          "media_count": 629,
+          "tweet_count": 4486
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2099901054146261010",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2262728,
+          "following_count": 1084,
+          "like_count": 10501,
+          "listed_count": 8904,
+          "media_count": 53783,
+          "tweet_count": 61118
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

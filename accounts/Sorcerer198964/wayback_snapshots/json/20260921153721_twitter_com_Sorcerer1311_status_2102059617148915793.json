@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2102059617148915793",
+    "created_at": "2026-09-21T15:37:21.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T16:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102059617148915793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer1311"
+        },
+        {
+          "end": 32,
+          "id": "1442362841193795593",
+          "start": 18,
+          "username": "kusunoki_riko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102059617148915793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102059540632236066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer1311: @kusunoki_riko 不怎么好吃的，要稍微好吃得加肉饼（加钱），土豆面包比较有特色（我不喜欢酵味太重的面包）\n要想理解这家店就得理解同生态位的wagas，gaga这类品牌，究竟是如何让人心甘情愿接受五六十一碗的沙拉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2102059617148915793",
+        "created_at": "2026-09-21T15:37:21.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102059617148915793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer1311"
+            },
+            {
+              "end": 32,
+              "id": "1442362841193795593",
+              "start": 18,
+              "username": "kusunoki_riko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102059617148915793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102059540632236066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer1311: @kusunoki_riko 不怎么好吃的，要稍微好吃得加肉饼（加钱），土豆面包比较有特色（我不喜欢酵味太重的面包）\n要想理解这家店就得理解同生态位的wagas，gaga这类品牌，究竟是如何让人心甘情愿接受五六十一碗的沙拉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2101988083570819373",
+        "created_at": "2026-09-21T15:37:03.000Z",
+        "display_text_range": [
+          15,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102059540632236066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442362841193795593",
+              "start": 0,
+              "username": "kusunoki_riko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102059540632236066",
+        "in_reply_to_user_id": "1442362841193795593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101988083570819373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusunoki_riko 不怎么好吃的，要稍微好吃得加肉饼（加钱），土豆面包比较有特色（我不喜欢酵味太重的面包）\n要想理解这家店就得理解同生态位的wagas，gaga这类品牌，究竟是如何让人心甘情愿接受五六十一碗的沙拉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2102059617148915793",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 1149,
+          "like_count": 3093,
+          "listed_count": 4,
+          "media_count": 647,
+          "tweet_count": 4594
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T05:38:10.000Z",
+        "description": "是非在己，毁誉由人，得失不论‖\n匿名提问箱：\nhttps://t.co/N7GBPQKIYY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/bxigpwgwwmbr8e…",
+                "end": 46,
+                "expanded_url": "https://marshmallow-qa.com/bxigpwgwwmbr8e0?t=le0DzQ&utm_medium=url_text&utm_source=promotion",
+                "start": 23,
+                "url": "https://t.co/N7GBPQKIYY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kusunoki_riko",
+                "end": 23,
+                "expanded_url": "https://t.me/kusunoki_riko",
+                "start": 0,
+                "url": "https://t.co/n7zJdOnlgI"
+              }
+            ]
+          }
+        },
+        "id": "1442362841193795593",
+        "is_identity_verified": false,
+        "location": "此心安处是吾乡",
+        "most_recent_tweet_id": "2102056700199178732",
+        "name": "楠•理子",
+        "pinned_tweet_id": "2083491575318155443",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442362841193795593/1787237632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100028633796792320/MIvBOdhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8280,
+          "following_count": 1682,
+          "like_count": 110397,
+          "listed_count": 32,
+          "media_count": 4638,
+          "tweet_count": 60815
+        },
+        "url": "https://t.co/n7zJdOnlgI",
+        "username": "kusunoki_riko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

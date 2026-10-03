@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2100138605817774118",
+    "created_at": "2026-09-16T12:51:44.000Z",
+    "display_text_range": [
+      8,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T13:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100205999051419868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1924482734396997632",
+          "start": 0,
+          "username": "_vvni_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100205999051419868",
+    "in_reply_to_user_id": "1924482734396997632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100138605817774118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_vvni_ 炒币不算赌？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2100138605817774118",
+        "created_at": "2026-09-16T12:51:44.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100205999051419868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1924482734396997632",
+              "start": 0,
+              "username": "_vvni_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100205999051419868",
+        "in_reply_to_user_id": "1924482734396997632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100138605817774118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_vvni_ 炒币不算赌？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924482734396997632",
+        "conversation_id": "2100138605817774118",
+        "created_at": "2026-09-16T08:23:56.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100138605817774118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huhu12027596/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/huhu12027596/status/2099793596417282294",
+              "start": 16,
+              "url": "https://t.co/jU2DsuM5pn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100138605817774118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099793596417282294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为只有赌是从来没有被美化过的 https://t.co/jU2DsuM5pn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2100205999051419868",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1134,
+          "like_count": 2984,
+          "listed_count": 4,
+          "media_count": 632,
+          "tweet_count": 4501
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-19T15:11:13.000Z",
+        "description": "一般路过",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/christina40514",
+                "end": 23,
+                "expanded_url": "https://ngl.link/christina40514",
+                "start": 0,
+                "url": "https://t.co/VZuVq6bf2k"
+              }
+            ]
+          }
+        },
+        "id": "1924482734396997632",
+        "is_identity_verified": false,
+        "location": "被窝",
+        "most_recent_tweet_id": "2100174510427451715",
+        "name": "Vvni(发不出回复版)",
+        "pinned_tweet_id": "2066567996567339234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1924482734396997632/1760787529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 358,
+          "like_count": 54484,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1721
+        },
+        "url": "https://t.co/VZuVq6bf2k",
+        "username": "_vvni_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

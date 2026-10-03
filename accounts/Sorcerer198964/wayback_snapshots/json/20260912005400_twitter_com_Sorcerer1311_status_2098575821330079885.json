@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2098430371658662096",
+    "created_at": "2026-09-12T00:54:00.000Z",
+    "display_text_range": [
+      30,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T01:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098575821330079885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "722248615716978688",
+          "start": 0,
+          "username": "Kong_Hank"
+        },
+        {
+          "end": 19,
+          "id": "1945334723628437504",
+          "start": 11,
+          "username": "10xmx01"
+        },
+        {
+          "end": 29,
+          "id": "1884546510919979008",
+          "start": 20,
+          "username": "iamThuja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098575821330079885",
+    "in_reply_to_user_id": "722248615716978688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098516217703321606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kong_Hank @10xmx01 @iamThuja 塞奈普汀其实是抗抑郁药，高剂量才有阿片效果\n这个管制不严格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2098430371658662096",
+        "created_at": "2026-09-12T00:54:00.000Z",
+        "display_text_range": [
+          30,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T01:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098575821330079885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "722248615716978688",
+              "start": 0,
+              "username": "Kong_Hank"
+            },
+            {
+              "end": 19,
+              "id": "1945334723628437504",
+              "start": 11,
+              "username": "10xmx01"
+            },
+            {
+              "end": 29,
+              "id": "1884546510919979008",
+              "start": 20,
+              "username": "iamThuja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098575821330079885",
+        "in_reply_to_user_id": "722248615716978688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098516217703321606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kong_Hank @10xmx01 @iamThuja 塞奈普汀其实是抗抑郁药，高剂量才有阿片效果\n这个管制不严格"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "722248615716978688",
+        "conversation_id": "2098430371658662096",
+        "created_at": "2026-09-11T20:57:09.000Z",
+        "display_text_range": [
+          19,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T21:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098516217703321606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945334723628437504",
+              "start": 0,
+              "username": "10xmx01"
+            },
+            {
+              "end": 18,
+              "id": "1884546510919979008",
+              "start": 9,
+              "username": "iamThuja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098516217703321606",
+        "in_reply_to_user_id": "1945334723628437504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098512330170695895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10xmx01 @iamThuja 有什么误解，不就是鸦片，吗啡、可待因、芬太尼，美沙酮，羟考酮一类的，这都是严格管制的处方药，我真没见过哪个药店卖这些的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2098575821330079885",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 1120,
+          "like_count": 2868,
+          "listed_count": 4,
+          "media_count": 620,
+          "tweet_count": 4401
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-19T02:21:03.000Z",
+        "description": "赛博乐子人，喜欢鼓捣点AI，不嘴臭不站队。",
+        "id": "722248615716978688",
+        "is_identity_verified": false,
+        "location": "Uranus",
+        "most_recent_tweet_id": "2098545314429010413",
+        "name": "清郎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/722248615716978688/1468668207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998005078113095680/QHJ0qXyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 1077,
+          "like_count": 494,
+          "listed_count": 6,
+          "media_count": 763,
+          "tweet_count": 11681
+        },
+        "url": "",
+        "username": "Kong_Hank",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T04:09:04.000Z",
+        "description": "ADHD\n无用的人",
+        "id": "1945334723628437504",
+        "is_identity_verified": false,
+        "location": "五角场",
+        "most_recent_tweet_id": "2098512330170695895",
+        "name": "鲨比OUO",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945334723628437504/1786356628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098111774931460096/vg-SzOT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 111,
+          "like_count": 31351,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1383
+        },
+        "url": "",
+        "username": "10xmx01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "@theRealThuja唯一小号，@notThujaS原老号。默认一切到处瞎鉴证追着叫的嗣爹嗣妈/亚文化头号粪海狂蛆（我线下真不是大老粗，喝高了会泄露隐私⛔️先去问AI查我成分立场再开火好不，各位\\\\欢迎勇士把我搬回墙里，感激不尽（我是直男。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "theRealThuja"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "notThujaS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "is_identity_verified": false,
+        "location": "航天基地中心区总裁室（距您85m）",
+        "most_recent_tweet_id": "2098548357258183063",
+        "name": "岑柏今天堵桥了吗（扫狐狸没有在千恋万花打折时为了丛雨忍痛买正版不快进打完从雨线结果发现从雨一点也不平",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884546510919979008/1789111605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095477013247348736/45QoLpbE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 1035,
+          "like_count": 10293,
+          "listed_count": 6,
+          "media_count": 416,
+          "tweet_count": 4554
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThuja",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

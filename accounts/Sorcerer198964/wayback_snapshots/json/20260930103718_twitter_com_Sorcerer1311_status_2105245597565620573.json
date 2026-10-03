@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104833449236602880"
+      ],
+      "media_source_tweet_id": [
+        "2104833472871448819"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2105245597565620573",
+    "created_at": "2026-09-30T10:37:18.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T11:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105245597565620573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "976835906324914180",
+          "start": 3,
+          "username": "Fuerodee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ty6urIHuO9",
+          "end": 105,
+          "expanded_url": "https://x.com/Fuerodee/status/2104833472871448819/photo/1",
+          "media_key": "3_2104833449236602880",
+          "start": 82,
+          "url": "https://t.co/Ty6urIHuO9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105245597565620573",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104833449236602880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104833472871448819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuerodee: 你妈的恐怖分子，老子一个普通人，当年的恐怖袭击造成我身受重伤，被医生缝了7针，你们寻求美国政府的庇护，却忘了当年在新疆犯过的种种罪恶！ https://t.co/Ty6urIHuO9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2104833449236602880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXe3sUboAA96nX.jpg",
+        "width": 669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104833449236602880"
+          ],
+          "media_source_tweet_id": [
+            "2104833472871448819"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2105245597565620573",
+        "created_at": "2026-09-30T10:37:18.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105245597565620573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "976835906324914180",
+              "start": 3,
+              "username": "Fuerodee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ty6urIHuO9",
+              "end": 105,
+              "expanded_url": "https://x.com/Fuerodee/status/2104833472871448819/photo/1",
+              "media_key": "3_2104833449236602880",
+              "start": 82,
+              "url": "https://t.co/Ty6urIHuO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105245597565620573",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104833449236602880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104833472871448819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuerodee: 你妈的恐怖分子，老子一个普通人，当年的恐怖袭击造成我身受重伤，被医生缝了7针，你们寻求美国政府的庇护，却忘了当年在新疆犯过的种种罪恶！ https://t.co/Ty6urIHuO9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104833449236602880"
+          ]
+        },
+        "author_id": "976835906324914180",
+        "conversation_id": "2104833472871448819",
+        "created_at": "2026-09-29T07:19:40.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T08:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104833472871448819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ty6urIHuO9",
+              "end": 91,
+              "expanded_url": "https://x.com/Fuerodee/status/2104833472871448819/photo/1",
+              "media_key": "3_2104833449236602880",
+              "start": 68,
+              "url": "https://t.co/Ty6urIHuO9"
+            },
+            {
+              "display_url": "x.com/fuerodee/statu…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/fuerodee/status/2103768989516329265",
+              "start": 92,
+              "url": "https://t.co/b7LPsYqA53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104833472871448819",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104833449236602880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 216932,
+          "like_count": 1964,
+          "quote_count": 8,
+          "reply_count": 81,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103768989516329265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈的恐怖分子，老子一个普通人，当年的恐怖袭击造成我身受重伤，被医生缝了7针，你们寻求美国政府的庇护，却忘了当年在新疆犯过的种种罪恶！ https://t.co/Ty6urIHuO9 https://t.co/b7LPsYqA53"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜交易员｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2105245597565620573",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 1169,
+          "like_count": 3232,
+          "listed_count": 3,
+          "media_count": 673,
+          "tweet_count": 4741
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-03-22T15:00:03.000Z",
+        "description": "漢兒盡作胡兒語 ，卻上城頭罵漢人。",
+        "id": "976835906324914180",
+        "is_identity_verified": false,
+        "location": "中华人民共和国",
+        "most_recent_tweet_id": "2105229410265870525",
+        "name": "丨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/976835906324914180/1666473714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098757949208592384/7_oaBlRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2685,
+          "following_count": 301,
+          "like_count": 10748,
+          "listed_count": 22,
+          "media_count": 1219,
+          "tweet_count": 8980
+        },
+        "url": "",
+        "username": "Fuerodee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

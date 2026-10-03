@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2101157827192426807",
+    "created_at": "2026-09-19T04:28:11.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T05:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101166439629717902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "919628976208752640",
+          "start": 0,
+          "username": "BaitangToubao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101166439629717902",
+    "in_reply_to_user_id": "919628976208752640",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101157827192426807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaitangToubao xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2101157335431368704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjPdtOX0AAhoWR.jpg",
+        "width": 4032
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2101157335389360128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjPdtEW0AAYvbs.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2101157335452233728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjPdtTWMAASAFQ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2101157827192426807",
+        "created_at": "2026-09-19T04:28:11.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101166439629717902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "919628976208752640",
+              "start": 0,
+              "username": "BaitangToubao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101166439629717902",
+        "in_reply_to_user_id": "919628976208752640",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101157827192426807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaitangToubao xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101157335431368704",
+            "3_2101157335389360128",
+            "3_2101157335452233728"
+          ]
+        },
+        "author_id": "919628976208752640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101157827192426807",
+        "created_at": "2026-09-19T03:53:58.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101157827192426807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZRrLE5DA7",
+              "end": 29,
+              "expanded_url": "https://x.com/BaitangToubao/status/2101157827192426807/photo/1",
+              "media_key": "3_2101157335431368704",
+              "start": 6,
+              "url": "https://t.co/2ZRrLE5DA7"
+            },
+            {
+              "display_url": "pic.x.com/2ZRrLE5DA7",
+              "end": 29,
+              "expanded_url": "https://x.com/BaitangToubao/status/2101157827192426807/photo/1",
+              "media_key": "3_2101157335389360128",
+              "start": 6,
+              "url": "https://t.co/2ZRrLE5DA7"
+            },
+            {
+              "display_url": "pic.x.com/2ZRrLE5DA7",
+              "end": 29,
+              "expanded_url": "https://x.com/BaitangToubao/status/2101157827192426807/photo/1",
+              "media_key": "3_2101157335452233728",
+              "start": 6,
+              "url": "https://t.co/2ZRrLE5DA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101157827192426807",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101157335431368704"
+          },
+          {
+            "media_key": "3_2101157335389360128"
+          },
+          {
+            "media_key": "3_2101157335452233728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面面，吃鱼 https://t.co/2ZRrLE5DA7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2101166439629717902",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 1142,
+          "like_count": 3020,
+          "listed_count": 4,
+          "media_count": 637,
+          "tweet_count": 4531
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2017-10-15T18:20:08.000Z",
+        "description": "BPD AuDHD积极治疗｜瑾瑾@K66cheng｜暖男、良人、正人君子@Leaf_Fallfield｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "K66cheng"
+              },
+              {
+                "end": 51,
+                "start": 36,
+                "username": "Leaf_Fallfield"
+              }
+            ]
+          }
+        },
+        "id": "919628976208752640",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2101157827192426807",
+        "name": "白糖豆包🍥🏳️‍🌈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/919628976208752640/1772584867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028994061185728512/oDlbqhBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 680,
+          "like_count": 38930,
+          "listed_count": 3,
+          "media_count": 771,
+          "tweet_count": 8911
+        },
+        "url": "",
+        "username": "BaitangToubao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

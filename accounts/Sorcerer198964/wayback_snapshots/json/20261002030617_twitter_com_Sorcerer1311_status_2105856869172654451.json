@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2105855217875181940",
+    "created_at": "2026-10-02T03:06:17.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T04:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105856869172654451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105856869172654451",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105855217875181940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 111"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2105855185142857728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmAIjLawAAvgKi.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2105855202813415425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmAJlAaEAERPCZ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2105855217875181940",
+        "created_at": "2026-10-02T03:06:17.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T04:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105856869172654451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105856869172654451",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105855217875181940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 111"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105855185142857728",
+            "3_2105855202813415425"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2105855217875181940",
+        "created_at": "2026-10-02T02:59:43.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T03:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105855217875181940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqyiVVZa3W",
+              "end": 160,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2105855217875181940/photo/1",
+              "media_key": "3_2105855185142857728",
+              "start": 137,
+              "url": "https://t.co/dqyiVVZa3W"
+            },
+            {
+              "display_url": "pic.x.com/dqyiVVZa3W",
+              "end": 160,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2105855217875181940/photo/1",
+              "media_key": "3_2105855202813415425",
+              "start": 137,
+              "url": "https://t.co/dqyiVVZa3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105855217875181940",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105855185142857728"
+          },
+          {
+            "media_key": "3_2105855202813415425"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "“在那里，学员被随意体罚打骂。”\n很高兴我提出的多项意见被\n《法治日报》以公众号官媒以及报纸等形式刊载\n\n本次依旧实名上稿\n报道的方向也和我们一直呼吁的\n对此类特训机构加大执法追责力度的调子吻合。\n \n我们的工作从一开始籍籍无名、\n饱受嘲讽只能东躲西藏，\n到如今主动出击。\n收获了大众法律界以及国内外媒体的一致认可\n\n实实在在得推动着社会治理\n法治与人权保障的进步\n\n各位想留个纪念的可以留言\n免费发放五份"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“在那里，学员被随意体罚打骂。”\n很高兴我提出的多项意见被\n《法治日报》以公众号官媒以及报纸等形式刊载\n\n本次依旧实名上稿\n报道的方向也和我们一直呼吁的\n对此类特训机构加大执法追责力度的调子吻合。\n \n我们的工作从一开始籍籍无名、\n饱受嘲讽只能东躲西藏，\n到如今主动出击。 https://t.co/dqyiVVZa3W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 985本科在读 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜交易员｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2105856869172654451",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 1172,
+          "like_count": 3282,
+          "listed_count": 3,
+          "media_count": 679,
+          "tweet_count": 4782
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105855217875181940",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7506,
+          "following_count": 3430,
+          "like_count": 4913,
+          "listed_count": 19,
+          "media_count": 597,
+          "tweet_count": 4121
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

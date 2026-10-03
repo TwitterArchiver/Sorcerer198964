@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100045952635863040"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2100045967005479008",
+    "created_at": "2026-09-16T02:15:50.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T03:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100045967005479008"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xfIy5I94Vm",
+          "end": 30,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2100045967005479008/photo/1",
+          "media_key": "3_2100045952635863040",
+          "start": 7,
+          "url": "https://t.co/xfIy5I94Vm"
+        },
+        {
+          "display_url": "x.com/saenwaeq/statu…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/saenwaeq/status/2099796245581799473",
+          "start": 31,
+          "url": "https://t.co/yb8Rs3Ix5y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100045967005479008",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100045952635863040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099796245581799473",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉不如这个 https://t.co/xfIy5I94Vm https://t.co/yb8Rs3Ix5y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_2100045952635863040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTcqtrbgAAhhJd.jpg",
+        "width": 1079
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099796238489260032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSP5jb_akAA8l0s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100045952635863040"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2100045967005479008",
+        "created_at": "2026-09-16T02:15:50.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100045967005479008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xfIy5I94Vm",
+              "end": 30,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2100045967005479008/photo/1",
+              "media_key": "3_2100045952635863040",
+              "start": 7,
+              "url": "https://t.co/xfIy5I94Vm"
+            },
+            {
+              "display_url": "x.com/saenwaeq/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/saenwaeq/status/2099796245581799473",
+              "start": 31,
+              "url": "https://t.co/yb8Rs3Ix5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100045967005479008",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100045952635863040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099796245581799473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉不如这个 https://t.co/xfIy5I94Vm https://t.co/yb8Rs3Ix5y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099796238489260032"
+          ]
+        },
+        "author_id": "1661062228882391041",
+        "conversation_id": "2099796245581799473",
+        "created_at": "2026-09-15T09:43:31.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099796245581799473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADMNrpzMc8",
+              "end": 112,
+              "expanded_url": "https://x.com/saenwaeq/status/2099796245581799473/photo/1",
+              "media_key": "3_2099796238489260032",
+              "start": 89,
+              "url": "https://t.co/ADMNrpzMc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099796245581799473",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2099796238489260032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 490,
+          "impression_count": 164330,
+          "like_count": 3622,
+          "quote_count": 289,
+          "reply_count": 13,
+          "retweet_count": 370
+        },
+        "reply_settings": "everyone",
+        "text": "자해 참기 좋은 물건 추천하나 하게슷!!\n오늘 샀는데 커터칼처럼 생겻고 드르르륵 소리도나는 지우개임\n하나 천원이고 자해너무하고싶읗때 커터칼 대신 그으려고 샀음 https://t.co/ADMNrpzMc8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2100045967005479008",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 1135,
+          "like_count": 2961,
+          "listed_count": 4,
+          "media_count": 631,
+          "tweet_count": 4492
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-23T17:31:34.000Z",
+        "description": "https://t.co/cZH7TIPfvx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/4602509114",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/4602509114",
+                "start": 0,
+                "url": "https://t.co/cZH7TIPfvx"
+              }
+            ]
+          }
+        },
+        "id": "1661062228882391041",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099870965140513214",
+        "name": "세뇌",
+        "pinned_tweet_id": "1887830793055285601",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1661062228882391041/1684864294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977408585069146112/FV8W4ze2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 269,
+          "like_count": 6635,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 4445
+        },
+        "url": "",
+        "username": "saenwaeq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

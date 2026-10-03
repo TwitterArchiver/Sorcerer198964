@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2104837376875127270",
+    "created_at": "2026-09-29T08:24:23.000Z",
+    "display_text_range": [
+      13,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T09:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104849759555239990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990368873632436224",
+          "start": 0,
+          "username": "lil_tea_cpp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104849759555239990",
+    "in_reply_to_user_id": "1990368873632436224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104837376875127270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lil_tea_cpp 螺本来就不会压低t啊…机理都不一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2104837376875127270",
+        "created_at": "2026-09-29T08:24:23.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T09:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104849759555239990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990368873632436224",
+              "start": 0,
+              "username": "lil_tea_cpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104849759555239990",
+        "in_reply_to_user_id": "1990368873632436224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104837376875127270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lil_tea_cpp 螺本来就不会压低t啊…机理都不一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990368873632436224",
+        "conversation_id": "2104837376875127270",
+        "created_at": "2026-09-29T07:35:11.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T08:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104837376875127270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lil_tea_cpp/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/lil_tea_cpp/status/2104831946991993214",
+              "start": 37,
+              "url": "https://t.co/DC4reOA3jX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104837376875127270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104831946991993214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我吃色普龙的时候 t 都达到了男性下限的 1/3 了, 这螺内酯怎么回事 https://t.co/DC4reOA3jX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜交易员｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2104849759555239990",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 1165,
+          "like_count": 3224,
+          "listed_count": 3,
+          "media_count": 670,
+          "tweet_count": 4731
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-17T10:38:23.000Z",
+        "description": "she/her. 无证不含糖上胶.\ninfp. 双相 + adhd + bpd.\nsuper coder; trash rapper.\n支持 lgbtq 及更多性少数.\nemail: lil.tea.cpp@gmail.com\ncrush: @22IeNFZZX434715\n怎么追一个 ptsd 啊喂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 121,
+                "username": "22IeNFZZX434715"
+              }
+            ]
+          }
+        },
+        "id": "1990368873632436224",
+        "is_identity_verified": false,
+        "location": "0531 jinan city",
+        "most_recent_tweet_id": "2104837376875127270",
+        "name": "lil_tea🍥",
+        "pinned_tweet_id": "2072919946846470346",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990368873632436224/1786183551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098846514810699776/bKU9exnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 409,
+          "like_count": 17807,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1790
+        },
+        "url": "",
+        "username": "lil_tea_cpp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

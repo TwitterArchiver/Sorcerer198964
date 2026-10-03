@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2102742157358780903",
+    "created_at": "2026-09-23T12:49:32.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T13:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102742157358780903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "331651596",
+          "start": 3,
+          "username": "LightCavalryCZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102742157358780903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102601913216966918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LightCavalryCZ: 又来个拿选民证当选票的……可能是因为真实的选票比选民证还难看吧😂\n实际上基层人大代表的选票就一张小纸条，上边写着三个人名，要你从里头勾两个。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2102742157358780903",
+        "created_at": "2026-09-23T12:49:32.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T13:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102742157358780903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "331651596",
+              "start": 3,
+              "username": "LightCavalryCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102742157358780903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102601913216966918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LightCavalryCZ: 又来个拿选民证当选票的……可能是因为真实的选票比选民证还难看吧😂\n实际上基层人大代表的选票就一张小纸条，上边写着三个人名，要你从里头勾两个。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "331651596",
+        "conversation_id": "2102601913216966918",
+        "created_at": "2026-09-23T03:32:15.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102601913216966918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moonlight_ruri…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/moonlight_ruri/status/2102258624311812257",
+              "start": 71,
+              "url": "https://t.co/4Bvh1p7qYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102601913216966918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "又来个拿选民证当选票的……可能是因为真实的选票比选民证还难看吧😂\n实际上基层人大代表的选票就一张小纸条，上边写着三个人名，要你从里头勾两个。\n这三个人你统统不认识，你不知道他们的政治观点（当然不许有），不知道他们的施政纲领（基层人大代表施个der的政啊），你甚至不知道他们长什么样，你最多能从姓名上猜出他们是男是女ಥ_ಥ"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 86419,
+          "like_count": 777,
+          "quote_count": 7,
+          "reply_count": 72,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102258624311812257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又来个拿选民证当选票的……可能是因为真实的选票比选民证还难看吧😂\n实际上基层人大代表的选票就一张小纸条，上边写着三个人名，要你从里头勾两个。 https://t.co/4Bvh1p7qYQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2102742157358780903",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 1153,
+          "like_count": 3119,
+          "listed_count": 4,
+          "media_count": 652,
+          "tweet_count": 4619
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-07-08T14:20:08.000Z",
+        "description": "",
+        "id": "331651596",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2102601913216966918",
+        "name": "曹哲",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1351507883058360321/g94--rth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23939,
+          "following_count": 119,
+          "like_count": 684,
+          "listed_count": 120,
+          "media_count": 560,
+          "tweet_count": 4769
+        },
+        "url": "",
+        "username": "LightCavalryCZ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

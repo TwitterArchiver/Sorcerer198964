@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105625090956144640",
+        "3_2105625111604641792"
+      ],
+      "media_source_tweet_id": [
+        "2105625229917639017",
+        "2105625229917639017"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "conversation_id": "2105847217777177065",
+    "created_at": "2026-10-02T02:27:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T03:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105847217777177065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "294677881",
+          "start": 3,
+          "username": "lenscn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/84jBw3UyxO",
+          "end": 140,
+          "expanded_url": "https://x.com/lenscn/status/2105625229917639017/photo/1",
+          "media_key": "3_2105625090956144640",
+          "start": 117,
+          "url": "https://t.co/84jBw3UyxO"
+        },
+        {
+          "display_url": "pic.x.com/84jBw3UyxO",
+          "end": 140,
+          "expanded_url": "https://x.com/lenscn/status/2105625229917639017/photo/1",
+          "media_key": "3_2105625111604641792",
+          "start": 117,
+          "url": "https://t.co/84jBw3UyxO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105847217777177065",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105625090956144640"
+      },
+      {
+        "media_key": "3_2105625111604641792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105625229917639017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lenscn: 中国发改委昏招迭出，帮助扎克伯格“白嫖”中国顶尖AI技术 \n\n衷心感谢发改委，我一个多月前买入一些Meta，股价大涨！🤣🤣🤣（图2）\n\n2026年9月，Meta发布AI智能体Muse，上线仅两周便登顶App… https://t.co/84jBw3UyxO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_2105625090956144640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiu3TiXMAAqrjz.jpg",
+        "width": 1079
+      },
+      {
+        "height": 880,
+        "media_key": "3_2105625111604641792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiu4gdWQAAvJYV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105625090956144640",
+            "3_2105625111604641792"
+          ],
+          "media_source_tweet_id": [
+            "2105625229917639017",
+            "2105625229917639017"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2105847217777177065",
+        "created_at": "2026-10-02T02:27:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T03:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105847217777177065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "294677881",
+              "start": 3,
+              "username": "lenscn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/84jBw3UyxO",
+              "end": 140,
+              "expanded_url": "https://x.com/lenscn/status/2105625229917639017/photo/1",
+              "media_key": "3_2105625090956144640",
+              "start": 117,
+              "url": "https://t.co/84jBw3UyxO"
+            },
+            {
+              "display_url": "pic.x.com/84jBw3UyxO",
+              "end": 140,
+              "expanded_url": "https://x.com/lenscn/status/2105625229917639017/photo/1",
+              "media_key": "3_2105625111604641792",
+              "start": 117,
+              "url": "https://t.co/84jBw3UyxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105847217777177065",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105625090956144640"
+          },
+          {
+            "media_key": "3_2105625111604641792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105625229917639017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lenscn: 中国发改委昏招迭出，帮助扎克伯格“白嫖”中国顶尖AI技术 \n\n衷心感谢发改委，我一个多月前买入一些Meta，股价大涨！🤣🤣🤣（图2）\n\n2026年9月，Meta发布AI智能体Muse，上线仅两周便登顶App… https://t.co/84jBw3UyxO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105625090956144640",
+            "3_2105625111604641792"
+          ]
+        },
+        "author_id": "294677881",
+        "conversation_id": "2105625229917639017",
+        "created_at": "2026-10-01T11:45:50.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T12:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105625229917639017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/84jBw3UyxO",
+              "end": 127,
+              "expanded_url": "https://x.com/lenscn/status/2105625229917639017/photo/1",
+              "media_key": "3_2105625090956144640",
+              "start": 104,
+              "url": "https://t.co/84jBw3UyxO"
+            },
+            {
+              "display_url": "pic.x.com/84jBw3UyxO",
+              "end": 127,
+              "expanded_url": "https://x.com/lenscn/status/2105625229917639017/photo/1",
+              "media_key": "3_2105625111604641792",
+              "start": 104,
+              "url": "https://t.co/84jBw3UyxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105625229917639017",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105625090956144640"
+          },
+          {
+            "media_key": "3_2105625111604641792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "中国发改委昏招迭出，帮助扎克伯格“白嫖”中国顶尖AI技术 \n\n衷心感谢发改委，我一个多月前买入一些Meta，股价大涨！🤣🤣🤣（图2）\n\n2026年9月，Meta发布AI智能体Muse，上线仅两周便登顶App Store，助力其市值暴涨超2,000亿美元。然而，这款轰动全球的产品，其核心架构与工程逻辑几乎一比一复刻了来自中国团队的创业项目Manus。\n\n这场看似科技巨头“免费偷师”的奇观，背后其实是一场令人为中国AI从业者的悲剧。\n\n2025年12月，Meta以20亿美元收购Manus。然而在2026年4月底，中国发改委却打着“国家安全”的旗号介入，强行叫停交易并要求全额退款。\n\n更令人窒息的是，在这场蛮横的审查风暴中，发改委甚至直接对Manus的两名创始人（首席执行官肖弘与首席科学家季逸超）下达了限制出境的政令。（图1） \n\n这一几近人身羁绊的硬性干预，本意或许是官僚体制下对技术与人才的极端控制，但其结果却给中国AI开发者带来了毁灭性的打击：\n\n首先，它扼杀了中国AI创业者通往全球舞台的通道。在算力和全球生态受限的环境下，能被国际巨头以20亿美元重金收购，是对中国顶级工程师工程创新能力极高的市场认可，也是团队获取全球资源、实现技术抱复的绝佳机会。发改委在限制创始人肉身自由的同时进行粗暴绞杀，直接斩断了创业者的出路，也让无数正在夜以继日拼搏的中国AI从业者感到寒心——他们的智慧成果不仅要面对激烈的市场竞争，还要随时承受来自权力的无情碾压。\n\n其次，这形成了极其荒谬的“赔了夫人又折兵”局面。\n\n在监管叫停前的数月窗口期内，Manus超百名员工已入驻Meta新加坡办公室，在Meta集群上完成了中国顶尖AI 的技术布署。官僚机构的横加干涉，不仅没有为中国开发者留住市场，反而让扎克伯格的Meta 团队分文未花地拿回了20亿美元本金，免费吸收完整技术蓝图，无缝复制了Manus的所有产品逻辑。\n\n两者的相似度几乎是同源复刻。在架构上，Manus首创的“每项任务启动一台云端虚拟计算机（Cloud Computer）支持7×24小时后台自主执行”的思路，被完美对齐为Muse的“Secure VM”；\n\n在功能上，从操作DOM、模拟点击的“自动网页浏览”能力，到对接邮箱与外部服务的连接器体系，再到高危操作的用户明确授权机制，Muse几乎逐点抄袭了Manus的基因。Meta随即推出的自研平台“Hatch”以及引爆全球的Muse，其核心代码与产品灵魂全部由中国团队的无私“过继”所成就。\n\n最终，这种干预并没有保护任何产业，反而将痛失先发窗口、被迫独立运营的Manus团队推入了市场绝境。创始人肉身被困于境内、技术却流失于海外，他们不仅损失了20亿美元的收购价，还损失了未来数百亿美元的期权。这起事件再次证明，专制权力的蛮横伸手，永远无法为技术创新护航，只会成为中国优秀AI人才与创业者发展道路上最大的绊脚石。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 11193,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "中国发改委昏招迭出，帮助扎克伯格“白嫖”中国顶尖AI技术 \n\n衷心感谢发改委，我一个多月前买入一些Meta，股价大涨！🤣🤣🤣（图2）\n\n2026年9月，Meta发布AI智能体Muse，上线仅两周便登顶App https://t.co/84jBw3UyxO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 985本科在读 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜交易员｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2105847217777177065",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 1172,
+          "like_count": 3281,
+          "listed_count": 3,
+          "media_count": 679,
+          "tweet_count": 4781
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-05-07T15:32:59.000Z",
+        "description": "Naked truths for a dressed-up world.\n透视世界，拆解荒诞",
+        "id": "294677881",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2105695625174249754",
+        "name": "Lens on World",
+        "pinned_tweet_id": "2102736137655890378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/294677881/1772294903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798814431750799360/kqTQJU4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61425,
+          "following_count": 1801,
+          "like_count": 20883,
+          "listed_count": 326,
+          "media_count": 11657,
+          "tweet_count": 32288
+        },
+        "url": "",
+        "username": "lenscn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

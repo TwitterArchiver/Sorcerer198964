@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2098761772107006031",
+    "created_at": "2026-09-12T15:13:54.000Z",
+    "display_text_range": [
+      14,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098792222342914341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098792222342914341",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098761772107006031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD 药商自己都死这么多，无论是对自己还是对他人都是不负责任的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098761772107006031].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098761772107006031",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098761772107006031"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2098761772107006031",
+        "created_at": "2026-09-12T15:13:54.000Z",
+        "display_text_range": [
+          14,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098792222342914341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098792222342914341",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098761772107006031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 药商自己都死这么多，无论是对自己还是对他人都是不负责任的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2098792222342914341",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 1122,
+          "like_count": 2886,
+          "listed_count": 4,
+          "media_count": 620,
+          "tweet_count": 4425
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "右蓝染 可以叫我染",
+        "id": "1700948552078467072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2075291257191231954",
+        "name": "☨ Dextr' Blu' Dyein' ☨",
+        "pinned_tweet_id": "2068396126202667216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700948552078467072/1781978761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068394962576973824/yLemHV3a_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4569,
+          "following_count": 74,
+          "like_count": 3,
+          "listed_count": 10,
+          "media_count": 761,
+          "tweet_count": 7396
+        },
+        "url": "",
+        "username": "Overdose_DBD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

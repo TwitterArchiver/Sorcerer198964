@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "community_id": "1701917464140152891",
+    "conversation_id": "2094341793525678291",
+    "created_at": "2026-09-11T07:10:10.000Z",
+    "display_text_range": [
+      27,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T08:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098308100692619325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "479550032",
+          "start": 0,
+          "username": "glenntout20"
+        },
+        {
+          "end": 26,
+          "id": "1825819885857026048",
+          "start": 13,
+          "username": "ChenXi_Cloud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098308100692619325",
+    "in_reply_to_user_id": "479550032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094341793525678291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@glenntout20 @ChenXi_Cloud 妈妈！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094341587832856576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCYk-0a4AANDIH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "community_id": "1701917464140152891",
+        "conversation_id": "2094341793525678291",
+        "created_at": "2026-09-11T07:10:10.000Z",
+        "display_text_range": [
+          27,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T08:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098308100692619325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "479550032",
+              "start": 0,
+              "username": "glenntout20"
+            },
+            {
+              "end": 26,
+              "id": "1825819885857026048",
+              "start": 13,
+              "username": "ChenXi_Cloud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098308100692619325",
+        "in_reply_to_user_id": "479550032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094341793525678291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@glenntout20 @ChenXi_Cloud 妈妈！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094341587832856576"
+          ]
+        },
+        "author_id": "479550032",
+        "community_id": "1701917464140152891",
+        "conversation_id": "2094341793525678291",
+        "created_at": "2026-08-31T08:29:29.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094341793525678291"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "药娘"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/36ZKzWtjn3",
+              "end": 164,
+              "expanded_url": "https://x.com/glenntout20/status/2094341793525678291/photo/1",
+              "media_key": "3_2094341587832856576",
+              "start": 141,
+              "url": "https://t.co/36ZKzWtjn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094341793525678291",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094341587832856576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1027,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是作者的爸爸，那些想当她老公的，先叫我一声爸爸！照片是我们旅游时拍的。很感谢大家喜欢她。我们都是普通人，。这一路走来也不容易，但我们很幸福，相信你们也会生到自己喜欢的人。私信注意尺度， 谢谢大家！如果你们羡慕的话，你们也可以像我一样一本正经的胡说八道。\n\n#药娘 #男娘 https://t.co/36ZKzWtjn3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2098308100692619325",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 1119,
+          "like_count": 2848,
+          "listed_count": 4,
+          "media_count": 620,
+          "tweet_count": 4382
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-31T14:13:18.000Z",
+        "description": "这里是可爱的美少女玲子\nmtf/ts\n😢😢😢😢😢\n🚪88/128/198可线下\ntg:https://t.co/DO3WT5iBo3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+N0ETo5akc84yO…",
+                "end": 66,
+                "expanded_url": "https://t.me/+N0ETo5akc84yOWI1",
+                "start": 43,
+                "url": "https://t.co/DO3WT5iBo3"
+              }
+            ]
+          }
+        },
+        "id": "479550032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097348229860118980",
+        "name": "伊芙 玲 @五代目",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/479550032/1780922473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063964532402524161/XBoTmOda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 65,
+          "like_count": 4705,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 331
+        },
+        "url": "",
+        "username": "glenntout20",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-20T08:59:27.000Z",
+        "description": "178/65/80b | 北京 | 无证含糖2025.9.20 | 接援交 | 🚪88 |",
+        "id": "1825819885857026048",
+        "is_identity_verified": false,
+        "location": "停尸房",
+        "most_recent_tweet_id": "2098291020693991677",
+        "name": "尘曦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825819885857026048/1724144874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090731344766844928/-0mmsr42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 795,
+          "like_count": 577,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "ChenXi_Cloud",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2098583871734575227",
+    "created_at": "2026-09-12T12:26:12.000Z",
+    "display_text_range": [
+      33,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T13:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098750021680419283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1608830578023071752",
+          "start": 0,
+          "username": "madokaoverdose"
+        },
+        {
+          "end": 32,
+          "id": "1664271185524424705",
+          "start": 16,
+          "username": "_HATSUNEMIKU0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098750021680419283",
+    "in_reply_to_user_id": "1608830578023071752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098748558765924852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@madokaoverdose @_HATSUNEMIKU0_0 我查到的资料都没有说纳洛酮可以解酒精中毒，但是社群又流传这种说法是有什么依据吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2098583871734575227",
+        "created_at": "2026-09-12T12:26:12.000Z",
+        "display_text_range": [
+          33,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098750021680419283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1608830578023071752",
+              "start": 0,
+              "username": "madokaoverdose"
+            },
+            {
+              "end": 32,
+              "id": "1664271185524424705",
+              "start": 16,
+              "username": "_HATSUNEMIKU0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098750021680419283",
+        "in_reply_to_user_id": "1608830578023071752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098748558765924852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@madokaoverdose @_HATSUNEMIKU0_0 我查到的资料都没有说纳洛酮可以解酒精中毒，但是社群又流传这种说法是有什么依据吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608830578023071752",
+        "conversation_id": "2098583871734575227",
+        "created_at": "2026-09-12T12:20:23.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098748558765924852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664271185524424705",
+              "start": 0,
+              "username": "_HATSUNEMIKU0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098748558765924852",
+        "in_reply_to_user_id": "1664271185524424705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098703516957352116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_HATSUNEMIKU0_0 还可以解酒精中毒"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2098750021680419283",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 1120,
+          "like_count": 2884,
+          "listed_count": 4,
+          "media_count": 620,
+          "tweet_count": 4423
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T14:21:26.000Z",
+        "description": "药娘0.5｜家长党｜神农尝百草｜一夫多妻｜混沌善良｜\n尝试减少药物依赖中。。。\n不喜欢任何形式的社交伪装",
+        "id": "1608830578023071752",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2098748558765924852",
+        "name": "✟@圆✟■",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608830578023071752/1785060956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091505931658145793/lYepPcF7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 199,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 713
+        },
+        "url": "",
+        "username": "madokaoverdose",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-01T14:02:34.000Z",
+        "description": "我是一只大狗，最喜欢嚼嚼嚼",
+        "id": "1664271185524424705",
+        "is_identity_verified": false,
+        "location": "Republic of Korea",
+        "most_recent_tweet_id": "2098748226094731323",
+        "name": "猛萌香大大大王（卖凝胶版）",
+        "pinned_tweet_id": "2096566697255636994",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664271185524424705/1788304961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094928963089072128/hfdrlPUC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 13,
+          "like_count": 240,
+          "listed_count": 6,
+          "media_count": 112,
+          "tweet_count": 1297
+        },
+        "url": "",
+        "username": "_HATSUNEMIKU0_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

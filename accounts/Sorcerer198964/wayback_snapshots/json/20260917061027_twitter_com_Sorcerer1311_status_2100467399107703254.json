@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2100467399107703254",
+    "created_at": "2026-09-17T06:10:27.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T07:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100467399107703254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer1311"
+        },
+        {
+          "end": 25,
+          "id": "2092971438521077760",
+          "start": 18,
+          "username": "zza2ku"
+        },
+        {
+          "end": 35,
+          "id": "1894375325934784517",
+          "start": 26,
+          "username": "HongSwor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100467399107703254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100467350579577305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer1311: @zza2ku @HongSwor 卧槽太搞了富人玉玉一下还共情上了，还重度玉玉我只看到他把别人搞死了没看过他自己死了的（之前倒是假死过）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2100467399107703254",
+        "created_at": "2026-09-17T06:10:27.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T07:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100467399107703254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer1311"
+            },
+            {
+              "end": 25,
+              "id": "2092971438521077760",
+              "start": 18,
+              "username": "zza2ku"
+            },
+            {
+              "end": 35,
+              "id": "1894375325934784517",
+              "start": 26,
+              "username": "HongSwor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100467399107703254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100467350579577305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer1311: @zza2ku @HongSwor 卧槽太搞了富人玉玉一下还共情上了，还重度玉玉我只看到他把别人搞死了没看过他自己死了的（之前倒是假死过）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2100410399934078989",
+        "created_at": "2026-09-17T06:10:15.000Z",
+        "display_text_range": [
+          18,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T07:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100467350579577305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092971438521077760",
+              "start": 0,
+              "username": "zza2ku"
+            },
+            {
+              "end": 17,
+              "id": "1894375325934784517",
+              "start": 8,
+              "username": "HongSwor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100467350579577305",
+        "in_reply_to_user_id": "2092971438521077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100410399934078989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zza2ku @HongSwor 卧槽太搞了富人玉玉一下还共情上了，还重度玉玉我只看到他把别人搞死了没看过他自己死了的（之前倒是假死过）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2100467399107703254",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 1136,
+          "like_count": 2990,
+          "listed_count": 4,
+          "media_count": 632,
+          "tweet_count": 4506
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "民主社会主义",
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100464175415693729",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2092974029145886789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1787838823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 110,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 584
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "你好｜个人特征：MTX/BPD/ADHD/双相 | 主要关注：公共交通/垂直交通/建筑文化/城乡规划/美学/卡迷 | 颜色偏好：绿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haizi.huhaitai.com/03/121",
+                "end": 23,
+                "expanded_url": "https://haizi.huhaitai.com/03/121",
+                "start": 0,
+                "url": "https://t.co/Y9Zk1gDAaF"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "is_identity_verified": false,
+        "location": "公元前",
+        "most_recent_tweet_id": "2100467004188557401",
+        "name": "葉栩然",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894375325934784517/1789275893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099011438476181504/mKkQneHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 486,
+          "like_count": 42359,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 10466
+        },
+        "url": "https://t.co/Y9Zk1gDAaF",
+        "username": "HongSwor",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

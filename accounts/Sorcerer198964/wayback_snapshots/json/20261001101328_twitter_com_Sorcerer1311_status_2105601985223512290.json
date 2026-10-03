@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2105601145192206458",
+    "created_at": "2026-10-01T10:13:28.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T11:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105601985223512290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2007024792172699649",
+          "start": 0,
+          "username": "Yzmtsky6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105601985223512290",
+    "in_reply_to_user_id": "2007024792172699649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105601145192206458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yzmtsky6666 牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2105601145192206458",
+        "created_at": "2026-10-01T10:13:28.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105601985223512290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2007024792172699649",
+              "start": 0,
+              "username": "Yzmtsky6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105601985223512290",
+        "in_reply_to_user_id": "2007024792172699649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105601145192206458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yzmtsky6666 牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007024792172699649",
+        "conversation_id": "2105601145192206458",
+        "created_at": "2026-10-01T10:10:07.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105601145192206458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105601145192206458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "首战告捷，待会发剪辑视频"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜交易员｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2105601985223512290",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 1171,
+          "like_count": 3264,
+          "listed_count": 3,
+          "media_count": 678,
+          "tweet_count": 4765
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-02T09:43:04.000Z",
+        "description": "tg群邀请链:https://t.co/TFLondy2En\nmtx？🏳️‍⚧️|在极致的理性与感性间反复横跳|进步主义者|高敏型|生物爱好者|不od，远离成瘾物|无性别刻板，性取向立场|相信自由意志与个体的主观能动性|相信人造子宫是让全人类通向平等的希望。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yzmtsky6666",
+                "end": 30,
+                "expanded_url": "https://t.me/yzmtsky6666",
+                "start": 7,
+                "url": "https://t.co/TFLondy2En"
+              }
+            ]
+          }
+        },
+        "id": "2007024792172699649",
+        "is_identity_verified": false,
+        "location": "世界的尽头",
+        "most_recent_tweet_id": "2105601145192206458",
+        "name": "Yzmt🏳️‍⚧️",
+        "pinned_tweet_id": "2102321389914988859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2007024792172699649/1790069776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090310882178011137/i-SL7hJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 465,
+          "like_count": 3289,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1369
+        },
+        "url": "",
+        "username": "Yzmtsky6666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

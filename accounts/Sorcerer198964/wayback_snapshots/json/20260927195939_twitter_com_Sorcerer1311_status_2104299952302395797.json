@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2104291803902189773",
+    "created_at": "2026-09-27T19:59:39.000Z",
+    "display_text_range": [
+      17,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T20:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104299952302395797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2064742493271576576",
+          "start": 0,
+          "username": "mizukiFuyugumom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104299952302395797",
+    "in_reply_to_user_id": "2064742493271576576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104293764047286723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizukiFuyugumom 输了两把哥们真得下机了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2104291803902189773",
+        "created_at": "2026-09-27T19:59:39.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T20:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104299952302395797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2064742493271576576",
+              "start": 0,
+              "username": "mizukiFuyugumom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104299952302395797",
+        "in_reply_to_user_id": "2064742493271576576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104293764047286723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizukiFuyugumom 输了两把哥们真得下机了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064742493271576576",
+        "conversation_id": "2104291803902189773",
+        "created_at": "2026-09-27T19:35:03.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T20:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104293764047286723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104293764047286723",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104291803902189773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 赢了没爽=没赢！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜交易员｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2104299952302395797",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 1159,
+          "like_count": 3194,
+          "listed_count": 4,
+          "media_count": 665,
+          "tweet_count": 4706
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-10T16:13:53.000Z",
+        "description": "LGBTQ+‖迷思‖语言障碍且匮乏之人‖骑士之誓‖恋爱中‖⚢ ‖恋人 myself‖she丨it丨🏳️‍⚧️ ‖泛性恋‖语言障碍‖出生性别女",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fuyugumomizuki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fuyugumomizuki",
+                "start": 0,
+                "url": "https://t.co/9MNyN3xpvz"
+              }
+            ]
+          }
+        },
+        "id": "2064742493271576576",
+        "is_identity_verified": false,
+        "location": "翌日",
+        "most_recent_tweet_id": "2104298462540124253",
+        "name": "ºₒmizuki˖Ი𐑼ֶָ֢݁ ☁︎",
+        "pinned_tweet_id": "2104243176466981297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064742493271576576/1781108241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072416771160887296/j76URQhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 5,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/9MNyN3xpvz",
+        "username": "mizukiFuyugumom",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

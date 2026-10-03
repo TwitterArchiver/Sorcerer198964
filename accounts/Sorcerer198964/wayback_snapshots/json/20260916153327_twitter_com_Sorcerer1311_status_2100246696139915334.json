@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2100118082064977935",
+    "created_at": "2026-09-16T15:33:27.000Z",
+    "display_text_range": [
+      17,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T16:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100246696139915334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1111270095123173376",
+          "start": 0,
+          "username": "RyoTakeuchi2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100246696139915334",
+    "in_reply_to_user_id": "1111270095123173376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100118082064977935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyoTakeuchi2333 只是因为穷\n武汉当年是做鸭肉加工的，所以把废弃的鸭脖收集起来加很重的香料卤制\n和东北人吃鸡架一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2100118007527923712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUeM3EaYAAY5zS.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100118028117778432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUeODxaoAAssbS.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4094,
+        "media_key": "3_2100118046140706816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUePG6asAAuyuP.jpg",
+        "width": 2702
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100118064012648448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUeQJfa4AAvNFu.jpg",
+        "width": 2397
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2100118082064977935",
+        "created_at": "2026-09-16T15:33:27.000Z",
+        "display_text_range": [
+          17,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100246696139915334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1111270095123173376",
+              "start": 0,
+              "username": "RyoTakeuchi2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100246696139915334",
+        "in_reply_to_user_id": "1111270095123173376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100118082064977935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyoTakeuchi2333 只是因为穷\n武汉当年是做鸭肉加工的，所以把废弃的鸭脖收集起来加很重的香料卤制\n和东北人吃鸡架一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100118007527923712",
+            "3_2100118028117778432",
+            "3_2100118046140706816",
+            "3_2100118064012648448"
+          ]
+        },
+        "author_id": "1111270095123173376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          }
+        ],
+        "conversation_id": "2100118082064977935",
+        "created_at": "2026-09-16T07:02:23.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100118082064977935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MrV351UvZ3",
+              "end": 155,
+              "expanded_url": "https://x.com/RyoTakeuchi2333/status/2100118082064977935/photo/1",
+              "media_key": "3_2100118007527923712",
+              "start": 132,
+              "url": "https://t.co/MrV351UvZ3"
+            },
+            {
+              "display_url": "pic.x.com/MrV351UvZ3",
+              "end": 155,
+              "expanded_url": "https://x.com/RyoTakeuchi2333/status/2100118082064977935/photo/1",
+              "media_key": "3_2100118028117778432",
+              "start": 132,
+              "url": "https://t.co/MrV351UvZ3"
+            },
+            {
+              "display_url": "pic.x.com/MrV351UvZ3",
+              "end": 155,
+              "expanded_url": "https://x.com/RyoTakeuchi2333/status/2100118082064977935/photo/1",
+              "media_key": "3_2100118046140706816",
+              "start": 132,
+              "url": "https://t.co/MrV351UvZ3"
+            },
+            {
+              "display_url": "pic.x.com/MrV351UvZ3",
+              "end": 155,
+              "expanded_url": "https://x.com/RyoTakeuchi2333/status/2100118082064977935/photo/1",
+              "media_key": "3_2100118064012648448",
+              "start": 132,
+              "url": "https://t.co/MrV351UvZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100118082064977935",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100118007527923712"
+          },
+          {
+            "media_key": "3_2100118028117778432"
+          },
+          {
+            "media_key": "3_2100118046140706816"
+          },
+          {
+            "media_key": "3_2100118064012648448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 480,
+                "start": 477,
+                "tag": "中国"
+              },
+              {
+                "end": 486,
+                "start": 481,
+                "tag": "中国旅行"
+              },
+              {
+                "end": 494,
+                "start": 488,
+                "tag": "中国グルメ"
+              },
+              {
+                "end": 499,
+                "start": 496,
+                "tag": "鸭脖"
+              }
+            ]
+          },
+          "text": "中国の新幹線に乗ると、妻は必ず「首」を買う。\n\n鸭脖（ヤーボー）、鴨の首だ。\n\n袋を開けた瞬間、八角や醤油、唐辛子が混ざった濃厚な香りが、車内に広がる。\n\nかつては、\n「車中で、この匂いは大丈夫？」\nと思ったが、周りを見ると、沢山の人が鴨の首を食べている（笑）。\n\n鸭脖は、もともと湖北省・武漢の名物だが、有名な「絶味鸭脖」だけでも約1万店もある。\n\nなぜ中国人は、これほど鴨の首が好きなのか？\n\n食べてみると分かる。\n皮はプリッとしていて、肉はしっかりした歯応え。骨の隙間までタレが染み込み、噛むほどに八角や花椒の香りが広がる。\n\n一気に食べられないのもいい。\n肉をはがし、骨の隙間を探し、最後は骨までしゃぶる。\n\n鴨の首は「肉を食べる」というより、「骨から肉を発掘するゲーム」に近い。\n\n食べるのに時間がかかるので、長い新幹線移動にもピッタリなのだ。\n\n一方で、日本では鴨といえば、鴨南蛮や鴨鍋。きれいに切られた肉を料理として食べることが多い。\n\nたった一本の鴨の首にも、日中の食文化の違いが表れていて面白い。\n\n中国に来たら、ぜひ一度お試しを！\n\n#中国 #中国旅行  #中国グルメ \n#鸭脖"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 55276,
+          "like_count": 552,
+          "quote_count": 13,
+          "reply_count": 103,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "中国の新幹線に乗ると、妻は必ず「首」を買う。\n\n鸭脖（ヤーボー）、鴨の首だ。\n\n袋を開けた瞬間、八角や醤油、唐辛子が混ざった濃厚な香りが、車内に広がる。\n\nかつては、\n「車中で、この匂いは大丈夫？」\nと思ったが、周りを見ると、沢山の人が鴨の首を食べている（笑）。 https://t.co/MrV351UvZ3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2100246696139915334",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1135,
+          "like_count": 2986,
+          "listed_count": 4,
+          "media_count": 632,
+          "tweet_count": 4503
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-28T14:13:31.000Z",
+        "description": "中国・南京在住13年。三国志で中国にハマる。\n中国SNSフォロワー1000万人超。ドキュメンタリー映画監督。\n中国語を駆使し、日本人がまだ知らない「リアルな中国」を取材・発信中。\nNewsweek「世界が尊敬する日本人100」選出\n代表作『再会長江』『我住在这里的理由』\n✉️indkun@hotmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCwHUY…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCwHUYtwH5E41O6MiYoC19ng",
+                "start": 0,
+                "url": "https://t.co/6b4DIIMEsd"
+              }
+            ]
+          }
+        },
+        "id": "1111270095123173376",
+        "is_identity_verified": false,
+        "location": "中国江蘇省南京市",
+        "most_recent_tweet_id": "2100226313798000665",
+        "name": "竹内亮 Takeuchi Ryo",
+        "pinned_tweet_id": "1978783728840102366",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1111270095123173376/1789176494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098585219016380416/UKDPA9Kh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47527,
+          "following_count": 59,
+          "like_count": 4674,
+          "listed_count": 167,
+          "media_count": 1321,
+          "tweet_count": 2534
+        },
+        "url": "https://t.co/6b4DIIMEsd",
+        "username": "RyoTakeuchi2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

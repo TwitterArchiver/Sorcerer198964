@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2104396047225401803",
+    "created_at": "2026-09-28T02:21:30.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T03:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104396047225401803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2030200425694302208",
+          "start": 3,
+          "username": "IkutatsuMoro25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104396047225401803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104220230427783587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IkutatsuMoro25: 歴史上の今日：1992年9月27日午後6時、中国の著名な漫画家・張楽平が上海の華東病院で病逝し、享年82歳であった。彼は『三毛流浪記』の作者である。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2104396047225401803",
+        "created_at": "2026-09-28T02:21:30.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104396047225401803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2030200425694302208",
+              "start": 3,
+              "username": "IkutatsuMoro25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104396047225401803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104220230427783587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IkutatsuMoro25: 歴史上の今日：1992年9月27日午後6時、中国の著名な漫画家・張楽平が上海の華東病院で病逝し、享年82歳であった。彼は『三毛流浪記』の作者である。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030200425694302208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2104220230427783587",
+        "created_at": "2026-09-27T14:42:52.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104220230427783587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/detectivepeter…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/detectivepeter0/status/2104085074018783680",
+              "start": 75,
+              "url": "https://t.co/E0DpHEIKYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104220230427783587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "歴史上の今日：1992年9月27日午後6時、中国の著名な漫画家・張楽平が上海の華東病院で病逝し、享年82歳であった。彼は『三毛流浪記』の作者である。\n\n彼の漫画は伝単として作られ、1938年に中国空軍によって日本本土（長崎、福岡など）に空中散布された。また、その後は米軍第十四航空隊（フライング・タイガース）を通じて、日本語を添えた上で敵占領地域や日本本土に空中散布された。\n\n彼は上海の「一・二八事変」をはじめとする日本軍の暴行を自ら体験しており、作品中の「三毛」のイメージは、戦争が中国の子供たちにもたらした苦難を反映している（例えば『三毛従軍記』には敵を倒す場面がある）。\n\n日本の漫画界は1939年頃に座談会を開き、中国の漫画界に「敗れた」と認めた。日本の学者・森哲郎はその後『中国抗日漫画史』を編纂し、張楽平を含む中国人漫画家たちの抗日貢献を紹介している。\n\n1981年1月、張楽平は中国漫画家訪日代表団の一員（団長は華君武、他に英韜）として、日本アジア交流協会の招きで日本を訪問した。彼らは東京、名古屋、浦和などで漫画展覧会に参加し、『三毛流浪記』などの作品を展示した。\n\n代表団は箱根などを見学した後、小涌園で芳名録に謝意を記し、張楽平は自ら「三毛」の絵を描き、「張三毛」に代って日本各界の友好的な接待に敬意を表した。これは明確な前向きな文化交流の記録である。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 153,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104085074018783680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "歴史上の今日：1992年9月27日午後6時、中国の著名な漫画家・張楽平が上海の華東病院で病逝し、享年82歳であった。彼は『三毛流浪記』の作者である。 https://t.co/E0DpHEIKYq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜交易员｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2104396047225401803",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 1157,
+          "like_count": 3197,
+          "listed_count": 4,
+          "media_count": 665,
+          "tweet_count": 4710
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-07T08:35:40.000Z",
+        "description": "歷史細節考究家，原半吊子音樂家，人文調查愛好者，《火影刃者》、《我的英雄學院》和《鬼滅之刃》的疯狂粉丝。",
+        "id": "2030200425694302208",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2104220230427783587",
+        "name": "Ikutatsu Moroboshi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030200425694302208/1772947048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030200889827598336/O2cy_Tyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 104,
+          "like_count": 1218,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "IkutatsuMoro25",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

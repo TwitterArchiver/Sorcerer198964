@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101945483111682048",
+        "3_2101945483132608512",
+        "3_2101945483128406016"
+      ]
+    },
+    "author_id": "2041449281677045760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2101945497309368791",
+    "created_at": "2026-09-21T08:03:53.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T09:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101945497309368791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YvZTmX6ZVg",
+          "end": 66,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2101945497309368791/photo/1",
+          "media_key": "3_2101945483111682048",
+          "start": 43,
+          "url": "https://t.co/YvZTmX6ZVg"
+        },
+        {
+          "display_url": "pic.x.com/YvZTmX6ZVg",
+          "end": 66,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2101945497309368791/photo/1",
+          "media_key": "3_2101945483132608512",
+          "start": 43,
+          "url": "https://t.co/YvZTmX6ZVg"
+        },
+        {
+          "display_url": "pic.x.com/YvZTmX6ZVg",
+          "end": 66,
+          "expanded_url": "https://x.com/Sorcerer1311/status/2101945497309368791/photo/1",
+          "media_key": "3_2101945483128406016",
+          "start": 43,
+          "url": "https://t.co/YvZTmX6ZVg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101945497309368791",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101945483111682048"
+      },
+      {
+        "media_key": "3_2101945483132608512"
+      },
+      {
+        "media_key": "3_2101945483128406016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜茶\n金凤茶王千层\n超级好吃！\n咸奶油，坚果，还有很浓郁的茶香\n除了略贵几乎没有缺点 https://t.co/YvZTmX6ZVg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101945483111682048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSucR8Ib0AA7aJ7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1617,
+        "media_key": "3_2101945483132608512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSucR8NbIAArcJd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101945483128406016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSucR8MbAAAks2n.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101945483111682048",
+            "3_2101945483132608512",
+            "3_2101945483128406016"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101945497309368791",
+        "created_at": "2026-09-21T08:03:53.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101945497309368791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvZTmX6ZVg",
+              "end": 66,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2101945497309368791/photo/1",
+              "media_key": "3_2101945483111682048",
+              "start": 43,
+              "url": "https://t.co/YvZTmX6ZVg"
+            },
+            {
+              "display_url": "pic.x.com/YvZTmX6ZVg",
+              "end": 66,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2101945497309368791/photo/1",
+              "media_key": "3_2101945483132608512",
+              "start": 43,
+              "url": "https://t.co/YvZTmX6ZVg"
+            },
+            {
+              "display_url": "pic.x.com/YvZTmX6ZVg",
+              "end": 66,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2101945497309368791/photo/1",
+              "media_key": "3_2101945483128406016",
+              "start": 43,
+              "url": "https://t.co/YvZTmX6ZVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101945497309368791",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101945483111682048"
+          },
+          {
+            "media_key": "3_2101945483132608512"
+          },
+          {
+            "media_key": "3_2101945483128406016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜茶\n金凤茶王千层\n超级好吃！\n咸奶油，坚果，还有很浓郁的茶香\n除了略贵几乎没有缺点 https://t.co/YvZTmX6ZVg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜NPD｜  🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2101945497309368791",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 1144,
+          "like_count": 3081,
+          "listed_count": 4,
+          "media_count": 645,
+          "tweet_count": 4578
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

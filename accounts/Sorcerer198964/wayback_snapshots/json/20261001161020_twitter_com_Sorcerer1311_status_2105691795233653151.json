@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041449281677045760",
+    "conversation_id": "2105691795233653151",
+    "created_at": "2026-10-01T16:10:20.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T17:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105691795233653151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2086258214631591936",
+          "start": 3,
+          "username": "netxfer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105691795233653151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105690717393973646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @netxfer: 从8月12号到10月1号，我的人生仿佛开挂一般进入到一个新阶段。在近两年多，在通过推特了解到众多跨圈前辈们的经历分享之后，我终于跨过自己深藏内心多年的性别认同这道心理门槛，正式开始面对并推进这个从未敢对人提及的秘密。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2105691795233653151",
+        "created_at": "2026-10-01T16:10:20.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105691795233653151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2086258214631591936",
+              "start": 3,
+              "username": "netxfer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105691795233653151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105690717393973646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @netxfer: 从8月12号到10月1号，我的人生仿佛开挂一般进入到一个新阶段。在近两年多，在通过推特了解到众多跨圈前辈们的经历分享之后，我终于跨过自己深藏内心多年的性别认同这道心理门槛，正式开始面对并推进这个从未敢对人提及的秘密。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086258214631591936",
+        "conversation_id": "2105690717393973646",
+        "created_at": "2026-10-01T16:06:03.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105690717393973646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105690717393973646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 190,
+                "id": "1813141850712317952",
+                "start": 180,
+                "username": "sil030922"
+              },
+              {
+                "end": 204,
+                "id": "1719571122642161664",
+                "start": 192,
+                "username": "AGeSang2008"
+              },
+              {
+                "end": 222,
+                "id": "1738907027362209792",
+                "start": 206,
+                "username": "ElysiumFengxuan"
+              },
+              {
+                "end": 238,
+                "id": "1748763011140169729",
+                "start": 224,
+                "username": "lovelyshuimao"
+              },
+              {
+                "end": 252,
+                "id": "2011073315763601416",
+                "start": 240,
+                "username": "kilock_1208"
+              },
+              {
+                "end": 264,
+                "id": "1887391023976038400",
+                "start": 254,
+                "username": "xiey57828"
+              },
+              {
+                "end": 282,
+                "id": "1852310610828214272",
+                "start": 266,
+                "username": "kryptofixFXezzz"
+              },
+              {
+                "end": 296,
+                "id": "2038547314835705856",
+                "start": 284,
+                "username": "asaltfishes"
+              },
+              {
+                "end": 311,
+                "id": "1952690690892468224",
+                "start": 298,
+                "username": "meowania_Fan"
+              },
+              {
+                "end": 323,
+                "id": "1893109107034574848",
+                "start": 313,
+                "username": "4rcadia__"
+              },
+              {
+                "end": 332,
+                "id": "1690570637499154432",
+                "start": 325,
+                "username": "zhweaa"
+              },
+              {
+                "end": 345,
+                "id": "2089649353724153856",
+                "start": 334,
+                "username": "yu_kirins2"
+              },
+              {
+                "end": 360,
+                "id": "2041449281677045760",
+                "start": 347,
+                "username": "Sorcerer1311"
+              }
+            ]
+          },
+          "text": "从8月12号到10月1号，我的人生仿佛开挂一般进入到一个新阶段。在近两年多，在通过推特了解到众多跨圈前辈们的经历分享之后，我终于跨过自己深藏内心多年的性别认同这道心理门槛，正式开始面对并推进这个从未敢对人提及的秘密。\n\n过去二十多年来，从对自己性别认同的怀疑、焦虑、胆怯到肯定，从鼓起勇气进入上海精卫，到尝试联系面基同类，非常荣幸地在线下接触了包括但不限于：\n@sil030922 \n@AGeSang2008 \n@ElysiumFengxuan \n@lovelyshuimao \n@kilock_1208 \n@xiey57828 \n@kryptofixFXezzz \n@asaltfishes \n@meowania_Fan \n@4rcadia__ \n@zhweaa \n@yu_kirins2 \n@Sorcerer1311 \n等 MtFs 或 MtXs，经历了一段非常开心快乐的时光，时间的步伐仿佛都慢了下来。\n\n这段时间内，认识了不少pass度很高的同类，和她们沟通起来也特别舒服，很有松弛感，也大大提升了我的自信。\n\n经过这一阶段的高频线下面基之后，由于各种客观条件，有规模的面基的机会可能会越来越少，此事会暂时告一段落。\n\n真心感谢、感激有你们的日子。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "从8月12号到10月1号，我的人生仿佛开挂一般进入到一个新阶段。在近两年多，在通过推特了解到众多跨圈前辈们的经历分享之后，我终于跨过自己深藏内心多年的性别认同这道心理门槛，正式开始面对并推进这个从未敢对人提及的秘密。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 985本科在读 ｜ enby/MTF｜Queer｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜药物收藏家｜交易员｜ 🚪28.8｜同类可免互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2105691795233653151",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1787357405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 1172,
+          "like_count": 3276,
+          "listed_count": 3,
+          "media_count": 679,
+          "tweet_count": 4776
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T01:09:40.000Z",
+        "description": "上海张江C++码农，生产日期1986.11.22，高172cm、重71kg，HRT日期2026.8.26。二代账号，已同步旧账号所有关注并从旧账号取关，旧账号同步书签后注销。不定期删除本人部分历史评论或回复，无特殊原因。",
+        "id": "2086258214631591936",
+        "is_identity_verified": false,
+        "location": "GitHub",
+        "most_recent_tweet_id": "2105690958859997298",
+        "name": "天涯過客",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087559008005820416/OYwMldre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 182,
+          "like_count": 3448,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 544
+        },
+        "url": "",
+        "username": "netxfer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
